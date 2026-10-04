@@ -1,0 +1,9 @@
+__pycache__/
+job/
+release/
+# Originaux déchiffrés par l'action : jamais dans le dépôt.
+build/toolchain/base_archives/
+build/toolchain/base_exe/
+build/toolchain/base_clm/
+build/toolchain/fonts_fr/
+build/toolchain/third-exe-strings.json

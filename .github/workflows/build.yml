@@ -1,0 +1,88 @@
+name: Compiler le patch
+
+# Lancé depuis la plateforme (bouton « Compiler ») : récupère les traductions,
+# les commite dans data/, compile, publie une release en xdelta et ne garde
+# que les 5 dernières.
+on:
+  workflow_dispatch:
+    inputs:
+      requested_by:
+        description: Lancé par
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: compilation
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      REQUESTED_BY: ${{ inputs.requested_by }}
+    steps:
+      - name: Dépôt
+        uses: actions/checkout@v4
+
+      - name: Outils
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q xdelta3
+          chmod +x build/toolchain/bin/*
+
+      - name: Fichiers originaux du jeu (déchiffrés)
+        env:
+          PATCH3RD_KEY: ${{ secrets.PATCH3RD_KEY }}
+        run: |
+          # Spaces or line breaks pasted with the secret do not count.
+          export PATCH3RD_KEY="$(printf '%s' "$PATCH3RD_KEY" | tr -d '\r\n ')"
+          cat base/originaux.tar.enc.* \
+            | openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -pass env:PATCH3RD_KEY \
+            | tar -xf - -C build/toolchain
+
+      - name: Données de la plateforme
+        env:
+          PLATFORM_TOKEN: ${{ secrets.PLATFORM_TOKEN }}
+          PLATFORM_URL: ${{ vars.PLATFORM_URL || 'https://leliberlnews.fr' }}
+        run: |
+          mkdir -p job
+          curl -fsS --compressed --retry 3 -H "Authorization: Bearer $PLATFORM_TOKEN" \
+            "$PLATFORM_URL/api/v1/compilation-export?project=sky-3rd" -o job/export.json
+          gzip -c job/export.json > job/compilation-export.json.gz
+
+      - name: Historique des traductions
+        run: |
+          python3 scripts/history.py job/export.json data
+          git config user.name "Plateforme Liberl News"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data
+          if ! git diff --cached --quiet; then
+            git commit -q -m "Traductions du $(date -u '+%Y-%m-%d %H:%M') UTC${REQUESTED_BY:+ (lancé par $REQUESTED_BY)}"
+            git push -q
+          fi
+
+      - name: Compilation
+        run: |
+          python3 build/platform-build-runner.py --job job --toolchain build/toolchain --workers 2 || true
+          cat job/status.json; echo
+          if ! grep -q '"stage": "complete"' job/status.json; then
+            tail -n 60 job/build.log
+            exit 1
+          fi
+
+      - name: Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="$(date -u '+%Y.%m.%d-%H%M')"
+          python3 scripts/release.py --patch job/Sky3rd-test-patch.zip --toolchain build/toolchain \
+            --xdelta xdelta3 --out release --tag "$TAG"
+          gh release create "v$TAG" "release/Patch3rd-$TAG.zip" --prerelease --title "Patch FR The 3rd — $TAG" \
+            --notes "Version de test${REQUESTED_BY:+ lancée par $REQUESTED_BY}. Décompresser, puis appliquer.bat (ou l'installateur Liberl News). Seules les différences avec les fichiers anglais d'origine sont fournies."
+          # Only the 5 latest releases are kept.
+          gh release list --limit 100 --json tagName,createdAt --jq 'sort_by(.createdAt) | reverse | .[5:] | .[].tagName' \
+            | xargs -r -I{} gh release delete {} --yes --cleanup-tag

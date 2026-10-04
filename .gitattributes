@@ -1,0 +1,7 @@
+# Originaux du jeu (chiffrés), exécutables : binaires, jamais convertis.
+base/* binary
+*.exe binary
+# Scripts Windows de l'applicateur : fins de ligne Windows.
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+patch/LISEZMOI.txt text eol=crlf

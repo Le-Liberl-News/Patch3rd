@@ -1,0 +1,20 @@
+﻿Patch français de Trails in the Sky the 3rd - Liberl News
+==========================================================
+
+Installer ou mettre à jour
+  1. Décompressez ce dossier où vous voulez (par exemple dans le dossier du jeu).
+  2. Double-cliquez sur appliquer.bat.
+     Le dossier du jeu est trouvé tout seul (Steam, GOG) ; sinon il vous est demandé.
+
+  Au premier passage, les fichiers anglais d'origine sont copiés dans « dat_en »,
+  dans le dossier du jeu. Chaque mise à jour repart de ces fichiers : on peut
+  installer n'importe quelle version par-dessus une autre. Ne supprimez pas
+  ce dossier.
+
+Revenir à l'anglais
+  Double-cliquez sur restaurer.bat.
+
+Ce patch ne contient aucun fichier du jeu : seulement les différences entre
+les fichiers anglais d'origine et les fichiers français.
+
+xdelta3 (http://xdelta.org) est distribué sous licence GPL (COPYING-xdelta3.txt).
