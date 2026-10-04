@@ -779,8 +779,8 @@ def main() -> int:
                     else:
                         # Every pointer of an ED6 script is 16-bit: a file cannot exceed 64 KiB.
                         excess = int(overflow.group(1), 16) - 0xFFFF
-                        reason = (f"script trop long pour le format du jeu (au moins {excess:,} octets en trop), "
-                                  .replace(",", " ") + "à découper")
+                        amount = f"{excess:,}".replace(",", " ")
+                        reason = f"script trop long pour le format du jeu (au moins {amount} octets en trop), à découper"
                     command([calmare, str(base), "-c", "-o", str(target)], job, 90)
                     return code, "", reason
                 roundtrip = redecompiled / base.name
