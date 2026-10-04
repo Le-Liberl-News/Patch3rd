@@ -78,6 +78,10 @@ jobs:
           # Scripts that could not be compiled went in English: shown as warnings.
           grep -h "AVERTISSEMENT fichier laissé en anglais" job/build.log | sed 's/^AVERTISSEMENT fichier laissé en anglais : //' > laisses-en-anglais.txt || true
           while read -r line; do echo "::warning title=Fichier laissé en anglais::$line"; done < laisses-en-anglais.txt
+          # Voices that could not be placed in the French (missing page, modified structure).
+          grep -h "^AVERTISSEMENT voix" job/build.log | sed 's/^AVERTISSEMENT //' | while read -r line; do
+            echo "::warning title=Voix omise::$line"
+          done || true
 
       - name: Release
         env:

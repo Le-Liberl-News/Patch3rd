@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import difflib
 import gzip
 import hashlib
 import inspect
@@ -33,6 +34,52 @@ TEXTUAL_BLOCK_START = re.compile(
     r"^(?P<indent>\s*)(?:TextTalkNamed|TextTalk|TextMessage|Menu|\w*SetTitle)\b.*(?:\{|:)\s*$",
     re.IGNORECASE,
 )
+
+
+VOICE_TAG = re.compile(r"#[0-9]+v")
+
+
+def carry_voices(structure: str, voiced: str) -> tuple[str, list[str]]:
+    """Put the voices of the toolchain CLM into a structure edited on the platform.
+
+    The platform keeps scripts without voice tags. A line identical to a line
+    of the voiced CLM (voices and pauses aside: SoraVoice adds a few pauses to
+    start a voice with its page) takes the voiced line; a line moved elsewhere
+    finds its voice when its text is unique in the script. Returns the voices
+    that could not be carried over (lines modified in the structure).
+    """
+    def key(line: str) -> str:
+        return VOICE_TAG.sub("", line).replace("{wait}", "").rstrip("\r\n")
+
+    if VOICE_TAG.sub("", voiced) == structure:
+        return voiced, []
+    target = structure.splitlines(keepends=True)
+    source = voiced.splitlines(keepends=True)
+    target_keys = [key(line) for line in target]
+    source_keys = [key(line) for line in source]
+    carried = [False] * len(source)
+    assigned = [False] * len(target)
+    result = list(target)
+    matcher = difflib.SequenceMatcher(a=source_keys, b=target_keys, autojunk=False)
+    for block in matcher.get_matching_blocks():
+        for offset in range(block.size):
+            result[block.b + offset] = source[block.a + offset]
+            carried[block.a + offset] = assigned[block.b + offset] = True
+    unique: dict[str, int] = {}
+    for index, line_key in enumerate(source_keys):
+        unique[line_key] = -1 if line_key in unique else index
+    for index, line in enumerate(target):
+        if assigned[index] or VOICE_TAG.search(line):
+            continue
+        origin = unique.get(target_keys[index], -1)
+        if origin >= 0 and not carried[origin] and VOICE_TAG.search(source[origin]):
+            result[index] = source[origin]
+            carried[origin] = True
+    lost = [
+        tag for index, line in enumerate(source) if not carried[index]
+        for tag in VOICE_TAG.findall(line)
+    ]
+    return "".join(result), lost
 
 
 def write_status(job: Path, stage: str, progress: int, message: str, *, error: bool = False) -> None:
@@ -342,7 +389,9 @@ def inject_script(
     if failures:
         raise ValueError("\n".join(failures))
     for message in reversed(dropped_controls):
-        print(f"AVERTISSEMENT codes absents du FR, omis : {message}")
+        # A voice follows a page of the English the French does not have.
+        kind = "voix sans page FR correspondante, omises" if VOICE_TAG.search(message) else "codes absents du FR, omis"
+        print(f"AVERTISSEMENT {kind} : {message}")
 
     translated_names = {
         str(character.get("source_en", "")): str(character.get("translation_fr", ""))
@@ -402,7 +451,9 @@ def digest(path: Path) -> str:
 
 
 def roundtrip_text(core, value: str) -> str:
-    return normalized(core, value).replace("{item item[", "{item[")
+    # {} only protects leading spaces and writes no byte: Calmare drops it when
+    # a voice tag now opens the line.
+    return normalized(core, value).replace("{item item[", "{item[").replace("{}", "")
 
 
 def validate_clm_roundtrip(
@@ -593,6 +644,17 @@ def main() -> int:
                         str(script_row.get("raw_preamble") or "")
                         + "".join(str(scene["raw_source"]) for scene in structural_scenes)
                     )
+                    # The platform structure carries the voices since
+                    # `platform-maintenance.php voices`; before that, they are
+                    # taken from the toolchain CLM.
+                    lost_voices = []
+                    if not VOICE_TAG.search(source_text):
+                        source_text, lost_voices = carry_voices(source_text, base.read_text(encoding="utf-8"))
+                    if lost_voices:
+                        print(
+                            f"AVERTISSEMENT voix non reprises ({code}, lignes modifiées dans la structure) : "
+                            + " ".join(lost_voices)
+                        )
                 else:
                     # Structural data is imported one complete script at a time. During a
                     # repair, some scripts legitimately have no scenes yet; concatenating
@@ -765,9 +827,25 @@ def main() -> int:
                 base = bases[code]
                 source = translated / base.name
                 target = compiled / f"{code}._sn"
+                failure: RuntimeError | None = None
                 try:
                     output = command([calmare, str(source), "-c", "-o", str(target)], job, 90)
                 except RuntimeError as error:
+                    failure = error
+                    voiced = source.read_text(encoding="utf-8")
+                    if "as a u16" in str(error) and VOICE_TAG.search(voiced):
+                        # Too long with its voices: until the script is split,
+                        # the French goes without them rather than in English.
+                        silent = translated / f"{code}.sans-voix.clm"
+                        silent.write_bytes(VOICE_TAG.sub("", voiced).encode("utf-8"))
+                        try:
+                            output = command([calmare, str(silent), "-c", "-o", str(target)], job, 90)
+                            source, failure = silent, None
+                            print(f"AVERTISSEMENT voix retirées : {code} : script trop long avec les voix, à découper")
+                        except RuntimeError as silent_error:
+                            failure = silent_error
+                if failure is not None:
+                    error = failure
                     overflow = re.search(r"attempted to write 0x([0-9A-Fa-f]+) as a u16", str(error))
                     if overflow is None:
                         # Calmare points at the faulty text: keep that line in the warning
@@ -781,7 +859,17 @@ def main() -> int:
                         excess = int(overflow.group(1), 16) - 0xFFFF
                         amount = f"{excess:,}".replace(",", " ")
                         reason = f"script trop long pour le format du jeu (au moins {amount} octets en trop), à découper"
-                    command([calmare, str(base), "-c", "-o", str(target)], job, 90)
+                    try:
+                        command([calmare, str(base), "-c", "-o", str(target)], job, 90)
+                    except RuntimeError as error:
+                        if "as a u16" not in str(error):
+                            raise
+                        # Some English scripts exceed 64 KiB once voiced: until
+                        # they are split, they go without their voices.
+                        silent = translated / f"{code}.sans-voix.clm"
+                        silent.write_bytes(VOICE_TAG.sub("", base.read_text(encoding="utf-8")).encode("utf-8"))
+                        command([calmare, str(silent), "-c", "-o", str(target)], job, 90)
+                        reason += " ; anglais trop long avec les voix, compilé sans voix"
                     return code, "", reason
                 roundtrip = redecompiled / base.name
                 first_line = source.read_text(encoding="utf-8").splitlines()[0].strip()

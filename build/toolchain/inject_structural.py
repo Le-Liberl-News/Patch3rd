@@ -16,10 +16,12 @@ MENU_ITEM = re.compile(r'^(?P<prefix>\s*)"(?P<text>(?:\\.|[^"\\])*)"(?P<suffix>\
 MENU_ADD = re.compile(
     r'^(?P<prefix>\s*ED6MenuAdd\s+\S+\s+")(?P<text>(?:\\.|[^"\\])*)(?P<suffix>".*)$'
 )
-LEADING_TAGS = re.compile(r"^(?:(?:#[0-9]+[A-Z])|(?:\{(?:color|0x)[^}]*\}))*")
-HIDDEN_TAG = re.compile(r"#[0-9]+[A-Z]")
-HIDDEN_TAG_FOR_COMPARE = re.compile(r"#[0-9]+(?:[A-Z]|\|)")
-ENGINE_CONTROL = re.compile(r"#[0-9]+[A-Z]|\{[^{}\r\n]+\}")
+LEADING_TAGS = re.compile(r"^(?:(?:#[0-9]+(?:[A-Z]|v))|(?:\{(?:color|0x)[^}]*\}))*")
+# Engine tags #<n><letter>, plus the Evolution voice tags #<id>v.
+HIDDEN_TAG = re.compile(r"#[0-9]+(?:[A-Z]|v)")
+HIDDEN_TAG_FOR_COMPARE = re.compile(r"#[0-9]+(?:[A-Z]|v|\|)")
+VOICE_TAG = re.compile(r"#[0-9]+v")
+ENGINE_CONTROL = re.compile(r"#[0-9]+(?:[A-Z]|v)|\{[^{}\r\n]+\}")
 WAIT_MARKER = "***wait***"
 CHARACTER_NAME = re.compile(r'^(?P<prefix>\s+name\s+")(?P<name>(?:\\.|[^"\\])*)(?P<suffix>"\s*)$')
 SET_NAME = re.compile(r'^(?P<prefix>\s*TextSetName\s+")(?P<name>(?:\\.|[^"\\])*)(?P<suffix>".*)$')
@@ -52,6 +54,9 @@ class Slot:
 
 def clean_dialogue(raw: str) -> str:
     value = raw
+    # Voices are never shown or translated; injection puts them back at the
+    # start of the matching French page.
+    value = VOICE_TAG.sub("", value)
     while re.match(r"^#[0-9]+[A-Z]", value):
         value = re.sub(r"^#[0-9]+[A-Z]", "", value, count=1)
     return value.replace("{wait}", "").rstrip("\n")
@@ -233,7 +238,7 @@ def _translation_supplies(token: str, translation: str) -> bool:
     )
 
 
-def _insert_after_wait(value: str, ordinal: int, controls: str) -> str:
+def _insert_after_wait(value: str, ordinal: int, controls: str, next_line: bool = False) -> str:
     matches = list(re.finditer(r"\{wait\}", value))
     if ordinal <= 0 or ordinal > len(matches):
         raise ValueError(
@@ -241,6 +246,10 @@ def _insert_after_wait(value: str, ordinal: int, controls: str) -> str:
             f"contains only {len(matches)} internal wait marker(s)"
         )
     position = matches[ordinal - 1].end()
+    # Controls that open the next source line (voices, mostly) open the
+    # next French line too.
+    if next_line and value[position:position + 1] == "\n":
+        position += 1
     return value[:position] + controls + value[position:]
 
 
@@ -261,6 +270,7 @@ def restore_hidden_controls(
 
     leading: list[str] = []
     after_wait: dict[int, list[str]] = {}
+    after_wait_line: set[int] = set()
     line_controls: dict[int, list[str]] = {}
     unresolved: list[str] = []
     for index, match in enumerate(occurrences):
@@ -272,14 +282,16 @@ def restore_hidden_controls(
             if not translated.endswith("{wait}"):
                 translated += "{wait}"
             continue
-        if start == 0 or re.fullmatch(r"(?:#[0-9]+[A-Z])*", before):
+        if start == 0 or re.fullmatch(r"(?:#[0-9]+(?:[A-Z]|v))*", before):
             leading.append(token)
             continue
-        wait_prefix = re.search(r"\{wait\}\s*(?:#[0-9]+[A-Z])*$", before)
+        wait_prefix = re.search(r"\{wait\}\s*(?:#[0-9]+(?:[A-Z]|v))*$", before)
         if wait_prefix:
             if not _translation_supplies(token, translated):
                 ordinal = before[: wait_prefix.start()].count("{wait}") + 1
                 after_wait.setdefault(ordinal, []).append(token)
+                if "\n" in wait_prefix.group(0):
+                    after_wait_line.add(ordinal)
             continue
         if _translation_supplies(token, translated):
             continue
@@ -294,7 +306,9 @@ def restore_hidden_controls(
     for ordinal in sorted(after_wait, reverse=True):
         controls = "".join(after_wait[ordinal])
         try:
-            translated = _insert_after_wait(translated, ordinal, controls)
+            translated = _insert_after_wait(
+                translated, ordinal, controls, ordinal in after_wait_line
+            )
         except ValueError:
             if dropped is None:
                 raise
