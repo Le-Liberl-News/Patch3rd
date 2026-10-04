@@ -770,14 +770,17 @@ def main() -> int:
                 except RuntimeError as error:
                     overflow = re.search(r"attempted to write 0x([0-9A-Fa-f]+) as a u16", str(error))
                     if overflow is None:
-                        # Calmare points at the faulty text: keep that line in the warning.
-                        pointed = re.search(r"^\s*\d+\s+\S\s+(.+)$", str(error), re.M)
-                        reason = "compilation impossible" + (f" : « {pointed.group(1).strip()} »" if pointed else "")
+                        # Calmare points at the faulty text: keep that line in the warning
+                        # (its colour codes removed).
+                        plain = re.sub(r"\[[0-9;]*[A-Za-z]", "", str(error))
+                        pointed = re.search(r"^\s*\d+\s+[│|]\s+(.+)$", plain, re.M)
+                        line = pointed.group(1).strip() if pointed else ""
+                        reason = "compilation impossible" + (f" : « {line} »" if len(line) > 2 else "")
                     else:
                         # Every pointer of an ED6 script is 16-bit: a file cannot exceed 64 KiB.
                         excess = int(overflow.group(1), 16) - 0xFFFF
                         reason = (f"script trop long pour le format du jeu (au moins {excess:,} octets en trop), "
-                                  "à découper").replace(",", " ")
+                                  .replace(",", " ") + "à découper")
                     command([calmare, str(base), "-c", "-o", str(target)], job, 90)
                     return code, "", reason
                 roundtrip = redecompiled / base.name
