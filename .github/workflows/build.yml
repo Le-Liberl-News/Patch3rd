@@ -75,6 +75,9 @@ jobs:
             tail -n 60 job/build.log
             exit 1
           fi
+          # Scripts that could not be compiled went in English: shown as warnings.
+          grep -h "AVERTISSEMENT fichier laissé en anglais" job/build.log | sed 's/^AVERTISSEMENT fichier laissé en anglais : //' > laisses-en-anglais.txt || true
+          while read -r line; do echo "::warning title=Fichier laissé en anglais::$line"; done < laisses-en-anglais.txt
 
       - name: Release
         env:
@@ -83,8 +86,15 @@ jobs:
           TAG="$(date -u '+%Y.%m.%d-%H%M')"
           python3 scripts/release.py --patch job/Sky3rd-test-patch.zip --toolchain build/toolchain \
             --xdelta xdelta3 --out release --tag "$TAG"
+          {
+            echo "Version de test${REQUESTED_BY:+ lancée par $REQUESTED_BY}. Décompresser, puis lancer appliquer.bat (ou passer par l'installateur Liberl News). Seules les différences avec les fichiers anglais d'origine sont fournies."
+            if [ -s laisses-en-anglais.txt ]; then
+              echo; echo "**Fichiers laissés en anglais** (ne compilent pas en français) :"
+              sed 's/^/- /' laisses-en-anglais.txt
+            fi
+          } > notes.md
           gh release create "v$TAG" "release/Patch3rd-$TAG.zip" --prerelease --title "Patch FR The 3rd — $TAG" \
-            --notes "Version de test${REQUESTED_BY:+ lancée par $REQUESTED_BY}. Décompresser, puis appliquer.bat (ou l'installateur Liberl News). Seules les différences avec les fichiers anglais d'origine sont fournies."
+            --notes-file notes.md
           # Only the 5 latest releases are kept.
           gh release list --limit 100 --json tagName,createdAt --jq 'sort_by(.createdAt) | reverse | .[5:] | .[].tagName' \
             | xargs -r -I{} gh release delete {} --yes --cleanup-tag

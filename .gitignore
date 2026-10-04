@@ -7,3 +7,4 @@ build/toolchain/base_exe/
 build/toolchain/base_clm/
 build/toolchain/fonts_fr/
 build/toolchain/third-exe-strings.json
+build/toolchain/bin/*.exe

@@ -757,7 +757,10 @@ def main() -> int:
             write_status(job, "compile", 42, "Compilation Calmare")
             calmare = tool_binary(toolchain, "calmare")
 
-            def compile_one(script_row: dict) -> tuple[str, str]:
+            def compile_one(script_row: dict) -> tuple[str, str, str | None]:
+                """Compiles a translated script. One that cannot be compiled (too
+                long, invalid code) goes in English, from its original CLM, so
+                that the rest of the patch still comes out (third value: why)."""
                 code = str(script_row["code"]).lower()
                 base = bases[code]
                 source = translated / base.name
@@ -767,13 +770,16 @@ def main() -> int:
                 except RuntimeError as error:
                     overflow = re.search(r"attempted to write 0x([0-9A-Fa-f]+) as a u16", str(error))
                     if overflow is None:
-                        raise RuntimeError(f"{code} : compilation impossible\n{error}") from error
-                    # Every pointer of an ED6 script is 16-bit: a file cannot exceed 64 KiB.
-                    excess = int(overflow.group(1), 16) - 0xFFFF
-                    raise RuntimeError(
-                        f"{code} : script trop long pour le format du jeu (au moins {excess:,} octets en trop) ; "
-                        "déplacez une ou plusieurs scènes vers un fichier voisin".replace(",", " ")
-                    ) from error
+                        # Calmare points at the faulty text: keep that line in the warning.
+                        pointed = re.search(r"^\s*\d+\s+\S\s+(.+)$", str(error), re.M)
+                        reason = "compilation impossible" + (f" : « {pointed.group(1).strip()} »" if pointed else "")
+                    else:
+                        # Every pointer of an ED6 script is 16-bit: a file cannot exceed 64 KiB.
+                        excess = int(overflow.group(1), 16) - 0xFFFF
+                        reason = (f"script trop long pour le format du jeu (au moins {excess:,} octets en trop), "
+                                  "à découper").replace(",", " ")
+                    command([calmare, str(base), "-c", "-o", str(target)], job, 90)
+                    return code, "", reason
                 roundtrip = redecompiled / base.name
                 first_line = source.read_text(encoding="utf-8").splitlines()[0].strip()
                 dialect = re.fullmatch(r"calmare\s+(fc|sc|tc)\s+scena", first_line)
@@ -789,20 +795,24 @@ def main() -> int:
                 validate_clm_roundtrip(core, source, roundtrip, target, roundtrip_target, code)
                 return code, "\n".join(
                     value for value in (output, roundtrip_output, recompile_output) if value
-                )
+                ), None
 
             completed = 0
             compile_failures: list[str] = []
+            left_in_english: list[str] = []
             with ThreadPoolExecutor(max_workers=max(1, min(args.workers, 8))) as executor:
                 futures = [executor.submit(compile_one, row) for row in scripts]
                 for future in as_completed(futures):
                     completed += 1
                     # Every file is compiled so that one build reports all the problems.
                     try:
-                        code, output = future.result()
+                        code, output, fallback = future.result()
                     except RuntimeError as error:
                         compile_failures.append(str(error))
                         continue
+                    if fallback:
+                        left_in_english.append(code)
+                        print(f"AVERTISSEMENT fichier laissé en anglais : {code} : {fallback}")
                     if output:
                         print(f"[{code}] {output}")
                     if completed % 20 == 0 or completed == len(scripts):
@@ -880,7 +890,9 @@ def main() -> int:
                     patch.write(compiled_exe / executable, executable)
                 patch.write(log_path, "build.log")
             (job / "Sky3rd-test-patch.zip.part").replace(job / "Sky3rd-test-patch.zip")
-            write_status(job, "complete", 100, "Compilation et vérification terminées")
+            write_status(job, "complete", 100, "Compilation et vérification terminées" + (
+                f" ; laissés en anglais : {', '.join(sorted(left_in_english))}" if left_in_english else ""
+            ))
             return 0
         except Exception as error:
             traceback.print_exc()
