@@ -1,0 +1,38 @@
+[
+ {
+  "n": 1,
+  "fr": "[Jouer] (Debug)"
+ },
+ {
+  "n": 2,
+  "fr": "[Ignorer] (Debug)"
+ },
+ {
+  "n": 3,
+  "fr": "[Commencer]"
+ },
+ {
+  "n": 4,
+  "fr": "[Règles]"
+ },
+ {
+  "n": 5,
+  "fr": "[Paramètres]"
+ },
+ {
+  "n": 6,
+  "fr": "[Normal]"
+ },
+ {
+  "n": 7,
+  "fr": "[Facile]"
+ },
+ {
+  "n": 8,
+  "fr": "{color 5}#0W―――――――《 Explication des règles 》―――――――\n \n Abattez les ennemis et les missiles qui approchent\n à l'aide de la mitrailleuse contrôlée par Josette.\n Les commandes sont les suivantes :\n \n Touches directionnelles / Souris : Viser\n Touche de confirmation          : Tirer (maintenir pour le tir automatique)\n Touche d'annulation            : Zoomer (maintenir)\n Touche [B] (Carnet)            : Changer de caméra\n \n―――――――――――――――――――――――――――#20W"
+ },
+ {
+  "n": 9,
+  "fr": "{color 5}#0W―――――――《 Explication des règles 》―――――――\n \n Les munitions de la mitrailleuse sont illimitées,\n mais si vous tirez trop longtemps, la cadence ralentit.\n Elle se rétablit naturellement en arrêtant de tirer.\n \n Attention, si les PV du Lynx tombent à 0,\n c'est la fin de la partie.\n \n \n \n―――――――――――――――――――――――――――#20W"
+ }
+]

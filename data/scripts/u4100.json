@@ -1,0 +1,158 @@
+[
+ {
+  "n": 1,
+  "fr": "Ah... !"
+ },
+ {
+  "n": 2,
+  "fr": "C'est une statue d'un faucon blanc.\nAttendez... C'est pas... ?"
+ },
+ {
+  "n": 3,
+  "fr": "C'est le quartier sud de Grancel !"
+ },
+ {
+  "n": 4,
+  "fr": "La Déesse soit louée ! On est enfin sortis de là !"
+ },
+ {
+  "n": 5,
+  "fr": "......"
+ },
+ {
+  "n": 6,
+  "fr": "Il t'arrive quoi, Ries ? On dirait que t'as vu un \nfantôme."
+ },
+ {
+  "n": 7,
+  "fr": "Eh bien, je ne peux pas prétendre bien connaître \nGrancel..."
+ },
+ {
+  "n": 8,
+  "fr": "... Mais ceci n'est... pas sa porte centrale, n'est-ce \npas ?"
+ },
+ {
+  "n": 9,
+  "fr": "Hein... ?"
+ },
+ {
+  "n": 10,
+  "fr": "Merde !"
+ },
+ {
+  "n": 11,
+  "fr": "Q-Quoi... ?"
+ },
+ {
+  "n": 12,
+  "fr": "Non, cela ne l'est pas !"
+ },
+ {
+  "n": 13,
+  "fr": "Ces soldats ne sont pas de l'Armée royale !"
+ },
+ {
+  "n": 14,
+  "fr": "Que s'est-il passé ici... ?"
+ },
+ {
+  "n": 15,
+  "fr": "Qu'est-il arrivé à la capitale lorsque j'étais absente ?"
+ },
+ {
+  "n": 16,
+  "fr": "Bordel, j'avais pas vu ça venir quand on est sortis \nde ce portail."
+ },
+ {
+  "n": 17,
+  "fr": "Soit il s'est passé quelque chose ici quand on \nétait coincés dans cet endroit, soit..."
+ },
+ {
+  "n": 18,
+  "fr": "... Soit Phantasma est maintenant capable d'influencer \nle monde extérieur."
+ },
+ {
+  "n": 19,
+  "fr": "Ugh... Mes excuses, mais je ne peux me tenir ici \nplus longtemps !"
+ },
+ {
+  "n": 20,
+  "fr": "Je dois aller vérifier l'état du château de Grancel !"
+ },
+ {
+  "n": 21,
+  "fr": "Je me préoccupe des citoyens de cette ville, mais \npar-dessus tout, je m'inquiète de la sécurité de \nSa Majesté et de la princesse !"
+ },
+ {
+  "n": 22,
+  "fr": "Je vous blâme pas, mais on vient avec vous."
+ },
+ {
+  "n": 23,
+  "fr": "Aussi forte que vous soyez, y aller seule est pas \nmalin."
+ },
+ {
+  "n": 24,
+  "fr": "M-Mais..."
+ },
+ {
+  "n": 25,
+  "fr": "Paniquer est la pire chose que vous puissiez faire \nen cet instant."
+ },
+ {
+  "n": 26,
+  "fr": "C'est dans les situations hors du commun comme \ncelle-ci que la prudence et la réflexion sont vos \nplus précieuses alliées."
+ },
+ {
+  "n": 27,
+  "fr": "......"
+ },
+ {
+  "n": 28,
+  "fr": "Vous avez tout à fait raison, bien sûr. Je comprends."
+ },
+ {
+  "n": 29,
+  "fr": "Alors va pour le château. On devrait essayer \nd'investiguer la ville en chemin, aussi."
+ },
+ {
+  "n": 30,
+  "fr": "Gardez l'œil ouvert, par contre. Les démons ici \nont pas l'air de déconner."
+ },
+ {
+  "n": 31,
+  "fr": "... Entendu."
+ },
+ {
+  "n": 32,
+  "fr": "O-Oui !"
+ },
+ {
+  "n": 33,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 34,
+  "fr": "Restaurer les PV/PE"
+ },
+ {
+  "n": 35,
+  "fr": "Acheter"
+ },
+ {
+  "n": 36,
+  "fr": "Synthétiser des quartz"
+ },
+ {
+  "n": 37,
+  "fr": "Terminer"
+ },
+ {
+  "n": 38,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 39,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ }
+]

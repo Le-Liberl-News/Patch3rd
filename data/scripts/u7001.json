@@ -1,0 +1,278 @@
+[
+ {
+  "n": 31,
+  "fr": "Oui..."
+ },
+ {
+  "n": 33,
+  "fr": "......"
+ },
+ {
+  "n": 38,
+  "fr": "......"
+ },
+ {
+  "n": 53,
+  "fr": "......"
+ },
+ {
+  "n": 63,
+  "fr": "...{0x05}"
+ },
+ {
+  "n": 68,
+  "fr": "...{0x05}"
+ },
+ {
+  "n": 70,
+  "fr": "Hein ?"
+ },
+ {
+  "n": 89,
+  "fr": "......"
+ },
+ {
+  "n": 96,
+  "fr": "Ah... !"
+ },
+ {
+  "n": 103,
+  "fr": "......"
+ },
+ {
+  "n": 105,
+  "fr": "... Quoi ?"
+ },
+ {
+  "n": 108,
+  "fr": "......"
+ },
+ {
+  "n": 113,
+  "fr": "... Hein ?"
+ },
+ {
+  "n": 114,
+  "fr": "Ah... !"
+ },
+ {
+  "n": 117,
+  "fr": "......"
+ },
+ {
+  "n": 121,
+  "fr": "......"
+ },
+ {
+  "n": 122,
+  "fr": "Ah... !"
+ },
+ {
+  "n": 123,
+  "fr": "......"
+ },
+ {
+  "n": 124,
+  "fr": "... Kevin ?"
+ },
+ {
+  "n": 128,
+  "fr": "......"
+ },
+ {
+  "n": 164,
+  "fr": "Ha ha..."
+ },
+ {
+  "n": 175,
+  "fr": "{color 12}#60W..."
+ },
+ {
+  "n": 179,
+  "fr": "{color 12}#60W..."
+ },
+ {
+  "n": 183,
+  "fr": "{color 12}#60W..."
+ },
+ {
+  "n": 202,
+  "fr": "{color 12}#60W..."
+ },
+ {
+  "n": 226,
+  "fr": "{color 12}#30W..."
+ },
+ {
+  "n": 232,
+  "fr": "{color 12}#30W..."
+ },
+ {
+  "n": 235,
+  "fr": "......"
+ },
+ {
+  "n": 256,
+  "fr": "[Quitter]"
+ },
+ {
+  "n": 263,
+  "fr": "[Quitter]"
+ },
+ {
+  "n": 273,
+  "fr": "C-Ceci est..."
+ },
+ {
+  "n": 283,
+  "fr": "......"
+ },
+ {
+  "n": 296,
+  "fr": "[Lire le chapitre 1]"
+ },
+ {
+  "n": 297,
+  "fr": "[Lire le chapitre 2]"
+ },
+ {
+  "n": 298,
+  "fr": "[Lire le chapitre 3]"
+ },
+ {
+  "n": 299,
+  "fr": "[Lire le chapitre 4]"
+ },
+ {
+  "n": 300,
+  "fr": "[Lire le chapitre 5]"
+ },
+ {
+  "n": 301,
+  "fr": "[Lire le chapitre 6]"
+ },
+ {
+  "n": 302,
+  "fr": "[Lire le chapitre 7]"
+ },
+ {
+  "n": 303,
+  "fr": "[Lire le chapitre 8]"
+ },
+ {
+  "n": 304,
+  "fr": "[Lire le chapitre 9]"
+ },
+ {
+  "n": 305,
+  "fr": "[Lire le chapitre 10]"
+ },
+ {
+  "n": 306,
+  "fr": "[Lire le chapitre 11]"
+ },
+ {
+  "n": 307,
+  "fr": "[Quitter]"
+ },
+ {
+  "n": 310,
+  "fr": "[Lire le chapitre 1]"
+ },
+ {
+  "n": 311,
+  "fr": "[Lire le chapitre 2]"
+ },
+ {
+  "n": 312,
+  "fr": "[Lire le chapitre 3]"
+ },
+ {
+  "n": 313,
+  "fr": "[Lire le chapitre 4]"
+ },
+ {
+  "n": 314,
+  "fr": "[Lire le chapitre 5]"
+ },
+ {
+  "n": 315,
+  "fr": "[Lire le chapitre 6]"
+ },
+ {
+  "n": 316,
+  "fr": "[Lire le chapitre 7]"
+ },
+ {
+  "n": 317,
+  "fr": "[Lire le chapitre 8]"
+ },
+ {
+  "n": 318,
+  "fr": "[Lire le chapitre 9]"
+ },
+ {
+  "n": 319,
+  "fr": "[Lire le chapitre 10]"
+ },
+ {
+  "n": 323,
+  "fr": "[Lire le chapitre 11]"
+ },
+ {
+  "n": 324,
+  "fr": "[Quitter]"
+ },
+ {
+  "n": 329,
+  "fr": "[Lire le chapitre 1]"
+ },
+ {
+  "n": 330,
+  "fr": "[Lire le chapitre 2]"
+ },
+ {
+  "n": 331,
+  "fr": "[Lire le chapitre 3]"
+ },
+ {
+  "n": 332,
+  "fr": "[Lire le chapitre 4]"
+ },
+ {
+  "n": 333,
+  "fr": "[Lire le chapitre 5]"
+ },
+ {
+  "n": 334,
+  "fr": "[Lire le chapitre 6]"
+ },
+ {
+  "n": 335,
+  "fr": "[Lire le chapitre 7]"
+ },
+ {
+  "n": 336,
+  "fr": "[Lire le chapitre 8]"
+ },
+ {
+  "n": 337,
+  "fr": "[Lire le chapitre 9]"
+ },
+ {
+  "n": 338,
+  "fr": "[Lire le chapitre 10]"
+ },
+ {
+  "n": 340,
+  "fr": "[Quitter]"
+ },
+ {
+  "n": 351,
+  "fr": "[Lire le chapitre 11]"
+ },
+ {
+  "n": 352,
+  "fr": "[Quitter]"
+ }
+]

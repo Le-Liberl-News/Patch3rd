@@ -1,0 +1,90 @@
+[
+ {
+  "n": 1,
+  "fr": "......"
+ },
+ {
+  "n": 2,
+  "fr": "Je ne pense pas que quiconque soit ici."
+ },
+ {
+  "n": 3,
+  "fr": "J'avais faiblement espéré que si, mais j'aurais dû \nsavoir que ce ne serait pas le cas."
+ },
+ {
+  "n": 4,
+  "fr": "L'assistance de la Guilde aurait été d'une immense \naide dans une telle situation, également... "
+ },
+ {
+  "n": 5,
+  "fr": "Je vais aller jeter un œil au téléphone !"
+ },
+ {
+  "n": 6,
+  "fr": "Peut-être qu'on arrivera à contacter une branche \nquelque part et à leur demander de l'aide."
+ },
+ {
+  "n": 7,
+  "fr": "Merci, Tita."
+ },
+ {
+  "n": 8,
+  "fr": "Ç-Ça ne sert à rien..."
+ },
+ {
+  "n": 9,
+  "fr": "Le téléphone est techniquement en état de marche, \nmais je n'arrive pas à joindre qui que ce soit."
+ },
+ {
+  "n": 10,
+  "fr": "Avez-vous essayé de contacter les quartiers \nprincipaux à la forteresse Leiston ?"
+ },
+ {
+  "n": 11,
+  "fr": "Oh, non..."
+ },
+ {
+  "n": 12,
+  "fr": "Ce n'est pas bon... Je n'arrive pas à les joindre, eux \nnon plus."
+ },
+ {
+  "n": 13,
+  "fr": "Je vois..."
+ },
+ {
+  "n": 14,
+  "fr": "J'imagine que tu obtiendrais le même résultat peu \nimporte où tu essaierais d'appeler."
+ },
+ {
+  "n": 15,
+  "fr": "Probablement, ouais..."
+ },
+ {
+  "n": 16,
+  "fr": "Bon, c'est pas l'idéal, mais on dirait qu'on est tout \nseuls."
+ },
+ {
+  "n": 17,
+  "fr": "{color 5}Ouvrir la Porte ?{0x18}"
+ },
+ {
+  "n": 18,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 19,
+  "fr": "[Non]"
+ },
+ {
+  "n": 20,
+  "fr": "{color 5}#40WAmenez-moi la danseuse aux cheveux argentés.\n\n#500W \n#40W\nÀ ce moment seulement s'ouvrira la Porte...{color 0}"
+ },
+ {
+  "n": 21,
+  "fr": "{color 5}#40WAmenez-moi la fille qui aime pêcher.\n\n#500W \n#40W\nÀ ce moment seulement s'ouvrira la Porte...{color 0}"
+ },
+ {
+  "n": 22,
+  "fr": "{color 5}Le téléphone orbal ne peut pas être utilisé."
+ }
+]

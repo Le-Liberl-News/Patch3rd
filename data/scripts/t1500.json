@@ -1,0 +1,206 @@
+[
+ {
+  "n": 1,
+  "fr": "{color 0}Il était une fois une fille appelée Estelle Bright \nqui adorait vraiment pêcher.\nPendant ce temps, à Grancel, il existait un groupe \nd'hommes et de femmes dévoués et pratiquant ce sport \navec fierté. Ils étaient appelés la guilde des pêcheurs. \nQuoi d'autre cela aurait-il pu être que le destin, si ces deux \nroutes étaient amenées à se croiser ?\nCeci est leur étrange histoire."
+ },
+ {
+  "n": 2,
+  "fr": "{color 0}#15A～Chapitre 1 - Notre histoire commence au \nbord du lac～{0x05}"
+ },
+ {
+  "n": 3,
+  "fr": "{color 0}Au bord du lac Valleria se trouve un calme petit \nendroit appelé l'auberge du Martin-pêcheur.\nCherchant à faire une pause de son travail, Estelle \ndécida de s'y rendre pour une détente bien méritée.\nAu début, ce fut exactement ce qu'elle y trouva.\nAdorant la pêche, elle décida d'emprunter du matériel à \nl'auberge et de se diriger vers la jetée pour profiter d'un \nbon moment là-bas.\nSes prises furent une réussite les unes après les autres, \net rapidement, son seau se mit à déborder de poissons."
+ },
+ {
+  "n": 4,
+  "fr": "{color 0}Mais alors se trouvait Lloyd, un membre de la \nseule et unique guilde des pêcheurs, qui s'avérait être à \nla même auberge et le même jour. Il lui arrivait l'inverse \nde la chance de la jeune Estelle. \nAu moment où il était arrivé, il avait embarqué dans un \nbateau pour commencer à pêcher...\nMais bien qu'il essayât, il n'avait pas réussi à attraper ne \nfut-ce qu'un seul poisson."
+ },
+ {
+  "n": 5,
+  "fr": "{color 0}Se sentant à présent complètement vaincu, Lloyd \nretourna en direction de l'auberge.\nSon bateau approchant la jetée, cependant, il aperçut une \ntrès satisfaite Estelle, se réjouissant de la taille de sa \nplus récente prise.\nCette vue fut tout ce qu'il fallut pour attiser la nature \ncompétitrice de Lloyd.\nMaintenant profondément motivé, il s'approcha d'elle et \nla défia en un duel spécial..."
+ },
+ {
+  "n": 6,
+  "fr": "... Et c'est pourquoi je veux vous défier en un duel de \npêcheurs en cinq manches."
+ },
+ {
+  "n": 7,
+  "fr": "U-Un quoi ?"
+ },
+ {
+  "n": 8,
+  "fr": "Un duel de pêcheurs en cinq manches !"
+ },
+ {
+  "n": 9,
+  "fr": "C'est une sorte de compétition spéciale à laquelle \nnous pêcheurs prenons part, en misant notre fierté \net notre honneur sur le résultat."
+ },
+ {
+  "n": 10,
+  "fr": "Une fois qu'un membre de la guilde des pêcheurs \nprononce ces mots, il ne peut pas y avoir de retour \nen arrière. Le duel doit avoir lieu !"
+ },
+ {
+  "n": 11,
+  "fr": "Alors affrontons-nous, avec notre meilleur matériel \nde pêche en jeu !"
+ },
+ {
+  "n": 12,
+  "fr": "J'ai l'impression que je suis en train de me faire \nenguirlander dans un truc complètement dingue..."
+ },
+ {
+  "n": 13,
+  "fr": "Désolée de vous l'apprendre, mais j'ai aucun super \nmatériel de pêche à miser sur ça. Tous mes trucs, \nje les ai empruntés à l'auberge."
+ },
+ {
+  "n": 14,
+  "fr": "Alors vous n'avez rien besoin de miser du tout !\nCe n'est pas un problème."
+ },
+ {
+  "n": 15,
+  "fr": "Ce duel est davantage pour mon propre bien que pour \nle vôtre, et j'ai l'intention d'aller jusqu'au bout coûte \nque coûte."
+ },
+ {
+  "n": 16,
+  "fr": "Ah ha ha... On dirait que j'ai pas vraiment d'autre \nchoix que de participer, hein ?"
+ },
+ {
+  "n": 17,
+  "fr": "[Commencer]"
+ },
+ {
+  "n": 18,
+  "fr": "[Règles]"
+ },
+ {
+  "n": 19,
+  "fr": "[Quitter]"
+ },
+ {
+  "n": 20,
+  "fr": "\"{color 5}#0W―――――――――――――――――――――――――――\n\nEstelle et Lloyd vont s'affronter dans le duel en cinq \nmanches du siècle.\nIls vont pêcher chacun leur tour, et celui qui aura le plus \nde points à la fin des cinq manches sera déclaré \nvainqueur.\n\nLorsque ce sera le tour d'Estelle, il vous sera demandé de \nchoisir une canne et un appât à utiliser. Certains appâts \npeuvent seulement être utilisés avec certaines cannes.\n\nAprès avoir choisi, le jeu commencera. Quand le signe ! \napparaîtra, appuyez rapidement sur confirmer pour \nattraper le poisson.\n\n―――――――――――――――――――――――――――#20W\""
+ },
+ {
+  "n": 21,
+  "fr": "{color 5}#0W―――――――《 Explication des règles 》―――――――\n \n Les poissons attrapés dépendent du type d'appât, et certains\n poissons pêchés peuvent eux-mêmes servir d'appâts.\n \n Chaque poisson rapportant un certain nombre de points,\n celui qui cumule le plus de points à la fin remporte la victoire.\n \n Notez que les gros poissons peuvent parfois s'échapper,\n alors ne baissez pas les bras et réessayez.\n \n \n \n―――――――――――――――――――――――――――#20W"
+ },
+ {
+  "n": 22,
+  "fr": "J-J'ai perdu..."
+ },
+ {
+  "n": 23,
+  "fr": "Pfiou... Je suis soulagé d'avoir pu sauver mon honneur."
+ },
+ {
+  "n": 24,
+  "fr": "Je vais pouvoir dormir comme un bébé, ce soir !"
+ },
+ {
+  "n": 25,
+  "fr": "J'ai peut-être rien perdu, mais je me sens quand \nmême naze d'avoir échoué..."
+ },
+ {
+  "n": 26,
+  "fr": "{0x18}{color 5}Recommencer le mini-jeu ?"
+ },
+ {
+  "n": 27,
+  "fr": "[Recommencer]"
+ },
+ {
+  "n": 28,
+  "fr": "[Quitter la Porte]"
+ },
+ {
+  "n": 29,
+  "fr": "Youhou ! J'ai gagné !"
+ },
+ {
+  "n": 30,
+  "fr": "Alors j'ai perdu..."
+ },
+ {
+  "n": 31,
+  "fr": "Quelle bataille ! Vous vous êtes admirablement battue, \nEstelle. Il n'y a pas de honte à perdre contre quelqu'un \nd'aussi talentueux que vous."
+ },
+ {
+  "n": 32,
+  "fr": "Voilà ! Je veux que vous ayez ça."
+ },
+ {
+  "n": 33,
+  "fr": "{color 5}Lloyd donna à Estelle un leurre de couleur argentée."
+ },
+ {
+  "n": 34,
+  "fr": "U-Un leurre en argem ?"
+ },
+ {
+  "n": 35,
+  "fr": "Je peux pas prendre ça... Ça a l'air tellement cher !"
+ },
+ {
+  "n": 36,
+  "fr": "Pas question. Ce sont les règles. Je vous ai défiée en \nduel en misant ça, et j'ai été vaincu."
+ },
+ {
+  "n": 37,
+  "fr": "Si vous refusez de l'accepter, ça me donnera encore \nplus honte !"
+ },
+ {
+  "n": 38,
+  "fr": "Alors s'il vous plait ! Acceptez-le."
+ },
+ {
+  "n": 39,
+  "fr": "B-Bon, si vous insistez vraiment..."
+ },
+ {
+  "n": 40,
+  "fr": "{color 5}Ainsi, Estelle accepta le leurre argenté de la part \nde Lloyd."
+ },
+ {
+  "n": 41,
+  "fr": "{color 5}Et bien qu'elle se sentait heureuse grâce à sa \nvictoire, elle était aussi béatement inconsciente de ce \nque le destin lui réservait..."
+ },
+ {
+  "n": 42,
+  "fr": "{color 5}Reçu : {color 2}attirail de pêche{color 5}."
+ },
+ {
+  "n": 43,
+  "fr": "Reçus : {color 2}5000 miras{color 0}."
+ },
+ {
+  "n": 44,
+  "fr": "{0x18}{color 5}Passer au chapitre 2?"
+ },
+ {
+  "n": 45,
+  "fr": "[Continuer]"
+ },
+ {
+  "n": 46,
+  "fr": "[Quitter la Porte]"
+ },
+ {
+  "n": 47,
+  "fr": "{0x18}{color 5}Examen de la guilde des pêcheurs"
+ },
+ {
+  "n": 48,
+  "fr": "[Quitter la Porte]"
+ },
+ {
+  "n": 49,
+  "fr": "[Commencer depuis le début]"
+ },
+ {
+  "n": 50,
+  "fr": "[Commencer depuis le chapitre 2]"
+ },
+ {
+  "n": 51,
+  "fr": "[Commencer depuis le chapitre final]"
+ }
+]

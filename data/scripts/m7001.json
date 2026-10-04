@@ -1,0 +1,834 @@
+[
+ {
+  "n": 1,
+  "fr": "Regarde un peu ça..."
+ },
+ {
+  "n": 2,
+  "fr": "Il semble qu'il s'agissait vraiment\nd'une sorte « d'entrée »."
+ },
+ {
+  "n": 3,
+  "fr": "On dirait qu'on est toujours dans le\nmême espace clos bizarre qu'avant."
+ },
+ {
+  "n": 4,
+  "fr": "On a encore un long chemin devant\nnous, hein ?"
+ },
+ {
+  "n": 5,
+  "fr": "Certainement..."
+ },
+ {
+  "n": 6,
+  "fr": "Kevin !"
+ },
+ {
+  "n": 7,
+  "fr": "D-Des monstres ?!"
+ },
+ {
+  "n": 8,
+  "fr": "Comment ont-ils pu surgir de \nnulle part ?"
+ },
+ {
+  "n": 9,
+  "fr": "......"
+ },
+ {
+  "n": 10,
+  "fr": "Comment est-ce possible... ?"
+ },
+ {
+  "n": 11,
+  "fr": "Je vois exactement ce que tu veux dire."
+ },
+ {
+  "n": 12,
+  "fr": "Y a plein de monstres différents dans\nnotre monde, mais c'est la première\nfois que j'en vois des comme ÇA."
+ },
+ {
+  "n": 13,
+  "fr": "C'est comme être dans un tout autre univers."
+ },
+ {
+  "n": 14,
+  "fr": "......"
+ },
+ {
+  "n": 15,
+  "fr": "Et les monstres ne sont même pas\nce qu'il y a de plus étrange."
+ },
+ {
+  "n": 16,
+  "fr": "Je te le fais pas dire.\nLes effets étaient pas les mêmes\nque d'habitude non plus."
+ },
+ {
+  "n": 17,
+  "fr": "Exactement."
+ },
+ {
+  "n": 18,
+  "fr": "Les éléments espace, mirage et temps\nétaient aussi présents lors de ce combat."
+ },
+ {
+  "n": 19,
+  "fr": "Pas seulement les quatre éléments\ntraditionnels."
+ },
+ {
+  "n": 20,
+  "fr": "Quel sens de l'observation, bleusaille.\nJe pensais pas que tu te rendrais\ncompte d'autant de choses."
+ },
+ {
+  "n": 21,
+  "fr": "C'est encore une autre preuve qu'on\nest loin de chez nous."
+ },
+ {
+  "n": 22,
+  "fr": "Je veux dire, tu peux trouver une tonne de\nmonstres faibles face au feu en Zemuria, mais\nt'en trouveras jamais un seul faible face au mirage."
+ },
+ {
+  "n": 23,
+  "fr": "Tu sais comment ça marche. C'est\nparce que le monde où on vit est\ndans une dimension spirituelle inférieure."
+ },
+ {
+  "n": 24,
+  "fr": "Effectivement, je le sais. Le monde de la\nDéesse et celui où nous vivons ne se\ncroisent jamais…"
+ },
+ {
+  "n": 25,
+  "fr": "Pour citer les Testaments :"
+ },
+ {
+  "n": 26,
+  "fr": "« Notre monde et celui de la Déesse seront à\njamais séparés ; Elle se contente de faire tomber\nd'en haut des cailloux appelés miracles... »"
+ },
+ {
+  "n": 27,
+  "fr": "Tu cites mot pour mot ? Enfin bon, j'imagine\nque C'EST les principes de base."
+ },
+ {
+  "n": 28,
+  "fr": "On va de surprise en surprise. Espace, temps,\nET mirage ? Tous ici au même endroit ?"
+ },
+ {
+  "n": 29,
+  "fr": "Ça devrait être impossible..."
+ },
+ {
+  "n": 30,
+  "fr": "......"
+ },
+ {
+  "n": 31,
+  "fr": "Alors... qu'en est-il de ces monstres\nen forme de squelettes ?"
+ },
+ {
+  "n": 32,
+  "fr": "Honnêtement, c'étaient plus des « démons »\nque des monstres."
+ },
+ {
+  "n": 33,
+  "fr": "Des créatures qui ne devraient même pas avoir le \ndroit d'exister dans notre monde, et qui pourtant, \nd'une certaine manière, existent ici sans problème."
+ },
+ {
+  "n": 34,
+  "fr": "Et je doute qu'ils soient les seuls."
+ },
+ {
+  "n": 35,
+  "fr": "......"
+ },
+ {
+  "n": 36,
+  "fr": "Cela va-t-il aller pour nous, ici ?"
+ },
+ {
+  "n": 37,
+  "fr": "J'espère. Ils étaient forts, mais pas assez pour \nqu'on puisse pas s'en débarrasser si on est tous \nles deux."
+ },
+ {
+  "n": 38,
+  "fr": "C'est pas comme si on avait autre chose à faire \ndans cette zone. Continuons à marcher et on verra \nce qu'on trouve, moi je dis."
+ },
+ {
+  "n": 39,
+  "fr": "Ça vaudrait peut-être la peine d'y retourner pour \nvérifier nos configurations d'orbements, par contre, \nvu qu'on doit prendre en compte plus d'éléments."
+ },
+ {
+  "n": 40,
+  "fr": "... En effet."
+ },
+ {
+  "n": 41,
+  "fr": "Oh, Kevin. Laisse-moi te donner ceci."
+ },
+ {
+  "n": 42,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 43,
+  "fr": "Mhh ? C'est pour quoi faire ?"
+ },
+ {
+  "n": 44,
+  "fr": "Il s'agit d'un bestiaire. Il a été conçu pour consigner \nles données concernant les monstres. Leurs habitudes, \nleurs faiblesses, ce genre de choses."
+ },
+ {
+  "n": 45,
+  "fr": "Je pense qu'il serait sage pour nous\nde noter absolument tout des créatures\nque nous rencontrerons ici."
+ },
+ {
+  "n": 46,
+  "fr": "Bien que je suppose que « Guide des démons »\r\nserait probablement un terme plus approprié ici."
+ },
+ {
+  "n": 47,
+  "fr": "Ha ha. Je te le fais pas dire."
+ },
+ {
+  "n": 48,
+  "fr": "Tu es sûre que je peux pas juste\ngarder toutes ces informations\ndans ma petite tête ?"
+ },
+ {
+  "n": 49,
+  "fr": "Je mets déjà bien assez de trucs dans mon carnet \nde Gralsritter comme ça ! Je vais plus sentir mes \ndoigts, à ce rythme."
+ },
+ {
+  "n": 50,
+  "fr": "... Tu te plains beaucoup trop, Kevin."
+ },
+ {
+  "n": 51,
+  "fr": "Tu es un Gralsritter. Fais ton travail."
+ },
+ {
+  "n": 52,
+  "fr": "Ugh... Oui, Madame."
+ },
+ {
+  "n": 53,
+  "fr": "Autant faire ça tout de suite, j'imagine."
+ },
+ {
+  "n": 54,
+  "fr": "*gribouille* *gribouille*"
+ },
+ {
+  "n": 55,
+  "fr": "Voilà. Contente ?"
+ },
+ {
+  "n": 56,
+  "fr": "Hein ? C'est quoi, ça ?"
+ },
+ {
+  "n": 57,
+  "fr": "C'est si joli..."
+ },
+ {
+  "n": 58,
+  "fr": "Cela ressemble quelque peu à un cube de septium,\nmais je ne pense pas que ce soit cela..."
+ },
+ {
+  "n": 59,
+  "fr": "Ouais. Peut-être qu'on devrait le toucher et voir \nce qui se passe."
+ },
+ {
+  "n": 60,
+  "fr": "Trouvée : {item item[850]}{color 0}."
+ },
+ {
+  "n": 61,
+  "fr": "Cela semble-t-il être dangereux ?"
+ },
+ {
+  "n": 62,
+  "fr": "Non. Ça a l'air inoffensif, selon moi."
+ },
+ {
+  "n": 63,
+  "fr": "J'aimerais savoir ce que c'est, par contre.\nLa lumière qui en émane est si... chaleureuse."
+ },
+ {
+  "n": 64,
+  "fr": "Ce genre d'éclat lent et rythmé me rappelle un \npeu un cœur battant."
+ },
+ {
+  "n": 65,
+  "fr": "Était-ce... ?"
+ },
+ {
+  "n": 66,
+  "fr": "Revoilà notre Cube."
+ },
+ {
+  "n": 67,
+  "fr": "{color 12}{0x18}#2S#80WVisiteur d'une contrée lointaine..."
+ },
+ {
+  "n": 68,
+  "fr": "{color 12}{0x18}#2S#80WVous, qui possédez le Cube..."
+ },
+ {
+  "n": 69,
+  "fr": "C'est la voix de tout à l'heure..."
+ },
+ {
+  "n": 70,
+  "fr": "Vous êtes qui, en fait ?!"
+ },
+ {
+  "n": 71,
+  "fr": "Depuis où est-ce que vous nous parlez ?!"
+ },
+ {
+  "n": 72,
+  "fr": "{color 12}{0x18}#2S#80WDressez cette pierre-sceau devant \nle monument, dans le jardin..."
+ },
+ {
+  "n": 73,
+  "fr": "{color 12}{0x18}#2S#80W... Alors la barrière... et le prisonnier... \nseront..."
+ },
+ {
+  "n": 74,
+  "fr": "Rah... J'arrive à peine à comprendre ce que\nla voix essaie de dire..."
+ },
+ {
+  "n": 75,
+  "fr": "Tout ce que j'ai pu saisir, c'est qu'il faut\nqu'on apporte ce truc au monument."
+ },
+ {
+  "n": 76,
+  "fr": "{color 12}{0x18}#2S#80W... Je vais débloquer un nouveau \npouvoir... Cube..."
+ },
+ {
+  "n": 77,
+  "fr": "{color 12}{0x18}#2S#80W... Faites-en bon... usage..."
+ },
+ {
+  "n": 78,
+  "fr": "{color 5}La capacité de téléportation du Cube est \nmaintenant disponible."
+ },
+ {
+  "n": 79,
+  "fr": "{color 5}Pour l'utiliser, cliquez sur l'icône dans le coin en \nhaut à droite de l'écran, puis sélectionnez l'endroit vers \nlequel vous souhaitez vous téléporter."
+ },
+ {
+  "n": 80,
+  "fr": "Q-Qu'est-ce que... ?"
+ },
+ {
+  "n": 81,
+  "fr": "{color 12}{0x18}#2S#80WMéfiez-vous de... l'être malveillant..."
+ },
+ {
+  "n": 82,
+  "fr": "{color 12}{0x18}#2S#80WRassemblez vos forces... sinon vous \naussi serez à jamais..."
+ },
+ {
+  "n": 83,
+  "fr": "{color 12}{0x18}#2S#80W..."
+ },
+ {
+  "n": 84,
+  "fr": "Euhhh..."
+ },
+ {
+  "n": 85,
+  "fr": "Me demande même pas..."
+ },
+ {
+  "n": 86,
+  "fr": "Honnêtement, je suis tout aussi dépassé\nque toi par ce qui arrive."
+ },
+ {
+  "n": 87,
+  "fr": "Je ressens rien de mauvais émanant de la voix, au \nmoins. C'est plutôt comme si elle essayait de nous \nguider pour avancer."
+ },
+ {
+  "n": 88,
+  "fr": "C'est vrai. "
+ },
+ {
+  "n": 89,
+  "fr": "Tu ne penses pas que le Cube ait sa propre volonté \net que ce soit lui qui nous parle, n'est-ce pas ?"
+ },
+ {
+  "n": 90,
+  "fr": "J'en doute. La voix parlait du Cube comme si c'était \nun objet à part."
+ },
+ {
+  "n": 91,
+  "fr": "Je pense que la source de la voix est quelqu'un \nd'autre."
+ },
+ {
+  "n": 92,
+  "fr": "Et puis il y a aussi cet « être malveillant » qu'elle a\nmentionné."
+ },
+ {
+  "n": 93,
+  "fr": "Ça pourrait être cet homme en noir qu'on a vu quand \non a atterri ici, mais ça pourrait tout aussi bien être \nquelqu'un d'autre."
+ },
+ {
+  "n": 94,
+  "fr": "... Tout ceci commence à me donner mal à la tête."
+ },
+ {
+  "n": 95,
+  "fr": "Bienvenue au club..."
+ },
+ {
+  "n": 96,
+  "fr": "Bon, essayons d'avancer petit à petit, OK ?"
+ },
+ {
+  "n": 97,
+  "fr": "Et à ce propos, la meilleure manière de commencer \nest probablement d'essayer le nouveau pouvoir \ndu Cube."
+ },
+ {
+  "n": 98,
+  "fr": "Tu es sérieux ?"
+ },
+ {
+  "n": 99,
+  "fr": "Aussi sérieux que je puisse l'être."
+ },
+ {
+  "n": 100,
+  "fr": "Un artéfact capable de téléporter, c'est pas\nle genre de truc qu'on croise tous les jours."
+ },
+ {
+  "n": 101,
+  "fr": "Et vu le pétrin dans lequel on est, on doit\nutiliser tout ce qui est à notre disposition."
+ },
+ {
+  "n": 102,
+  "fr": "... D'accord."
+ },
+ {
+  "n": 103,
+  "fr": "Assure-toi d'être prudent en l'utilisant."
+ },
+ {
+  "n": 104,
+  "fr": "Ouais."
+ },
+ {
+  "n": 105,
+  "fr": "Attends. Pourquoi on saisirait pas l'occasion\npour essayer d'utiliser le Cube ?"
+ },
+ {
+  "n": 106,
+  "fr": "Je veux voir s'il nous laisse vraiment\nnous téléporter."
+ },
+ {
+  "n": 107,
+  "fr": "... Sommes-nous obligés ?"
+ },
+ {
+  "n": 108,
+  "fr": "Attends. Pourquoi on saisirait pas l'occasion\npour essayer d'utiliser le Cube ?"
+ },
+ {
+  "n": 109,
+  "fr": "Je veux voir s'il nous laisse vraiment\nnous téléporter."
+ },
+ {
+  "n": 110,
+  "fr": "... Sommes-nous obligés ?"
+ },
+ {
+  "n": 111,
+  "fr": "Mhh ?"
+ },
+ {
+  "n": 112,
+  "fr": "Ce chemin n'était pas bloqué, auparavant ?"
+ },
+ {
+  "n": 113,
+  "fr": "Ah si... Il se passe quoi ?"
+ },
+ {
+  "n": 114,
+  "fr": "Quelque chose ne va pas ?"
+ },
+ {
+  "n": 115,
+  "fr": "La dernière fois que nous sommes\npassés par ici, ce chemin était bloqué\npar une sorte de barrière."
+ },
+ {
+  "n": 116,
+  "fr": "Mais comme tu peux le voir,\nelle n'apparaît plus, à présent."
+ },
+ {
+  "n": 117,
+  "fr": "Vraiment... ?"
+ },
+ {
+  "n": 118,
+  "fr": "Je me demande ce qui aurait pu causer ça."
+ },
+ {
+  "n": 119,
+  "fr": "Eh bien, si on réfléchit à ce qui a changé\nentre la dernière fois où on est venus ici\net maintenant..."
+ },
+ {
+  "n": 120,
+  "fr": "... peut-être que c'est d'avoir libéré Tita\nde la pierre qui a fait disparaître cette\nbarrière ?"
+ },
+ {
+  "n": 121,
+  "fr": "En même temps, on a rien fait d'autre."
+ },
+ {
+  "n": 122,
+  "fr": "O-Oh, je vois..."
+ },
+ {
+  "n": 123,
+  "fr": "Ça pourrait être ça."
+ },
+ {
+  "n": 124,
+  "fr": "Ah ? Tu penses ?"
+ },
+ {
+  "n": 125,
+  "fr": "Réfléchissez-y. La pierre dans laquelle j'étais \nenfermée était aussi près d'ici, n'est-ce pas ?\nCe n'est peut-être pas une coïncidence."
+ },
+ {
+  "n": 126,
+  "fr": "Ça pourrait faire partie des nombreux\nprincipes qui régissent cet endroit qu'on\nn'a juste pas encore identifiés."
+ },
+ {
+  "n": 127,
+  "fr": "Des principes ?"
+ },
+ {
+  "n": 128,
+  "fr": "... Mhh. Je pense que je comprends\nce que tu veux dire."
+ },
+ {
+  "n": 129,
+  "fr": "Dans ce cas, nous n'aurions pas pu aller\nplus loin si nous ne t'avions pas libérée\nde cette pierre ?"
+ },
+ {
+  "n": 130,
+  "fr": "C'est ça. Je ne peux pas en être sûre,\nmais j'ai un bon pressentiment."
+ },
+ {
+  "n": 131,
+  "fr": "Et un bon pressentiment, ça me suffit,\npour l'instant."
+ },
+ {
+  "n": 132,
+  "fr": "On a toujours pas d'indice sur qui est responsable \nde la situation dans laquelle on se trouve, mais on \ndirait que ça a été vraiment planifié délibérément."
+ },
+ {
+  "n": 133,
+  "fr": "Raison pour laquelle nous devrons être prudents, \nje suppose."
+ },
+ {
+  "n": 134,
+  "fr": "Hein ?"
+ },
+ {
+  "n": 135,
+  "fr": "Hein ?"
+ },
+ {
+  "n": 136,
+  "fr": "Hein ?"
+ },
+ {
+  "n": 137,
+  "fr": "Qu'est-ce que c'est ?"
+ },
+ {
+  "n": 138,
+  "fr": "Une porte brillante avec une lune dessus... ?"
+ },
+ {
+  "n": 139,
+  "fr": "{color 5}#2S#40WBienvenue..."
+ },
+ {
+  "n": 140,
+  "fr": "{color 5}#40WAmenez-moi la fille versée en \ningénierie orbale...\n\n#500W\n#40WÀ ce moment seulement s'ouvrira la Porte...{color 0}"
+ },
+ {
+  "n": 141,
+  "fr": "W-Wouah ! J'ai entendu une voix parler\ndirectement dans ma tête !"
+ },
+ {
+  "n": 142,
+  "fr": "On dirait que cette porte a sa propre\nvolonté, comme l'arbre, la source et\nle monument dans le jardin."
+ },
+ {
+  "n": 143,
+  "fr": "Un jour je m'habituerai à tous ces objets\nbizarres qui parlent, j'en suis sûr..."
+ },
+ {
+  "n": 144,
+  "fr": "Je n'ai en tête qu'une personne qui\npuisse correspondre à la description\ndonnée par la porte..."
+ },
+ {
+  "n": 145,
+  "fr": "T-Tu penses qu'elle parle de moi ?"
+ },
+ {
+  "n": 146,
+  "fr": "Fort possible."
+ },
+ {
+  "n": 147,
+  "fr": "C'est un peu nul, comme devinette.\nC'est clair que c'est ni moi, ni Ries."
+ },
+ {
+  "n": 148,
+  "fr": "Hé, la porte. C'est d'elle que tu parles, hein ?"
+ },
+ {
+  "n": 149,
+  "fr": "{color 5}#2S#40WEn effet... Elle est celle que je cherche."
+ },
+ {
+  "n": 150,
+  "fr": "{color 5}#40WElle seule peut entrer...\n#500W\n#40WSi elle ne craint point l'épreuve qui l'attend,\nqu'elle franchisse le seuil la Porte."
+ },
+ {
+  "n": 151,
+  "fr": "U-Une épreuve ?!"
+ },
+ {
+  "n": 152,
+  "fr": "Peut-être qu'elle veut tester ta force\npour voir si tu mérites... quelque chose."
+ },
+ {
+  "n": 153,
+  "fr": "Et apparemment, on peut même pas aller\nà l'intérieur pour te venir en aide."
+ },
+ {
+  "n": 154,
+  "fr": "Ceci est absurde."
+ },
+ {
+  "n": 155,
+  "fr": "Je propose d'ignorer cette porte\net de continuer notre chemin."
+ },
+ {
+  "n": 156,
+  "fr": "......"
+ },
+ {
+  "n": 157,
+  "fr": "A-Attendez !"
+ },
+ {
+  "n": 158,
+  "fr": "Je vais rentrer à l'intérieur !"
+ },
+ {
+  "n": 159,
+  "fr": "Mais, Tita..."
+ },
+ {
+  "n": 160,
+  "fr": "Attends une seconde !\nPas question..."
+ },
+ {
+  "n": 161,
+  "fr": "Je pense que ça pourrait être un autre de ces \n« principes » dont je parlais tout à l'heure."
+ },
+ {
+  "n": 162,
+  "fr": "Et en plus, on a tellement peu de matière pour \nce qui est de sortir d'ici. On a besoin de tous\nles indices et de l'aide qu'on peut trouver."
+ },
+ {
+  "n": 163,
+  "fr": "Si ça a l'air trop dangereux, je ressortirai\ntout de suite. C'est promis !"
+ },
+ {
+  "n": 164,
+  "fr": "Eh bien..."
+ },
+ {
+  "n": 165,
+  "fr": "......"
+ },
+ {
+  "n": 166,
+  "fr": "D'accord. On compte sur toi."
+ },
+ {
+  "n": 167,
+  "fr": "Mais comme tu l'as dit, si ça a l'air trop dangereux, \nressors immédiatement. T'expose pas à plus de \ndanger que nécessaire."
+ },
+ {
+  "n": 168,
+  "fr": "Sois prudente."
+ },
+ {
+  "n": 169,
+  "fr": "Oui !"
+ },
+ {
+  "n": 170,
+  "fr": "Aidios soit louée ! Tu vas bien."
+ },
+ {
+  "n": 171,
+  "fr": "Est-ce que tu te sens bien ?\nTu as l'air fatiguée."
+ },
+ {
+  "n": 172,
+  "fr": "Hi hi. Je vais bien !"
+ },
+ {
+  "n": 173,
+  "fr": "J'ai dû me battre contre des ennemis\neffrayants, mais j'ai réussi à m'en sortir."
+ },
+ {
+  "n": 174,
+  "fr": "C'est bien..."
+ },
+ {
+  "n": 175,
+  "fr": "Il s'est passé quoi là-dedans, du coup ?"
+ },
+ {
+  "n": 176,
+  "fr": "Eh bien..."
+ },
+ {
+  "n": 177,
+  "fr": "{color 5}Tita expliqua tout ce qui s'était passé de l'autre \ncôté de la Porte."
+ },
+ {
+  "n": 178,
+  "fr": "Je vois..."
+ },
+ {
+  "n": 179,
+  "fr": "Ouais. On dirait que c'est bien un autre de nos \nprincipes."
+ },
+ {
+  "n": 180,
+  "fr": "En d'autres termes, il faut d'abord remplir\ncertaines conditions pour que la porte s'ouvre."
+ },
+ {
+  "n": 181,
+  "fr": "Après ça, il faut remporter un combat, ou \nune épreuve..."
+ },
+ {
+  "n": 182,
+  "fr": "Si on gagne, on obtient la possibilité de voir un \ngenre de « fragment de mémoire » et d'en sortir \navec des miras en bonus."
+ },
+ {
+  "n": 183,
+  "fr": "Ça résume le truc ?"
+ },
+ {
+  "n": 184,
+  "fr": "Oui...\nC'est comme ça que ça s'est passé pour moi."
+ },
+ {
+  "n": 185,
+  "fr": "Le fragment de mémoire n'avait pas l'air d'être \ncomplètement achevé, par contre. On aurait dit \nqu'il y avait davantage que je n'ai pas pu voir."
+ },
+ {
+  "n": 186,
+  "fr": "Mhh..."
+ },
+ {
+  "n": 187,
+  "fr": "Peut-être qu'il y a plus d'un seul schéma pour le \nfonctionnement de ces portes, dans ce cas."
+ },
+ {
+  "n": 188,
+  "fr": "Dans tous les cas, à chaque fois qu'on en trouvera \nune, on ferait probablement mieux de noter son \nemplacement et ses conditions."
+ },
+ {
+  "n": 189,
+  "fr": "En effet."
+ },
+ {
+  "n": 190,
+  "fr": "{color 5}À propos des Portes des Souvenirs"
+ },
+ {
+  "n": 191,
+  "fr": "{color 5}Les Portes des Souvenirs sont situées tout au \nlong du jeu et vous permettent de voir des scènes \noptionnelles diverses. En tout, il y a trois types de Portes."
+ },
+ {
+  "n": 192,
+  "fr": "Les [Portes de la Lune] contiennent de longs épisodes.\nLes [Portes des Étoiles] contiennent de courts épisodes.\nLes [Portes du Soleil] contiennent des mini-jeux."
+ },
+ {
+  "n": 193,
+  "fr": "Pour ouvrir une Porte, vous devrez remplir une ou \nplusieurs conditions."
+ },
+ {
+  "n": 194,
+  "fr": "Qui plus est, certaines Portes nécessiteront que\ncertains personnages gagnent un combat pour\npouvoir accéder au contenu qu'elles renferment."
+ },
+ {
+  "n": 195,
+  "fr": "Après avoir visionné le contenu d'une Porte pour\nla première fois, vous gagnerez des miras, et selon\nvos choix ou actions, potentiellement des bonus,\ncomme des objets."
+ },
+ {
+  "n": 196,
+  "fr": "Toutes ces informations sont automatiquement\ninscrites dans le carnet et peuvent être consultées\nà tout moment."
+ },
+ {
+  "n": 197,
+  "fr": "Enfin, vous pouvez également vous téléporter vers \nn'importe quelle Porte que vous ayez découverte en \nutilisant le Cube."
+ },
+ {
+  "n": 198,
+  "fr": "{color 5}#40WAmenez-moi la fille compétente en \ningénierie orbale, accompagnée d'une flamme à jamais \nincandescente.\n\nÀ ce moment seulement s'ouvrira la Porte...{color 0}"
+ },
+ {
+  "n": 199,
+  "fr": "{color 5}Ouvrir la Porte ?{0x18}"
+ },
+ {
+  "n": 200,
+  "fr": "[Voir la partie 1]"
+ },
+ {
+  "n": 201,
+  "fr": "[Voir la partie 2]"
+ },
+ {
+  "n": 202,
+  "fr": "[Partir]"
+ },
+ {
+  "n": 203,
+  "fr": "\"{color 5}#40WLorsque vous aurez rempli mes conditions, \r\nvenez me trouver à nouveau.\r\n#500W\r\n#40WÀ ce moment seulement s'ouvrira la Porte...{color 0}\""
+ },
+ {
+  "n": 204,
+  "fr": "Trouvé : {item item[657]}{color 0}."
+ },
+ {
+  "n": 205,
+  "fr": "Trouvé : {item item[657]}{color 0}.\nInventaire plein. Objet reposé."
+ },
+ {
+  "n": 207,
+  "fr": "Trouvé : {item item[501]}{color 0}."
+ },
+ {
+  "n": 208,
+  "fr": "Trouvé : {item item[501]}{color 0}.\nInventaire plein. Objet reposé."
+ },
+ {
+  "n": 210,
+  "fr": "Trouvés : {color 2}300 miras{color 0}."
+ }
+]

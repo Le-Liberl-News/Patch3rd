@@ -1,0 +1,302 @@
+[
+ {
+  "cle": "2",
+  "type": "réplique",
+  "fr": "Allez, on y va !"
+ },
+ {
+  "cle": "3",
+  "type": "réplique",
+  "fr": "On y va !"
+ },
+ {
+  "cle": "4",
+  "type": "réplique",
+  "fr": "Prêt à attaquer ?!"
+ },
+ {
+  "cle": "5",
+  "type": "réplique",
+  "fr": "À mon service !"
+ },
+ {
+  "cle": "6",
+  "type": "réplique",
+  "fr": "On y va ensemble !"
+ },
+ {
+  "cle": "7",
+  "type": "réplique",
+  "fr": "C'est le moment !"
+ },
+ {
+  "cle": "8",
+  "type": "réplique",
+  "fr": "On... on y va !"
+ },
+ {
+  "cle": "9",
+  "type": "réplique",
+  "fr": "Allez, on charge !"
+ },
+ {
+  "cle": "10",
+  "type": "réplique",
+  "fr": "Allez, on se bouge !"
+ },
+ {
+  "cle": "11",
+  "type": "réplique",
+  "fr": "Let's go !"
+ },
+ {
+  "cle": "12",
+  "type": "réplique",
+  "fr": "Hop hop hop, on y va !"
+ },
+ {
+  "cle": "13",
+  "type": "réplique",
+  "fr": "À l'attaque !"
+ },
+ {
+  "cle": "14",
+  "type": "réplique",
+  "fr": "Suivez-moi !"
+ },
+ {
+  "cle": "15",
+  "type": "réplique",
+  "fr": "À l'assaut !"
+ },
+ {
+  "cle": "16",
+  "type": "réplique",
+  "fr": "Allons-y... !"
+ },
+ {
+  "cle": "17",
+  "type": "réplique",
+  "fr": "Hi hi, Renne y va ♪"
+ },
+ {
+  "cle": "18",
+  "type": "réplique",
+  "fr": "On lui rentre dedans !"
+ },
+ {
+  "cle": "19",
+  "type": "réplique",
+  "fr": "On lui rentre dedans !"
+ },
+ {
+  "cle": "20",
+  "type": "réplique",
+  "fr": "On lui fait sa fête !"
+ },
+ {
+  "cle": "21",
+  "type": "réplique",
+  "fr": "Allez !"
+ },
+ {
+  "cle": "22",
+  "type": "réplique",
+  "fr": "OK !"
+ },
+ {
+  "cle": "23",
+  "type": "réplique",
+  "fr": "Je te suis !"
+ },
+ {
+  "cle": "24",
+  "type": "réplique",
+  "fr": "Bien reçu !"
+ },
+ {
+  "cle": "25",
+  "type": "réplique",
+  "fr": "Avec plaisir !"
+ },
+ {
+  "cle": "26",
+  "type": "réplique",
+  "fr": "D'accord !"
+ },
+ {
+  "cle": "27",
+  "type": "réplique",
+  "fr": "T'inquiète, je gère !"
+ },
+ {
+  "cle": "28",
+  "type": "réplique",
+  "fr": "D-D'accord !"
+ },
+ {
+  "cle": "29",
+  "type": "réplique",
+  "fr": "Ça roule !"
+ },
+ {
+  "cle": "30",
+  "type": "réplique",
+  "fr": "Yeah !"
+ },
+ {
+  "cle": "31",
+  "type": "réplique",
+  "fr": "Compris !"
+ },
+ {
+  "cle": "32",
+  "type": "réplique",
+  "fr": "Ça marche !"
+ },
+ {
+  "cle": "33",
+  "type": "réplique",
+  "fr": "Volontiers !"
+ },
+ {
+  "cle": "34",
+  "type": "réplique",
+  "fr": "Très bien !"
+ },
+ {
+  "cle": "35",
+  "type": "réplique",
+  "fr": "Reçu 5 sur 5 !"
+ },
+ {
+  "cle": "36",
+  "type": "réplique",
+  "fr": "Compris... !"
+ },
+ {
+  "cle": "37",
+  "type": "réplique",
+  "fr": "Renne s'en occupe !"
+ },
+ {
+  "cle": "38",
+  "type": "réplique",
+  "fr": "Ouais !"
+ },
+ {
+  "cle": "39",
+  "type": "réplique",
+  "fr": "Ouais !"
+ },
+ {
+  "cle": "40",
+  "type": "réplique",
+  "fr": "Ouais !"
+ },
+ {
+  "cle": "41",
+  "type": "réplique",
+  "fr": "Youhou !"
+ },
+ {
+  "cle": "42",
+  "type": "réplique",
+  "fr": "C'est fini !"
+ },
+ {
+  "cle": "43",
+  "type": "réplique",
+  "fr": "Prends ça !"
+ },
+ {
+  "cle": "44",
+  "type": "réplique",
+  "fr": "Hors de ma vue !"
+ },
+ {
+  "cle": "45",
+  "type": "réplique",
+  "fr": "Hm, délicieux !"
+ },
+ {
+  "cle": "46",
+  "type": "réplique",
+  "fr": "J'y vais !"
+ },
+ {
+  "cle": "47",
+  "type": "réplique",
+  "fr": "T'es foutu !"
+ },
+ {
+  "cle": "48",
+  "type": "réplique",
+  "fr": "Euh, euh... Prends ça !"
+ },
+ {
+  "cle": "49",
+  "type": "réplique",
+  "fr": "Finissons-en !"
+ },
+ {
+  "cle": "50",
+  "type": "réplique",
+  "fr": "C'est fini pour vous !"
+ },
+ {
+  "cle": "51",
+  "type": "réplique",
+  "fr": "Et bim !"
+ },
+ {
+  "cle": "52",
+  "type": "réplique",
+  "fr": "Mange ça !"
+ },
+ {
+  "cle": "53",
+  "type": "réplique",
+  "fr": "Et le coup final !"
+ },
+ {
+  "cle": "54",
+  "type": "réplique",
+  "fr": "Mourrez !!"
+ },
+ {
+  "cle": "55",
+  "type": "réplique",
+  "fr": "En plein cœur !!"
+ },
+ {
+  "cle": "56",
+  "type": "réplique",
+  "fr": "Et le dernier coup... !"
+ },
+ {
+  "cle": "57",
+  "type": "réplique",
+  "fr": "Hi hi, adieu !!"
+ },
+ {
+  "cle": "58",
+  "type": "réplique",
+  "fr": "Raaah !"
+ },
+ {
+  "cle": "59",
+  "type": "réplique",
+  "fr": "Taaah !"
+ },
+ {
+  "cle": "60",
+  "type": "réplique",
+  "fr": "Daaah !"
+ },
+ {
+  "cle": "61",
+  "type": "réplique",
+  "fr": "Et voilà le travail !!"
+ }
+]

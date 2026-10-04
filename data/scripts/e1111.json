@@ -1,0 +1,486 @@
+[
+ {
+  "n": 1,
+  "fr": "... Pas un pas de plus."
+ },
+ {
+  "n": 2,
+  "fr": "Cet escalier mène aux appartements privés de \nSire Conrad."
+ },
+ {
+  "n": 3,
+  "fr": "J'ai peur de devoir vous demander de partir."
+ },
+ {
+  "n": 4,
+  "fr": "Je me doutais que vous diriez quelque chose du \ngenre."
+ },
+ {
+  "n": 5,
+  "fr": "Cela dit, désolé. C'est pas votre jour de chance."
+ },
+ {
+  "n": 6,
+  "fr": "Qu... ?"
+ },
+ {
+  "n": 7,
+  "fr": "Q-Qu'est-ce que vous faites ?!"
+ },
+ {
+  "n": 8,
+  "fr": "Gah !{0x05}"
+ },
+ {
+  "n": 9,
+  "fr": "Ugh !{0x05}"
+ },
+ {
+  "n": 10,
+  "fr": "On dirait que j'ai affaire à une bande de jaegers \nmarginaux."
+ },
+ {
+  "n": 11,
+  "fr": "Ils ont pas l'air d'être super bien entraînés non \nplus. Ça va être du gâteau."
+ },
+ {
+  "n": 12,
+  "fr": "Ah, si seulement toutes mes missions pouvaient\nêtre aussi faciles."
+ },
+ {
+  "n": 13,
+  "fr": "Wow. Que d'extravagance sans intérêt."
+ },
+ {
+  "n": 14,
+  "fr": "Bon... Voyons, où il l'a caché ?"
+ },
+ {
+  "n": 15,
+  "fr": "{color 5}Il y a une sorte d'interrupteur derrière le bureau."
+ },
+ {
+  "n": 16,
+  "fr": "{color 5}Appuyer sur l'interrupteur ?"
+ },
+ {
+  "n": 17,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 18,
+  "fr": "[Non]"
+ },
+ {
+  "n": 19,
+  "fr": "{color 5}Il y a un interrupteur suspect à l'intérieur de \nla plante en pot."
+ },
+ {
+  "n": 20,
+  "fr": "{color 5}Appuyer sur l'interrupteur ?"
+ },
+ {
+  "n": 21,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 22,
+  "fr": "[Non]"
+ },
+ {
+  "n": 23,
+  "fr": "{color 5}Il y a un genre d'interrupteur sous le vase."
+ },
+ {
+  "n": 24,
+  "fr": "{color 5}Appuyer sur l'interrupteur ?"
+ },
+ {
+  "n": 25,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 26,
+  "fr": "[Non]"
+ },
+ {
+  "n": 27,
+  "fr": "{color 5}Ce coin du tapis est bizarrement usé."
+ },
+ {
+  "n": 28,
+  "fr": "{color 5}Marcher dessus ?"
+ },
+ {
+  "n": 29,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 30,
+  "fr": "[Non]"
+ },
+ {
+  "n": 31,
+  "fr": "{color 5}Il y a un interrupteur dans l'accoudoir du canapé."
+ },
+ {
+  "n": 32,
+  "fr": "{color 5}Appuyer sur l'interrupteur ?"
+ },
+ {
+  "n": 33,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 34,
+  "fr": "[Non]"
+ },
+ {
+  "n": 35,
+  "fr": "{color 5}Tous les interrupteurs ont été remis dans leur \nposition initiale !"
+ },
+ {
+  "n": 36,
+  "fr": "Celui-là devait être un faux."
+ },
+ {
+  "n": 37,
+  "fr": "Bah... J'aurais dû me douter qu'ils rendraient pas \nles choses faciles."
+ },
+ {
+  "n": 38,
+  "fr": "Bah... J'aurais dû me douter qu'ils rendraient pas \nles choses faciles."
+ },
+ {
+  "n": 39,
+  "fr": "Voyez-vous ça, un interrupteur..."
+ },
+ {
+  "n": 40,
+  "fr": "À tous les coups, il doit y en avoir d'autres."
+ },
+ {
+  "n": 41,
+  "fr": "À tous les coups, il doit y en avoir d'autres."
+ },
+ {
+  "n": 42,
+  "fr": "Bon, le prochain est où... ?"
+ },
+ {
+  "n": 43,
+  "fr": "Je doute que ça soit le dernier..."
+ },
+ {
+  "n": 44,
+  "fr": "Ha ha... Et voilà."
+ },
+ {
+  "n": 45,
+  "fr": "Tout jusqu'ici se passe exactement comme je l'ai \nprévu, ce qui veut dire que..."
+ },
+ {
+  "n": 46,
+  "fr": "{color 5}Il y a un tableau avec des boutons sur lesquels \nsont inscrites des lettres."
+ },
+ {
+  "n": 47,
+  "fr": "{color 5}Un genre de mot de passe doit apparemment \nêtre entré."
+ },
+ {
+  "n": 48,
+  "fr": "Mhh... Je me demande..."
+ },
+ {
+  "n": 49,
+  "fr": "{color 5}Le mot de passe est...{0x18}"
+ },
+ {
+  "n": 50,
+  "fr": "[ORFEUS]"
+ },
+ {
+  "n": 51,
+  "fr": "[ORPHEUS]"
+ },
+ {
+  "n": 52,
+  "fr": "[OLPHEUS]"
+ },
+ {
+  "n": 53,
+  "fr": "{color 5}Il ne s'est rien passé."
+ },
+ {
+  "n": 54,
+  "fr": "Je m'en doutais."
+ },
+ {
+  "n": 55,
+  "fr": "On dirait que ma cible cette fois-ci est\nun de ces jouets qu'ILS se sont amusés à\ndisperser un peu partout."
+ },
+ {
+  "n": 56,
+  "fr": "{color 5}Il ne s'est rien passé."
+ },
+ {
+  "n": 57,
+  "fr": "Je m'en doutais."
+ },
+ {
+  "n": 58,
+  "fr": "On dirait que ma cible cette fois-ci est\nun de ces jouets qu'ILS se sont amusés à\ndisperser un peu partout."
+ },
+ {
+  "n": 59,
+  "fr": "Le « Médaillon du Fou », hein ?"
+ },
+ {
+  "n": 60,
+  "fr": "Un artéfact interdit capable de faire passer\nn'importe quel mensonge pour la vérité,\nou presque."
+ },
+ {
+  "n": 61,
+  "fr": "*soupir* Vraiment pas le genre de truc que\nce marchand d'armes devrait avoir\nen sa possession."
+ },
+ {
+  "n": 62,
+  "fr": "Hé..."
+ },
+ {
+  "n": 63,
+  "fr": "Ugh... Qu'est-ce qui se passe, ici ?!"
+ },
+ {
+  "n": 64,
+  "fr": "Qu'est-il arrivé aux deux types qui montaient la \ngarde ici ?!"
+ },
+ {
+  "n": 65,
+  "fr": "Ils se sont tous les deux endormis."
+ },
+ {
+  "n": 66,
+  "fr": "On dirait que celui qui a fait ça a utilisé une \nfléchette ou un genre de vaporisateur."
+ },
+ {
+  "n": 67,
+  "fr": "Hmph. Tu penses qu'on a affaire à quelqu'un du \nmétier ?"
+ },
+ {
+  "n": 68,
+  "fr": "On ferait mieux de le garder enfermé ici jusqu'à \nce que la fête soit finie."
+ },
+ {
+  "n": 69,
+  "fr": "On pourra faire notre rapport à Maître Conrad \naprès."
+ },
+ {
+  "n": 70,
+  "fr": "Quelles sont les chances qu'il ait des complices ?"
+ },
+ {
+  "n": 71,
+  "fr": "D'après la caméra de surveillance,\nil a l'air d'être seul."
+ },
+ {
+  "n": 72,
+  "fr": "Par contre, y a de grandes chances qu'il\nait des complices en soutien."
+ },
+ {
+  "n": 73,
+  "fr": "Je dirais qu'on ferait mieux de garder l'oeil sur \ntous les invités pour l'instant. Faudrait pas que \nqui que ce soit nous passe sous le nez."
+ },
+ {
+  "n": 74,
+  "fr": "{color 5}Ha ha ha..."
+ },
+ {
+  "n": 75,
+  "fr": "Il vient de se moquer de nous, là... ?"
+ },
+ {
+  "n": 76,
+  "fr": "Qu'est-ce qui te fait rire, insolent ?!"
+ },
+ {
+  "n": 77,
+  "fr": "{color 5}Oh, rien... je me disais juste que je devrais \nprobablement m'excuser de vous avoir sous-estimés."
+ },
+ {
+  "n": 78,
+  "fr": "{color 5}Je vous avais pris pour des jaegers marginaux \nsans entraînement, mais peut-être que vous en \navez plus dans le ventre que ce que je pensais."
+ },
+ {
+  "n": 79,
+  "fr": "Espèce de..."
+ },
+ {
+  "n": 80,
+  "fr": "Hmph. Tu as du cran. Je te l'accorde."
+ },
+ {
+  "n": 81,
+  "fr": "Je sais pas comment tu es arrivé là, mais tu\ndevrais savoir que Maître Conrad est un homme \nsans pitié."
+ },
+ {
+  "n": 82,
+  "fr": "N'espère pas sortir de là en un seul morceau."
+ },
+ {
+  "n": 83,
+  "fr": "Hé hé hé..."
+ },
+ {
+  "n": 84,
+  "fr": "Quand on en aura fini avec toi, tu vas te retrouver\nà supplier pour qu'on t'achève."
+ },
+ {
+  "n": 85,
+  "fr": "{color 5}Ha ha... Et bien, ça a l'air amusant, non ?"
+ },
+ {
+  "n": 86,
+  "fr": "Malheureusement pour vous, j'ai déjà\nun rencard de prévu, donc je vais pas\npouvoir vous prendre au mot."
+ },
+ {
+  "n": 87,
+  "fr": "Qu'est-ce que... ?!"
+ },
+ {
+  "n": 88,
+  "fr": "C-Comment... ?"
+ },
+ {
+  "n": 89,
+  "fr": "{color 5}Oh, ouais. J'aurais probablement dû le \ndire plus tôt."
+ },
+ {
+  "n": 90,
+  "fr": "{color 5}Si j'étais vous, je me tiendrais aussi loin\nque possible de cette porte."
+ },
+ {
+  "n": 91,
+  "fr": "Qu'est-ce qui vient de se passer ?!"
+ },
+ {
+  "n": 92,
+  "fr": "I-Impossible..."
+ },
+ {
+  "n": 93,
+  "fr": "Cette porte a été conçue pour résister au tir \ndirect d'un canon orbal !"
+ },
+ {
+  "n": 94,
+  "fr": "Pfiou, vous avez pas idée d'à quel point c'est\ndur de se retenir avec ce truc-là, les gars."
+ },
+ {
+  "n": 95,
+  "fr": "Vous me facilitez pas la tâche, en plus..."
+ },
+ {
+  "n": 96,
+  "fr": "C-C'est une blague, hein... ?"
+ },
+ {
+  "n": 97,
+  "fr": "Un... prêtre ?"
+ },
+ {
+  "n": 98,
+  "fr": "Ouaip. En bonne et due forme, hein."
+ },
+ {
+  "n": 99,
+  "fr": "Donc si ça vous intéresse de vous confesser, je \nserai ravi de vous écouter. En promotion pour une \ndurée limitée !"
+ },
+ {
+  "n": 100,
+  "fr": "Personnellement, je vous suggère de sauter\nsur l'occasion."
+ },
+ {
+  "n": 101,
+  "fr": "Ugh..."
+ },
+ {
+  "n": 102,
+  "fr": "Ne l'écoute pas !\nAllons-y !"
+ },
+ {
+  "n": 103,
+  "fr": "*soupir* J'espérais plutôt une réaction du genre : \n« Quoi, vous faites PAYER les gens ?! »"
+ },
+ {
+  "n": 104,
+  "fr": "Oh, peu importe. J'imagine que ça me gêne pas \nde passer directement aux choses sérieuses, cette \nfois-ci."
+ },
+ {
+  "n": 105,
+  "fr": "Venez tous à la fois, je fais un prix de groupe !"
+ },
+ {
+  "n": 106,
+  "fr": "C-Ce prêtre...\nC'est un des Gralsritter ?!"
+ },
+ {
+  "n": 107,
+  "fr": "J'avais entendu des rumeurs à leur sujet, mais \nbordel..."
+ },
+ {
+  "n": 108,
+  "fr": "Aussi curieux que je le sois, je ferais mieux\nde pas vous demander quel genre de rumeurs\nvous avez entendues."
+ },
+ {
+  "n": 109,
+  "fr": "Pas d'inquiétude, cela dit. Je suis seulement ici \npour votre client."
+ },
+ {
+  "n": 110,
+  "fr": "Profitez-en pour vous faire une petite sieste."
+ },
+ {
+  "n": 111,
+  "fr": "Ugh... Quel genre de monstre... ?"
+ },
+ {
+  "n": 112,
+  "fr": "... Bon, j'ai récupéré ce que je voulais."
+ },
+ {
+  "n": 113,
+  "fr": "Il est temps de retourner à la fête et de boucler \ncette mission."
+ },
+ {
+  "n": 114,
+  "fr": "Dommage que je doive partir sans accepter l'offre \nde cette femme, par contre..."
+ },
+ {
+  "n": 115,
+  "fr": "Elle était plutôt canon, et c'était évident que \nson mari lui donnait pas assez d'attention..."
+ },
+ {
+  "n": 116,
+  "fr": "Mais bon, je devrais pas trop jouer avec le feu, \nhein ?"
+ },
+ {
+  "n": 117,
+  "fr": "Ça doit mener aux appartements de première \nclasse."
+ },
+ {
+  "n": 118,
+  "fr": "Aucun doute que j'y trouverais des trucs\nassez intéressants, mais je ferais mieux\nde pas y aller maintenant."
+ },
+ {
+  "n": 119,
+  "fr": "(J'ai rien à faire par ici.)"
+ },
+ {
+  "n": 120,
+  "fr": "(Mieux vaut reprendre le boulot.)"
+ },
+ {
+  "n": 121,
+  "fr": "{color 5}Les portes sont fermées à clé."
+ }
+]

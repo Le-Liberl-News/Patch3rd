@@ -1,0 +1,478 @@
+[
+ {
+  "n": 1,
+  "fr": "... Santé !#2S"
+ },
+ {
+  "n": 2,
+  "fr": "... Santé !#2S"
+ },
+ {
+  "n": 3,
+  "fr": "*glou* *glou*"
+ },
+ {
+  "n": 4,
+  "fr": "*glou* *glou* *glou*"
+ },
+ {
+  "n": 5,
+  "fr": "Ahhh... !#2S"
+ },
+ {
+  "n": 6,
+  "fr": "Je n'arrive pas à croire que vous ayez fait don de \nTOUT cet argent."
+ },
+ {
+  "n": 7,
+  "fr": "Bon, peut-être que vous n'avez pas besoin de la \ntotalité... Mais il vous en faudra quand même pour \nvivre, non ?"
+ },
+ {
+  "n": 8,
+  "fr": "Je suppose que vous avez raison. Ce que j'ai fait est \nun peu étrange."
+ },
+ {
+  "n": 9,
+  "fr": "Mais j'ai pris cette décision depuis le tout début, \nquestion de principe."
+ },
+ {
+  "n": 10,
+  "fr": "Quand j'ai dit que je ne faisais rien de tout cela pour \nl'argent, j'étais sérieuse."
+ },
+ {
+  "n": 11,
+  "fr": "Enfin, félicitations pour votre promotion en tant que \nbracer confirmée."
+ },
+ {
+  "n": 12,
+  "fr": "Je ne suis pas sûre de savoir quelle est la différence \nentre bracer novice et confirmé, mais il est clair que \nvous avez beaucoup travaillé pour y arriver."
+ },
+ {
+  "n": 13,
+  "fr": "Cela veut dire que j'ai beaucoup plus d'autorité, \nmais cela vient également avec bien davantage de \nresponsabilités."
+ },
+ {
+  "n": 14,
+  "fr": "Cela veut aussi dire que j'ai un nouveau badge sympa, \nmais je n'ai jamais été intéressée par cela, \npersonnellement."
+ },
+ {
+  "n": 15,
+  "fr": "Oh, vraiment ?"
+ },
+ {
+  "n": 16,
+  "fr": "Oui."
+ },
+ {
+  "n": 17,
+  "fr": "... Je suis soulagé d'entendre ça."
+ },
+ {
+  "n": 18,
+  "fr": "Je vois que tu commences enfin à comprendre l'état \nd'esprit nécessaire pour être une bracer, Scherazard."
+ },
+ {
+  "n": 19,
+  "fr": "Mince... c'est Kurt."
+ },
+ {
+  "n": 20,
+  "fr": "Euhh... Ce... cela peut SEMBLER être de l'alcool à \nvos yeux, mais ceci est en fait... de l'eau... ?"
+ },
+ {
+  "n": 21,
+  "fr": "... Comme aujourd'hui est, je l'admets, une raison de \ncélébrer, je vais fermer les yeux sur ta consommation \nce soir."
+ },
+ {
+  "n": 22,
+  "fr": "Ne va juste pas boire à tel point que cela puisse \ninterférer avec ta capacité à faire ton travail."
+ },
+ {
+  "n": 23,
+  "fr": "Ouiiiii."
+ },
+ {
+  "n": 24,
+  "fr": "......"
+ },
+ {
+  "n": 25,
+  "fr": "QUOI ?"
+ },
+ {
+  "n": 26,
+  "fr": "Comme tu le sais bien, Scherazard, tu es maintenant \nune bracer confirmée, ce qui veut dire que tu dois te \ncomporter plus responsablement."
+ },
+ {
+  "n": 27,
+  "fr": "Ça veut dire que j'attends de toi que tu arrêtes de \nboire dès que tu as un moment entre tes missions, de \njour comme de nuit, et de faire le mur pour ça la nuit."
+ },
+ {
+  "n": 28,
+  "fr": "J'espère aussi ne plus découvrir que tu as tiré parti \ndes moments les plus chargés de mon emploi du temps \npour te conduire comme une ivrogne."
+ },
+ {
+  "n": 29,
+  "fr": "Je... euhhh..."
+ },
+ {
+  "n": 30,
+  "fr": "Est-ce vraiment ce que vous faites d'habitude, \nScherazard ?"
+ },
+ {
+  "n": 31,
+  "fr": "Vous semblez être une véritable fautrice de troubles..."
+ },
+ {
+  "n": 32,
+  "fr": "Ne dites rien..."
+ },
+ {
+  "n": 33,
+  "fr": "Est-ce que c'est clair ?"
+ },
+ {
+  "n": 34,
+  "fr": "O-Oui !#2S"
+ },
+ {
+  "n": 35,
+  "fr": "Ha ha. Et tu n'as plus besoin de me vouvoyer."
+ },
+ {
+  "n": 36,
+  "fr": "Nous sommes tous les deux des bracers confirmés \nmaintenant, ce qui veut dire que nous sommes sur \nun pied d'égalité."
+ },
+ {
+  "n": 37,
+  "fr": "Enfin, on ne peut pas vraiment dire que je sois un \nvétéran. Je fais encore bien partie de la bleusaille."
+ },
+ {
+  "n": 38,
+  "fr": "... D'après qui ?"
+ },
+ {
+  "n": 39,
+  "fr": "... Vraiment ?"
+ },
+ {
+  "n": 40,
+  "fr": "Néanmoins, ce n'est pas ce dont je suis venu discuter."
+ },
+ {
+  "n": 41,
+  "fr": "C'est au sujet de votre oncle, Aina."
+ },
+ {
+  "n": 42,
+  "fr": "Je suis venu vous informer du fait que la Guilde des \nbracers est en mesure de demander un allègement de \nsa peine."
+ },
+ {
+  "n": 43,
+  "fr": "Employer un corps de jaegers pour son usage \npersonnel encourt une très lourde peine, vous savez..."
+ },
+ {
+  "n": 44,
+  "fr": "U-Un corps de jaegers ?!#2S"
+ },
+ {
+  "n": 45,
+  "fr": "Faites-vous référence à ces hommes habillés en noir ?"
+ },
+ {
+  "n": 46,
+  "fr": "Oui. Ils sont un corps parmi beaucoup d'autres étant \nconnus comme actifs ici au Liberl."
+ },
+ {
+  "n": 47,
+  "fr": "Récemment, beaucoup de corps de ce genre se sont \nfrayé un chemin dans le pays... Et ils ont réussi à \ntrouver du travail, également."
+ },
+ {
+  "n": 48,
+  "fr": "Les employer est, évidemment, tout à fait illégal, \nmais avec l'armée aussi lente à réagir qu'elle l'est \nactuellement..."
+ },
+ {
+  "n": 49,
+  "fr": "J'ai saisi cette chance de m'occuper d'eux, cela dit, \ndonc nous ne devrions pas voir le moindre signe d'eux \nprochainement."
+ },
+ {
+  "n": 50,
+  "fr": "T-T'occuper d'eux ? D'eux tous ?"
+ },
+ {
+  "n": 51,
+  "fr": "(Je vois. Alors ce n'était pas une coïncidence qu'il \nsoit arrivé à ce moment...)"
+ },
+ {
+  "n": 52,
+  "fr": "(Il a étudié tous les jaegers corps du Liberl dans le \nbut de lancer une opération pour tous les éradiquer ?)"
+ },
+ {
+  "n": 53,
+  "fr": "(#1645FPas étonnant qu'il ait semblé être aussi \nsurmené...)"
+ },
+ {
+  "n": 54,
+  "fr": "Les jaegers dans le pays ont ciblé de riches individus \ndans l'espoir de leur faire signer des contrats."
+ },
+ {
+  "n": 55,
+  "fr": "Il y a eu d'innombrables cas comme celui-ci partout \ndans le pays récemment, avec des civils qui se sont \nretrouvés pris là-dedans à une fréquence inquiétante."
+ },
+ {
+  "n": 56,
+  "fr": "A-Aidios..."
+ },
+ {
+  "n": 57,
+  "fr": "Je crois que le cas auquel nous avons affaire ici n'y \nfait pas exception, dans le sens où se sont les jaegers \nqui ont abordé votre oncle plutôt que l'inverse."
+ },
+ {
+  "n": 58,
+  "fr": "C'est dur de ressentir beaucoup de sympathie dans \nces circonstances, mais dans un sens, votre oncle \nest lui aussi une victime dans cette histoire."
+ },
+ {
+  "n": 59,
+  "fr": "... Quoi ?"
+ },
+ {
+  "n": 60,
+  "fr": "O-Où vas-tu avec cela ?!"
+ },
+ {
+  "n": 61,
+  "fr": "Kurt... juste parce que les jaegers l'ont abordé et pas \nl'inverse, c'est une victime ? Il mérite de s'en sortir \navec une tape sur les doigts ?"
+ },
+ {
+  "n": 62,
+  "fr": "Et Aina est censée être D'ACCORD avec cela ?!"
+ },
+ {
+  "n": 63,
+  "fr": "Il a essayé de la tuer !"
+ },
+ {
+  "n": 64,
+  "fr": "... Schera, calme-toi, s'il te plait."
+ },
+ {
+  "n": 65,
+  "fr": "Il n'est pas nécessaire de crier."
+ },
+ {
+  "n": 66,
+  "fr": "O-Oui. Mais... !!"
+ },
+ {
+  "n": 67,
+  "fr": "Personne ne dit qu'il ne mérite pas d'être puni pour \nses actes."
+ },
+ {
+  "n": 68,
+  "fr": "Tout ce que je suis venu dire, c'est que si, et seulement \nsi, Aina le souhaite, la Guilde est en mesure de \ndemander une peine plus clémente. C'est tout."
+ },
+ {
+  "n": 69,
+  "fr": "O-Oh..."
+ },
+ {
+  "n": 70,
+  "fr": "P-Pfiou... Tu m'as fait peur..."
+ },
+ {
+  "n": 71,
+  "fr": "......"
+ },
+ {
+  "n": 72,
+  "fr": "... Vous n'avez pas besoin de prendre votre décision \nimmédiatement."
+ },
+ {
+  "n": 73,
+  "fr": "L'interroger va prendre environ une semaine dans \nl'état actuel, d'après ce que j'ai entendu."
+ },
+ {
+  "n": 74,
+  "fr": "Vous n'êtes même pas responsable de faire le moindre \nchoix, alors ne vous sentez pas obligée d'y réfléchir \nprofondément, s'il vous plait."
+ },
+ {
+  "n": 75,
+  "fr": "Ayez juste conscience que la possibilité de le \npardonner existe, s'il vous plait. C'est tout."
+ },
+ {
+  "n": 76,
+  "fr": "... Oui."
+ },
+ {
+  "n": 77,
+  "fr": "Accessoirement, si vous deviez avoir besoin d'aide \npour quoi que ce soit dans le futur, la Guilde des \nbracers sera toujours disponible pour vous aider."
+ },
+ {
+  "n": 78,
+  "fr": "Nous ne sommes certainement ni omnipotents, ni \ninfaillibles, mais du moins nous ferons de notre mieux \npour aider ceux qui veulent de notre aide."
+ },
+ {
+  "n": 79,
+  "fr": "Merci."
+ },
+ {
+  "n": 80,
+  "fr": "Je suis vraiment désolée de ne pas vous avoir raconté \ntoute l'histoire dès le début, aussi..."
+ },
+ {
+  "n": 81,
+  "fr": "Ne le soyez pas, s'il vous plait. Avec la situation dans \nlaquelle vous étiez, votre réticence était tout à fait \ncompréhensible."
+ },
+ {
+  "n": 82,
+  "fr": "Qui plus est..."
+ },
+ {
+  "n": 83,
+  "fr": "... quelqu'un digne d'être un bracer accompli devrait \nêtre capable de deviner à peu près ce que veut un \nclient juste en le regardant."
+ },
+ {
+  "n": 84,
+  "fr": "Et il ne devrait pas, dans aucunes circonstances, \nessayer de repousser un potentiel client vraiment \ndans le besoin."
+ },
+ {
+  "n": 85,
+  "fr": "Aïe..."
+ },
+ {
+  "n": 86,
+  "fr": "J'ai encore un long chemin à faire, dans ce cas, \nn'est-ce pas ?"
+ },
+ {
+  "n": 87,
+  "fr": "Certainement, mais n'est-ce pas le cas de nous tous ?"
+ },
+ {
+  "n": 88,
+  "fr": "Bien. J'ai dit ce que j'étais venu dire, alors je vais \nprendre congé, à présent."
+ },
+ {
+  "n": 89,
+  "fr": "Ah, attends..."
+ },
+ {
+  "n": 90,
+  "fr": "Cela ne te ferait pas de mal de te joindre à nous \npour un verre !"
+ },
+ {
+  "n": 91,
+  "fr": "Non, il me reste encore mes devoirs en tant que \nréceptionniste de la guilde, après tout."
+ },
+ {
+  "n": 92,
+  "fr": "Quant à toi, Schera... fais attention à ne pas boire \ntrop « d'eau »."
+ },
+ {
+  "n": 93,
+  "fr": "Mince... pourquoi faut-il qu'il soit toujours aussi \nsérieux ?"
+ },
+ {
+  "n": 94,
+  "fr": "Oh ! Au fait !"
+ },
+ {
+  "n": 95,
+  "fr": "Qu'en est-il de vous, Aina ? Tenez-vous bien l'alcool ? \nSi oui, vous devriez vous joindre à moi pour quelques \nverres. ♪"
+ },
+ {
+  "n": 96,
+  "fr": "B-Bon... d'accord."
+ },
+ {
+  "n": 97,
+  "fr": "E-Euhh... Vous êtes sûre ? Vraiment, vraiment sûre ?"
+ },
+ {
+  "n": 98,
+  "fr": "Bien entendu ! Vous avez tant fait pour moi, comment \npourrais-je refuser ?"
+ },
+ {
+  "n": 99,
+  "fr": "Me joindre à vous pour quelques verres est le moins \nque je puisse faire. ㈱"
+ },
+ {
+  "n": 100,
+  "fr": "Hi hi ! Alors allons picoler ! Cette soirée va être \nsympaaa..."
+ },
+ {
+  "n": 101,
+  "fr": "(J'ai hâte de voir de quoi une fille bien sous tous \nrapports comme elle a l'air quand elle est \ncomplètement ivre...)"
+ },
+ {
+  "n": 102,
+  "fr": "(Cela va être GÉNIAL !)#2S"
+ },
+ {
+  "n": 103,
+  "fr": "Eh bien, santéééééé !#2S"
+ },
+ {
+  "n": 104,
+  "fr": "{0x18}{color 12}#40WJ'avais vu des filles exactement \ncomme elle, de l'autre côté de cette rivière."
+ },
+ {
+  "n": 105,
+  "fr": "{0x18}{color 12}#40WDes cheveux blonds soyeux, de \nbeaux yeux bleus, une peau douce..."
+ },
+ {
+  "n": 106,
+  "fr": "{0x18}{color 12}#40WLa jeunesse bénie et dorée de \nl'autre côté, habillée comme la royauté et souriant \ncomme des anges."
+ },
+ {
+  "n": 107,
+  "fr": "{0x18}{color 12}#40WEn les voyant, je me posais la même \nquestion, encore et encore..."
+ },
+ {
+  "n": 108,
+  "fr": "{0x18}{color 12}#40W« Pourquoi ne suis-je pas de ce \ncôté ? »"
+ },
+ {
+  "n": 109,
+  "fr": "{0x18}{color 12}#40WJe les enviais. Je les détestais. Je \ndésirais d'un côté être l'une d'eux, de l'autre, je rejetais \nleur existence même."
+ },
+ {
+  "n": 110,
+  "fr": "{0x18}{color 12}#40WJe connaissais la réponse à ma \nquestion depuis le tout début."
+ },
+ {
+  "n": 111,
+  "fr": "{0x18}{color 12}#40WJ'étais désespérée. J'essayais \ntoujours d'éviter que les autres ne s'approchent trop, \npensant que c'était ce que je devais faire pour vivre..."
+ },
+ {
+  "n": 112,
+  "fr": "{0x18}{color 12}#40W... Mais je ne pouvais jamais \ncomplètement me débarrasser de ce tout petit espoir qui \npersistait profondément dans mon cœur."
+ },
+ {
+  "n": 113,
+  "fr": "{0x18}{color 12}#40WQu'éventuellement, peu importe le \ntemps que cela prendrait, le jour où je pourrais sourire \nde bon cœur viendrait."
+ },
+ {
+  "n": 114,
+  "fr": "{0x18}{color 12}#40WQue le jour où je serais enfin \ncapable de m'accepter et de me pardonner d'être comme \nje l'étais viendrait."
+ },
+ {
+  "n": 115,
+  "fr": "{0x18}{color 12}#40WLe jour suivant, Aina vint à la guilde \ndes bracers et fit part de son souhait que l'on juge son \noncle avec indulgence."
+ },
+ {
+  "n": 116,
+  "fr": "{0x18}{color 12}#40W... Malheureusement, je ne fus pas \ncapable de l'accompagner, ayant été complètement \nbattue par elle en matière d'alcool le soir précédent."
+ },
+ {
+  "n": 117,
+  "fr": "{color 0}Épisode [Cliente] terminé !"
+ },
+ {
+  "n": 118,
+  "fr": "{color 5}Reçu : {item item[726]}{color 5}."
+ },
+ {
+  "n": 119,
+  "fr": "{color 5}Reçus : {color 2}4000 miras{color 5}."
+ }
+]

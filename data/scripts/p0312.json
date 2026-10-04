@@ -1,0 +1,126 @@
+[
+ {
+  "n": 1,
+  "fr": "Trouvé : {item item[508]}{color 0}."
+ },
+ {
+  "n": 2,
+  "fr": "Trouvé : {item item[508]}{color 0}.\nInventaire plein. Objet reposé."
+ },
+ {
+  "n": 4,
+  "fr": "Trouvés : {color 2}300 miras{color 0}."
+ },
+ {
+  "n": 6,
+  "fr": "Est-ce un genre d'usine ?"
+ },
+ {
+  "n": 7,
+  "fr": "Oui."
+ },
+ {
+  "n": 8,
+  "fr": "C'est l'endroit où l'équipe de maintenance\ntravaille mais..."
+ },
+ {
+  "n": 9,
+  "fr": "... Y a vraiment pas un chat."
+ },
+ {
+  "n": 10,
+  "fr": "C'est bizarre...\nLes gens sont passés où ?"
+ },
+ {
+  "n": 11,
+  "fr": "Derrière cette porte... c'est la salle des moteurs,\nsi je me souviens bien ?"
+ },
+ {
+  "n": 12,
+  "fr": "Tout à fait."
+ },
+ {
+  "n": 13,
+  "fr": "Les huit moteurs principaux XG-02,\nà la pointe de la technologie,\nsont installés ici."
+ },
+ {
+  "n": 14,
+  "fr": "Je vais y jeter un œil !"
+ },
+ {
+  "n": 15,
+  "fr": "C'est pas bon...\nImpossible d'en faire démarrer un seul."
+ },
+ {
+  "n": 16,
+  "fr": "Et je ne sais même pas pourquoi\nils ne fonctionnent pas..."
+ },
+ {
+  "n": 17,
+  "fr": "Mhh... Je vois."
+ },
+ {
+  "n": 18,
+  "fr": "Eh bien, nous savons déjà que\ncet endroit fonctionne plus ou\nmoins selon ses propres principes."
+ },
+ {
+  "n": 19,
+  "fr": "Il n'y aurait rien d'étonnant à ce que\nles machines ne fonctionnent plus\ndans un tel endroit."
+ },
+ {
+  "n": 20,
+  "fr": "Désolée, je peux pas faire mieux..."
+ },
+ {
+  "n": 21,
+  "fr": "Mais au moins, j'ai réussi à brancher une\nligne d'alimentation orbale de secours !"
+ },
+ {
+  "n": 22,
+  "fr": "Cet ordinateur là-bas devrait pouvoir\nfonctionner."
+ },
+ {
+  "n": 23,
+  "fr": "C'est vrai ? Tu nous sauves la mise, Tita."
+ },
+ {
+  "n": 24,
+  "fr": "Regardons ça et voyons ce qu'on peut faire avec."
+ },
+ {
+  "n": 25,
+  "fr": "{color 2}#1SThe Orbal Calculator\nCAPEL SYSTEM Ver.8.0\nMODE:Security Control\n#200W　#20W\nMEMORY_CHECK#100W..........#20WOK!\n#200W　#20W\n#1SLe système de sécurité peut être désactivé en cas \nd'urgence.\nSélectionnez une zone à déverrouiller."
+ },
+ {
+  "n": 26,
+  "fr": "Pont"
+ },
+ {
+  "n": 27,
+  "fr": "Salle des conférences"
+ },
+ {
+  "n": 28,
+  "fr": "Infirmerie"
+ },
+ {
+  "n": 29,
+  "fr": "Quitter"
+ },
+ {
+  "n": 30,
+  "fr": "{color 2}#1SCette zone a déjà été déverrouillée."
+ },
+ {
+  "n": 31,
+  "fr": "{color 2}#1SCette zone a déjà été déverrouillée."
+ },
+ {
+  "n": 32,
+  "fr": "{color 2}#1SCette zone a déjà été déverrouillée."
+ },
+ {
+  "n": 33,
+  "fr": "{color 5}Salle des moteurs\n※ Personnel autorisé uniquement"
+ }
+]

@@ -1,0 +1,226 @@
+[
+ {
+  "n": 1,
+  "fr": "Trouvé : {item item[515]}{color 0}."
+ },
+ {
+  "n": 2,
+  "fr": "Trouvé : {item item[515]}{color 0}.\nInventaire plein. Objet reposé."
+ },
+ {
+  "n": 4,
+  "fr": "{color 0}#15A～ Chapitre 2 : Événement à la Cité royale ～{0x05}"
+ },
+ {
+  "n": 5,
+  "fr": "{color 0}Égouts de Grancel, secteur Nord...{wait}\r\nEstelle s'était aventurée dans ces égouts pour\r\néliminer un monstre recherché.{wait}\r\n\r\nAlors qu'elle arpentait les lieux à la recherche de sa cible...{wait}\r\nune femme est soudainement apparue sous ses yeux."
+ },
+ {
+  "n": 6,
+  "fr": "{color 0}« Q-Qu'est-ce que vous faites dans un endroit pareil ? »{wait}\r\n\r\n« Ce que je fais ? Je pêche, cela va de soi. »{wait}\r\n \r\nIl s'agissait de Norche, une noble dame et membre\r\nde la « Guilde des pêcheurs »."
+ },
+ {
+  "n": 7,
+  "fr": "{color 0}« V-Vous ne pouvez pas rester ici...\r\n{} Et si un monstre vous attaquait ? »{wait}\r\n \r\nEstelle tenta de la ramener avec elle――{wait}\r\nmais Norche refusa catégoriquement d'écouter.{wait}\r\n \r\nAlors qu'une dispute éclatait entre elles――{wait}\r\nle « Leurre d'argent » glissa de la poche d'Estelle."
+ },
+ {
+  "n": 8,
+  "fr": "Ah, mais c'est le « Leurre d'argent »,\nl'un des trois célèbres accessoires de pêche ?!"
+ },
+ {
+  "n": 9,
+  "fr": "Mais où avez-vous bien pu trouver une chose pareille... ?"
+ },
+ {
+  "n": 10,
+  "fr": "L-Les trois célèbres accessoires... ?\nTu veux parler de ce leurre ?"
+ },
+ {
+  "n": 11,
+  "fr": "Je l'ai gagné lors d'un duel de pêche\ncontre Lloyd..."
+ },
+ {
+  "n": 12,
+  "fr": "!!!"
+ },
+ {
+  "n": 13,
+  "fr": "Vous parlez d'un duel de pêche où il faut ferrer\nune prise exceptionnelle, n'est-ce pas ?"
+ },
+ {
+  "n": 14,
+  "fr": "Je comptais justement le provoquer en duel,\net voilà qu'il s'est fait battre par une autre\navant que j'en ai l'occasion..."
+ },
+ {
+  "n": 15,
+  "fr": "Euh... ?"
+ },
+ {
+  "n": 16,
+  "fr": "... Très bien, je vous défie à un grand duel\nde pêche en 10 manches !"
+ },
+ {
+  "n": 17,
+  "fr": "U-Un duel en 10 manches ?!"
+ },
+ {
+  "n": 18,
+  "fr": "Inutile de discuter !\nLe duel commence immédiatement !"
+ },
+ {
+  "n": 19,
+  "fr": "A-Attendez une seconde..."
+ },
+ {
+  "n": 20,
+  "fr": "[Commencer]"
+ },
+ {
+  "n": 21,
+  "fr": "[Règles]"
+ },
+ {
+  "n": 22,
+  "fr": "[Quitter]"
+ },
+ {
+  "n": 23,
+  "fr": "{color 5}#0W―――――――《 Explication des règles 》―――――――\n \n Estelle et Norche s'affrontent dans un duel de pêche en 1 contre 1.\n Le jeu se déroule en 10 manches dans lesquelles le joueur\n et son adversaire jouent chacun à leur tour.\n \n Lors de votre tour, vous devez d'abord choisir la canne et l'appât à utiliser.\n (※ Les appâts disponibles varient selon la canne.)\n \n Une fois l'appât choisi, la pêche commence.\n Lorsqu'un poisson mord, un point d'exclamation [!] apparaît.\n Appuyez rapidement sur la touche de confirmation pour le ferrer.\n \n―――――――――――――――――――――――――――#20W"
+ },
+ {
+  "n": 24,
+  "fr": "{color 5}#0W―――――――《 Explication des règles 》―――――――\n \n Les poissons attrapés dépendent du type d'appât, et certains\n poissons pêchés peuvent eux-mêmes servir d'appâts.\n \n Chaque poisson rapportant un certain nombre de points,\n celui qui cumule le plus de points à la fin remporte la victoire.\n \n Notez que les gros poissons peuvent parfois s'échapper,\n alors ne baissez pas les bras et réessayez.\n \n \n \n―――――――――――――――――――――――――――#20W"
+ },
+ {
+  "n": 25,
+  "fr": "J-J'ai perdu..."
+ },
+ {
+  "n": 26,
+  "fr": "Ohohoho !\nÀ moi le leurre d'argent !"
+ },
+ {
+  "n": 27,
+  "fr": "Le jour où je surpasserai notre maître de\nguilde n'est plus très loin."
+ },
+ {
+  "n": 28,
+  "fr": "Mmmh, je suis tellement dégoûtée."
+ },
+ {
+  "n": 29,
+  "fr": "{0x18}{color 5}Recommencer le mini-jeu ?"
+ },
+ {
+  "n": 30,
+  "fr": "[Recommencer]"
+ },
+ {
+  "n": 31,
+  "fr": "[Quitter la Porte]"
+ },
+ {
+  "n": 32,
+  "fr": "C-C'est pas possible.\nMoi, perdre... ?"
+ },
+ {
+  "n": 33,
+  "fr": "*soupir* Vous êtes satisfaite maintenant ?"
+ },
+ {
+  "n": 34,
+  "fr": "Bon, retournons en ville."
+ },
+ {
+  "n": 35,
+  "fr": "Vous vous souciez plus de moi que\nde l'issue du duel..."
+ },
+ {
+  "n": 36,
+  "fr": "Hi hi, je ne peux vraiment pas rivaliser."
+ },
+ {
+  "n": 37,
+  "fr": "Tenez, acceptez ceci."
+ },
+ {
+  "n": 38,
+  "fr": "{color 5}Norche a donné la canne dorée à Estelle."
+ },
+ {
+  "n": 39,
+  "fr": "Waouh, elle brille tellement !"
+ },
+ {
+  "n": 40,
+  "fr": "... Vous êtes sûre que je peux la garder ?"
+ },
+ {
+  "n": 41,
+  "fr": "Bien sûr.\nC'est la règle des duels."
+ },
+ {
+  "n": 42,
+  "fr": "... Mais ne baissez pas votre garde."
+ },
+ {
+  "n": 43,
+  "fr": "Notre maître de guilde est toujours là."
+ },
+ {
+  "n": 44,
+  "fr": "L-Le maître... ?"
+ },
+ {
+  "n": 45,
+  "fr": "Oui, le fondateur de la guilde des pêcheurs\net le plus fort d'entre nous, maître Fisher."
+ },
+ {
+  "n": 46,
+  "fr": "Même si vous ne cherchez pas le duel,\nces deux accessoires de pêche vont\nl'attirer à vous..."
+ },
+ {
+  "n": 47,
+  "fr": "Un jour ou l'autre, vous devrez l'affronter\nque vous le vouliez ou non."
+ },
+ {
+  "n": 48,
+  "fr": "E-Euh…\nC'est vraiment comme ça que ça marche ?"
+ },
+ {
+  "n": 49,
+  "fr": "{color 5}―― Quelle pouvait bien être l'étendue du talent\nde ce fameux Fisher ?"
+ },
+ {
+  "n": 50,
+  "fr": "{color 5}Même si elle regrettait de s'être fait embarquer\nlà-dedans, Estelle ne pouvait pas nier son envie\nde l'affronter."
+ },
+ {
+  "n": 51,
+  "fr": "Reçue : {item item[427]}{color 0}."
+ },
+ {
+  "n": 52,
+  "fr": "Reçus : {color 2}5000 miras{color 0}."
+ },
+ {
+  "n": 53,
+  "fr": "{0x18}{color 5}Passer au chapitre 3 ?"
+ },
+ {
+  "n": 54,
+  "fr": "[Passer au chapitre 3]"
+ },
+ {
+  "n": 55,
+  "fr": "[Quitter la Porte]"
+ },
+ {
+  "n": 56,
+  "fr": "{color 5}La porte est fermement verrouillée."
+ },
+ {
+  "n": 57,
+  "fr": "{color 5}Le mécanisme d'ouverture est scellé."
+ }
+]

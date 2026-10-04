@@ -1,0 +1,418 @@
+[
+ {
+  "n": 1,
+  "fr": "Pfiou... J'ai cru qu'on allait jamais réussir\nà s'échapper."
+ },
+ {
+  "n": 2,
+  "fr": "Erika sait vraiment jamais quand s'arrêter."
+ },
+ {
+  "n": 3,
+  "fr": "... C'est une douce manière de le dire."
+ },
+ {
+  "n": 4,
+  "fr": "J'arrivais pas à en croire mes oreilles à\nla fin, par contre."
+ },
+ {
+  "n": 5,
+  "fr": "Je m'attendais vraiment pas à ce\nqu'elle dise « si tu prends ÇA, alors je la\nprends ELLE » !"
+ },
+ {
+  "n": 6,
+  "fr": "Ha ha... Je crois qu'Anelace vient d'avoir une\nsérieuse concurrente."
+ },
+ {
+  "n": 7,
+  "fr": "Anelace ?"
+ },
+ {
+  "n": 8,
+  "fr": "Oh, désolé. C'est une fille que j'ai rencontrée \nquand je suis venu ici la dernière fois."
+ },
+ {
+  "n": 9,
+  "fr": "C'est une bracer, il me semble qu'elle a à peu\nprès ton âge."
+ },
+ {
+  "n": 10,
+  "fr": "... Je vois."
+ },
+ {
+  "n": 11,
+  "fr": "Ha ha... euh... \n#40W..."
+ },
+ {
+  "n": 12,
+  "fr": "Mhh... Ries ?"
+ },
+ {
+  "n": 13,
+  "fr": "Oui ?"
+ },
+ {
+  "n": 14,
+  "fr": "T'es pas... en colère contre moi, hein ?"
+ },
+ {
+  "n": 15,
+  "fr": "De pas avoir donné de nouvelles tout ce temps..."
+ },
+ {
+  "n": 16,
+  "fr": "Père Graham."
+ },
+ {
+  "n": 17,
+  "fr": "O-Oui ?!"
+ },
+ {
+  "n": 18,
+  "fr": "... En cinq ans, vous avez gravi les échelons\nau point d'occuper le poste prestigieux\nde Dominion..."
+ },
+ {
+  "n": 19,
+  "fr": "Cependant, j'ai moi aussi beaucoup changé\npendant ces cinq années."
+ },
+ {
+  "n": 20,
+  "fr": "Je suis une écuyère des Gralsritter, désormais."
+ },
+ {
+  "n": 21,
+  "fr": "Je suis là pour vous servir et vous protéger.\nRien de plus."
+ },
+ {
+  "n": 22,
+  "fr": "Ries, allez..."
+ },
+ {
+  "n": 23,
+  "fr": "... Inutile de vous soucier de moi."
+ },
+ {
+  "n": 24,
+  "fr": "Si vous ne me traitez pas comme une\nsubordonnée, alors je n'ai pas grande raison\nd'être ici à vous servir."
+ },
+ {
+  "n": 25,
+  "fr": "......"
+ },
+ {
+  "n": 26,
+  "fr": "... Il me semble que nous devons encore\nmonter à bord du dernier aéronef\ninternational partant de Grancel, non ?"
+ },
+ {
+  "n": 27,
+  "fr": "Nous devrions commencer à nous diriger vers \nl'aérogare."
+ },
+ {
+  "n": 28,
+  "fr": "A-Attends une seconde...{0x05}"
+ },
+ {
+  "n": 29,
+  "fr": "À l'instant, ton..."
+ },
+ {
+  "n": 30,
+  "fr": "......"
+ },
+ {
+  "n": 31,
+  "fr": "Ce n'était que le fruit de votre imagination."
+ },
+ {
+  "n": 32,
+  "fr": "Hein ?"
+ },
+ {
+  "n": 33,
+  "fr": "Vous semblez fatigué, Père Graham."
+ },
+ {
+  "n": 34,
+  "fr": "Au point d'entendre des sons qui n'existent\nclairement pas dans la réalité."
+ },
+ {
+  "n": 35,
+  "fr": "Je pense que vous devriez essayer de\nvous reposer lorsque nous arriverons\nà l'aéro—"
+ },
+ {
+  "n": 36,
+  "fr": "... Comme j'étais en train de le dire, je\npense que vous devriez essayer de vous\nreposer."
+ },
+ {
+  "n": 37,
+  "fr": "Pffff..."
+ },
+ {
+  "n": 38,
+  "fr": "Ha ha ha ! Ton ventre qui fait « glouglou » !\nEssaie pas de me dire que ça, c'était\nmon imagination !"
+ },
+ {
+  "n": 39,
+  "fr": "Pff, pendant une seconde, j'ai pensé que\ntu avais changé, mais non. Pas le moins du\nmonde !"
+ },
+ {
+  "n": 40,
+  "fr": "Tu es toujours la même Ries dont je me\nsouviens, qui a un puits sans fond\nen guise d'estomac."
+ },
+ {
+  "n": 41,
+  "fr": "C-Ce n'est qu'un simple phénomène\nphysiologique."
+ },
+ {
+  "n": 42,
+  "fr": "Mon manque de maîtrise est la preuve\nque j'ai encore beaucoup de progrès\nà faire."
+ },
+ {
+  "n": 43,
+  "fr": "Je ne peux que m'excuser de mon\nincompétence."
+ },
+ {
+  "n": 44,
+  "fr": "Ha ha... Depuis quand ne pas réussir à\nfaire taire ton estomac est quelque chose\ndont tu dois t'excuser ?"
+ },
+ {
+  "n": 45,
+  "fr": "Et de toute manière, je ne voudrais pas\nte changer."
+ },
+ {
+  "n": 46,
+  "fr": "Pour moi, tu seras toujours la fille qui\nse faufilait en cuisine pour grignoter\nen douce et se faire enguirlander..."
+ },
+ {
+  "n": 47,
+  "fr": "... Je pars devant !"
+ },
+ {
+  "n": 48,
+  "fr": "Hé ! Attends une seconde !{0x05}"
+ },
+ {
+  "n": 49,
+  "fr": "Vous êtes sur mon chemin.\nMerci de vous écarter."
+ },
+ {
+  "n": 50,
+  "fr": "Je suis désolé, OK ? J'avais pas l'intention\nde dépasser les bornes."
+ },
+ {
+  "n": 51,
+  "fr": "Je me suis juste laissé emporter en pensant\nau bon vieux temps, c'est tout."
+ },
+ {
+  "n": 52,
+  "fr": "Vous n'avez pas de raison de vous excuser."
+ },
+ {
+  "n": 53,
+  "fr": "D'autant que vos excuses sont toujours\ndésinvoltes et sans lendemain."
+ },
+ {
+  "n": 54,
+  "fr": "Bordel. Tu m'en mets plein la figure, hein ?"
+ },
+ {
+  "n": 55,
+  "fr": "Bon, même si j'ai seulement 50 % de chances que \ntu m'écoutes... tu peux arrêter avec « Père \nGraham » ? Ou même « Père », hein."
+ },
+ {
+  "n": 56,
+  "fr": "... Pour quelle raison ?"
+ },
+ {
+  "n": 57,
+  "fr": "Je sais pas si tu fais ça parce que tu penses\nque tu dois le faire ou parce que tu veux\nfaire genre que tu es distante..."
+ },
+ {
+  "n": 58,
+  "fr": "... Mais y'a pas moyen que je m'y habitue.\nGenre, jamais de la vie. C'est trop bizarre."
+ },
+ {
+  "n": 59,
+  "fr": "......"
+ },
+ {
+  "n": 60,
+  "fr": "... S'il te plaît ?"
+ },
+ {
+  "n": 61,
+  "fr": "Appelle-moi Kevin. Comme tu l'as toujours fait."
+ },
+ {
+  "n": 62,
+  "fr": "Et si je refuse ?"
+ },
+ {
+  "n": 63,
+  "fr": "Je te supplierai jusqu'à ce que tu\nchanges d'avis."
+ },
+ {
+  "n": 64,
+  "fr": "Je me mettrai à genoux si besoin !"
+ },
+ {
+  "n": 65,
+  "fr": "... Ce serait sûrement le cas."
+ },
+ {
+  "n": 66,
+  "fr": "Bah, comme on dit, chassez le naturel,\nil revient au galop."
+ },
+ {
+  "n": 67,
+  "fr": "Une relation de longue date comme la nôtre,\nça change pas comme ça."
+ },
+ {
+  "n": 68,
+  "fr": "......"
+ },
+ {
+  "n": 69,
+  "fr": "... Celui...\n... m'a abandonnée..."
+ },
+ {
+  "n": 70,
+  "fr": "Pardon ? J'ai pas bien entendu."
+ },
+ {
+  "n": 71,
+  "fr": "... Ce n'était rien."
+ },
+ {
+  "n": 72,
+  "fr": "Enfin, je ne peux pas vraiment refuser un\nordre de mon supérieur, donc —"
+ },
+ {
+  "n": 73,
+  "fr": "Ohhhh, non non non. Tu joueras pas à ce jeu là. \nC'est pas un ordre, c'est une faveur."
+ },
+ {
+  "n": 74,
+  "fr": "C'est pas du touuuut pareil."
+ },
+ {
+  "n": 75,
+  "fr": "Rah..."
+ },
+ {
+  "n": 76,
+  "fr": "......"
+ },
+ {
+  "n": 77,
+  "fr": "Tu es vraiment égoïste, Kevin."
+ },
+ {
+  "n": 78,
+  "fr": "Ah... !"
+ },
+ {
+  "n": 79,
+  "fr": "Hé... Voilàààà ! C'est ça que je voulais."
+ },
+ {
+  "n": 80,
+  "fr": "Mais que les choses soient claires."
+ },
+ {
+  "n": 81,
+  "fr": "Même si j'ai modifié la manière dont je \nm'adresse à toi, le fait que je sois ta\nsubordonnée n'a pas du tout changé."
+ },
+ {
+  "n": 82,
+  "fr": "N'oublie pas cela."
+ },
+ {
+  "n": 83,
+  "fr": "Ouais, je sais..."
+ },
+ {
+  "n": 84,
+  "fr": "On peut parler comme avant, mais y a\naucun moyen de revenir en arrière."
+ },
+ {
+  "n": 85,
+  "fr": "......"
+ },
+ {
+  "n": 86,
+  "fr": "Oh, et une dernière chose..."
+ },
+ {
+  "n": 87,
+  "fr": "On a encore du temps avant que le dernier \naéronef parte, alors si on allait au centre \ncommercial dans le quartier est ?"
+ },
+ {
+  "n": 88,
+  "fr": "On pourrait te prendre un truc à manger."
+ },
+ {
+  "n": 89,
+  "fr": "... J'aime ce que j'entends."
+ },
+ {
+  "n": 90,
+  "fr": "Je propose que nous achetions tout le pain \nqu'il leur reste."
+ },
+ {
+  "n": 91,
+  "fr": "Je pensais pas que tu avais si faim que ça..."
+ },
+ {
+  "n": 92,
+  "fr": "{color 0}Ils se sont tous mis à vivre dans notre maison, à mon grand-père et moi...\nEt avant que je ne m'en aperçoive, ma vie tranquille était détruite."
+ },
+ {
+  "n": 93,
+  "fr": "Parfois, quelqu'un me poussait dans les escaliers, d'autres fois, mon repas avait\nun goût étrange..."
+ },
+ {
+  "n": 94,
+  "fr": "{color 0}Des choses de ce genre ont commencé à se produire régulièrement."
+ },
+ {
+  "n": 95,
+  "fr": "{color 0}Légalement, nous étions de la même famille, et j'étais mineure, donc je ne\npouvais pas faire grand-chose..."
+ },
+ {
+  "n": 96,
+  "fr": "{color 0}Au début, j'ai bien essayé de les raisonner, mais au final, je n'ai pas eu d'autre\nchoix que de quitter ma maison."
+ },
+ {
+  "n": 97,
+  "fr": "J'errais sur les routes sans me faire repérer, en me déplaçant de région en région..."
+ },
+ {
+  "n": 98,
+  "fr": "{color 0}Mais si je continuais, j'allais juste être déclarée disparue puis morte."
+ },
+ {
+  "n": 99,
+  "fr": "{color 0}Non... Même si je rentrais à la maison, ils m'auraient enfermée quelque part\ntout en continuant de me déclarer disparue."
+ },
+ {
+  "n": 100,
+  "fr": "{color 0}Après ça, le testament de Grand-père aurait été déclaré caduc et ma famille\nse serait partagé le pactole."
+ },
+ {
+  "n": 101,
+  "fr": "{color 0}... Je ne pouvais pas supporter l'idée que cela arrive."
+ },
+ {
+  "n": 102,
+  "fr": "C'est pourquoi j'ai décidé de revenir ici, à la capitale."
+ },
+ {
+  "n": 103,
+  "fr": "{color 0}C'est certain, j'hériterai de ces biens dans les règles de l'art."
+ },
+ {
+  "n": 104,
+  "fr": "{color 5}La porte est fermée à clé."
+ }
+]

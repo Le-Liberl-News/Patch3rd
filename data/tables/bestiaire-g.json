@@ -1,0 +1,717 @@
+[
+ {
+  "cle": "2",
+  "type": "nom",
+  "fr": "A"
+ },
+ {
+  "cle": "38",
+  "type": "nom",
+  "fr": "Tortue ambrée"
+ },
+ {
+  "cle": "62",
+  "type": "nom",
+  "fr": "Lapin blindé"
+ },
+ {
+  "cle": "78",
+  "type": "nom",
+  "fr": "Doberman d'attaque"
+ },
+ {
+  "cle": "85",
+  "type": "nom",
+  "fr": "B"
+ },
+ {
+  "cle": "90",
+  "type": "nom",
+  "fr": "Petits marcassangliers"
+ },
+ {
+  "cle": "91",
+  "type": "nom",
+  "fr": "Bébés pingouins"
+ },
+ {
+  "cle": "100",
+  "type": "nom",
+  "fr": "Cobra du fléau"
+ },
+ {
+  "cle": "127",
+  "type": "nom",
+  "fr": "Mouton noir"
+ },
+ {
+  "cle": "139",
+  "type": "nom",
+  "fr": "Dents-de-sang"
+ },
+ {
+  "cle": "142",
+  "type": "nom",
+  "fr": "Pingouin bleu"
+ },
+ {
+  "cle": "145",
+  "type": "nom",
+  "fr": "Œuduhr V"
+ },
+ {
+  "cle": "146",
+  "type": "nom",
+  "fr": "Œuduhr O"
+ },
+ {
+  "cle": "147",
+  "type": "nom",
+  "fr": "Œuduhr R"
+ },
+ {
+  "cle": "151",
+  "type": "nom",
+  "fr": "Squelette archer"
+ },
+ {
+  "cle": "152",
+  "type": "nom",
+  "fr": "Poisson squelette"
+ },
+ {
+  "cle": "156",
+  "type": "nom",
+  "fr": "Squelette guerrier"
+ },
+ {
+  "cle": "162",
+  "type": "nom",
+  "fr": "Machine endommagée"
+ },
+ {
+  "cle": "167",
+  "type": "nom",
+  "fr": "Bulleur"
+ },
+ {
+  "cle": "174",
+  "type": "nom",
+  "fr": "C"
+ },
+ {
+  "cle": "184",
+  "type": "nom",
+  "fr": "Raie des cavernes"
+ },
+ {
+  "cle": "189",
+  "type": "nom",
+  "fr": "Chupacabra"
+ },
+ {
+  "cle": "204",
+  "type": "nom",
+  "fr": "Coquille de corail"
+ },
+ {
+  "cle": "205",
+  "type": "nom",
+  "fr": "Remueur de maïs"
+ },
+ {
+  "cle": "211",
+  "type": "nom",
+  "fr": "Mouton simiesque"
+ },
+ {
+  "cle": "218",
+  "type": "nom",
+  "fr": "Requingator"
+ },
+ {
+  "cle": "219",
+  "type": "nom",
+  "fr": "Cronorhinocyde"
+ },
+ {
+  "cle": "220",
+  "type": "nom",
+  "fr": "Croque-Récolte"
+ },
+ {
+  "cle": "237",
+  "type": "nom",
+  "fr": "D"
+ },
+ {
+  "cle": "243",
+  "type": "nom",
+  "fr": "Fatalité série-B"
+ },
+ {
+  "cle": "245",
+  "type": "nom",
+  "fr": "Rampeur moite"
+ },
+ {
+  "cle": "291",
+  "type": "nom",
+  "fr": "Dinodile"
+ },
+ {
+  "cle": "296",
+  "type": "nom",
+  "fr": "Rat crasseux"
+ },
+ {
+  "cle": "319",
+  "type": "nom",
+  "fr": "Dustergeist"
+ },
+ {
+  "cle": "321",
+  "type": "nom",
+  "fr": "E"
+ },
+ {
+  "cle": "339",
+  "type": "nom",
+  "fr": "Doyen hibou"
+ },
+ {
+  "cle": "363",
+  "type": "nom",
+  "fr": "F"
+ },
+ {
+  "cle": "373",
+  "type": "nom",
+  "fr": "Fileuse du destin"
+ },
+ {
+  "cle": "385",
+  "type": "nom",
+  "fr": "Plante ardente"
+ },
+ {
+  "cle": "387",
+  "type": "nom",
+  "fr": "Velgr flamboyant"
+ },
+ {
+  "cle": "390",
+  "type": "nom",
+  "fr": "Liparis volant"
+ },
+ {
+  "cle": "391",
+  "type": "nom",
+  "fr": "Chat-volant"
+ },
+ {
+  "cle": "393",
+  "type": "nom",
+  "fr": "Phalène volant"
+ },
+ {
+  "cle": "394",
+  "type": "nom",
+  "fr": "Crevette volante"
+ },
+ {
+  "cle": "395",
+  "type": "nom",
+  "fr": "Brume forestière"
+ },
+ {
+  "cle": "408",
+  "type": "nom",
+  "fr": "G"
+ },
+ {
+  "cle": "437",
+  "type": "nom",
+  "fr": "Croqueur de cultures géant"
+ },
+ {
+  "cle": "441",
+  "type": "nom",
+  "fr": "Sasasquatch"
+ },
+ {
+  "cle": "460",
+  "type": "nom",
+  "fr": "Rat doré"
+ },
+ {
+  "cle": "482",
+  "type": "nom",
+  "fr": "Marcassanglier"
+ },
+ {
+  "cle": "490",
+  "type": "nom",
+  "fr": "Sauteriau"
+ },
+ {
+  "cle": "499",
+  "type": "nom",
+  "fr": "Grande mite"
+ },
+ {
+  "cle": "508",
+  "type": "nom",
+  "fr": "Bupreste vert"
+ },
+ {
+  "cle": "509",
+  "type": "nom",
+  "fr": "Pingouin vert"
+ },
+ {
+  "cle": "519",
+  "type": "nom",
+  "fr": "Patrouilleur aérien"
+ },
+ {
+  "cle": "527",
+  "type": "nom",
+  "fr": "Pantin mitrailleur"
+ },
+ {
+  "cle": "531",
+  "type": "nom",
+  "fr": "H"
+ },
+ {
+  "cle": "538",
+  "type": "nom",
+  "fr": "Taupe lunaire"
+ },
+ {
+  "cle": "542",
+  "type": "nom",
+  "fr": "Poisson-marteau"
+ },
+ {
+  "cle": "553",
+  "type": "nom",
+  "fr": "Enfer de Mars"
+ },
+ {
+  "cle": "559",
+  "type": "nom",
+  "fr": "Cancer casqué"
+ },
+ {
+  "cle": "561",
+  "type": "nom",
+  "fr": "Abeille des collines"
+ },
+ {
+  "cle": "567",
+  "type": "nom",
+  "fr": "Leader sauteur"
+ },
+ {
+  "cle": "571",
+  "type": "nom",
+  "fr": "Hresvelgr"
+ },
+ {
+  "cle": "581",
+  "type": "nom",
+  "fr": "I"
+ },
+ {
+  "cle": "585",
+  "type": "nom",
+  "fr": "Picaglace"
+ },
+ {
+  "cle": "605",
+  "type": "nom",
+  "fr": "J"
+ },
+ {
+  "cle": "606",
+  "type": "nom",
+  "fr": "Jabba"
+ },
+ {
+  "cle": "611",
+  "type": "nom",
+  "fr": "Tortue rempart"
+ },
+ {
+  "cle": "624",
+  "type": "nom",
+  "fr": "K"
+ },
+ {
+  "cle": "638",
+  "type": "nom",
+  "fr": "Crabe tueur"
+ },
+ {
+  "cle": "641",
+  "type": "nom",
+  "fr": "Frelon tueur"
+ },
+ {
+  "cle": "647",
+  "type": "nom",
+  "fr": "Roi Pingouin"
+ },
+ {
+  "cle": "648",
+  "type": "nom",
+  "fr": "Roi scorpion"
+ },
+ {
+  "cle": "655",
+  "type": "nom",
+  "fr": "L"
+ },
+ {
+  "cle": "662",
+  "type": "nom",
+  "fr": "Remueur de lys"
+ },
+ {
+  "cle": "681",
+  "type": "nom",
+  "fr": "M"
+ },
+ {
+  "cle": "684",
+  "type": "nom",
+  "fr": "Fatalité série-M"
+ },
+ {
+  "cle": "689",
+  "type": "nom",
+  "fr": "Papouilleur fou"
+ },
+ {
+  "cle": "690",
+  "type": "nom",
+  "fr": "Escargot fou"
+ },
+ {
+  "cle": "691",
+  "type": "nom",
+  "fr": "Arbre furieux"
+ },
+ {
+  "cle": "718",
+  "type": "nom",
+  "fr": "Coquille de Mars"
+ },
+ {
+  "cle": "719",
+  "type": "nom",
+  "fr": "Moineau de Mars"
+ },
+ {
+  "cle": "720",
+  "type": "nom",
+  "fr": "Chupacabra palustre"
+ },
+ {
+  "cle": "723",
+  "type": "nom",
+  "fr": "Maîtresse Clyone"
+ },
+ {
+  "cle": "737",
+  "type": "nom",
+  "fr": "Vipère de Mercure"
+ },
+ {
+  "cle": "748",
+  "type": "nom",
+  "fr": "Pom menthe"
+ },
+ {
+  "cle": "765",
+  "type": "nom",
+  "fr": "Nuée de phalènes"
+ },
+ {
+  "cle": "766",
+  "type": "nom",
+  "fr": "Escadron de phalènes"
+ },
+ {
+  "cle": "773",
+  "type": "nom",
+  "fr": "Crabe meurtrier"
+ },
+ {
+  "cle": "777",
+  "type": "nom",
+  "fr": "Serpampignon"
+ },
+ {
+  "cle": "781",
+  "type": "nom",
+  "fr": "N"
+ },
+ {
+  "cle": "798",
+  "type": "nom",
+  "fr": "Ammonite nocturne"
+ },
+ {
+  "cle": "810",
+  "type": "nom",
+  "fr": "O"
+ },
+ {
+  "cle": "838",
+  "type": "nom",
+  "fr": "P"
+ },
+ {
+  "cle": "860",
+  "type": "nom",
+  "fr": "Juge photonique"
+ },
+ {
+  "cle": "862",
+  "type": "nom",
+  "fr": "Plante de pin"
+ },
+ {
+  "cle": "865",
+  "type": "nom",
+  "fr": "Pingouin rose"
+ },
+ {
+  "cle": "877",
+  "type": "nom",
+  "fr": "Pom"
+ },
+ {
+  "cle": "881",
+  "type": "nom",
+  "fr": "Primera"
+ },
+ {
+  "cle": "886",
+  "type": "nom",
+  "fr": "Pom tiron"
+ },
+ {
+  "cle": "891",
+  "type": "nom",
+  "fr": "Q"
+ },
+ {
+  "cle": "895",
+  "type": "nom",
+  "fr": "Reine scorpion"
+ },
+ {
+  "cle": "899",
+  "type": "nom",
+  "fr": "R"
+ },
+ {
+  "cle": "918",
+  "type": "nom",
+  "fr": "Rouget marteau"
+ },
+ {
+  "cle": "919",
+  "type": "nom",
+  "fr": "Bupreste rouge"
+ },
+ {
+  "cle": "921",
+  "type": "nom",
+  "fr": "Pingouin rouge"
+ },
+ {
+  "cle": "932",
+  "type": "nom",
+  "fr": "Rhinocyde"
+ },
+ {
+  "cle": "934",
+  "type": "nom",
+  "fr": "Rimera"
+ },
+ {
+  "cle": "940",
+  "type": "nom",
+  "fr": "Géocoucou"
+ },
+ {
+  "cle": "941",
+  "type": "nom",
+  "fr": "Malice du coffre"
+ },
+ {
+  "cle": "945",
+  "type": "nom",
+  "fr": "Picroche"
+ },
+ {
+  "cle": "957",
+  "type": "nom",
+  "fr": "Boule-à-iule"
+ },
+ {
+  "cle": "974",
+  "type": "nom",
+  "fr": "S"
+ },
+ {
+  "cle": "977",
+  "type": "nom",
+  "fr": "Fatalité série-S"
+ },
+ {
+  "cle": "996",
+  "type": "nom",
+  "fr": "Mains d'argent"
+ },
+ {
+  "cle": "1002",
+  "type": "nom",
+  "fr": "Démon hippocampe"
+ },
+ {
+  "cle": "1016",
+  "type": "nom",
+  "fr": "Crocorequin"
+ },
+ {
+  "cle": "1020",
+  "type": "nom",
+  "fr": "Pom brillant"
+ },
+ {
+  "cle": "1052",
+  "type": "nom",
+  "fr": "Mante des neiges"
+ },
+ {
+  "cle": "1059",
+  "type": "nom",
+  "fr": "Canidé robuste"
+ },
+ {
+  "cle": "1071",
+  "type": "nom",
+  "fr": "Méduse-oursin"
+ },
+ {
+  "cle": "1087",
+  "type": "nom",
+  "fr": "Panthère d'acier"
+ },
+ {
+  "cle": "1099",
+  "type": "nom",
+  "fr": "Plante fourneau"
+ },
+ {
+  "cle": "1117",
+  "type": "nom",
+  "fr": "T"
+ },
+ {
+  "cle": "1131",
+  "type": "nom",
+  "fr": "Tonnerre tremblant"
+ },
+ {
+  "cle": "1174",
+  "type": "nom",
+  "fr": "U"
+ },
+ {
+  "cle": "1183",
+  "type": "nom",
+  "fr": "V"
+ },
+ {
+  "cle": "1202",
+  "type": "nom",
+  "fr": "Pom violet"
+ },
+ {
+  "cle": "1213",
+  "type": "nom",
+  "fr": "W"
+ },
+ {
+  "cle": "1216",
+  "type": "nom",
+  "fr": "Worbat"
+ },
+ {
+  "cle": "1217",
+  "type": "nom",
+  "fr": "Mante de guerre"
+ },
+ {
+  "cle": "1226",
+  "type": "nom",
+  "fr": "Cétacé batracien (♀)"
+ },
+ {
+  "cle": "1227",
+  "type": "nom",
+  "fr": "Cétacé batracien (♂)"
+ },
+ {
+  "cle": "1231",
+  "type": "nom",
+  "fr": "Bupreste blanc"
+ },
+ {
+  "cle": "1232",
+  "type": "nom",
+  "fr": "Pingouin blanc"
+ },
+ {
+  "cle": "1238",
+  "type": "nom",
+  "fr": "Sagesse"
+ },
+ {
+  "cle": "1239",
+  "type": "nom",
+  "fr": "Follet"
+ },
+ {
+  "cle": "1242",
+  "type": "nom",
+  "fr": "Araignée emballeuse"
+ },
+ {
+  "cle": "1246",
+  "type": "nom",
+  "fr": "X"
+ },
+ {
+  "cle": "1248",
+  "type": "nom",
+  "fr": "Y"
+ },
+ {
+  "cle": "1251",
+  "type": "nom",
+  "fr": "Pingouin jaune"
+ },
+ {
+  "cle": "1255",
+  "type": "nom",
+  "fr": "Z"
+ }
+]

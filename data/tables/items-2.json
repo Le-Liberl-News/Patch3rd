@@ -1,0 +1,3632 @@
+[
+ {
+  "cle": "1000",
+  "type": "nom",
+  "fr": "Arme d'entraînement"
+ },
+ {
+  "cle": "1000",
+  "type": "description",
+  "fr": "On peut faire mieux en puissance, mais c'est mieux que rien, non ?"
+ },
+ {
+  "cle": "1001",
+  "type": "nom",
+  "fr": "Manche linéaire"
+ },
+ {
+  "cle": "1001",
+  "type": "description",
+  "fr": "[FOR+500/POR+2]\nBâton de combat basique. Parfait pour revoir les fondamentaux."
+ },
+ {
+  "cle": "1002",
+  "type": "nom",
+  "fr": "Perche Nohval"
+ },
+ {
+  "cle": "1002",
+  "type": "description",
+  "fr": "[FOR+600/POR+2]\nBâton d'un noir profond absorbant la lumière."
+ },
+ {
+  "cle": "1003",
+  "type": "nom",
+  "fr": "NON_ITEM"
+ },
+ {
+  "cle": "1003",
+  "type": "description",
+  "fr": "[STR+700/RNG+3]\nUnused."
+ },
+ {
+  "cle": "1004",
+  "type": "nom",
+  "fr": "Canne calamites"
+ },
+ {
+  "cle": "1004",
+  "type": "description",
+  "fr": "[FOR+800/POR+2]\nUn bâton de combat taillé dans un bois fossile antique."
+ },
+ {
+  "cle": "1005",
+  "type": "nom",
+  "fr": "Vigne tire-bouchon"
+ },
+ {
+  "cle": "1005",
+  "type": "description",
+  "fr": "[FOR+900/POR+2]\nBâton particulièrement souple fabriqué en assemblant sept branches."
+ },
+ {
+  "cle": "1006",
+  "type": "nom",
+  "fr": "Drapeau force"
+ },
+ {
+  "cle": "1006",
+  "type": "description",
+  "fr": "[FOR+1000/POR+3/PRC+10/ESQ+10/VIT+5]\nBâton brandissant un étendard symbole de puissance. Portée accrue."
+ },
+ {
+  "cle": "1007",
+  "type": "nom",
+  "fr": "Hercule"
+ },
+ {
+  "cle": "1007",
+  "type": "description",
+  "fr": "[FOR+1100/POR+2]\nBâton antique à la durabilité sans égal."
+ },
+ {
+  "cle": "1008",
+  "type": "nom",
+  "fr": "Amanomadra"
+ },
+ {
+  "cle": "1008",
+  "type": "description",
+  "fr": "[FOR+1200/POR+3/PRC+10/ESQ+10]\nBâton mythique qui s'en prend à l'existence même de l'ennemi."
+ },
+ {
+  "cle": "1009",
+  "type": "description",
+  "fr": "[STR+1300/RNG+3]\nNO_ITEM"
+ },
+ {
+  "cle": "1010",
+  "type": "nom",
+  "fr": "Umegae"
+ },
+ {
+  "cle": "1010",
+  "type": "description",
+  "fr": "[FOR+950/POR+3/PRC+5/ESQ+15/VIT+5]\nAutrefois utilisé par un voyageur. Des pétales rouges dansent dans son sillage."
+ },
+ {
+  "cle": "1011",
+  "type": "nom",
+  "fr": "Umegae +1"
+ },
+ {
+  "cle": "1011",
+  "type": "description",
+  "fr": "[FOR+1300/POR+3/PRC+15/ESQ+25/VIT+5]\nAutrefois utilisé par un voyageur. Des pétales rouges dansent dans son sillage."
+ },
+ {
+  "cle": "1012",
+  "type": "nom",
+  "fr": "Sphère Soleil"
+ },
+ {
+  "cle": "1012",
+  "type": "description",
+  "fr": "[FOR+1500/POR+3/PRC+25/ESQ+25/VIT+5]\r\nConçu à partir d'un minerai mystérieux. Émet une lueur chaleureuse."
+ },
+ {
+  "cle": "1013",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1014",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1019",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1020",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1021",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1022",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1023",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1024",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1025",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1026",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1027",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1028",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1029",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1030",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1031",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1032",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1033",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1034",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1035",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1036",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1037",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1038",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1039",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1040",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1041",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1042",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1043",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1044",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1045",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1046",
+  "type": "nom",
+  "fr": "Miséricordes"
+ },
+ {
+  "cle": "1046",
+  "type": "description",
+  "fr": "[FOR+200]\nLames si fines qu'elles se glissent dans les interstices d'une armure."
+ },
+ {
+  "cle": "1047",
+  "type": "nom",
+  "fr": "Mains-gauches"
+ },
+ {
+  "cle": "1047",
+  "type": "description",
+  "fr": "[FOR+300]\nUne lame pour gauchers. Celle pour les droitiers est offerte."
+ },
+ {
+  "cle": "1048",
+  "type": "nom",
+  "fr": "Coutures des ombres"
+ },
+ {
+  "cle": "1048",
+  "type": "description",
+  "fr": "[FOR+400/PRC+5/ESQ+5]\nPoignards qui se fondent dans les ombres. Destiné aux missions d'infiltration."
+ },
+ {
+  "cle": "1049",
+  "type": "nom",
+  "fr": "Tranchants dards"
+ },
+ {
+  "cle": "1049",
+  "type": "description",
+  "fr": "[FOR+500]\nDagues faciles à lancer pour porter le coup de grâce à distance."
+ },
+ {
+  "cle": "1050",
+  "type": "nom",
+  "fr": "Hachettes volantes"
+ },
+ {
+  "cle": "1050",
+  "type": "description",
+  "fr": "[FOR+600]\nMachettes à lame ovale que l'on peut faire tournoyer."
+ },
+ {
+  "cle": "1051",
+  "type": "nom",
+  "fr": "Dagues reins"
+ },
+ {
+  "cle": "1051",
+  "type": "description",
+  "fr": "[FOR+700/PRC+10/ESQ+10]\nÉlimine sa cible si vite qu'elle ne réalise pas avoir été lacérer."
+ },
+ {
+  "cle": "1052",
+  "type": "nom",
+  "fr": "Vairons"
+ },
+ {
+  "cle": "1052",
+  "type": "description",
+  "fr": "[FOR+800]\nDeux dagues à la taille et à l'éclat différent. Pour les professionnels."
+ },
+ {
+  "cle": "1053",
+  "type": "nom",
+  "fr": "Kusanagi (Tomo & Shizu)"
+ },
+ {
+  "cle": "1053",
+  "type": "description",
+  "fr": "[FOR+900]\nLames jumelles pouvant être reliées et utilisé comme un bâton de combat."
+ },
+ {
+  "cle": "1054",
+  "type": "nom",
+  "fr": "NON_ITEM"
+ },
+ {
+  "cle": "1054",
+  "type": "description",
+  "fr": "[STR+1000]\r\nUnused."
+ },
+ {
+  "cle": "1055",
+  "type": "nom",
+  "fr": "Catacombes"
+ },
+ {
+  "cle": "1055",
+  "type": "description",
+  "fr": "[FOR+1100/PRC+20/ESQ+20]\nLames jumelles reforgées à partir des fragments d'une épée antique."
+ },
+ {
+  "cle": "1056",
+  "type": "nom",
+  "fr": "Queues d'hirondelles"
+ },
+ {
+  "cle": "1056",
+  "type": "description",
+  "fr": "[FOR+1200/PRC+25/ESQ+25]\nLames légendaires comparées aux hirondelles survolant les champs de bataille."
+ },
+ {
+  "cle": "1057",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1058",
+  "type": "nom",
+  "fr": "Rouge-neige & Pâle-pluie"
+ },
+ {
+  "cle": "1058",
+  "type": "description",
+  "fr": "[FOR+950/RÉS+25/PRC+25]\nAutrefois utilisé par un voyageur. Lames qui viendraient des cieux."
+ },
+ {
+  "cle": "1059",
+  "type": "nom",
+  "fr": "Rouge-neige & Pâle-pluie +1"
+ },
+ {
+  "cle": "1059",
+  "type": "description",
+  "fr": "[FOR+1300/RÉS+75/PRC+25]\nAutrefois utilisé par un voyageur. Lames qui viendraient des cieux."
+ },
+ {
+  "cle": "1060",
+  "type": "nom",
+  "fr": "Vent & Marée"
+ },
+ {
+  "cle": "1060",
+  "type": "description",
+  "fr": "[FOR+1500/PRC+30/ESQ+25]\nConçues à partir d'un minerai mystérieux. Gravées de motifs ondoyants."
+ },
+ {
+  "cle": "1061",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1062",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1063",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1064",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1065",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1066",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1067",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1068",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1069",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1074",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1075",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1076",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1077",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1078",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1079",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1080",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1081",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1082",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1083",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1084",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1085",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1086",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1087",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1088",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1089",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1090",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1091",
+  "type": "nom",
+  "fr": "Fouet de chaînes"
+ },
+ {
+  "cle": "1091",
+  "type": "description",
+  "fr": "[FOR+500/POR+3]\nUn fouet composé de fines chaînes métalliques entrelacées."
+ },
+ {
+  "cle": "1092",
+  "type": "nom",
+  "fr": "Martinet à aiguilles"
+ },
+ {
+  "cle": "1092",
+  "type": "description",
+  "fr": "[FOR+600/POR+3]\nUn fouet aux multiples pointes qui démoralise petit à petit l'ennemi."
+ },
+ {
+  "cle": "1093",
+  "type": "nom",
+  "fr": "NON_ITEM"
+ },
+ {
+  "cle": "1093",
+  "type": "description",
+  "fr": "[STR+700/RNG+4]\nUnused."
+ },
+ {
+  "cle": "1094",
+  "type": "nom",
+  "fr": "Totalopathie"
+ },
+ {
+  "cle": "1094",
+  "type": "description",
+  "fr": "[FOR+800/POR+3/PRC+5]\nUn fouet de fil d'or qui sectionne la partie du corps qu'il enserre."
+ },
+ {
+  "cle": "1095",
+  "type": "nom",
+  "fr": "Tentacules de myrrhe"
+ },
+ {
+  "cle": "1095",
+  "type": "description",
+  "fr": "[FOR+900/POR+3]\nFouet composé de lianes torsadées d'un arbre oriental à la douce fragrance."
+ },
+ {
+  "cle": "1096",
+  "type": "nom",
+  "fr": "NON_ITEM"
+ },
+ {
+  "cle": "1096",
+  "type": "description",
+  "fr": "[STR+1000/RNG+4]\nUnused."
+ },
+ {
+  "cle": "1097",
+  "type": "nom",
+  "fr": "Éclaboussure"
+ },
+ {
+  "cle": "1097",
+  "type": "description",
+  "fr": "[FOR+1100/POR+3/ART+30/RÉS+30/PRC+5]\nUn long fil de fer fin antique. Scintille d'un éclat d'argent."
+ },
+ {
+  "cle": "1098",
+  "type": "nom",
+  "fr": "Terreur de Gorgone"
+ },
+ {
+  "cle": "1098",
+  "type": "description",
+  "fr": "[FOR+1200/POR+4/ART+35/RÉS+35/PRC+10]\nUn fouet à multiples lanières recouvertes d'écailles de pierre étincelante."
+ },
+ {
+  "cle": "1099",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1100",
+  "type": "nom",
+  "fr": "Zigeuner"
+ },
+ {
+  "cle": "1100",
+  "type": "description",
+  "fr": "[FOR+950/POR+4/ART+50/RÉS+50/PRC+10]\nAutrefois utilisé par un voyageur. Servait aux bergers d'antan."
+ },
+ {
+  "cle": "1101",
+  "type": "nom",
+  "fr": "Zigeuner +1"
+ },
+ {
+  "cle": "1101",
+  "type": "description",
+  "fr": "[FOR+1300/POR+4/ART+100/RÉS+100/PRC+20]\nAutrefois utilisé par un voyageur. Servait aux bergers d'antan."
+ },
+ {
+  "cle": "1102",
+  "type": "nom",
+  "fr": "Vipère"
+ },
+ {
+  "cle": "1102",
+  "type": "description",
+  "fr": "[FOR+12/POR+3]\nFouet en cuir léger, facile à manier."
+ },
+ {
+  "cle": "1103",
+  "type": "nom",
+  "fr": "Arc-en-ciel"
+ },
+ {
+  "cle": "1103",
+  "type": "description",
+  "fr": "[FOR+1500/POR+4/ART+150/RÉS+150/PRC+20]\nConçu à partir d'un minerai mystérieux. Fouet aux reflets multicolores."
+ },
+ {
+  "cle": "1104",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1109",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1110",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1111",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1112",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1113",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1114",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1115",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1116",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1117",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1118",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1119",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1120",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1121",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1122",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1123",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1124",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1125",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1126",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1127",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1128",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1129",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1130",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1131",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1132",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1133",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1134",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1135",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1136",
+  "type": "nom",
+  "fr": "Dual Star"
+ },
+ {
+  "cle": "1136",
+  "type": "description",
+  "fr": "[FOR+200/POR+5]\nUn révolver orbal fabriqué par le groupe Reinford de l'Empire."
+ },
+ {
+  "cle": "1137",
+  "type": "nom",
+  "fr": "Skyfish"
+ },
+ {
+  "cle": "1137",
+  "type": "description",
+  "fr": "[FOR+300/POR+5]\nUn puissant revolver orbal pouvant tirer en rafale."
+ },
+ {
+  "cle": "1138",
+  "type": "nom",
+  "fr": "Juggernaut"
+ },
+ {
+  "cle": "1138",
+  "type": "description",
+  "fr": "[FOR+400/POR+6/PRC+5]\nLe dernier modèle haute performance conçu par la société Verne de Calvard."
+ },
+ {
+  "cle": "1139",
+  "type": "nom",
+  "fr": "Stinger-M"
+ },
+ {
+  "cle": "1139",
+  "type": "description",
+  "fr": "[FOR+500/POR+5]\nRevolver orbal à petit calibre du groupe Reinford. Modèle militaire."
+ },
+ {
+  "cle": "1140",
+  "type": "nom",
+  "fr": "Zero Shot Revision"
+ },
+ {
+  "cle": "1140",
+  "type": "description",
+  "fr": "[FOR+600/POR+5]\nRevolver dont la puissance peut être réglée manuellement. Conçu par le CTZ. "
+ },
+ {
+  "cle": "1141",
+  "type": "nom",
+  "fr": "Moby Dick"
+ },
+ {
+  "cle": "1141",
+  "type": "description",
+  "fr": "[FOR+700/POR+6/PRC+10]\nRevolver gros calibre avec baïonnette attachée. Une production Verne."
+ },
+ {
+  "cle": "1142",
+  "type": "nom",
+  "fr": "Phantom S"
+ },
+ {
+  "cle": "1142",
+  "type": "description",
+  "fr": "[FOR+800/POR+5]\nRevolver orbal équipé d'un silencieux. Une production Reinford."
+ },
+ {
+  "cle": "1143",
+  "type": "nom",
+  "fr": "Peace Breaker"
+ },
+ {
+  "cle": "1143",
+  "type": "description",
+  "fr": "[FOR+900/POR+5]\nRevolver orbal d'origine inconnue. Populaire sur le marché noir."
+ },
+ {
+  "cle": "1144",
+  "type": "nom",
+  "fr": "Olibanum Ray"
+ },
+ {
+  "cle": "1144",
+  "type": "description",
+  "fr": "[FOR+1000/POR+6/PRC+15]\nRevolver orbal conçu à l'aide d'une technique et d'un bois oriental."
+ },
+ {
+  "cle": "1145",
+  "type": "nom",
+  "fr": "Desperado"
+ },
+ {
+  "cle": "1145",
+  "type": "description",
+  "fr": "[FOR+1100/POR+5/PRC+20]\nUn modèle antique aux parties pouvant être modifiées à volonté."
+ },
+ {
+  "cle": "1146",
+  "type": "nom",
+  "fr": "Akashic R"
+ },
+ {
+  "cle": "1146",
+  "type": "description",
+  "fr": "[FOR+1200/POR+6/PRC+25]\nUn revolver légendaire qui tire des balles de septium."
+ },
+ {
+  "cle": "1147",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1148",
+  "type": "nom",
+  "fr": "Eine Kleine"
+ },
+ {
+  "cle": "1148",
+  "type": "description",
+  "fr": "[FOR+750/POR+6/PRC+30/VIT+5]\nAutrefois utilisé par un voyageur. Tire des balles qui ricochent."
+ },
+ {
+  "cle": "1149",
+  "type": "nom",
+  "fr": "Eine Kleine +1"
+ },
+ {
+  "cle": "1149",
+  "type": "description",
+  "fr": "[FOR+950/POR+6/PRC+35/VIT+5]\nAutrefois utilisé par un voyageur. Tire des balles qui ricochent."
+ },
+ {
+  "cle": "1150",
+  "type": "nom",
+  "fr": "Eine Kleine +2"
+ },
+ {
+  "cle": "1150",
+  "type": "description",
+  "fr": "[FOR+1300/POR+6/PRC+40/VIT+5]\nAutrefois utilisé par un voyageur. Tire des balles qui ricochent."
+ },
+ {
+  "cle": "1151",
+  "type": "nom",
+  "fr": "Masquerade Eye"
+ },
+ {
+  "cle": "1151",
+  "type": "description",
+  "fr": "[FOR+1500/POR+6/PRC+50]\nConçu à partir d'un minerai mystérieux. Tire des balles autoguidées."
+ },
+ {
+  "cle": "1152",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1153",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1154",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1155",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1156",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1157",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1158",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1159",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1164",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1165",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1166",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1167",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1168",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1169",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1170",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1171",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1172",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1173",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1174",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1175",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1176",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1177",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1178",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1179",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1180",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1181",
+  "type": "nom",
+  "fr": "Fleuret"
+ },
+ {
+  "cle": "1181",
+  "type": "description",
+  "fr": "[FOR+100]\nUne lame fine parfaite pour les coups d'estoc."
+ },
+ {
+  "cle": "1182",
+  "type": "nom",
+  "fr": "Épée"
+ },
+ {
+  "cle": "1182",
+  "type": "description",
+  "fr": "[FOR+200]\nUne lame fine faite pour être plus souple que robuste."
+ },
+ {
+  "cle": "1183",
+  "type": "nom",
+  "fr": "Scramasax"
+ },
+ {
+  "cle": "1183",
+  "type": "description",
+  "fr": "[FOR+300]\nUne épée à une main appréciée de ceux qui vivent du combat."
+ },
+ {
+  "cle": "1184",
+  "type": "nom",
+  "fr": "Cœur akashique"
+ },
+ {
+  "cle": "1184",
+  "type": "description",
+  "fr": "[FOR+400/ART+25/ESQ+5]\nUne épée à la lame sinueuse réputée pour son tranchant acéré."
+ },
+ {
+  "cle": "1185",
+  "type": "nom",
+  "fr": "Épée Damascus"
+ },
+ {
+  "cle": "1185",
+  "type": "description",
+  "fr": "[FOR+500]\nUne épée de qualité particulièrement durable fabriquée dans l'Empire. "
+ },
+ {
+  "cle": "1186",
+  "type": "nom",
+  "fr": "Sempre Verde"
+ },
+ {
+  "cle": "1186",
+  "type": "description",
+  "fr": "[FOR+600]\nUne magnifique lame à l'éclat vert pâle."
+ },
+ {
+  "cle": "1187",
+  "type": "nom",
+  "fr": "Croix cavalière"
+ },
+ {
+  "cle": "1187",
+  "type": "description",
+  "fr": "[FOR+700/ART+30/ESQ+10]\nUne lame d'Artéria à la garde en forme de calice sacré."
+ },
+ {
+  "cle": "1188",
+  "type": "nom",
+  "fr": "Serviteur nivéal"
+ },
+ {
+  "cle": "1188",
+  "type": "description",
+  "fr": "[FOR+800]\nÉpée de chevalier conférée par la famille royale du Liberl à ses fidèles sujets."
+ },
+ {
+  "cle": "1189",
+  "type": "nom",
+  "fr": "Sabre aile"
+ },
+ {
+  "cle": "1189",
+  "type": "description",
+  "fr": "[FOR+900]\nUne épée courbée à la forme d'une aile."
+ },
+ {
+  "cle": "1190",
+  "type": "nom",
+  "fr": "Sigrdrifa"
+ },
+ {
+  "cle": "1190",
+  "type": "description",
+  "fr": "[FOR+1000/ART+35/ESQ+15]\nPrécieuse épée de la famille royale du Liberl. Gravée de prières de victoire."
+ },
+ {
+  "cle": "1191",
+  "type": "nom",
+  "fr": "Mistilteinn"
+ },
+ {
+  "cle": "1191",
+  "type": "description",
+  "fr": "[FOR+1100/ART+40/ESQ+20]\nÉpée fabriquée à partir d'un arbre antique. La lame se répare d'elle-même."
+ },
+ {
+  "cle": "1192",
+  "type": "nom",
+  "fr": "Bleu céleste"
+ },
+ {
+  "cle": "1192",
+  "type": "description",
+  "fr": "[FOR+1200/ART+45/ESQ+25]\nUne lame légendaire dont la couleur change selon la teinte du ciel."
+ },
+ {
+  "cle": "1193",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1194",
+  "type": "nom",
+  "fr": "Épée vorpale"
+ },
+ {
+  "cle": "1194",
+  "type": "description",
+  "fr": "[FOR+850/ART+20/PRC+5/ESQ+5]\nAutrefois utilisé par un voyageur. Élimine les monstres de l'autre côté du miroir."
+ },
+ {
+  "cle": "1195",
+  "type": "nom",
+  "fr": "Épée vorpale +1"
+ },
+ {
+  "cle": "1195",
+  "type": "description",
+  "fr": "[FOR+950/ART+40/PRC+5/ESQ+15]\nAutrefois utilisé par un voyageur. Élimine les monstres de l'autre côté du miroir."
+ },
+ {
+  "cle": "1196",
+  "type": "nom",
+  "fr": "Épée vorpale +2"
+ },
+ {
+  "cle": "1196",
+  "type": "description",
+  "fr": "[FOR+1300/ART+60/PRC+5/ESQ+20]\nAutrefois utilisé par un voyageur. Élimine les monstres de l'autre côté du miroir."
+ },
+ {
+  "cle": "1197",
+  "type": "nom",
+  "fr": "Nova divine"
+ },
+ {
+  "cle": "1197",
+  "type": "description",
+  "fr": "[FOR+1550/ART+80/PRC+10/ESQ+25]\nConçue à partir d'un minerai mystérieux. Cette lame est impossible à briser."
+ },
+ {
+  "cle": "1198",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1199",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1200",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1201",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1202",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1203",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1204",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1205",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1206",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1207",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1208",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1209",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1210",
+  "type": "nom",
+  "fr": "Fleuret +"
+ },
+ {
+  "cle": "1210",
+  "type": "description",
+  "fr": "[FOR+100]\nUne lame fine parfaite pour les coups d'estoc."
+ },
+ {
+  "cle": "1211",
+  "type": "nom",
+  "fr": "Épée +"
+ },
+ {
+  "cle": "1211",
+  "type": "description",
+  "fr": "[FOR+200]\nUne lame fine faite pour être plus souple que robuste."
+ },
+ {
+  "cle": "1214",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1215",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1216",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1217",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1218",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1219",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1220",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1221",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1222",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1223",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1224",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1225",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1226",
+  "type": "nom",
+  "fr": "Bi-manuelle"
+ },
+ {
+  "cle": "1226",
+  "type": "description",
+  "fr": "[FOR+250]\nUne épée à deux mains forgée en suivant les techniques traditionnelles."
+ },
+ {
+  "cle": "1227",
+  "type": "nom",
+  "fr": "Épée Cervidée"
+ },
+ {
+  "cle": "1227",
+  "type": "description",
+  "fr": "[FOR+350]\nÉpée à deux mains fabriquée avec la corne géante d'un monstre."
+ },
+ {
+  "cle": "1228",
+  "type": "nom",
+  "fr": "NON_ITEM"
+ },
+ {
+  "cle": "1228",
+  "type": "description",
+  "fr": "[STR+450]\nUnused"
+ },
+ {
+  "cle": "1229",
+  "type": "nom",
+  "fr": "Débris"
+ },
+ {
+  "cle": "1229",
+  "type": "description",
+  "fr": "[FOR+550]\nÉpée à deux mains prisée des militaires de l'Empire. Basique mais lourde."
+ },
+ {
+  "cle": "1230",
+  "type": "nom",
+  "fr": "Tachi de l'araignée"
+ },
+ {
+  "cle": "1230",
+  "type": "description",
+  "fr": "[FOR+650/PRC-10]\nÉpée à deux mains plus fine et allongée qu'à l’accoutumée."
+ },
+ {
+  "cle": "1231",
+  "type": "nom",
+  "fr": "Hard rock"
+ },
+ {
+  "cle": "1231",
+  "type": "description",
+  "fr": "[FOR+750]\nÉpée à deux mains fabriquée à partir d'une roche particulièrement solide."
+ },
+ {
+  "cle": "1232",
+  "type": "nom",
+  "fr": "Drag Wendel"
+ },
+ {
+  "cle": "1232",
+  "type": "description",
+  "fr": "[FOR+850]\nÉpée chérie par un mercenaire de légende du Moyen-Âge."
+ },
+ {
+  "cle": "1233",
+  "type": "nom",
+  "fr": "Apeiron"
+ },
+ {
+  "cle": "1233",
+  "type": "description",
+  "fr": "[FOR+950/PRC-15]\nÉpée à la lame massive dont le tranchant transparent désoriente l'ennemi."
+ },
+ {
+  "cle": "1234",
+  "type": "nom",
+  "fr": "Galatyne"
+ },
+ {
+  "cle": "1234",
+  "type": "description",
+  "fr": "[FOR+1050]\nÉpée mystérieuse absorbant la lumière du soleil pour augmenter sa puissance."
+ },
+ {
+  "cle": "1235",
+  "type": "nom",
+  "fr": "Épée écarlate"
+ },
+ {
+  "cle": "1235",
+  "type": "description",
+  "fr": "[FOR+1150]\nUne épée antique à l'éclat écarlate. Impossible à produire de nos jours."
+ },
+ {
+  "cle": "1236",
+  "type": "nom",
+  "fr": "Apocrypha"
+ },
+ {
+  "cle": "1236",
+  "type": "description",
+  "fr": "[FOR+1250/PRC-20]\nImmense épée sinistre au rouge noirâtre. Un emblème de dragon y est gravé."
+ },
+ {
+  "cle": "1237",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1238",
+  "type": "nom",
+  "fr": "Pendragon"
+ },
+ {
+  "cle": "1238",
+  "type": "description",
+  "fr": "[FOR+900/PRC+5/ESQ+10]\nAutrefois utilisé par un voyageur. Une lame sacrée brisée mais imposante."
+ },
+ {
+  "cle": "1239",
+  "type": "nom",
+  "fr": "Pendragon +1"
+ },
+ {
+  "cle": "1239",
+  "type": "description",
+  "fr": "[FOR+1100/PRC+10/ESQ+15]\nAutrefois utilisé par un voyageur. Une lame sacrée brisée mais imposante."
+ },
+ {
+  "cle": "1240",
+  "type": "nom",
+  "fr": "Pendragon +2"
+ },
+ {
+  "cle": "1240",
+  "type": "description",
+  "fr": "[FOR+1350/PRC+15/ESQ+20]\nAutrefois utilisé par un voyageur. Une lame sacrée brisée mais imposante."
+ },
+ {
+  "cle": "1241",
+  "type": "nom",
+  "fr": "Fossile Dino"
+ },
+ {
+  "cle": "1241",
+  "type": "description",
+  "fr": "[FOR+1550/PRC+20/ESQ+25]\nConçue à partir d'un minerai mystérieux. Épée à deux mains à la lame difforme."
+ },
+ {
+  "cle": "1242",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1243",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1244",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1245",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1246",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1247",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1248",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1249",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1254",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1255",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1256",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1257",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1258",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1259",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1260",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1261",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1262",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1263",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1264",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1265",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1266",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1267",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1268",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1269",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1270",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1271",
+  "type": "nom",
+  "fr": "Hybride D"
+ },
+ {
+  "cle": "1271",
+  "type": "description",
+  "fr": "[FOR+100/POR+4/Zone (P)]\nUn outil des ingénieurs du CTZ modifié en canon orbal."
+ },
+ {
+  "cle": "1272",
+  "type": "nom",
+  "fr": "G-03"
+ },
+ {
+  "cle": "1272",
+  "type": "description",
+  "fr": "[FOR+200/POR+4/Zone (P)]\nUn canon orbal à faible recul développé par le CTZ."
+ },
+ {
+  "cle": "1273",
+  "type": "nom",
+  "fr": "Canon parabole"
+ },
+ {
+  "cle": "1273",
+  "type": "description",
+  "fr": "[FOR+300/POR+4/Zone (P)]\nUn canon orbal à laser développé à titre expérimental par le CTZ."
+ },
+ {
+  "cle": "1274",
+  "type": "nom",
+  "fr": "Stun GB"
+ },
+ {
+  "cle": "1274",
+  "type": "description",
+  "fr": "[FOR+400/POR+5/Zone (P)]\nUn petit modèle de canon orbal du groupe Reinford destiné au grand public."
+ },
+ {
+  "cle": "1275",
+  "type": "nom",
+  "fr": "UG-01"
+ },
+ {
+  "cle": "1275",
+  "type": "description",
+  "fr": "[FOR+500/POR+4/Zone (P)]\nProchain modèle phare de canon orbal du CTZ. Version améliorée de la série G."
+ },
+ {
+  "cle": "1276",
+  "type": "nom",
+  "fr": "Lanceur R"
+ },
+ {
+  "cle": "1276",
+  "type": "description",
+  "fr": "[FOR+600/POR+4/Zone (P)]\nCanon orbal de taille moyenne qui allie puissance et rechargement instantané."
+ },
+ {
+  "cle": "1277",
+  "type": "nom",
+  "fr": "Gatling armée"
+ },
+ {
+  "cle": "1277",
+  "type": "description",
+  "fr": "[FOR+700/POR+5/Zone (P)]\nPrototype de canon orbal Reinford visant à neutraliser l'ennemi sans être fatal."
+ },
+ {
+  "cle": "1278",
+  "type": "nom",
+  "fr": "UG-02"
+ },
+ {
+  "cle": "1278",
+  "type": "description",
+  "fr": "[FOR+800/POR+4/Zone (P)]\nNouveau modèle de canon orbal de la série UG. Peut être fixé au sol."
+ },
+ {
+  "cle": "1279",
+  "type": "nom",
+  "fr": "Sentinelle"
+ },
+ {
+  "cle": "1279",
+  "type": "description",
+  "fr": "[FOR+900/POR+4/Zone (P)]\nArme trouvée dans des ruines antiques et restaurée."
+ },
+ {
+  "cle": "1280",
+  "type": "nom",
+  "fr": "Grand plaquage"
+ },
+ {
+  "cle": "1280",
+  "type": "description",
+  "fr": "[FOR+1000/POR+5/Zone (P)]\nUn canon antique d’origine inconnue. Utilise un moteur à combustion interne."
+ },
+ {
+  "cle": "1281",
+  "type": "nom",
+  "fr": "Désastre"
+ },
+ {
+  "cle": "1281",
+  "type": "description",
+  "fr": "[FOR+1100/POR+4/Zone (P)]\nVestige d'une civilisation antique. Un tir crée plusieurs impacts dans le sol."
+ },
+ {
+  "cle": "1282",
+  "type": "nom",
+  "fr": "Vritra-han"
+ },
+ {
+  "cle": "1282",
+  "type": "description",
+  "fr": "[FOR+1200/POR+5/Zone (P)]\nArme de destruction interdimensionnel. Son nom signifie « Tueur du Dragon »."
+ },
+ {
+  "cle": "1283",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1284",
+  "type": "nom",
+  "fr": "Missile bille"
+ },
+ {
+  "cle": "1284",
+  "type": "description",
+  "fr": "[FOR+850/POR+5/RÉS+5/PRC+20/VIT+5/Zone (M)]\nAutrefois utilisé par un voyageur. Canon orbal adapté à toutes les situations."
+ },
+ {
+  "cle": "1285",
+  "type": "nom",
+  "fr": "Missile bille +1"
+ },
+ {
+  "cle": "1285",
+  "type": "description",
+  "fr": "[FOR+950/POR+5/RÉS+10/PRC+30/VIT+5/Zone (M)]\nAutrefois utilisé par un voyageur. Canon orbal adapté à toutes les situations."
+ },
+ {
+  "cle": "1286",
+  "type": "nom",
+  "fr": "Missile bille +2"
+ },
+ {
+  "cle": "1286",
+  "type": "description",
+  "fr": "[FOR+1300/POR+5/RÉS+15/PRC+40/VIT+5/Zone (M)]\nAutrefois utilisé par un voyageur. Canon orbal adapté à toutes les situations."
+ },
+ {
+  "cle": "1287",
+  "type": "nom",
+  "fr": "Melty-buster"
+ },
+ {
+  "cle": "1287",
+  "type": "description",
+  "fr": "[FOR+1500/POR+5/DÉF+10/ART+10/VIT+10/RÉS+20/PRC+50/Zone (M)]\nConçu à partir d'un minerai mystérieux. Canon pouvant fondre l'espace."
+ },
+ {
+  "cle": "1288",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1289",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1290",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1291",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1292",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1293",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1294",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1295",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1296",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1297",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1298",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1299",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1304",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1305",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1306",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1307",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1308",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1309",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1310",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1311",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1312",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1313",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1314",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1315",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1316",
+  "type": "nom",
+  "fr": "Bras d'acier"
+ },
+ {
+  "cle": "1316",
+  "type": "description",
+  "fr": "[FOR+450]\nGantelets d’acier fabriqués à partir d’épaisses plaques de fer."
+ },
+ {
+  "cle": "1317",
+  "type": "nom",
+  "fr": "NON_ITEM"
+ },
+ {
+  "cle": "1317",
+  "type": "description",
+  "fr": "[STR+550]\nUnused."
+ },
+ {
+  "cle": "1318",
+  "type": "nom",
+  "fr": "Bagh-nakh"
+ },
+ {
+  "cle": "1318",
+  "type": "description",
+  "fr": "[FOR+650]\nGantelets à l'image des griffes d'un tigre. Revers hérissé de pointes redoutables."
+ },
+ {
+  "cle": "1319",
+  "type": "nom",
+  "fr": "Poing Kaiser"
+ },
+ {
+  "cle": "1319",
+  "type": "description",
+  "fr": "[FOR+750/PRC+5/VIT+5]\nGantelets utilisant des flux d'énergies pour libérer la puissance du porteur."
+ },
+ {
+  "cle": "1320",
+  "type": "nom",
+  "fr": "Gantelet d'albâtre"
+ },
+ {
+  "cle": "1320",
+  "type": "description",
+  "fr": "[FOR+850]\nGantelets d'un blanc immaculé réprouvant toute effusion de sang."
+ },
+ {
+  "cle": "1321",
+  "type": "nom",
+  "fr": "Griffe lunaire"
+ },
+ {
+  "cle": "1321",
+  "type": "description",
+  "fr": "[FOR+950]\nGantelets à la forme d'une patte d'ours. Couvre le bras d'une fourrure noire."
+ },
+ {
+  "cle": "1322",
+  "type": "nom",
+  "fr": "Blason d'or"
+ },
+ {
+  "cle": "1322",
+  "type": "description",
+  "fr": "[FOR+1050/PRC+10/VIT+5]\nGantelets orientaux en or aussi durables que bien ornés."
+ },
+ {
+  "cle": "1323",
+  "type": "nom",
+  "fr": "Briseur d'augure"
+ },
+ {
+  "cle": "1323",
+  "type": "description",
+  "fr": "[FOR+1150/PRC+15/VIT+10]\nGantelets antiques détruisant l'ennemi de l'intérieur sans laisser de marques."
+ },
+ {
+  "cle": "1324",
+  "type": "nom",
+  "fr": "Acalanatha"
+ },
+ {
+  "cle": "1324",
+  "type": "description",
+  "fr": "[FOR+1250/PRC+20/VIT+15]\nGantelets fabriqués avec la terre d'une montagne sacrée de Calvard."
+ },
+ {
+  "cle": "1325",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1326",
+  "type": "nom",
+  "fr": "Fer de Kaina"
+ },
+ {
+  "cle": "1326",
+  "type": "description",
+  "fr": "[FOR+1000/PRC+30/VIT+10]\nAutrefois utilisé par un voyageur. Les bras de la statue d'une déesse oubliée."
+ },
+ {
+  "cle": "1327",
+  "type": "nom",
+  "fr": "Fer de Kaina +1"
+ },
+ {
+  "cle": "1327",
+  "type": "description",
+  "fr": "[FOR+1350/PRC+35/VIT+20]\nAutrefois utilisé par un voyageur. Les bras de la statue d'une déesse oubliée."
+ },
+ {
+  "cle": "1328",
+  "type": "nom",
+  "fr": "Monstre Tetra"
+ },
+ {
+  "cle": "1328",
+  "type": "description",
+  "fr": "[FOR+1550/PRC+40/VIT+25]\nConçu à partir d'un minerai mystérieux. Émets quatre éclats différents."
+ },
+ {
+  "cle": "1329",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1330",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1331",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1332",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1337",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1338",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1339",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1340",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1341",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1342",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1343",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1344",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1345",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1346",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1347",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1348",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1349",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1350",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1351",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1352",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1353",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1354",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1355",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1356",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1357",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1358",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1359",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1360",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1361",
+  "type": "nom",
+  "fr": "Armement Ritter"
+ },
+ {
+  "cle": "1361",
+  "type": "description",
+  "fr": "[FOR+100/POR+4]\nUne arbalète fournie par l'église septienne aux membres du Gralsritter."
+ },
+ {
+  "cle": "1362",
+  "type": "nom",
+  "fr": "Tireur Aqua"
+ },
+ {
+  "cle": "1362",
+  "type": "description",
+  "fr": "[FOR+200/POR+4]\nUn prototype d'arc projetant de l'eau à haute pression. Une production Verne."
+ },
+ {
+  "cle": "1363",
+  "type": "nom",
+  "fr": "Chien hurlant"
+ },
+ {
+  "cle": "1363",
+  "type": "description",
+  "fr": "[FOR+300/POR+5]\nUne arbalète produite en série. Populaire avec les corps de jaegers."
+ },
+ {
+  "cle": "1364",
+  "type": "nom",
+  "fr": "Arc soliste"
+ },
+ {
+  "cle": "1364",
+  "type": "description",
+  "fr": "[FOR+400/POR+5]\nUne arbalète à grande cadence de tir conçue pour les opérations en solo."
+ },
+ {
+  "cle": "1365",
+  "type": "nom",
+  "fr": "Aion"
+ },
+ {
+  "cle": "1365",
+  "type": "description",
+  "fr": "[FOR+500/POR+6/ART+25/PRC+15]\nArbalète d'un noir profond. Marquée par l'usure mais parfaitement entretenue."
+ },
+ {
+  "cle": "1366",
+  "type": "nom",
+  "fr": "Invisible"
+ },
+ {
+  "cle": "1366",
+  "type": "description",
+  "fr": "[FOR+600/POR+5]\nUne arbalète qui peut facilement être cachée sous des vêtements."
+ },
+ {
+  "cle": "1367",
+  "type": "nom",
+  "fr": "Super arbalète"
+ },
+ {
+  "cle": "1367",
+  "type": "description",
+  "fr": "[FOR+700/POR+6/ART+50/PRC+20]\nUn arc géant datant du Moyen-Âge qui a marqué l'histoire militaire."
+ },
+ {
+  "cle": "1368",
+  "type": "nom",
+  "fr": "Sherwood"
+ },
+ {
+  "cle": "1368",
+  "type": "description",
+  "fr": "[FOR+800/POR+6]\nArc taillé dans un grand arbre dont les flèches suivent une trajectoire atypique."
+ },
+ {
+  "cle": "1369",
+  "type": "nom",
+  "fr": "Armement éclipse"
+ },
+ {
+  "cle": "1369",
+  "type": "description",
+  "fr": "[FOR+900/POR+6]\nArbalète utilisant des carreaux particuliers rendant la cicatrisation difficile."
+ },
+ {
+  "cle": "1370",
+  "type": "nom",
+  "fr": "Punisseur"
+ },
+ {
+  "cle": "1370",
+  "type": "description",
+  "fr": "[FOR+1000/POR+7/ART+75/PRC+25]\nArbalète en septium fabriquée selon les techniques traditionnelles d'Arteria."
+ },
+ {
+  "cle": "1371",
+  "type": "nom",
+  "fr": "Purgatorio"
+ },
+ {
+  "cle": "1371",
+  "type": "description",
+  "fr": "[FOR+1100/POR+7/ART+100/PRC+30]\nArbalète antique émettant un bruit semblable à un battement de cœur."
+ },
+ {
+  "cle": "1372",
+  "type": "nom",
+  "fr": "Pieta Pierrot"
+ },
+ {
+  "cle": "1372",
+  "type": "description",
+  "fr": "[FOR+1200/POR+8/ART+125/PRC+35]\nUn arc chéri par l'Église. Atteins toujours les points vitaux de l'ennemi."
+ },
+ {
+  "cle": "1373",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1374",
+  "type": "nom",
+  "fr": "Aster"
+ },
+ {
+  "cle": "1374",
+  "type": "description",
+  "fr": "[FOR+850/POR+6/ART+30/RÉS+30/PRC+10]\nAutrefois utilisé par un voyageur. Arc utilisé par les montagnards."
+ },
+ {
+  "cle": "1375",
+  "type": "nom",
+  "fr": "Aster +1"
+ },
+ {
+  "cle": "1375",
+  "type": "description",
+  "fr": "[FOR+950/POR+7/ART+40/RÉS+40/PRC+20]\nAutrefois utilisé par un voyageur. Arc utilisé par les montagnards."
+ },
+ {
+  "cle": "1376",
+  "type": "nom",
+  "fr": "Aster +2"
+ },
+ {
+  "cle": "1376",
+  "type": "description",
+  "fr": "[FOR+1300/POR+8/ART+50/RÉS+50/PRC+30]\nAutrefois utilisé par un voyageur. Arc utilisé par les montagnards."
+ },
+ {
+  "cle": "1377",
+  "type": "nom",
+  "fr": "Septième tir"
+ },
+ {
+  "cle": "1377",
+  "type": "description",
+  "fr": "[FOR+1500/POR+8/ART+60/RÉS+60/PRC+35]\nConçu à partir d'un minerai mystérieux. Tire des flèches à l'infini."
+ },
+ {
+  "cle": "1378",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1379",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1380",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1381",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1382",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1383",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1384",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1385",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1386",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1387",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1388",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1389",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1394",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1395",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1396",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1397",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1398",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1399",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1400",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1401",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1402",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1403",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1404",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1405",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1406",
+  "type": "nom",
+  "fr": "Tatara"
+ },
+ {
+  "cle": "1406",
+  "type": "description",
+  "fr": "[FOR+450]\nUn sabre militaire parfait pour les affrontements au corps à corps."
+ },
+ {
+  "cle": "1407",
+  "type": "nom",
+  "fr": "Amagumo"
+ },
+ {
+  "cle": "1407",
+  "type": "description",
+  "fr": "[FOR+650]\nSabre de Calvard produit en série. D'excellente qualité."
+ },
+ {
+  "cle": "1408",
+  "type": "nom",
+  "fr": "Subaru"
+ },
+ {
+  "cle": "1408",
+  "type": "description",
+  "fr": "[FOR+750]\nUn sabre forgé à partir de fer météoritique. Émets une lueur bleu pâle."
+ },
+ {
+  "cle": "1409",
+  "type": "nom",
+  "fr": "Ugetsu Zanshin"
+ },
+ {
+  "cle": "1409",
+  "type": "description",
+  "fr": "[FOR+850]\nUn sabre rare dont la lame est percée de trous aux bords tranchants."
+ },
+ {
+  "cle": "1410",
+  "type": "nom",
+  "fr": "Yaegaki"
+ },
+ {
+  "cle": "1410",
+  "type": "description",
+  "fr": "[FOR+950]\nSabre à la lame vêtue d'une vapeur froide. Libère de la brume hors du fourreau."
+ },
+ {
+  "cle": "1411",
+  "type": "nom",
+  "fr": "Mumei Jittetsu"
+ },
+ {
+  "cle": "1411",
+  "type": "description",
+  "fr": "[FOR+1050]\nUn sabre rustique conçu pour maximiser la puissance de frappe."
+ },
+ {
+  "cle": "1412",
+  "type": "nom",
+  "fr": "Kagutsuchi"
+ },
+ {
+  "cle": "1412",
+  "type": "description",
+  "fr": "[FOR+1150]\nSabre crée par un maître forgeron antique. Le hamon ondoie telle une flamme."
+ },
+ {
+  "cle": "1413",
+  "type": "nom",
+  "fr": "Hakuryuu"
+ },
+ {
+  "cle": "1413",
+  "type": "description",
+  "fr": "[FOR+1250]\nUn sabre maudit considéré comme l'incarnation d'une bête sacrée ancestrale."
+ },
+ {
+  "cle": "1414",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1415",
+  "type": "nom",
+  "fr": "Hotarukiri"
+ },
+ {
+  "cle": "1415",
+  "type": "description",
+  "fr": "[FOR+1000/DÉF+10/ART+10/RÉS+10/PRC+10/ESQ+10/VIT+5]\nAutrefois utilisé par un voyageur. La lame attire les lucioles et leur lumière."
+ },
+ {
+  "cle": "1416",
+  "type": "nom",
+  "fr": "Hotarukiri +1"
+ },
+ {
+  "cle": "1416",
+  "type": "description",
+  "fr": "[FOR+1300/DÉF+15/ART+15/RÉS+15/PRC+15/ESQ+15/VIT+10]\nAutrefois utilisé par un voyageur. La lame attire les lucioles et leur lumière."
+ },
+ {
+  "cle": "1417",
+  "type": "nom",
+  "fr": "Houkiboshi"
+ },
+ {
+  "cle": "1417",
+  "type": "description",
+  "fr": "[FOR+1550/DÉF+20/ART+20/RÉS+20/PRC+20/ESQ+20/VIT+15]\nConçu à partir d'un minerai mystérieux. La cible n'en voit que l'image rémanente."
+ },
+ {
+  "cle": "1418",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1419",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1420",
+  "type": "nom",
+  "fr": "Épée d'escrime +1"
+ },
+ {
+  "cle": "1420",
+  "type": "description",
+  "fr": "[FOR+100]\nUne épée d'entraînement indispensable pour acquérir les bases."
+ },
+ {
+  "cle": "1421",
+  "type": "nom",
+  "fr": "Épée d'escrime +2"
+ },
+ {
+  "cle": "1421",
+  "type": "description",
+  "fr": "[FOR+200]\nUne épée d'entraînement indispensable pour acquérir les bases."
+ },
+ {
+  "cle": "1424",
+  "type": "nom",
+  "fr": "Xun'yu"
+ },
+ {
+  "cle": "1424",
+  "type": "description",
+  "fr": "[FOR+1000/ART+50/RÉS+50/PRC+25/ESQ+5/VIT+5/Pour Anelace]\nSabre d'entraînement ayant appartenu à Cassius."
+ },
+ {
+  "cle": "1425",
+  "type": "nom",
+  "fr": "Xun'yu"
+ },
+ {
+  "cle": "1425",
+  "type": "description",
+  "fr": "[FOR+1600/ART+150/RÉS+50/PRC+100/ESQ+5/VIT+25/Pour Anelace]\nSabre d'entraînement ayant appartenu à Cassius."
+ },
+ {
+  "cle": "1426",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1427",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1428",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1429",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1430",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1431",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1432",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1433",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1434",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1435",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1436",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1437",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1438",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1439",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1440",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1441",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1442",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1443",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1444",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1445",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1446",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1447",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1448",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1449",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1450",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1451",
+  "type": "nom",
+  "fr": "Tranchant plume"
+ },
+ {
+  "cle": "1451",
+  "type": "description",
+  "fr": "[FOR+100/POR+2]\nÉpée templière remise par l'église septienne à ses écuyers."
+ },
+ {
+  "cle": "1452",
+  "type": "nom",
+  "fr": "Hymne lunaire"
+ },
+ {
+  "cle": "1452",
+  "type": "description",
+  "fr": "[FOR+200/POR+2]\nEpée templière à la lame noire conçue pour les assassinats. "
+ },
+ {
+  "cle": "1453",
+  "type": "nom",
+  "fr": "Septième nuit"
+ },
+ {
+  "cle": "1453",
+  "type": "description",
+  "fr": "[FOR+300/POR+2]\nÉpée templière ayant été baptisée. Apporte le repos éternel à ses victimes."
+ },
+ {
+  "cle": "1454",
+  "type": "nom",
+  "fr": "Chœur saint"
+ },
+ {
+  "cle": "1454",
+  "type": "description",
+  "fr": "[FOR+400/POR+2]\nÉpée au seul service de l'église. La lame résonne tel un chant une fois brandit."
+ },
+ {
+  "cle": "1455",
+  "type": "nom",
+  "fr": "Silverne"
+ },
+ {
+  "cle": "1455",
+  "type": "description",
+  "fr": "[FOR+500/POR+3/ART+50]\nUne épée templière en argent usée, mais entretenue avec soin."
+ },
+ {
+  "cle": "1456",
+  "type": "nom",
+  "fr": "Rot Himmel"
+ },
+ {
+  "cle": "1456",
+  "type": "description",
+  "fr": "[FOR+600/POR+2]\nEpée templière ayant été scellée. À l’origine de véritables bains de sang."
+ },
+ {
+  "cle": "1457",
+  "type": "nom",
+  "fr": "NON_ITEM"
+ },
+ {
+  "cle": "1457",
+  "type": "description",
+  "fr": "[STR+700/RNG+3]\nUnused."
+ },
+ {
+  "cle": "1458",
+  "type": "nom",
+  "fr": "Pal sacré"
+ },
+ {
+  "cle": "1458",
+  "type": "description",
+  "fr": "[FOR+800/POR+2]\nÉpée issue de la tradition d'Arteria à usage cérémoniel."
+ },
+ {
+  "cle": "1459",
+  "type": "nom",
+  "fr": "Giardino"
+ },
+ {
+  "cle": "1459",
+  "type": "description",
+  "fr": "[FOR+900/POR+3/ART+150]\nÉpée templière remise uniquement aux membres d'élite du Gralsritter."
+ },
+ {
+  "cle": "1460",
+  "type": "nom",
+  "fr": "Lwa triptyque"
+ },
+ {
+  "cle": "1460",
+  "type": "description",
+  "fr": "[FOR+1000/POR+2]\nÉpée ayant autrefois scellé un démon. Semble presque avoir sa propre volonté."
+ },
+ {
+  "cle": "1461",
+  "type": "nom",
+  "fr": "Tabernaculum"
+ },
+ {
+  "cle": "1461",
+  "type": "description",
+  "fr": "[FOR+1100/POR+2/ART+200]\nÉpée templière ayant été découverte dans un tombeau antique."
+ },
+ {
+  "cle": "1462",
+  "type": "nom",
+  "fr": "Agnus Dei"
+ },
+ {
+  "cle": "1462",
+  "type": "description",
+  "fr": "[FOR+1200/POR+3/ART+250]\nL'épée templière de la Déesse. Ouvre la voie et guide les fidèles."
+ },
+ {
+  "cle": "1463",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1464",
+  "type": "nom",
+  "fr": "Éthique"
+ },
+ {
+  "cle": "1464",
+  "type": "description",
+  "fr": "[FOR+1050/POR+3/DEF+5/ART+5/RÉS+5/PRC+5/ESQ+2/VIT+2]\nAutrefois utilisé par un voyageur. Épée qui aurait servi à menacer un dieu."
+ },
+ {
+  "cle": "1465",
+  "type": "nom",
+  "fr": "Éthique +1"
+ },
+ {
+  "cle": "1465",
+  "type": "description",
+  "fr": "[FOR+1300/POR+3/DEF+10/ART+10/RÉS+10/PRC+10/ESQ+5/VIT+5]\nAutrefois utilisé par un voyageur. Épée qui aurait servi à menacer un dieu."
+ },
+ {
+  "cle": "1466",
+  "type": "nom",
+  "fr": "La Recluse"
+ },
+ {
+  "cle": "1466",
+  "type": "description",
+  "fr": "[FOR+9999/POR+3]\nÉpée girante. Plus puissante arme du monde."
+ },
+ {
+  "cle": "1467",
+  "type": "nom",
+  "fr": "Chrome photon"
+ },
+ {
+  "cle": "1467",
+  "type": "description",
+  "fr": "[FOR+1500/POR+3/DEF+15/ART+15/RÉS+15/PRC+15/ESQ+10/VIT+10]\nConçue à partir d'un minerai mystérieux. Composée d'orbes de lumières."
+ },
+ {
+  "cle": "1468",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1469",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1470",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1471",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1472",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1473",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1478",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1479",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1480",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1481",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1482",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1483",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1484",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1485",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1486",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1487",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1488",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1489",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1490",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1491",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1492",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1493",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1494",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1495",
+  "type": "description",
+  "fr": "[STR+0000 RNG+0]\nNO_ITEM"
+ },
+ {
+  "cle": "1496",
+  "type": "nom",
+  "fr": "Neuf vies"
+ },
+ {
+  "cle": "1496",
+  "type": "description",
+  "fr": "[FOR+750]\nLa grande faux d'un Exécuteur. Faucherait neuf vies en une attaque."
+ },
+ {
+  "cle": "1497",
+  "type": "nom",
+  "fr": "Faux de la rose"
+ },
+ {
+  "cle": "1497",
+  "type": "description",
+  "fr": "[FOR+850]\nGrande faux dont la lame à double tranchant est garnie de petites dentures."
+ },
+ {
+  "cle": "1498",
+  "type": "nom",
+  "fr": "Faucille du camélia"
+ },
+ {
+  "cle": "1498",
+  "type": "description",
+  "fr": "[FOR+950]\nGrande faux aux multiples lames fines causant d'importantes hémorragies."
+ },
+ {
+  "cle": "1499",
+  "type": "nom",
+  "fr": "Kill-the-cat"
+ },
+ {
+  "cle": "1499",
+  "type": "description",
+  "fr": "[FOR+1050]\nUne grande faux maudite dans laquelle réside l'âme d'un meurtrier hédoniste."
+ },
+ {
+  "cle": "1500",
+  "type": "nom",
+  "fr": "Croissant rouge"
+ },
+ {
+  "cle": "1500",
+  "type": "description",
+  "fr": "[FOR+1150]\nUne faux antique à double lame se maniant comme un bâton de combat."
+ },
+ {
+  "cle": "1501",
+  "type": "nom",
+  "fr": "Force lycoris"
+ },
+ {
+  "cle": "1501",
+  "type": "description",
+  "fr": "[FOR+1250]\nUne grande faux à la lame cramoisie capable de modifier sa forme à volonté."
+ },
+ {
+  "cle": "1502",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1503",
+  "type": "nom",
+  "fr": "Stella Machina"
+ },
+ {
+  "cle": "1503",
+  "type": "description",
+  "fr": "[FOR+1200/PRC+50/ESQ+20/VIT+5]\nAutrefois utilisé par un voyageur. Le sang coulant sur la lame produit un son pur."
+ },
+ {
+  "cle": "1504",
+  "type": "nom",
+  "fr": "Faux Nemesis"
+ },
+ {
+  "cle": "1504",
+  "type": "description",
+  "fr": "[FOR+1450/PRC+100/ESQ+25/VIT+10]\nConçue à partir d'un minerai mystérieux. Émets une inquiétante lumière noire."
+ },
+ {
+  "cle": "1505",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1506",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1511",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1512",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1513",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1514",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1515",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1516",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1517",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1518",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1519",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1520",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1521",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1522",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1523",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1524",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1525",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1526",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1527",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1528",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1529",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1530",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1531",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1532",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1533",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1534",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1535",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1536",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1537",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1538",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1539",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1540",
+  "type": "description",
+  "fr": "[STR+0000]\nNO_ITEM"
+ },
+ {
+  "cle": "1541",
+  "type": "nom",
+  "fr": "Canne assomoir"
+ },
+ {
+  "cle": "1541",
+  "type": "description",
+  "fr": "[FOR+100]\nArme contondante prisée des délinquants. Stimule la combativité."
+ },
+ {
+  "cle": "1550",
+  "type": "nom",
+  "fr": "Cuir étroit"
+ },
+ {
+  "cle": "1550",
+  "type": "description",
+  "fr": "[DÉF+100]\nUne tenue polyvalente, confortable et adaptée à toutes les morphologies."
+ },
+ {
+  "cle": "1551",
+  "type": "nom",
+  "fr": "Denim renforcé"
+ },
+ {
+  "cle": "1551",
+  "type": "description",
+  "fr": "[DÉF+200]\nUne tenue de combat d'époque ayant enduré de nombreuses batailles."
+ },
+ {
+  "cle": "1552",
+  "type": "nom",
+  "fr": "Gilet de survie"
+ },
+ {
+  "cle": "1552",
+  "type": "description",
+  "fr": "[DÉF+300]\nGilet de protection polyvalent élaboré à partir de matériaux très résistants."
+ },
+ {
+  "cle": "1553",
+  "type": "nom",
+  "fr": "Manteau Bestia"
+ },
+ {
+  "cle": "1553",
+  "type": "description",
+  "fr": "[DÉF+400/RÉS+10/ESQ+5]\nManteau conçu à partir de fourrure de monstre non traitée."
+ },
+ {
+  "cle": "1554",
+  "type": "nom",
+  "fr": "Costume de titane"
+ },
+ {
+  "cle": "1554",
+  "type": "description",
+  "fr": "[DÉF+500]\nCombinaison de protection renforcée avec un alliage métallique."
+ },
+ {
+  "cle": "1555",
+  "type": "nom",
+  "fr": "Manteau de bracer"
+ },
+ {
+  "cle": "1555",
+  "type": "description",
+  "fr": "[DÉF+600]\nManteau polyvalent recommandé par la guilde des Bracers."
+ },
+ {
+  "cle": "1556",
+  "type": "nom",
+  "fr": "Combinaison dracosylve"
+ },
+ {
+  "cle": "1556",
+  "type": "description",
+  "fr": "[DÉF+700/RÉS+15/ESQ+5]\nTenue fabriquée à partir d'arbres arides. Améliore la résistance aux arts."
+ },
+ {
+  "cle": "1557",
+  "type": "nom",
+  "fr": "Haori de bataille"
+ },
+ {
+  "cle": "1557",
+  "type": "description",
+  "fr": "[DÉF+800]\nHabit des chefs militaires orientaux. Confère une grande prestance."
+ },
+ {
+  "cle": "1558",
+  "type": "nom",
+  "fr": "Garde amalgame"
+ },
+ {
+  "cle": "1558",
+  "type": "description",
+  "fr": "[DÉF+900]\nArmure organique dont le métal se densifie à l'impact pour absorber les chocs."
+ },
+ {
+  "cle": "1559",
+  "type": "nom",
+  "fr": "Armure Gargant"
+ },
+ {
+  "cle": "1559",
+  "type": "description",
+  "fr": "[DÉF+1000/RÉS+20/ESQ+5]\nUne armure gigantesque récupérée dans le manoir d'un noble du Moyen Âge."
+ },
+ {
+  "cle": "1560",
+  "type": "nom",
+  "fr": "Équipement cosmique"
+ },
+ {
+  "cle": "1560",
+  "type": "description",
+  "fr": "[DÉF+1100]\nUn artéfact défensif ancestral servant d'armure parfaitement polyvalente."
+ },
+ {
+  "cle": "1562",
+  "type": "nom",
+  "fr": "Tenue d'infiltration"
+ },
+ {
+  "cle": "1562",
+  "type": "description",
+  "fr": "[DÉF+750/VIT+5/ESQ+100]\nUne tenue entièrement noire qui augmente drastiquement l'agilité du porteur."
+ },
+ {
+  "cle": "1563",
+  "type": "nom",
+  "fr": "Armure de chevalier"
+ },
+ {
+  "cle": "1563",
+  "type": "description",
+  "fr": "[DÉF+1500/RÉS-600/ESQ-50/VIT-5/DÉP-1]\nUne armure lourde assurant une défense physique impénétrable."
+ },
+ {
+  "cle": "1564",
+  "type": "nom",
+  "fr": "Robe moniale conjurée"
+ },
+ {
+  "cle": "1564",
+  "type": "description",
+  "fr": "[DÉF+650/RÉS+1000/DÉP-1]\nHabit liturgique confectionné pour résister à tous les arts."
+ },
+ {
+  "cle": "1565",
+  "type": "nom",
+  "fr": "Costume potichat"
+ },
+ {
+  "cle": "1565",
+  "type": "description",
+  "fr": "[DÉF+750/PRC+10/ESQ+10/VIT+30/DÉP+1]\nUn costume tout doux et tout mignon en forme de chaton."
+ },
+ {
+  "cle": "1566",
+  "type": "nom",
+  "fr": "Armure Jagd"
+ },
+ {
+  "cle": "1566",
+  "type": "description",
+  "fr": "[DÉF+1000/FOR+100/RÉS-100/PRC-50]\nArmure lourde de combat porté par l'élite des corps de jaegers."
+ },
+ {
+  "cle": "1599",
+  "type": "nom",
+  "fr": "Gilet"
+ },
+ {
+  "cle": "1599",
+  "type": "description",
+  "fr": "[DÉF+5]\nVeste en cuir doux et de qualité."
+ },
+ {
+  "cle": "1600",
+  "type": "nom",
+  "fr": "Cuir renforcé"
+ },
+ {
+  "cle": "1600",
+  "type": "description",
+  "fr": "[DÉF+100]\nManteau où la poitrine est renforcée d'un cuir épais."
+ },
+ {
+  "cle": "1610",
+  "type": "nom",
+  "fr": "Kaléidoklobe"
+ },
+ {
+  "cle": "1610",
+  "type": "description",
+  "fr": "[DÉF+225/FOR+20/RÉS+20/VIT+5/Pour hommes]\nUne armure complète faite de septium. Scintille de mille feux."
+ },
+ {
+  "cle": "1611",
+  "type": "nom",
+  "fr": "Kaléidoklobe +1"
+ },
+ {
+  "cle": "1611",
+  "type": "description",
+  "fr": "[DÉF+525/FOR+40/RÉS+40/VIT+5/Pour hommes]\nUne armure complète faite de septium. Scintille de mille feux."
+ },
+ {
+  "cle": "1612",
+  "type": "nom",
+  "fr": "Kaléidoklobe +2"
+ },
+ {
+  "cle": "1612",
+  "type": "description",
+  "fr": "[DÉF+825/FOR+60/RÉS+60/VIT+5/Pour hommes]\nUne armure complète faite de septium. Scintille de mille feux."
+ },
+ {
+  "cle": "1613",
+  "type": "nom",
+  "fr": "Kaléidoklobe +3"
+ },
+ {
+  "cle": "1613",
+  "type": "description",
+  "fr": "[DÉF+1155/FOR+80/RÉS+80/VIT+5/Pour hommes]\nUne armure complète faite de septium. Scintille de mille feux."
+ },
+ {
+  "cle": "1614",
+  "type": "nom",
+  "fr": "Halo de Raphaël"
+ },
+ {
+  "cle": "1614",
+  "type": "description",
+  "fr": "[DÉF+1100/RÉS+25/VIT+5/Pour hommes]\nArmure mystique évoquée dans les Testaments. Confère une protection divine."
+ },
+ {
+  "cle": "1630",
+  "type": "nom",
+  "fr": "Soie Schwarz"
+ },
+ {
+  "cle": "1630",
+  "type": "description",
+  "fr": "[DÉF+225/ART+50/ESQ+15/Pour femmes]\nTenue faite de septium. Émets une lueur à la forme irrégulière."
+ },
+ {
+  "cle": "1631",
+  "type": "nom",
+  "fr": "Soie Schwarz +1"
+ },
+ {
+  "cle": "1631",
+  "type": "description",
+  "fr": "[DÉF+525/ART+100/ESQ+30/Pour femmes]\nTenue faite de septium. Émets une lueur à la forme irrégulière."
+ },
+ {
+  "cle": "1632",
+  "type": "nom",
+  "fr": "Soie Schwarz +2"
+ },
+ {
+  "cle": "1632",
+  "type": "description",
+  "fr": "[DÉF+825/ART+150/ESQ+45/Pour femmes]\nTenue faite de septium. Émets une lueur à la forme irrégulière."
+ },
+ {
+  "cle": "1633",
+  "type": "nom",
+  "fr": "Soie Schwarz +3"
+ },
+ {
+  "cle": "1633",
+  "type": "description",
+  "fr": "[DÉF+1155/ART+200/ESQ+60/Pour femmes]\nTenue faite de septium. Émets une lueur à la forme irrégulière."
+ },
+ {
+  "cle": "1634",
+  "type": "nom",
+  "fr": "Jormungandr"
+ },
+ {
+  "cle": "1634",
+  "type": "description",
+  "fr": "[DÉF+1600/RÉS+300/VIT-5/PRC+50/ESQ-50/DÉP-1]\nFortification mobile pour artilleur utilisé dans une grande guerre antique."
+ },
+ {
+  "cle": "1635",
+  "type": "nom",
+  "fr": "Aura de Gabriel"
+ },
+ {
+  "cle": "1635",
+  "type": "description",
+  "fr": "[DÉF+1100/ART+25/RÉS+25/Pour femmes]\nVêtement mystique évoqué dans les Testaments. Confère une protection divine."
+ }
+]

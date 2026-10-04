@@ -1,0 +1,394 @@
+[
+ {
+  "n": 1,
+  "fr": "Personne mystérieuse"
+ },
+ {
+  "n": 2,
+  "fr": "Conrad"
+ },
+ {
+  "n": 3,
+  "fr": "Homme en noir"
+ },
+ {
+  "n": 4,
+  "fr": "Homme en noir"
+ },
+ {
+  "n": 5,
+  "fr": "Homme en noir"
+ },
+ {
+  "n": 6,
+  "fr": "Homme en noir"
+ },
+ {
+  "n": 7,
+  "fr": "Homme en noir"
+ },
+ {
+  "n": 8,
+  "fr": "Homme en noir"
+ },
+ {
+  "n": 9,
+  "fr": "Homme en noir"
+ },
+ {
+  "n": 10,
+  "fr": "Homme en noir"
+ },
+ {
+  "n": 11,
+  "fr": "Femme masquée"
+ },
+ {
+  "n": 12,
+  "fr": "Homme masqué"
+ },
+ {
+  "n": 13,
+  "fr": "Vieil homme masqué"
+ },
+ {
+  "n": 14,
+  "fr": "Femme masquée"
+ },
+ {
+  "n": 15,
+  "fr": "Homme masqué"
+ },
+ {
+  "n": 16,
+  "fr": "Jeune homme masqué"
+ },
+ {
+  "n": 17,
+  "fr": "Jeune homme masqué"
+ },
+ {
+  "n": 18,
+  "fr": "Homme masqué"
+ },
+ {
+  "n": 19,
+  "fr": "Jeune homme masqué"
+ },
+ {
+  "n": 20,
+  "fr": "Homme masqué"
+ },
+ {
+  "n": 21,
+  "fr": "Femme masquée"
+ },
+ {
+  "n": 22,
+  "fr": "Vieil homme masqué"
+ },
+ {
+  "n": 23,
+  "fr": "Homme masqué"
+ },
+ {
+  "n": 24,
+  "fr": "Femme masquée"
+ },
+ {
+  "n": 25,
+  "fr": "Homme masqué"
+ },
+ {
+  "n": 26,
+  "fr": "Femme masquée"
+ },
+ {
+  "n": 27,
+  "fr": "Femme masquée"
+ },
+ {
+  "n": 28,
+  "fr": "Homme masqué"
+ },
+ {
+  "n": 29,
+  "fr": "Vieil homme masqué"
+ },
+ {
+  "n": 30,
+  "fr": "Domestique"
+ },
+ {
+  "n": 31,
+  "fr": "Domestique"
+ },
+ {
+  "n": 32,
+  "fr": "Serveur"
+ },
+ {
+  "n": 33,
+  "fr": "Serveur"
+ },
+ {
+  "n": 34,
+  "fr": "Invité"
+ },
+ {
+  "n": 35,
+  "fr": "Invité"
+ },
+ {
+  "n": 36,
+  "fr": "Invité"
+ },
+ {
+  "n": 37,
+  "fr": "Invité"
+ },
+ {
+  "n": 38,
+  "fr": "Membre du personnel"
+ },
+ {
+  "n": 39,
+  "fr": "Homme en noir"
+ },
+ {
+  "n": 40,
+  "fr": "Homme en noir"
+ },
+ {
+  "n": 41,
+  "fr": "Homme noble"
+ },
+ {
+  "n": 42,
+  "fr": "Passager"
+ },
+ {
+  "n": 43,
+  "fr": "Passager"
+ },
+ {
+  "n": 44,
+  "fr": "Jeune homme masqué"
+ },
+ {
+  "n": 45,
+  "fr": "Homme masqué"
+ },
+ {
+  "n": 46,
+  "fr": "Croupier"
+ },
+ {
+  "n": 47,
+  "fr": "Croupier"
+ },
+ {
+  "n": 48,
+  "fr": "Croupier"
+ },
+ {
+  "n": 49,
+  "fr": "Croupier"
+ },
+ {
+  "n": 50,
+  "fr": "Réceptionniste"
+ },
+ {
+  "n": 51,
+  "fr": "Homme en noir"
+ },
+ {
+  "n": 52,
+  "fr": "Homme en noir"
+ },
+ {
+  "n": 53,
+  "fr": "Vieil homme"
+ },
+ {
+  "n": 54,
+  "fr": "Vieille dame"
+ },
+ {
+  "n": 55,
+  "fr": "Thé noir"
+ },
+ {
+  "n": 56,
+  "fr": "Thé noir"
+ },
+ {
+  "n": 57,
+  "fr": "Domestique"
+ },
+ {
+  "n": 58,
+  "fr": "Invité"
+ },
+ {
+  "n": 59,
+  "fr": "Invité"
+ },
+ {
+  "n": 60,
+  "fr": "Homme en noir"
+ },
+ {
+  "n": 61,
+  "fr": "Homme en noir"
+ },
+ {
+  "n": 62,
+  "fr": "Homme en noir"
+ },
+ {
+  "n": 63,
+  "fr": "Homme en noir"
+ },
+ {
+  "n": 64,
+  "fr": "Invité"
+ },
+ {
+  "n": 65,
+  "fr": "Invité"
+ },
+ {
+  "n": 66,
+  "fr": "Domestique"
+ },
+ {
+  "n": 67,
+  "fr": "Nielsen"
+ },
+ {
+  "n": 68,
+  "fr": "Homme en noir"
+ },
+ {
+  "n": 69,
+  "fr": "Homme en noir"
+ },
+ {
+  "n": 70,
+  "fr": "Personnage fictif"
+ },
+ {
+  "n": 71,
+  "fr": "Personnage fictif"
+ },
+ {
+  "n": 72,
+  "fr": "Personnage fictif"
+ },
+ {
+  "n": 73,
+  "fr": "Personnage fictif"
+ },
+ {
+  "n": 74,
+  "fr": "Personnage fictif"
+ },
+ {
+  "n": 75,
+  "fr": "Personnage fictif"
+ },
+ {
+  "n": 76,
+  "fr": "Personnage fictif"
+ },
+ {
+  "n": 77,
+  "fr": "Personnage fictif"
+ },
+ {
+  "n": 78,
+  "fr": "Personnage fictif"
+ },
+ {
+  "n": 79,
+  "fr": "Personnage fictif"
+ },
+ {
+  "n": 80,
+  "fr": "Personnage fictif"
+ },
+ {
+  "n": 81,
+  "fr": "Personnage fictif"
+ },
+ {
+  "n": 82,
+  "fr": "Personnage fictif"
+ },
+ {
+  "n": 83,
+  "fr": "Personnage fictif"
+ },
+ {
+  "n": 84,
+  "fr": "Puma de fer"
+ },
+ {
+  "n": 85,
+  "fr": "Puma de fer"
+ },
+ {
+  "n": 86,
+  "fr": "Jaeger"
+ },
+ {
+  "n": 87,
+  "fr": "Jaeger"
+ },
+ {
+  "n": 88,
+  "fr": "Jaeger"
+ },
+ {
+  "n": 89,
+  "fr": "Jaeger"
+ },
+ {
+  "n": 90,
+  "fr": "Jaeger"
+ },
+ {
+  "n": 91,
+  "fr": "Jaeger"
+ },
+ {
+  "n": 92,
+  "fr": "Jaeger"
+ },
+ {
+  "n": 93,
+  "fr": "Jaeger"
+ },
+ {
+  "n": 94,
+  "fr": "Hôte"
+ },
+ {
+  "n": 95,
+  "fr": "Kevin Graham"
+ },
+ {
+  "n": 96,
+  "fr": "Voix de Kevin"
+ },
+ {
+  "n": 97,
+  "fr": "Voix d'homme"
+ },
+ {
+  "n": 98,
+  "fr": "Homme masqué"
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "n": 3,
+  "fr": "[Quitter]"
+ },
+ {
+  "n": 7,
+  "fr": "{color 5}Ouvrir la Porte ?{0x18}"
+ },
+ {
+  "n": 8,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 9,
+  "fr": "[Non]"
+ }
+]

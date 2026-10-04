@@ -1,0 +1,18 @@
+[
+ {
+  "n": 1,
+  "fr": "Trouvé : {item item[619]}{color 0}."
+ },
+ {
+  "n": 2,
+  "fr": "Trouvé : {item item[619]}{color 0}.\nInventaire plein. Objet reposé."
+ },
+ {
+  "n": 4,
+  "fr": "La recette de la [{color 2}Paella Tadam{color 0}]\nest écrite sur un papier à l'intérieur du coffre."
+ },
+ {
+  "n": 5,
+  "fr": "{0x06}Recette apprise : [{color 2}Paella Tadam{color 0}]."
+ }
+]

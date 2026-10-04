@@ -1,0 +1,22 @@
+[
+ {
+  "n": 1,
+  "fr": "{color 5}Trouvé : {item item[480]}{color 5}"
+ },
+ {
+  "n": 2,
+  "fr": "{color 5}Une recette est écrite sur un papier à l'intérieur du coffre."
+ },
+ {
+  "n": 3,
+  "fr": "{color 5}Recette apprise : {item item[480]}{color 5}."
+ },
+ {
+  "n": 5,
+  "fr": "{color 5}Trouvée : {item item[444]}{color 5}"
+ },
+ {
+  "n": 6,
+  "fr": "{color 5}Trouvée : {item item[444]}{color 5}.\n{color 5}Inventaire plein. Objet reposé{color 5}."
+ }
+]

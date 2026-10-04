@@ -1,0 +1,7312 @@
+[
+ {
+  "cle": "2",
+  "type": "nom",
+  "fr": "Kanone"
+ },
+ {
+  "cle": "2",
+  "type": "description",
+  "fr": "Secrétaire de Recherches R&A.\nSon ingéniosité pour traumatiser\nses ennemis est sans égale."
+ },
+ {
+  "cle": "5",
+  "type": "nom",
+  "fr": "Super Absorption de PT"
+ },
+ {
+  "cle": "6",
+  "type": "nom",
+  "fr": "Pluie Empoisonnée"
+ },
+ {
+  "cle": "7",
+  "type": "nom",
+  "fr": "Lance Obscure"
+ },
+ {
+  "cle": "8",
+  "type": "nom",
+  "fr": "Jet Aqueux"
+ },
+ {
+  "cle": "9",
+  "type": "nom",
+  "fr": "Pluie Glaçante"
+ },
+ {
+  "cle": "10",
+  "type": "nom",
+  "fr": "Pluie Pétrifiante"
+ },
+ {
+  "cle": "11",
+  "type": "nom",
+  "fr": "Pluie Paralysante"
+ },
+ {
+  "cle": "12",
+  "type": "nom",
+  "fr": "Danse Mitrailleuse"
+ },
+ {
+  "cle": "15",
+  "type": "nom",
+  "fr": "Don"
+ },
+ {
+  "cle": "15",
+  "type": "description",
+  "fr": "Directeur de Capua Livraisons.\nAbuse sans pitié de l'énorme\ncanon orbal qu'il possède."
+ },
+ {
+  "cle": "18",
+  "type": "nom",
+  "fr": "Canon Orbal"
+ },
+ {
+  "cle": "19",
+  "type": "nom",
+  "fr": "Coup de Canon"
+ },
+ {
+  "cle": "22",
+  "type": "nom",
+  "fr": "Kyle"
+ },
+ {
+  "cle": "22",
+  "type": "description",
+  "fr": "Numéro 2 de Capua Livraisons.\nTrès agile. Ses bombes fumigènes\nprovoquent la cécité."
+ },
+ {
+  "cle": "25",
+  "type": "nom",
+  "fr": "Lancer Explosif"
+ },
+ {
+  "cle": "26",
+  "type": "nom",
+  "fr": "Bombe de Kyle"
+ },
+ {
+  "cle": "29",
+  "type": "nom",
+  "fr": "Soldat de l'Armée royale"
+ },
+ {
+  "cle": "29",
+  "type": "description",
+  "fr": "Soldat de la garnison de Leiston.\nSélectionné pour son aptitude\nau combat."
+ },
+ {
+  "cle": "32",
+  "type": "nom",
+  "fr": "Tir à Blanc"
+ },
+ {
+  "cle": "33",
+  "type": "nom",
+  "fr": "Tir Électrisé"
+ },
+ {
+  "cle": "34",
+  "type": "nom",
+  "fr": "Tir Glaçant"
+ },
+ {
+  "cle": "37",
+  "type": "nom",
+  "fr": "Soldat de l'Armée royale"
+ },
+ {
+  "cle": "37",
+  "type": "description",
+  "fr": "Soldat de la garnison de Leiston.\nSélectionné pour son aptitude\nau combat."
+ },
+ {
+  "cle": "40",
+  "type": "nom",
+  "fr": "Tir à Blanc"
+ },
+ {
+  "cle": "41",
+  "type": "nom",
+  "fr": "Tir Électrisé"
+ },
+ {
+  "cle": "42",
+  "type": "nom",
+  "fr": "Tir Glaçant"
+ },
+ {
+  "cle": "45",
+  "type": "nom",
+  "fr": "Soldat de l'Armée royale"
+ },
+ {
+  "cle": "45",
+  "type": "description",
+  "fr": "Officier de rang inférieur de la\ngarnison de Leiston.\nUn vétéran aguerri à ne pas\nsous-estimer."
+ },
+ {
+  "cle": "48",
+  "type": "nom",
+  "fr": "Soldat de l'Armée royale"
+ },
+ {
+  "cle": "48",
+  "type": "description",
+  "fr": "Officier de rang inférieur de la\ngarnison de Leiston.\nUn vétéran aguerri à ne pas\nsous-estimer."
+ },
+ {
+  "cle": "51",
+  "type": "nom",
+  "fr": "Soldat des F. spé. (Griffes)"
+ },
+ {
+  "cle": "51",
+  "type": "description",
+  "fr": "Ancien membre des F.S.\nutilisant des griffes de combat.\nSurentraîné, il utilise une\ntechnique aux effets multiples."
+ },
+ {
+  "cle": "54",
+  "type": "nom",
+  "fr": "Trame des Ombres"
+ },
+ {
+  "cle": "55",
+  "type": "nom",
+  "fr": "Trame des Ombres"
+ },
+ {
+  "cle": "56",
+  "type": "nom",
+  "fr": "Trame des Ombres"
+ },
+ {
+  "cle": "57",
+  "type": "nom",
+  "fr": "Trame des Ombres"
+ },
+ {
+  "cle": "58",
+  "type": "nom",
+  "fr": "Baume Athelas"
+ },
+ {
+  "cle": "61",
+  "type": "nom",
+  "fr": "Employé livreur"
+ },
+ {
+  "cle": "61",
+  "type": "description",
+  "fr": "Employé de Capua Livraisons.\nManie une dague enduite de\npoison, mais il est devenu bien\nplus sage avec le temps."
+ },
+ {
+  "cle": "64",
+  "type": "nom",
+  "fr": "Grant"
+ },
+ {
+  "cle": "64",
+  "type": "description",
+  "fr": "Bracer épéiste expert, membre\nde l'équipe de Kurt. Enchaîne\nles techniques pour mettre à\nmal ses adversaires."
+ },
+ {
+  "cle": "67",
+  "type": "nom",
+  "fr": "Spécial de Grant"
+ },
+ {
+  "cle": "68",
+  "type": "nom",
+  "fr": "Spécial de Grant"
+ },
+ {
+  "cle": "69",
+  "type": "nom",
+  "fr": "Lame Cyclone"
+ },
+ {
+  "cle": "70",
+  "type": "nom",
+  "fr": "Attaque tournoyante qui frappe tout ennemi à proximité."
+ },
+ {
+  "cle": "71",
+  "type": "nom",
+  "fr": "Spécial de Grant"
+ },
+ {
+  "cle": "72",
+  "type": "nom",
+  "fr": "S-Tech. - Cauchemar"
+ },
+ {
+  "cle": "73",
+  "type": "nom",
+  "fr": "S-Tech. - Big Bang"
+ },
+ {
+  "cle": "74",
+  "type": "nom",
+  "fr": "単体ダメージ+気絶"
+ },
+ {
+  "cle": "77",
+  "type": "nom",
+  "fr": "Carna"
+ },
+ {
+  "cle": "77",
+  "type": "description",
+  "fr": "Bracer tireuse de l'équipe de\nKurt. Utilise des munitions\nspéciales aux effets variés."
+ },
+ {
+  "cle": "80",
+  "type": "nom",
+  "fr": "Cri de Dévotion"
+ },
+ {
+  "cle": "81",
+  "type": "nom",
+  "fr": "Balle Anti-Armure"
+ },
+ {
+  "cle": "82",
+  "type": "nom",
+  "fr": "def down"
+ },
+ {
+  "cle": "83",
+  "type": "nom",
+  "fr": "Tir Dispersé"
+ },
+ {
+  "cle": "84",
+  "type": "nom",
+  "fr": "中距離範囲攻撃"
+ },
+ {
+  "cle": "85",
+  "type": "nom",
+  "fr": "Choc Arachnéen"
+ },
+ {
+  "cle": "86",
+  "type": "nom",
+  "fr": "ダメージ+詠唱キャンセル"
+ },
+ {
+  "cle": "87",
+  "type": "nom",
+  "fr": "Assaut Combiné α"
+ },
+ {
+  "cle": "88",
+  "type": "nom",
+  "fr": "pass through + blind"
+ },
+ {
+  "cle": "89",
+  "type": "nom",
+  "fr": "Tir de Grenade"
+ },
+ {
+  "cle": "90",
+  "type": "nom",
+  "fr": "範囲攻撃+気絶"
+ },
+ {
+  "cle": "91",
+  "type": "nom",
+  "fr": "Assaut Combiné β"
+ },
+ {
+  "cle": "92",
+  "type": "nom",
+  "fr": "ダメージ+封技"
+ },
+ {
+  "cle": "95",
+  "type": "nom",
+  "fr": "Kurt"
+ },
+ {
+  "cle": "95",
+  "type": "description",
+  "fr": "Bracer aguerri maniant la lance.\nUtilise les Fangshu, des techni-\nques orientales lui permettant\nde s'adapter à toute situation."
+ },
+ {
+  "cle": "98",
+  "type": "nom",
+  "fr": "Fangshu : Acier Impénétrable"
+ },
+ {
+  "cle": "99",
+  "type": "nom",
+  "fr": "Fangshu : Vague Apaisante"
+ },
+ {
+  "cle": "100",
+  "type": "nom",
+  "fr": "Fangshu : Illusion Fragile"
+ },
+ {
+  "cle": "103",
+  "type": "nom",
+  "fr": "Officier de l'Armée royale"
+ },
+ {
+  "cle": "103",
+  "type": "description",
+  "fr": "Officier de rang inférieur de la\ngarnison de Leiston.\nUn vétéran aguerri à ne pas\nsous-estimer."
+ },
+ {
+  "cle": "106",
+  "type": "nom",
+  "fr": "Officier de l'Armée royale"
+ },
+ {
+  "cle": "106",
+  "type": "description",
+  "fr": "Officier de rang inférieur de la\ngarnison de Leiston.\nUn vétéran aguerri à ne pas\nsous-estimer."
+ },
+ {
+  "cle": "109",
+  "type": "nom",
+  "fr": "Soldat des F. spé. (Fusil)"
+ },
+ {
+  "cle": "109",
+  "type": "description",
+  "fr": "Un combattant équipé d'un fusil\norbal. Très expérimenté, il utilise\ndes techniques de tireur d'élite."
+ },
+ {
+  "cle": "112",
+  "type": "nom",
+  "fr": "Déferlement de Balles"
+ },
+ {
+  "cle": "115",
+  "type": "nom",
+  "fr": "Deen"
+ },
+ {
+  "cle": "115",
+  "type": "description",
+  "fr": "Jeune recrue de la guilde des\nbracers de Ruan, il est le plus\ndiplomate des trois. Terrifiant\nquand il est dos au mur."
+ },
+ {
+  "cle": "118",
+  "type": "nom",
+  "fr": "Sermon Spirituel"
+ },
+ {
+  "cle": "119",
+  "type": "nom",
+  "fr": "Sermon Motivant"
+ },
+ {
+  "cle": "120",
+  "type": "nom",
+  "fr": "Sermon Encourageant"
+ },
+ {
+  "cle": "121",
+  "type": "nom",
+  "fr": "Menace tranchante"
+ },
+ {
+  "cle": "122",
+  "type": "nom",
+  "fr": "Attaque enragée"
+ },
+ {
+  "cle": "128",
+  "type": "nom",
+  "fr": "Rais"
+ },
+ {
+  "cle": "128",
+  "type": "description",
+  "fr": "Jeune recrue de la guilde des\nbracers de Ruan. Dragueur, mais\navant tout gentleman. Terrifiant\nquand il est dos au mur."
+ },
+ {
+  "cle": "131",
+  "type": "nom",
+  "fr": "Sermon Spirituel"
+ },
+ {
+  "cle": "132",
+  "type": "nom",
+  "fr": "Sermon Motivant"
+ },
+ {
+  "cle": "133",
+  "type": "nom",
+  "fr": "Sermon Encourageant"
+ },
+ {
+  "cle": "134",
+  "type": "nom",
+  "fr": "Menace tranchante"
+ },
+ {
+  "cle": "135",
+  "type": "nom",
+  "fr": "Attaque enragée"
+ },
+ {
+  "cle": "141",
+  "type": "nom",
+  "fr": "Rocco"
+ },
+ {
+  "cle": "141",
+  "type": "description",
+  "fr": "Jeune recrue de la guilde des\nbracers de Ruan, obnubilé par\nsa rage envers Agate. Terrifiant\nquand il est dos au mur."
+ },
+ {
+  "cle": "144",
+  "type": "nom",
+  "fr": "Sermon Spirituel"
+ },
+ {
+  "cle": "145",
+  "type": "nom",
+  "fr": "Sermon Motivant"
+ },
+ {
+  "cle": "146",
+  "type": "nom",
+  "fr": "Sermon Encourageant"
+ },
+ {
+  "cle": "147",
+  "type": "nom",
+  "fr": "Menace tranchante"
+ },
+ {
+  "cle": "148",
+  "type": "nom",
+  "fr": "Attaque enragée"
+ },
+ {
+  "cle": "154",
+  "type": "nom",
+  "fr": "Infanterie lourde des F. spé."
+ },
+ {
+  "cle": "154",
+  "type": "description",
+  "fr": "Un soldat muni d'une hallebarde.\nFait tournoyer son arme imposan-\nte pour éliminer ses adversaires."
+ },
+ {
+  "cle": "157",
+  "type": "nom",
+  "fr": "Tranchant Écrasant"
+ },
+ {
+  "cle": "160",
+  "type": "nom",
+  "fr": "Gentleman"
+ },
+ {
+  "cle": "160",
+  "type": "description",
+  "fr": "L'oncle d'Aina, employeur des\nhommes en noir. Pas armé, mais\nil sait se défendre et soutenir\nses alliés."
+ },
+ {
+  "cle": "181",
+  "type": "nom",
+  "fr": "Duc Dunan von Auslese"
+ },
+ {
+  "cle": "181",
+  "type": "description",
+  "fr": "Neveu de la reine Alicia.\nN'est pas armé, mais est prêt à\ntoutes les fourberies pour garder\nses subordonnés motivés."
+ },
+ {
+  "cle": "184",
+  "type": "nom",
+  "fr": "Baume Lacryma"
+ },
+ {
+  "cle": "185",
+  "type": "nom",
+  "fr": "Soin allié"
+ },
+ {
+  "cle": "186",
+  "type": "nom",
+  "fr": "Baume Lacryma"
+ },
+ {
+  "cle": "187",
+  "type": "nom",
+  "fr": "Auto-soin"
+ },
+ {
+  "cle": "199",
+  "type": "nom",
+  "fr": "Aina"
+ },
+ {
+  "cle": "199",
+  "type": "description",
+  "fr": "Cliente de Scherazard. Agite sa\nvalise plaquée de fer pour\nprendre part à l'affrontement."
+ },
+ {
+  "cle": "227",
+  "type": "nom",
+  "fr": "Agate"
+ },
+ {
+  "cle": "238",
+  "type": "nom",
+  "fr": "Agate"
+ },
+ {
+  "cle": "238",
+  "type": "description",
+  "fr": "Bracer confirmé proactif\r\nsurnommé la Lame lourde.\r\nCharge et lacère éperdument\r\nses adversaires, tel un dragon."
+ },
+ {
+  "cle": "241",
+  "type": "nom",
+  "fr": "Impact EnflamméⅡ"
+ },
+ {
+  "cle": "242",
+  "type": "nom",
+  "fr": "Desc inutile ?"
+ },
+ {
+  "cle": "243",
+  "type": "nom",
+  "fr": "Tranchant DragunaⅡ"
+ },
+ {
+  "cle": "244",
+  "type": "nom",
+  "fr": "Desc inutile ?"
+ },
+ {
+  "cle": "245",
+  "type": "nom",
+  "fr": "Spirale TranchanteⅡ"
+ },
+ {
+  "cle": "246",
+  "type": "nom",
+  "fr": "Desc inutile ?"
+ },
+ {
+  "cle": "247",
+  "type": "nom",
+  "fr": "Rafale ImpitoyableⅡ"
+ },
+ {
+  "cle": "248",
+  "type": "nom",
+  "fr": "Desc inutile ?"
+ },
+ {
+  "cle": "249",
+  "type": "nom",
+  "fr": "Impact FinalⅡ"
+ },
+ {
+  "cle": "250",
+  "type": "nom",
+  "fr": "Desc inutile ?"
+ },
+ {
+  "cle": "251",
+  "type": "nom",
+  "fr": "Plongeon Draconique"
+ },
+ {
+  "cle": "252",
+  "type": "nom",
+  "fr": "Desc inutile ?"
+ },
+ {
+  "cle": "304",
+  "type": "nom",
+  "fr": "Richard"
+ },
+ {
+  "cle": "304",
+  "type": "description",
+  "fr": "Directeur de Recherche R&A.\r\nDégaine sa lame à une vitesse\r\nsurhumaine pour trancher ceux\r\nqui lui barreraient la route."
+ },
+ {
+  "cle": "307",
+  "type": "nom",
+  "fr": "Tranchant de l'Ogre Radieux"
+ },
+ {
+  "cle": "308",
+  "type": "nom",
+  "fr": "Craft - Single - Attack\nDamage + faint"
+ },
+ {
+  "cle": "309",
+  "type": "nom",
+  "fr": "Cycle Radieux"
+ },
+ {
+  "cle": "310",
+  "type": "nom",
+  "fr": "Craft - Area - Attack\nThrows a round thing"
+ },
+ {
+  "cle": "311",
+  "type": "nom",
+  "fr": "Enchaînement Radieux"
+ },
+ {
+  "cle": "312",
+  "type": "nom",
+  "fr": "Craft - Single - Attack\nMultiple hits"
+ },
+ {
+  "cle": "313",
+  "type": "nom",
+  "fr": "Lame Destructrice Rémanente"
+ },
+ {
+  "cle": "319",
+  "type": "nom",
+  "fr": "Deen"
+ },
+ {
+  "cle": "322",
+  "type": "nom",
+  "fr": "Rais"
+ },
+ {
+  "cle": "325",
+  "type": "nom",
+  "fr": "Rocco"
+ },
+ {
+  "cle": "350",
+  "type": "nom",
+  "fr": "Tita - Orbal Gear"
+ },
+ {
+  "cle": "353",
+  "type": "nom",
+  "fr": "Retour"
+ },
+ {
+  "cle": "354",
+  "type": "nom",
+  "fr": "Desc inutile"
+ },
+ {
+  "cle": "355",
+  "type": "nom",
+  "fr": "Déferlement de Balles"
+ },
+ {
+  "cle": "356",
+  "type": "nom",
+  "fr": "Desc inutile"
+ },
+ {
+  "cle": "357",
+  "type": "nom",
+  "fr": "Attaque normale"
+ },
+ {
+  "cle": "358",
+  "type": "nom",
+  "fr": "Grenade à Fragmentation"
+ },
+ {
+  "cle": "359",
+  "type": "nom",
+  "fr": "Desc inutile"
+ },
+ {
+  "cle": "360",
+  "type": "nom",
+  "fr": "Charge"
+ },
+ {
+  "cle": "361",
+  "type": "nom",
+  "fr": "Desc inutile"
+ },
+ {
+  "cle": "364",
+  "type": "nom",
+  "fr": "Orbal Gear"
+ },
+ {
+  "cle": "367",
+  "type": "nom",
+  "fr": "Retour"
+ },
+ {
+  "cle": "368",
+  "type": "nom",
+  "fr": "Descend de l'Orbal Gear"
+ },
+ {
+  "cle": "369",
+  "type": "nom",
+  "fr": "Mitrailleuse"
+ },
+ {
+  "cle": "370",
+  "type": "nom",
+  "fr": "Attaque de zone"
+ },
+ {
+  "cle": "371",
+  "type": "nom",
+  "fr": "Attaque normale"
+ },
+ {
+  "cle": "372",
+  "type": "nom",
+  "fr": "Grenade à Fragmentation"
+ },
+ {
+  "cle": "373",
+  "type": "nom",
+  "fr": "Charge"
+ },
+ {
+  "cle": "376",
+  "type": "nom",
+  "fr": "Orbal Gear"
+ },
+ {
+  "cle": "379",
+  "type": "nom",
+  "fr": "Retour"
+ },
+ {
+  "cle": "380",
+  "type": "nom",
+  "fr": "Descend de l'Orbal Gear"
+ },
+ {
+  "cle": "381",
+  "type": "nom",
+  "fr": "Mitrailleuse"
+ },
+ {
+  "cle": "382",
+  "type": "nom",
+  "fr": "Attaque de zone"
+ },
+ {
+  "cle": "383",
+  "type": "nom",
+  "fr": "Attaque normale"
+ },
+ {
+  "cle": "384",
+  "type": "nom",
+  "fr": "Grenade à Fragmentation"
+ },
+ {
+  "cle": "385",
+  "type": "nom",
+  "fr": "Charge"
+ },
+ {
+  "cle": "442",
+  "type": "nom",
+  "fr": "Kilika"
+ },
+ {
+  "cle": "445",
+  "type": "nom",
+  "fr": "Spirale Double-Draconique"
+ },
+ {
+  "cle": "446",
+  "type": "nom",
+  "fr": "Cycle Élégant"
+ },
+ {
+  "cle": "447",
+  "type": "nom",
+  "fr": "Sunkei Reikei"
+ },
+ {
+  "cle": "450",
+  "type": "nom",
+  "fr": "Kilika"
+ },
+ {
+  "cle": "453",
+  "type": "nom",
+  "fr": "Spirale Double-Draconique"
+ },
+ {
+  "cle": "454",
+  "type": "nom",
+  "fr": "Cycle Élégant"
+ },
+ {
+  "cle": "455",
+  "type": "nom",
+  "fr": "Sunkei Reikei"
+ },
+ {
+  "cle": "458",
+  "type": "nom",
+  "fr": "Philippe"
+ },
+ {
+  "cle": "461",
+  "type": "nom",
+  "fr": "Attaque normale"
+ },
+ {
+  "cle": "462",
+  "type": "nom",
+  "fr": "Vol de l'Hirondelle"
+ },
+ {
+  "cle": "463",
+  "type": "nom",
+  "fr": "Coquille Vide"
+ },
+ {
+  "cle": "466",
+  "type": "nom",
+  "fr": "Philippe"
+ },
+ {
+  "cle": "469",
+  "type": "nom",
+  "fr": "Cœur d'Esmelas"
+ },
+ {
+  "cle": "470",
+  "type": "nom",
+  "fr": "Attaque normale"
+ },
+ {
+  "cle": "471",
+  "type": "nom",
+  "fr": "Vol de l'Hirondelle"
+ },
+ {
+  "cle": "472",
+  "type": "nom",
+  "fr": "Coquille Vide"
+ },
+ {
+  "cle": "475",
+  "type": "nom",
+  "fr": "Homme en noir - Sabre"
+ },
+ {
+  "cle": "478",
+  "type": "nom",
+  "fr": "Charge"
+ },
+ {
+  "cle": "479",
+  "type": "nom",
+  "fr": "Grenade fumigène"
+ },
+ {
+  "cle": "482",
+  "type": "nom",
+  "fr": "Homme en noir - Sabre"
+ },
+ {
+  "cle": "485",
+  "type": "nom",
+  "fr": "Charge"
+ },
+ {
+  "cle": "486",
+  "type": "nom",
+  "fr": "Grenade fumigène"
+ },
+ {
+  "cle": "489",
+  "type": "nom",
+  "fr": "Homme en noir - Sabre"
+ },
+ {
+  "cle": "492",
+  "type": "nom",
+  "fr": "Charge"
+ },
+ {
+  "cle": "493",
+  "type": "nom",
+  "fr": "Grenade fumigène"
+ },
+ {
+  "cle": "496",
+  "type": "nom",
+  "fr": "Morgan"
+ },
+ {
+  "cle": "499",
+  "type": "nom",
+  "fr": "Fracture Intense"
+ },
+ {
+  "cle": "500",
+  "type": "nom",
+  "fr": "heavy damage + faint"
+ },
+ {
+  "cle": "501",
+  "type": "nom",
+  "fr": "Tornade Déchaînée"
+ },
+ {
+  "cle": "502",
+  "type": "nom",
+  "fr": "area damage"
+ },
+ {
+  "cle": "503",
+  "type": "nom",
+  "fr": "Grondement de Lame"
+ },
+ {
+  "cle": "504",
+  "type": "nom",
+  "fr": "projectile + faint"
+ },
+ {
+  "cle": "505",
+  "type": "nom",
+  "fr": "Danse du Fauve"
+ },
+ {
+  "cle": "509",
+  "type": "nom",
+  "fr": "Morgan"
+ },
+ {
+  "cle": "512",
+  "type": "nom",
+  "fr": "Fracture Intense"
+ },
+ {
+  "cle": "513",
+  "type": "nom",
+  "fr": "heavy damage + faint"
+ },
+ {
+  "cle": "514",
+  "type": "nom",
+  "fr": "Tornade Déchaînée"
+ },
+ {
+  "cle": "515",
+  "type": "nom",
+  "fr": "area damage"
+ },
+ {
+  "cle": "516",
+  "type": "nom",
+  "fr": "Grondement de Lame"
+ },
+ {
+  "cle": "517",
+  "type": "nom",
+  "fr": "projectile + faint"
+ },
+ {
+  "cle": "518",
+  "type": "nom",
+  "fr": "Danse du Fauve"
+ },
+ {
+  "cle": "521",
+  "type": "nom",
+  "fr": "Jaeger noir"
+ },
+ {
+  "cle": "524",
+  "type": "nom",
+  "fr": "Frénésie Percutante"
+ },
+ {
+  "cle": "525",
+  "type": "nom",
+  "fr": "Baume Thelas"
+ },
+ {
+  "cle": "526",
+  "type": "nom",
+  "fr": "Cri d'Entrave"
+ },
+ {
+  "cle": "527",
+  "type": "nom",
+  "fr": "Baume Lacryma"
+ },
+ {
+  "cle": "528",
+  "type": "nom",
+  "fr": "Déferlement de balles"
+ },
+ {
+  "cle": "529",
+  "type": "nom",
+  "fr": "Tir d'Élite"
+ },
+ {
+  "cle": "530",
+  "type": "nom",
+  "fr": "Attaque normale"
+ },
+ {
+  "cle": "531",
+  "type": "nom",
+  "fr": "Déferlement de balles"
+ },
+ {
+  "cle": "534",
+  "type": "nom",
+  "fr": "Chevalier noir"
+ },
+ {
+  "cle": "537",
+  "type": "nom",
+  "fr": "Tranchant Enflammé du Démon"
+ },
+ {
+  "cle": "538",
+  "type": "nom",
+  "fr": "Lame de l'Empereur Funeste"
+ },
+ {
+  "cle": "539",
+  "type": "nom",
+  "fr": "Tempête Zéro"
+ },
+ {
+  "cle": "540",
+  "type": "nom",
+  "fr": "Épines d'Argent"
+ },
+ {
+  "cle": "541",
+  "type": "nom",
+  "fr": "Area (M) - Attack (Set)\\nA shower of madness-inducing blades.[Confuse 90%]"
+ },
+ {
+  "cle": "542",
+  "type": "nom",
+  "fr": "Alacryma"
+ },
+ {
+  "cle": "543",
+  "type": "nom",
+  "fr": "Area (M) - Recovery\\nHeals 6000 HP for allies in the area."
+ },
+ {
+  "cle": "544",
+  "type": "nom",
+  "fr": "Clonage"
+ },
+ {
+  "cle": "547",
+  "type": "nom",
+  "fr": "Chevalier noir"
+ },
+ {
+  "cle": "550",
+  "type": "nom",
+  "fr": "Lame de l'Empereur Funeste"
+ },
+ {
+  "cle": "551",
+  "type": "nom",
+  "fr": "Tempête Zéro"
+ },
+ {
+  "cle": "552",
+  "type": "nom",
+  "fr": "Épines d'Argent"
+ },
+ {
+  "cle": "553",
+  "type": "nom",
+  "fr": "Area (M) - Attack (Set)\\nA shower of madness-inducing blades.[Confuse 90%]"
+ },
+ {
+  "cle": "554",
+  "type": "nom",
+  "fr": "Alacryma"
+ },
+ {
+  "cle": "555",
+  "type": "nom",
+  "fr": "Area (M) - Recovery\\nHeals 6000 HP for allies in the area."
+ },
+ {
+  "cle": "556",
+  "type": "nom",
+  "fr": "Garde Terrestre"
+ },
+ {
+  "cle": "557",
+  "type": "nom",
+  "fr": "Blocks one attack."
+ },
+ {
+  "cle": "558",
+  "type": "nom",
+  "fr": "Clonage"
+ },
+ {
+  "cle": "561",
+  "type": "nom",
+  "fr": "Homme en noir - Fusil"
+ },
+ {
+  "cle": "564",
+  "type": "nom",
+  "fr": "Balle Anti-Armure"
+ },
+ {
+  "cle": "565",
+  "type": "nom",
+  "fr": "def down"
+ },
+ {
+  "cle": "566",
+  "type": "nom",
+  "fr": "Assaut Combiné"
+ },
+ {
+  "cle": "567",
+  "type": "nom",
+  "fr": "Tir Dispersé"
+ },
+ {
+  "cle": "568",
+  "type": "nom",
+  "fr": "中距離範囲攻撃"
+ },
+ {
+  "cle": "571",
+  "type": "nom",
+  "fr": "Homme en noir - Fusil"
+ },
+ {
+  "cle": "574",
+  "type": "nom",
+  "fr": "Balle Anti-Armure"
+ },
+ {
+  "cle": "575",
+  "type": "nom",
+  "fr": "def down"
+ },
+ {
+  "cle": "576",
+  "type": "nom",
+  "fr": "Assaut Combiné"
+ },
+ {
+  "cle": "577",
+  "type": "nom",
+  "fr": "Tir Dispersé"
+ },
+ {
+  "cle": "578",
+  "type": "nom",
+  "fr": "中距離範囲攻撃"
+ },
+ {
+  "cle": "581",
+  "type": "nom",
+  "fr": "Homme en noir - Fusil"
+ },
+ {
+  "cle": "584",
+  "type": "nom",
+  "fr": "Balle Anti-Armure"
+ },
+ {
+  "cle": "585",
+  "type": "nom",
+  "fr": "def down"
+ },
+ {
+  "cle": "586",
+  "type": "nom",
+  "fr": "Assaut Combiné"
+ },
+ {
+  "cle": "587",
+  "type": "nom",
+  "fr": "Tir Dispersé"
+ },
+ {
+  "cle": "588",
+  "type": "nom",
+  "fr": "中距離範囲攻撃"
+ },
+ {
+  "cle": "594",
+  "type": "nom",
+  "fr": "Walter, le Loup décharné"
+ },
+ {
+  "cle": "597",
+  "type": "nom",
+  "fr": "Frappe Ultime"
+ },
+ {
+  "cle": "598",
+  "type": "nom",
+  "fr": "Combo Infini"
+ },
+ {
+  "cle": "599",
+  "type": "nom",
+  "fr": "Balle Laser"
+ },
+ {
+  "cle": "600",
+  "type": "nom",
+  "fr": "Activité Fantôme"
+ },
+ {
+  "cle": "601",
+  "type": "nom",
+  "fr": "回避率アップ、スピードアップ"
+ },
+ {
+  "cle": "602",
+  "type": "nom",
+  "fr": "Impact Zéro"
+ },
+ {
+  "cle": "603",
+  "type": "nom",
+  "fr": "泰斗流の奥義"
+ },
+ {
+  "cle": "604",
+  "type": "nom",
+  "fr": "Directs Soniques"
+ },
+ {
+  "cle": "605",
+  "type": "nom",
+  "fr": "範囲ダメージ "
+ },
+ {
+  "cle": "608",
+  "type": "nom",
+  "fr": "Walter, le Loup décharné"
+ },
+ {
+  "cle": "611",
+  "type": "nom",
+  "fr": "Frappe Ultime"
+ },
+ {
+  "cle": "612",
+  "type": "nom",
+  "fr": "Combo Infini"
+ },
+ {
+  "cle": "613",
+  "type": "nom",
+  "fr": "Balle Laser"
+ },
+ {
+  "cle": "614",
+  "type": "nom",
+  "fr": "Activité Fantôme"
+ },
+ {
+  "cle": "615",
+  "type": "nom",
+  "fr": "回避率アップ、スピードアップ"
+ },
+ {
+  "cle": "616",
+  "type": "nom",
+  "fr": "Impact Zéro"
+ },
+ {
+  "cle": "617",
+  "type": "nom",
+  "fr": "泰斗流の奥義"
+ },
+ {
+  "cle": "618",
+  "type": "nom",
+  "fr": "Directs Soniques"
+ },
+ {
+  "cle": "619",
+  "type": "nom",
+  "fr": "範囲ダメージ "
+ },
+ {
+  "cle": "622",
+  "type": "nom",
+  "fr": "Renne, l'Ange du Massacre"
+ },
+ {
+  "cle": "625",
+  "type": "nom",
+  "fr": "Rendéroutrépas"
+ },
+ {
+  "cle": "626",
+  "type": "nom",
+  "fr": "Lancer de Calamité"
+ },
+ {
+  "cle": "627",
+  "type": "nom",
+  "fr": "Cercle Sanglant"
+ },
+ {
+  "cle": "628",
+  "type": "nom",
+  "fr": "Cercle Sanglant"
+ },
+ {
+  "cle": "631",
+  "type": "nom",
+  "fr": "Luciola, le Glas illusoire"
+ },
+ {
+  "cle": "634",
+  "type": "nom",
+  "fr": "Attaque normale"
+ },
+ {
+  "cle": "635",
+  "type": "nom",
+  "fr": "Brasier du Vil Vent"
+ },
+ {
+  "cle": "636",
+  "type": "nom",
+  "fr": "Trombe Ardente"
+ },
+ {
+  "cle": "637",
+  "type": "nom",
+  "fr": "Tintement Onirique"
+ },
+ {
+  "cle": "638",
+  "type": "nom",
+  "fr": "sleepy and soft"
+ },
+ {
+  "cle": "639",
+  "type": "nom",
+  "fr": "Lacrymal"
+ },
+ {
+  "cle": "640",
+  "type": "nom",
+  "fr": "Single - Recovery\\nHeals 12000 HP for an ally."
+ },
+ {
+  "cle": "641",
+  "type": "nom",
+  "fr": "Double Fantôme"
+ },
+ {
+  "cle": "644",
+  "type": "nom",
+  "fr": "Bleublanc, Gentleman-cambr."
+ },
+ {
+  "cle": "647",
+  "type": "nom",
+  "fr": "Magie Mortelle"
+ },
+ {
+  "cle": "648",
+  "type": "nom",
+  "fr": "Dague Magique"
+ },
+ {
+  "cle": "649",
+  "type": "nom",
+  "fr": "Projection d'Ombre"
+ },
+ {
+  "cle": "650",
+  "type": "nom",
+  "fr": "Joker"
+ },
+ {
+  "cle": "651",
+  "type": "nom",
+  "fr": "Joker"
+ },
+ {
+  "cle": "652",
+  "type": "nom",
+  "fr": "Espritestulà"
+ },
+ {
+  "cle": "653",
+  "type": "nom",
+  "fr": "Petit Peu"
+ },
+ {
+  "cle": "654",
+  "type": "nom",
+  "fr": "Gros Peu"
+ },
+ {
+  "cle": "655",
+  "type": "nom",
+  "fr": "Pluie Akashique"
+ },
+ {
+  "cle": "658",
+  "type": "nom",
+  "fr": "Loewe, la Lame impériale"
+ },
+ {
+  "cle": "661",
+  "type": "nom",
+  "fr": "Lame de l'Empereur Funeste"
+ },
+ {
+  "cle": "662",
+  "type": "nom",
+  "fr": "Tempête Zéro"
+ },
+ {
+  "cle": "663",
+  "type": "nom",
+  "fr": "Épines d'Argent"
+ },
+ {
+  "cle": "664",
+  "type": "nom",
+  "fr": "中円・混乱\n狂気の光を帯びた銀の刃が降り注ぐ。「混乱状態」にする。"
+ },
+ {
+  "cle": "665",
+  "type": "nom",
+  "fr": "Alacryma"
+ },
+ {
+  "cle": "666",
+  "type": "nom",
+  "fr": "中円・HP3000回復\n命を癒す水の力で範囲内の味方のHPを3000回復する。"
+ },
+ {
+  "cle": "667",
+  "type": "nom",
+  "fr": "Garde Terrestre"
+ },
+ {
+  "cle": "668",
+  "type": "nom",
+  "fr": "1回最大防御"
+ },
+ {
+  "cle": "669",
+  "type": "nom",
+  "fr": "Clonage"
+ },
+ {
+  "cle": "672",
+  "type": "nom",
+  "fr": "Loewe, la Lame impériale"
+ },
+ {
+  "cle": "675",
+  "type": "nom",
+  "fr": "Lame de l'Empereur Funeste"
+ },
+ {
+  "cle": "676",
+  "type": "nom",
+  "fr": "Tempête Zéro"
+ },
+ {
+  "cle": "677",
+  "type": "nom",
+  "fr": "Épines d'Argent"
+ },
+ {
+  "cle": "678",
+  "type": "nom",
+  "fr": "中円・混乱\n狂気の光を帯びた銀の刃が降り注ぐ。「混乱状態」にする。"
+ },
+ {
+  "cle": "679",
+  "type": "nom",
+  "fr": "Alacryma"
+ },
+ {
+  "cle": "680",
+  "type": "nom",
+  "fr": "中円・HP3000回復\n命を癒す水の力で範囲内の味方のHPを3000回復する。"
+ },
+ {
+  "cle": "681",
+  "type": "nom",
+  "fr": "Clonage"
+ },
+ {
+  "cle": "684",
+  "type": "nom",
+  "fr": "Weissmann"
+ },
+ {
+  "cle": "687",
+  "type": "nom",
+  "fr": "Foudre de Justice"
+ },
+ {
+  "cle": "688",
+  "type": "nom",
+  "fr": "Matière Noire EX"
+ },
+ {
+  "cle": "689",
+  "type": "nom",
+  "fr": "Œil Démoniaque Sup."
+ },
+ {
+  "cle": "690",
+  "type": "nom",
+  "fr": "Exil Dimensionnel"
+ },
+ {
+  "cle": "691",
+  "type": "nom",
+  "fr": "Barrière Génésiaque"
+ },
+ {
+  "cle": "702",
+  "type": "nom",
+  "fr": "Mueller"
+ },
+ {
+  "cle": "705",
+  "type": "nom",
+  "fr": "Prise Ragna"
+ },
+ {
+  "cle": "706",
+  "type": "nom",
+  "fr": "Rafale Déferlante"
+ },
+ {
+  "cle": "707",
+  "type": "nom",
+  "fr": "範囲ダメージ "
+ },
+ {
+  "cle": "708",
+  "type": "nom",
+  "fr": "Danse du fer"
+ },
+ {
+  "cle": "709",
+  "type": "nom",
+  "fr": "Tranchant Mirage"
+ },
+ {
+  "cle": "710",
+  "type": "nom",
+  "fr": "封魔+詠唱キャンセル "
+ },
+ {
+  "cle": "711",
+  "type": "nom",
+  "fr": "Jugement Karmique"
+ },
+ {
+  "cle": "712",
+  "type": "nom",
+  "fr": "S-Craft - Area (M) - Attack"
+ },
+ {
+  "cle": "715",
+  "type": "nom",
+  "fr": "Julia"
+ },
+ {
+  "cle": "715",
+  "type": "description",
+  "fr": "C'est « Mlle » capitaine."
+ },
+ {
+  "cle": "718",
+  "type": "nom",
+  "fr": "Lanzenreiter"
+ },
+ {
+  "cle": "719",
+  "type": "nom",
+  "fr": "Baume Thelas"
+ },
+ {
+  "cle": "720",
+  "type": "nom",
+  "fr": "Image rémanente"
+ },
+ {
+  "cle": "721",
+  "type": "nom",
+  "fr": "Baume Lacryma"
+ },
+ {
+  "cle": "724",
+  "type": "nom",
+  "fr": "Lieutenant-colonel Cid"
+ },
+ {
+  "cle": "727",
+  "type": "nom",
+  "fr": "Frappe-éclair"
+ },
+ {
+  "cle": "728",
+  "type": "nom",
+  "fr": "Frappe Subreptice"
+ },
+ {
+  "cle": "729",
+  "type": "nom",
+  "fr": "Injonction de Tir"
+ },
+ {
+  "cle": "730",
+  "type": "nom",
+  "fr": "Frappe-éclair Tournoyante"
+ },
+ {
+  "cle": "731",
+  "type": "nom",
+  "fr": "Rafale Torrentielle"
+ },
+ {
+  "cle": "732",
+  "type": "nom",
+  "fr": "全体・攻撃\n激しい大気の奔流が敵を飲み込み縦横無尽に切り刻む。"
+ },
+ {
+  "cle": "733",
+  "type": "nom",
+  "fr": "Éruption Solaire"
+ },
+ {
+  "cle": "734",
+  "type": "nom",
+  "fr": "全体・攻撃　\n圧縮された炎の塊が爆発し地表上の敵を焼き尽くす。"
+ },
+ {
+  "cle": "737",
+  "type": "nom",
+  "fr": "Jaeger"
+ },
+ {
+  "cle": "740",
+  "type": "nom",
+  "fr": "Charge"
+ },
+ {
+  "cle": "741",
+  "type": "nom",
+  "fr": "Pluie de Pointes"
+ },
+ {
+  "cle": "742",
+  "type": "nom",
+  "fr": "Sqhwarz Feuer"
+ },
+ {
+  "cle": "743",
+  "type": "nom",
+  "fr": "Sqhwarz Wilde"
+ },
+ {
+  "cle": "744",
+  "type": "nom",
+  "fr": "Sqhwarz Zaubel"
+ },
+ {
+  "cle": "751",
+  "type": "nom",
+  "fr": "Femme Jaeger"
+ },
+ {
+  "cle": "754",
+  "type": "nom",
+  "fr": "Attaque normale"
+ },
+ {
+  "cle": "755",
+  "type": "nom",
+  "fr": "Grenade"
+ },
+ {
+  "cle": "756",
+  "type": "nom",
+  "fr": "Choc Arachnéen"
+ },
+ {
+  "cle": "757",
+  "type": "nom",
+  "fr": "ダメージ+詠唱キャンセル"
+ },
+ {
+  "cle": "758",
+  "type": "nom",
+  "fr": "Tir Dispersé"
+ },
+ {
+  "cle": "759",
+  "type": "nom",
+  "fr": "中距離範囲攻撃"
+ },
+ {
+  "cle": "762",
+  "type": "nom",
+  "fr": "Cassius"
+ },
+ {
+  "cle": "765",
+  "type": "nom",
+  "fr": "Brise-armure"
+ },
+ {
+  "cle": "766",
+  "type": "nom",
+  "fr": "Coup de Foudre"
+ },
+ {
+  "cle": "767",
+  "type": "nom",
+  "fr": "Les Cent Coups"
+ },
+ {
+  "cle": "768",
+  "type": "nom",
+  "fr": "Qilingong"
+ },
+ {
+  "cle": "769",
+  "type": "nom",
+  "fr": "Tourbillon"
+ },
+ {
+  "cle": "772",
+  "type": "nom",
+  "fr": "Cassius"
+ },
+ {
+  "cle": "775",
+  "type": "nom",
+  "fr": "Brise-armure"
+ },
+ {
+  "cle": "776",
+  "type": "nom",
+  "fr": "Coup de Foudre"
+ },
+ {
+  "cle": "777",
+  "type": "nom",
+  "fr": "Les Cent Coups"
+ },
+ {
+  "cle": "778",
+  "type": "nom",
+  "fr": "Qilingong"
+ },
+ {
+  "cle": "779",
+  "type": "nom",
+  "fr": "Tourbillon"
+ },
+ {
+  "cle": "782",
+  "type": "nom",
+  "fr": "Gilbert"
+ },
+ {
+  "cle": "785",
+  "type": "nom",
+  "fr": "Grenade"
+ },
+ {
+  "cle": "786",
+  "type": "nom",
+  "fr": "Baume Thelas"
+ },
+ {
+  "cle": "787",
+  "type": "nom",
+  "fr": "Baume Lacryma"
+ },
+ {
+  "cle": "788",
+  "type": "nom",
+  "fr": "Déferlement de Balles"
+ },
+ {
+  "cle": "789",
+  "type": "nom",
+  "fr": "Installation de MA"
+ },
+ {
+  "cle": "790",
+  "type": "nom",
+  "fr": "Armement Insurgé"
+ },
+ {
+  "cle": "791",
+  "type": "nom",
+  "fr": "Ultraexplocryopulvérisation"
+ },
+ {
+  "cle": "821",
+  "type": "nom",
+  "fr": "Gilbert décompressé (MAX)"
+ },
+ {
+  "cle": "824",
+  "type": "nom",
+  "fr": "Grenade"
+ },
+ {
+  "cle": "825",
+  "type": "nom",
+  "fr": "Baume Thelas"
+ },
+ {
+  "cle": "826",
+  "type": "nom",
+  "fr": "Baume Lacryma"
+ },
+ {
+  "cle": "827",
+  "type": "nom",
+  "fr": "Déferlement de Balles"
+ },
+ {
+  "cle": "828",
+  "type": "nom",
+  "fr": "Installation de MA"
+ },
+ {
+  "cle": "829",
+  "type": "nom",
+  "fr": "Armement Insurgé"
+ },
+ {
+  "cle": "830",
+  "type": "nom",
+  "fr": "Ultraexplocryopulvérisation"
+ },
+ {
+  "cle": "833",
+  "type": "nom",
+  "fr": "Jaeger"
+ },
+ {
+  "cle": "836",
+  "type": "nom",
+  "fr": "Charge"
+ },
+ {
+  "cle": "837",
+  "type": "nom",
+  "fr": "Grenade Fumigène"
+ },
+ {
+  "cle": "840",
+  "type": "nom",
+  "fr": "Chat-volant 2"
+ },
+ {
+  "cle": "843",
+  "type": "nom",
+  "fr": "Coup-ssinet"
+ },
+ {
+  "cle": "846",
+  "type": "nom",
+  "fr": "Liparis volant"
+ },
+ {
+  "cle": "849",
+  "type": "nom",
+  "fr": "Vampirisme"
+ },
+ {
+  "cle": "852",
+  "type": "nom",
+  "fr": "Dobberman d'attaque"
+ },
+ {
+  "cle": "855",
+  "type": "nom",
+  "fr": "Géryon"
+ },
+ {
+  "cle": "858",
+  "type": "nom",
+  "fr": "Souffle Empoisonné"
+ },
+ {
+  "cle": "861",
+  "type": "nom",
+  "fr": "Mouton simiesque"
+ },
+ {
+  "cle": "864",
+  "type": "nom",
+  "fr": "Triplette du Mouton"
+ },
+ {
+  "cle": "865",
+  "type": "nom",
+  "fr": "1 mouton, 2 moutons..."
+ },
+ {
+  "cle": "866",
+  "type": "nom",
+  "fr": "Insulte du Singe-Mouton"
+ },
+ {
+  "cle": "869",
+  "type": "nom",
+  "fr": "Sasasquatch"
+ },
+ {
+  "cle": "872",
+  "type": "nom",
+  "fr": "Terrassement"
+ },
+ {
+  "cle": "873",
+  "type": "nom",
+  "fr": "Souffle Nivéal"
+ },
+ {
+  "cle": "876",
+  "type": "nom",
+  "fr": "Œuduhr G"
+ },
+ {
+  "cle": "879",
+  "type": "nom",
+  "fr": "Auto-destruction"
+ },
+ {
+  "cle": "880",
+  "type": "nom",
+  "fr": "Brise Frappante"
+ },
+ {
+  "cle": "881",
+  "type": "nom",
+  "fr": "#59IWind: Single - Attack 【#188I1】\\nTears and shreds an enemy with compressed air."
+ },
+ {
+  "cle": "884",
+  "type": "nom",
+  "fr": "Démon hippocampe"
+ },
+ {
+  "cle": "887",
+  "type": "nom",
+  "fr": "Bulles soporifiques"
+ },
+ {
+  "cle": "888",
+  "type": "nom",
+  "fr": "Bulles soporifiques"
+ },
+ {
+  "cle": "891",
+  "type": "nom",
+  "fr": "Maîtresse Clyone"
+ },
+ {
+  "cle": "894",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "897",
+  "type": "nom",
+  "fr": "Solidozer"
+ },
+ {
+  "cle": "900",
+  "type": "nom",
+  "fr": "Accélération"
+ },
+ {
+  "cle": "903",
+  "type": "nom",
+  "fr": "Dents-de-cendre"
+ },
+ {
+  "cle": "906",
+  "type": "nom",
+  "fr": "Affres de la mort"
+ },
+ {
+  "cle": "909",
+  "type": "nom",
+  "fr": "Dents-de-cobalt"
+ },
+ {
+  "cle": "912",
+  "type": "nom",
+  "fr": "Affres de la mort"
+ },
+ {
+  "cle": "915",
+  "type": "nom",
+  "fr": "Escargot fou"
+ },
+ {
+  "cle": "918",
+  "type": "nom",
+  "fr": "Garde Accrue"
+ },
+ {
+  "cle": "921",
+  "type": "nom",
+  "fr": "Mains d'argent"
+ },
+ {
+  "cle": "924",
+  "type": "nom",
+  "fr": "Grande mite"
+ },
+ {
+  "cle": "927",
+  "type": "nom",
+  "fr": "Poudre Pétrifiante"
+ },
+ {
+  "cle": "928",
+  "type": "nom",
+  "fr": "Vivacité Accrue"
+ },
+ {
+  "cle": "929",
+  "type": "nom",
+  "fr": "Piqûre Empoisonnée"
+ },
+ {
+  "cle": "932",
+  "type": "nom",
+  "fr": "Œuduhr O"
+ },
+ {
+  "cle": "935",
+  "type": "nom",
+  "fr": "Onde Plasmique"
+ },
+ {
+  "cle": "936",
+  "type": "nom",
+  "fr": "【風８金４】\n風・直線状"
+ },
+ {
+  "cle": "937",
+  "type": "nom",
+  "fr": "Auto-destruction"
+ },
+ {
+  "cle": "940",
+  "type": "nom",
+  "fr": "Mouton noir"
+ },
+ {
+  "cle": "943",
+  "type": "nom",
+  "fr": "Poing Noir du Singe-Mouton"
+ },
+ {
+  "cle": "944",
+  "type": "nom",
+  "fr": "Attaque Accélérante"
+ },
+ {
+  "cle": "945",
+  "type": "nom",
+  "fr": "Insulte du Singe-Mouton"
+ },
+ {
+  "cle": "948",
+  "type": "nom",
+  "fr": "Mouton noir"
+ },
+ {
+  "cle": "951",
+  "type": "nom",
+  "fr": "Poing Noir du Singe-Mouton"
+ },
+ {
+  "cle": "952",
+  "type": "nom",
+  "fr": "Attaque Accélérante"
+ },
+ {
+  "cle": "953",
+  "type": "nom",
+  "fr": "Insulte du Singe-Mouton"
+ },
+ {
+  "cle": "956",
+  "type": "nom",
+  "fr": "Dents-de-sang"
+ },
+ {
+  "cle": "959",
+  "type": "nom",
+  "fr": "Pom brillant"
+ },
+ {
+  "cle": "962",
+  "type": "nom",
+  "fr": "Absorption de PT"
+ },
+ {
+  "cle": "965",
+  "type": "nom",
+  "fr": "Pom brillant"
+ },
+ {
+  "cle": "968",
+  "type": "nom",
+  "fr": "Absorption de PT"
+ },
+ {
+  "cle": "971",
+  "type": "nom",
+  "fr": "Pom brillant"
+ },
+ {
+  "cle": "974",
+  "type": "nom",
+  "fr": "Absorption de PT"
+ },
+ {
+  "cle": "977",
+  "type": "nom",
+  "fr": "Pom brillant"
+ },
+ {
+  "cle": "980",
+  "type": "nom",
+  "fr": "Absorption de PT"
+ },
+ {
+  "cle": "983",
+  "type": "nom",
+  "fr": "Mouton rose"
+ },
+ {
+  "cle": "986",
+  "type": "nom",
+  "fr": "Triplette du Mouton"
+ },
+ {
+  "cle": "987",
+  "type": "nom",
+  "fr": "Insulte du Singe-Mouton"
+ },
+ {
+  "cle": "988",
+  "type": "nom",
+  "fr": "Mâche-mâche Opportun"
+ },
+ {
+  "cle": "989",
+  "type": "nom",
+  "fr": "Coup d'Patte Authentique"
+ },
+ {
+  "cle": "990",
+  "type": "nom",
+  "fr": "Hitsujin-Rasen-Kyaku !"
+ },
+ {
+  "cle": "991",
+  "type": "nom",
+  "fr": "Formation Penta-Mout'"
+ },
+ {
+  "cle": "994",
+  "type": "nom",
+  "fr": "Inetrollmoum"
+ },
+ {
+  "cle": "997",
+  "type": "nom",
+  "fr": "Éruption de Projectiles"
+ },
+ {
+  "cle": "1000",
+  "type": "nom",
+  "fr": "Puma de fer"
+ },
+ {
+  "cle": "1003",
+  "type": "nom",
+  "fr": "Lame de Mort"
+ },
+ {
+  "cle": "1004",
+  "type": "nom",
+  "fr": "Lame de Vent"
+ },
+ {
+  "cle": "1007",
+  "type": "nom",
+  "fr": "Puma de fer"
+ },
+ {
+  "cle": "1010",
+  "type": "nom",
+  "fr": "Lame de Mort"
+ },
+ {
+  "cle": "1011",
+  "type": "nom",
+  "fr": "Lame de Vent"
+ },
+ {
+  "cle": "1014",
+  "type": "nom",
+  "fr": "Rejeton Octo"
+ },
+ {
+  "cle": "1017",
+  "type": "nom",
+  "fr": "Pluie Météorique"
+ },
+ {
+  "cle": "1018",
+  "type": "nom",
+  "fr": "Vampirisme Nutritif"
+ },
+ {
+  "cle": "1019",
+  "type": "nom",
+  "fr": "Marmelade Spatiale"
+ },
+ {
+  "cle": "1020",
+  "type": "nom",
+  "fr": "遠距離攻撃+防御ダウン"
+ },
+ {
+  "cle": "1023",
+  "type": "nom",
+  "fr": "Fragment Clyon"
+ },
+ {
+  "cle": "1026",
+  "type": "nom",
+  "fr": "Rhodes photonique"
+ },
+ {
+  "cle": "1029",
+  "type": "nom",
+  "fr": "Auto-destruction"
+ },
+ {
+  "cle": "1032",
+  "type": "nom",
+  "fr": "Croc-glaive"
+ },
+ {
+  "cle": "1035",
+  "type": "nom",
+  "fr": "Rugissement"
+ },
+ {
+  "cle": "1036",
+  "type": "nom",
+  "fr": "Morsures"
+ },
+ {
+  "cle": "1039",
+  "type": "nom",
+  "fr": "Épitaphe fantôme"
+ },
+ {
+  "cle": "1042",
+  "type": "nom",
+  "fr": "Cocytus"
+ },
+ {
+  "cle": "1043",
+  "type": "nom",
+  "fr": "水属性：全体範囲  【水１６風８金４】\n水・全体20%凍結"
+ },
+ {
+  "cle": "1044",
+  "type": "nom",
+  "fr": "Acide Formique"
+ },
+ {
+  "cle": "1045",
+  "type": "nom",
+  "fr": "Chute de Stalactite"
+ },
+ {
+  "cle": "1046",
+  "type": "nom",
+  "fr": "凍結"
+ },
+ {
+  "cle": "1049",
+  "type": "nom",
+  "fr": "Vogel 911+"
+ },
+ {
+  "cle": "1052",
+  "type": "nom",
+  "fr": "ALERTE, INTRUS DÉTÉCTÉS"
+ },
+ {
+  "cle": "1053",
+  "type": "nom",
+  "fr": "Onde Plasmique"
+ },
+ {
+  "cle": "1054",
+  "type": "nom",
+  "fr": "Laser Gorgonique"
+ },
+ {
+  "cle": "1055",
+  "type": "nom",
+  "fr": "Laser Gorgonique"
+ },
+ {
+  "cle": "1056",
+  "type": "nom",
+  "fr": "Laser Gorgonique"
+ },
+ {
+  "cle": "1059",
+  "type": "nom",
+  "fr": "Rotapantin"
+ },
+ {
+  "cle": "1062",
+  "type": "nom",
+  "fr": "Déferlement de Balles"
+ },
+ {
+  "cle": "1063",
+  "type": "nom",
+  "fr": "Grenade à Fragmentation"
+ },
+ {
+  "cle": "1064",
+  "type": "nom",
+  "fr": "Auto-destruction"
+ },
+ {
+  "cle": "1067",
+  "type": "nom",
+  "fr": "Puma ténébreux"
+ },
+ {
+  "cle": "1070",
+  "type": "nom",
+  "fr": "Lame d'Entrave"
+ },
+ {
+  "cle": "1071",
+  "type": "nom",
+  "fr": "Lame de Mort"
+ },
+ {
+  "cle": "1072",
+  "type": "nom",
+  "fr": "Lame de Vent"
+ },
+ {
+  "cle": "1075",
+  "type": "nom",
+  "fr": "Grimoire"
+ },
+ {
+  "cle": "1078",
+  "type": "nom",
+  "fr": "Fracas de PE"
+ },
+ {
+  "cle": "1079",
+  "type": "nom",
+  "fr": "Fracas de PT"
+ },
+ {
+  "cle": "1082",
+  "type": "nom",
+  "fr": "Grimoire"
+ },
+ {
+  "cle": "1085",
+  "type": "nom",
+  "fr": "Fracas de PE"
+ },
+ {
+  "cle": "1086",
+  "type": "nom",
+  "fr": "Fracas de PT"
+ },
+ {
+  "cle": "1089",
+  "type": "nom",
+  "fr": "Grimoire"
+ },
+ {
+  "cle": "1092",
+  "type": "nom",
+  "fr": "Fracas de PE"
+ },
+ {
+  "cle": "1093",
+  "type": "nom",
+  "fr": "Fracas de PT"
+ },
+ {
+  "cle": "1096",
+  "type": "nom",
+  "fr": "Grimoire"
+ },
+ {
+  "cle": "1099",
+  "type": "nom",
+  "fr": "Fracas de PE"
+ },
+ {
+  "cle": "1100",
+  "type": "nom",
+  "fr": "Fracas de PT"
+ },
+ {
+  "cle": "1103",
+  "type": "nom",
+  "fr": "Grimoire"
+ },
+ {
+  "cle": "1106",
+  "type": "nom",
+  "fr": "Fracas de PE"
+ },
+ {
+  "cle": "1107",
+  "type": "nom",
+  "fr": "Fracas de PT"
+ },
+ {
+  "cle": "1110",
+  "type": "nom",
+  "fr": "Grimoire"
+ },
+ {
+  "cle": "1113",
+  "type": "nom",
+  "fr": "Fracas de PE"
+ },
+ {
+  "cle": "1114",
+  "type": "nom",
+  "fr": "Fracas de PT"
+ },
+ {
+  "cle": "1117",
+  "type": "nom",
+  "fr": "Grimoire"
+ },
+ {
+  "cle": "1120",
+  "type": "nom",
+  "fr": "Fracas de PE"
+ },
+ {
+  "cle": "1121",
+  "type": "nom",
+  "fr": "Fracas de PT"
+ },
+ {
+  "cle": "1124",
+  "type": "nom",
+  "fr": "Grimoire"
+ },
+ {
+  "cle": "1127",
+  "type": "nom",
+  "fr": "Fracas de PE"
+ },
+ {
+  "cle": "1128",
+  "type": "nom",
+  "fr": "Fracas de PT"
+ },
+ {
+  "cle": "1131",
+  "type": "nom",
+  "fr": "Sehdrehd"
+ },
+ {
+  "cle": "1134",
+  "type": "nom",
+  "fr": "Lance-flammes"
+ },
+ {
+  "cle": "1137",
+  "type": "nom",
+  "fr": "Pot Aries"
+ },
+ {
+  "cle": "1140",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "1141",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "1142",
+  "type": "nom",
+  "fr": "Douche Lumineuse"
+ },
+ {
+  "cle": "1143",
+  "type": "nom",
+  "fr": "Douche Lumineuse"
+ },
+ {
+  "cle": "1144",
+  "type": "nom",
+  "fr": "Douche Lumineuse"
+ },
+ {
+  "cle": "1145",
+  "type": "nom",
+  "fr": "Douche Lumineuse"
+ },
+ {
+  "cle": "1146",
+  "type": "nom",
+  "fr": "Douche Lumineuse"
+ },
+ {
+  "cle": "1149",
+  "type": "nom",
+  "fr": "Ange à lame"
+ },
+ {
+  "cle": "1152",
+  "type": "nom",
+  "fr": "Coup de Foudre"
+ },
+ {
+  "cle": "1153",
+  "type": "nom",
+  "fr": "Galvanisation du Ciel"
+ },
+ {
+  "cle": "1154",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1157",
+  "type": "nom",
+  "fr": "Pom la Tempête"
+ },
+ {
+  "cle": "1160",
+  "type": "nom",
+  "fr": "Absorption de PT"
+ },
+ {
+  "cle": "1161",
+  "type": "nom",
+  "fr": "Cosmo-explosion"
+ },
+ {
+  "cle": "1164",
+  "type": "nom",
+  "fr": "Beelzebub"
+ },
+ {
+  "cle": "1167",
+  "type": "nom",
+  "fr": "Sphère d'Énergie"
+ },
+ {
+  "cle": "1168",
+  "type": "nom",
+  "fr": "遠距離攻撃+気絶"
+ },
+ {
+  "cle": "1169",
+  "type": "nom",
+  "fr": "Éruption d'Énergie"
+ },
+ {
+  "cle": "1170",
+  "type": "nom",
+  "fr": "遠距離攻撃+気絶"
+ },
+ {
+  "cle": "1171",
+  "type": "nom",
+  "fr": "Rayon d'Énergie"
+ },
+ {
+  "cle": "1172",
+  "type": "nom",
+  "fr": "範囲攻撃+気絶"
+ },
+ {
+  "cle": "1173",
+  "type": "nom",
+  "fr": "Plongée Dimensionnelle"
+ },
+ {
+  "cle": "1174",
+  "type": "nom",
+  "fr": "Horde Malveillante"
+ },
+ {
+  "cle": "1175",
+  "type": "nom",
+  "fr": "遠距離攻撃+技封"
+ },
+ {
+  "cle": "1176",
+  "type": "nom",
+  "fr": "Horde Malveillante"
+ },
+ {
+  "cle": "1177",
+  "type": "nom",
+  "fr": "遠距離攻撃+魔封"
+ },
+ {
+  "cle": "1178",
+  "type": "nom",
+  "fr": "Grand Effondrement"
+ },
+ {
+  "cle": "1181",
+  "type": "nom",
+  "fr": "Vargem"
+ },
+ {
+  "cle": "1184",
+  "type": "nom",
+  "fr": "Chant de la Figue"
+ },
+ {
+  "cle": "1185",
+  "type": "nom",
+  "fr": "Chant de la Grenade"
+ },
+ {
+  "cle": "1186",
+  "type": "nom",
+  "fr": "Chant de la Davallia Pendue"
+ },
+ {
+  "cle": "1187",
+  "type": "nom",
+  "fr": "Cri Funeste"
+ },
+ {
+  "cle": "1190",
+  "type": "nom",
+  "fr": "Bennu"
+ },
+ {
+  "cle": "1193",
+  "type": "nom",
+  "fr": "Absorption de PV"
+ },
+ {
+  "cle": "1194",
+  "type": "nom",
+  "fr": "Lacrym"
+ },
+ {
+  "cle": "1195",
+  "type": "nom",
+  "fr": "Lance Terrestre"
+ },
+ {
+  "cle": "1198",
+  "type": "nom",
+  "fr": "Bennu Nucleus"
+ },
+ {
+  "cle": "1201",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "1202",
+  "type": "nom",
+  "fr": "Vague Chtonienne"
+ },
+ {
+  "cle": "1203",
+  "type": "nom",
+  "fr": "Vague Chtonienne"
+ },
+ {
+  "cle": "1204",
+  "type": "nom",
+  "fr": "Vague Chtonienne"
+ },
+ {
+  "cle": "1205",
+  "type": "nom",
+  "fr": "Vague Chtonienne"
+ },
+ {
+  "cle": "1206",
+  "type": "nom",
+  "fr": "Vague Chtonienne"
+ },
+ {
+  "cle": "1209",
+  "type": "nom",
+  "fr": "Bennu Nucleus"
+ },
+ {
+  "cle": "1212",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "1213",
+  "type": "nom",
+  "fr": "Vague Chtonienne"
+ },
+ {
+  "cle": "1214",
+  "type": "nom",
+  "fr": "Vague Chtonienne"
+ },
+ {
+  "cle": "1215",
+  "type": "nom",
+  "fr": "Vague Chtonienne"
+ },
+ {
+  "cle": "1216",
+  "type": "nom",
+  "fr": "Vague Chtonienne"
+ },
+ {
+  "cle": "1217",
+  "type": "nom",
+  "fr": "Vague Chtonienne"
+ },
+ {
+  "cle": "1220",
+  "type": "nom",
+  "fr": "Bennu"
+ },
+ {
+  "cle": "1223",
+  "type": "nom",
+  "fr": "Avide Langue"
+ },
+ {
+  "cle": "1226",
+  "type": "nom",
+  "fr": "Sehdrehd - Gizeh"
+ },
+ {
+  "cle": "1229",
+  "type": "nom",
+  "fr": "Lance-flamme"
+ },
+ {
+  "cle": "1232",
+  "type": "nom",
+  "fr": "Cogneur de la Mort"
+ },
+ {
+  "cle": "1235",
+  "type": "nom",
+  "fr": "Course dératée"
+ },
+ {
+  "cle": "1236",
+  "type": "nom",
+  "fr": "Canon Chtonien"
+ },
+ {
+  "cle": "1237",
+  "type": "nom",
+  "fr": "Quadruple Canon Chtonien"
+ },
+ {
+  "cle": "1240",
+  "type": "nom",
+  "fr": "Cogneur de la Mort"
+ },
+ {
+  "cle": "1243",
+  "type": "nom",
+  "fr": "Course dératée"
+ },
+ {
+  "cle": "1244",
+  "type": "nom",
+  "fr": "Canon Chtonien"
+ },
+ {
+  "cle": "1245",
+  "type": "nom",
+  "fr": "Quadruple Canon Chtonien"
+ },
+ {
+  "cle": "1248",
+  "type": "nom",
+  "fr": "Doppel Kevin"
+ },
+ {
+  "cle": "1251",
+  "type": "nom",
+  "fr": "Souffle Sacré"
+ },
+ {
+  "cle": "1252",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1253",
+  "type": "nom",
+  "fr": "Carreau Sacrificiel"
+ },
+ {
+  "cle": "1254",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1255",
+  "type": "nom",
+  "fr": "Carreau Gorgone"
+ },
+ {
+  "cle": "1256",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1257",
+  "type": "nom",
+  "fr": "Graalsphère"
+ },
+ {
+  "cle": "1258",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1259",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "1262",
+  "type": "nom",
+  "fr": "Doppel Kevin"
+ },
+ {
+  "cle": "1265",
+  "type": "nom",
+  "fr": "Souffle Sacré"
+ },
+ {
+  "cle": "1266",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1267",
+  "type": "nom",
+  "fr": "Carreau Sacrificiel"
+ },
+ {
+  "cle": "1268",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1269",
+  "type": "nom",
+  "fr": "Carreau Gorgone"
+ },
+ {
+  "cle": "1270",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1271",
+  "type": "nom",
+  "fr": "Graalsphère"
+ },
+ {
+  "cle": "1272",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1275",
+  "type": "nom",
+  "fr": "Mirroir étincelant"
+ },
+ {
+  "cle": "1278",
+  "type": "nom",
+  "fr": "Foudre Sceau"
+ },
+ {
+  "cle": "1279",
+  "type": "nom",
+  "fr": "Foudre Sceau"
+ },
+ {
+  "cle": "1280",
+  "type": "nom",
+  "fr": "Canon Reflépuscule"
+ },
+ {
+  "cle": "1283",
+  "type": "nom",
+  "fr": "Mirroir étincelant"
+ },
+ {
+  "cle": "1286",
+  "type": "nom",
+  "fr": "Foudre Sceau"
+ },
+ {
+  "cle": "1287",
+  "type": "nom",
+  "fr": "Foudre Sceau"
+ },
+ {
+  "cle": "1288",
+  "type": "nom",
+  "fr": "Canon Reflépuscule"
+ },
+ {
+  "cle": "1291",
+  "type": "nom",
+  "fr": "Miroir hanté"
+ },
+ {
+  "cle": "1294",
+  "type": "nom",
+  "fr": "Foudre Sceau"
+ },
+ {
+  "cle": "1295",
+  "type": "nom",
+  "fr": "Foudre Sceau"
+ },
+ {
+  "cle": "1296",
+  "type": "nom",
+  "fr": "Canon Reflépuscule"
+ },
+ {
+  "cle": "1299",
+  "type": "nom",
+  "fr": "Miroir hanté"
+ },
+ {
+  "cle": "1302",
+  "type": "nom",
+  "fr": "Foudre Sceau"
+ },
+ {
+  "cle": "1303",
+  "type": "nom",
+  "fr": "Foudre Sceau"
+ },
+ {
+  "cle": "1304",
+  "type": "nom",
+  "fr": "Canon Reflépuscule"
+ },
+ {
+  "cle": "1307",
+  "type": "nom",
+  "fr": "Doppel Ries"
+ },
+ {
+  "cle": "1310",
+  "type": "nom",
+  "fr": "Curvescrime"
+ },
+ {
+  "cle": "1311",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1312",
+  "type": "nom",
+  "fr": "Mille-passereaux"
+ },
+ {
+  "cle": "1313",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1314",
+  "type": "nom",
+  "fr": "Bénédiction divine"
+ },
+ {
+  "cle": "1315",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1318",
+  "type": "nom",
+  "fr": "Doppel Ries"
+ },
+ {
+  "cle": "1321",
+  "type": "nom",
+  "fr": "Curvescrime"
+ },
+ {
+  "cle": "1322",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1323",
+  "type": "nom",
+  "fr": "Mille-passereaux"
+ },
+ {
+  "cle": "1324",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1325",
+  "type": "nom",
+  "fr": "Bénédiction divine"
+ },
+ {
+  "cle": "1326",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1329",
+  "type": "nom",
+  "fr": "Féroslimalice"
+ },
+ {
+  "cle": "1332",
+  "type": "nom",
+  "fr": "Affres de la mort"
+ },
+ {
+  "cle": "1335",
+  "type": "nom",
+  "fr": "Doppel Estelle"
+ },
+ {
+  "cle": "1338",
+  "type": "nom",
+  "fr": "Comète Sup."
+ },
+ {
+  "cle": "1339",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1340",
+  "type": "nom",
+  "fr": "Frappe Adamantine Sup."
+ },
+ {
+  "cle": "1341",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1342",
+  "type": "nom",
+  "fr": "Tourbillon Sup."
+ },
+ {
+  "cle": "1343",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1344",
+  "type": "nom",
+  "fr": "Cycle Taiji"
+ },
+ {
+  "cle": "1345",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1348",
+  "type": "nom",
+  "fr": "Doppel Estelle"
+ },
+ {
+  "cle": "1351",
+  "type": "nom",
+  "fr": "Comète Sup."
+ },
+ {
+  "cle": "1352",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1353",
+  "type": "nom",
+  "fr": "Frappe Adamantine Sup."
+ },
+ {
+  "cle": "1354",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1355",
+  "type": "nom",
+  "fr": "Tourbillon Sup."
+ },
+ {
+  "cle": "1356",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1357",
+  "type": "nom",
+  "fr": "Cycle Taiji"
+ },
+ {
+  "cle": "1358",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1361",
+  "type": "nom",
+  "fr": "Doppel Scherazard"
+ },
+ {
+  "cle": "1364",
+  "type": "nom",
+  "fr": "Fouet Constricteur"
+ },
+ {
+  "cle": "1365",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1366",
+  "type": "nom",
+  "fr": "Baiser du Ciel"
+ },
+ {
+  "cle": "1367",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1368",
+  "type": "nom",
+  "fr": "Aeria"
+ },
+ {
+  "cle": "1369",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1370",
+  "type": "nom",
+  "fr": "Désorbement"
+ },
+ {
+  "cle": "1371",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1372",
+  "type": "nom",
+  "fr": "Défaut"
+ },
+ {
+  "cle": "1373",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1376",
+  "type": "nom",
+  "fr": "Doppel Scherazard"
+ },
+ {
+  "cle": "1379",
+  "type": "nom",
+  "fr": "Fouet Constricteur"
+ },
+ {
+  "cle": "1380",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1381",
+  "type": "nom",
+  "fr": "Baiser du Ciel"
+ },
+ {
+  "cle": "1382",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1383",
+  "type": "nom",
+  "fr": "Aeria"
+ },
+ {
+  "cle": "1384",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1385",
+  "type": "nom",
+  "fr": "Désorbement"
+ },
+ {
+  "cle": "1386",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1387",
+  "type": "nom",
+  "fr": "Défaut"
+ },
+ {
+  "cle": "1388",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1391",
+  "type": "nom",
+  "fr": "Doppel Olivier"
+ },
+ {
+  "cle": "1394",
+  "type": "nom",
+  "fr": "Tir Rapide"
+ },
+ {
+  "cle": "1395",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1396",
+  "type": "nom",
+  "fr": "Tir d'Élite"
+ },
+ {
+  "cle": "1397",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1398",
+  "type": "nom",
+  "fr": "Gâchette de l'Amour"
+ },
+ {
+  "cle": "1399",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1400",
+  "type": "nom",
+  "fr": "Balle Hurlante"
+ },
+ {
+  "cle": "1401",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1402",
+  "type": "nom",
+  "fr": "Barrière Génésiaque"
+ },
+ {
+  "cle": "1403",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1404",
+  "type": "nom",
+  "fr": "Mœbius Perdu"
+ },
+ {
+  "cle": "1405",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1408",
+  "type": "nom",
+  "fr": "Doppel Kloe"
+ },
+ {
+  "cle": "1411",
+  "type": "nom",
+  "fr": "Sturm"
+ },
+ {
+  "cle": "1412",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1413",
+  "type": "nom",
+  "fr": "Sanctus Nova"
+ },
+ {
+  "cle": "1414",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1417",
+  "type": "nom",
+  "fr": "Doppel Kloe"
+ },
+ {
+  "cle": "1420",
+  "type": "nom",
+  "fr": "Sturm"
+ },
+ {
+  "cle": "1421",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1422",
+  "type": "nom",
+  "fr": "Sanctus Nova"
+ },
+ {
+  "cle": "1423",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1426",
+  "type": "nom",
+  "fr": "Doppel Agate"
+ },
+ {
+  "cle": "1429",
+  "type": "nom",
+  "fr": "Impact Enflammé"
+ },
+ {
+  "cle": "1430",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1431",
+  "type": "nom",
+  "fr": "Tranchant Draguna"
+ },
+ {
+  "cle": "1432",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1433",
+  "type": "nom",
+  "fr": "Spirale TranchanteⅡ"
+ },
+ {
+  "cle": "1434",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1435",
+  "type": "nom",
+  "fr": "Impact FinalⅡ"
+ },
+ {
+  "cle": "1436",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1437",
+  "type": "nom",
+  "fr": "Plongeon Draconique"
+ },
+ {
+  "cle": "1438",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1441",
+  "type": "nom",
+  "fr": "Doppel Agate"
+ },
+ {
+  "cle": "1444",
+  "type": "nom",
+  "fr": "Impact Enflammé"
+ },
+ {
+  "cle": "1445",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1446",
+  "type": "nom",
+  "fr": "Tranchant Draguna"
+ },
+ {
+  "cle": "1447",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1448",
+  "type": "nom",
+  "fr": "Spirale TranchanteⅡ"
+ },
+ {
+  "cle": "1449",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1450",
+  "type": "nom",
+  "fr": "Impact FinalⅡ"
+ },
+ {
+  "cle": "1451",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1452",
+  "type": "nom",
+  "fr": "Plongeon Draconique"
+ },
+ {
+  "cle": "1453",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1456",
+  "type": "nom",
+  "fr": "Doppel Agate"
+ },
+ {
+  "cle": "1459",
+  "type": "nom",
+  "fr": "Impact Enflammé"
+ },
+ {
+  "cle": "1460",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1461",
+  "type": "nom",
+  "fr": "Tranchant Draguna"
+ },
+ {
+  "cle": "1462",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1463",
+  "type": "nom",
+  "fr": "Spirale TranchanteⅡ"
+ },
+ {
+  "cle": "1464",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1465",
+  "type": "nom",
+  "fr": "Impact FinalⅡ"
+ },
+ {
+  "cle": "1466",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1467",
+  "type": "nom",
+  "fr": "Plongeon Draconique"
+ },
+ {
+  "cle": "1468",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1471",
+  "type": "nom",
+  "fr": "Doppel Tita"
+ },
+ {
+  "cle": "1474",
+  "type": "nom",
+  "fr": "Canon FumigèneⅡ"
+ },
+ {
+  "cle": "1475",
+  "type": "nom",
+  "fr": "Canon VitalⅡ"
+ },
+ {
+  "cle": "1476",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1479",
+  "type": "nom",
+  "fr": "Doppel Tita"
+ },
+ {
+  "cle": "1482",
+  "type": "nom",
+  "fr": "Canon FumigèneⅡ"
+ },
+ {
+  "cle": "1483",
+  "type": "nom",
+  "fr": "Canon VitalⅡ"
+ },
+ {
+  "cle": "1484",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1487",
+  "type": "nom",
+  "fr": "Doppel Zin"
+ },
+ {
+  "cle": "1490",
+  "type": "nom",
+  "fr": "Force Intérieure Sup."
+ },
+ {
+  "cle": "1491",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1492",
+  "type": "nom",
+  "fr": "Paume Clair de Lune Sup."
+ },
+ {
+  "cle": "1493",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1494",
+  "type": "nom",
+  "fr": "Pied du Dieu-tonnerre"
+ },
+ {
+  "cle": "1495",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1498",
+  "type": "nom",
+  "fr": "Doppel Zin"
+ },
+ {
+  "cle": "1501",
+  "type": "nom",
+  "fr": "Élévation du Dragon Sup."
+ },
+ {
+  "cle": "1502",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1503",
+  "type": "nom",
+  "fr": "Force Intérieure Sup."
+ },
+ {
+  "cle": "1504",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1505",
+  "type": "nom",
+  "fr": "Paume Clair de Lune Sup."
+ },
+ {
+  "cle": "1506",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1507",
+  "type": "nom",
+  "fr": "Pied du Dieu-tonnerre"
+ },
+ {
+  "cle": "1508",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1511",
+  "type": "nom",
+  "fr": "Doppel Anelace"
+ },
+ {
+  "cle": "1514",
+  "type": "nom",
+  "fr": "Feuilles Mortes"
+ },
+ {
+  "cle": "1515",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1516",
+  "type": "nom",
+  "fr": "Huit-feuilles - Lame Fulgurante"
+ },
+ {
+  "cle": "1517",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1518",
+  "type": "nom",
+  "fr": "Danse Toupie"
+ },
+ {
+  "cle": "1519",
+  "type": "nom",
+  "fr": "Lance-rafale"
+ },
+ {
+  "cle": "1520",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1523",
+  "type": "nom",
+  "fr": "Doppel Anelace"
+ },
+ {
+  "cle": "1526",
+  "type": "nom",
+  "fr": "Feuilles Mortes"
+ },
+ {
+  "cle": "1527",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1528",
+  "type": "nom",
+  "fr": "Huit-feuilles - Lame Fulgurante"
+ },
+ {
+  "cle": "1529",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1530",
+  "type": "nom",
+  "fr": "Danse Toupie"
+ },
+ {
+  "cle": "1531",
+  "type": "nom",
+  "fr": "Lance-rafale"
+ },
+ {
+  "cle": "1532",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1535",
+  "type": "nom",
+  "fr": "Doppel Anelace"
+ },
+ {
+  "cle": "1538",
+  "type": "nom",
+  "fr": "Feuilles Mortes"
+ },
+ {
+  "cle": "1539",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1540",
+  "type": "nom",
+  "fr": "Huit-feuilles - Lame Fulgurante"
+ },
+ {
+  "cle": "1541",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1542",
+  "type": "nom",
+  "fr": "Danse Toupie"
+ },
+ {
+  "cle": "1543",
+  "type": "nom",
+  "fr": "Lance-rafale"
+ },
+ {
+  "cle": "1544",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1545",
+  "type": "nom",
+  "fr": "Sylpharion"
+ },
+ {
+  "cle": "1546",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1549",
+  "type": "nom",
+  "fr": "Doppel Josette"
+ },
+ {
+  "cle": "1552",
+  "type": "nom",
+  "fr": "Déroute"
+ },
+ {
+  "cle": "1553",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1554",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "1555",
+  "type": "nom",
+  "fr": "Souffle Pétrifiant"
+ },
+ {
+  "cle": "1556",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1557",
+  "type": "nom",
+  "fr": "Grondement Titanesque"
+ },
+ {
+  "cle": "1558",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1559",
+  "type": "nom",
+  "fr": "Guarde Terrestre"
+ },
+ {
+  "cle": "1560",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1561",
+  "type": "nom",
+  "fr": "Mur Terrestre"
+ },
+ {
+  "cle": "1562",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1565",
+  "type": "nom",
+  "fr": "Doppel Richard"
+ },
+ {
+  "cle": "1568",
+  "type": "nom",
+  "fr": "Cycle Radieux"
+ },
+ {
+  "cle": "1569",
+  "type": "nom",
+  "fr": "Lame Destructrice Rémanente"
+ },
+ {
+  "cle": "1572",
+  "type": "nom",
+  "fr": "Doppel Richard"
+ },
+ {
+  "cle": "1575",
+  "type": "nom",
+  "fr": "Cycle Radieux"
+ },
+ {
+  "cle": "1576",
+  "type": "nom",
+  "fr": "Lame Destructrice Rémanente"
+ },
+ {
+  "cle": "1579",
+  "type": "nom",
+  "fr": "Doppel Joshua"
+ },
+ {
+  "cle": "1582",
+  "type": "nom",
+  "fr": "Double Taillade Sup."
+ },
+ {
+  "cle": "1583",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1584",
+  "type": "nom",
+  "fr": "Ombre Mortelle Sup."
+ },
+ {
+  "cle": "1585",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1586",
+  "type": "nom",
+  "fr": "Coupe-gorge Sup."
+ },
+ {
+  "cle": "1587",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1588",
+  "type": "nom",
+  "fr": "Croc Noir Sup."
+ },
+ {
+  "cle": "1589",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1592",
+  "type": "nom",
+  "fr": "Doppel Joshua"
+ },
+ {
+  "cle": "1595",
+  "type": "nom",
+  "fr": "Double Taillade Sup."
+ },
+ {
+  "cle": "1596",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1597",
+  "type": "nom",
+  "fr": "Ombre Mortelle Sup."
+ },
+ {
+  "cle": "1598",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1599",
+  "type": "nom",
+  "fr": "Coupe-gorge Sup."
+ },
+ {
+  "cle": "1600",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1601",
+  "type": "nom",
+  "fr": "Croc Noir Sup."
+ },
+ {
+  "cle": "1602",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1605",
+  "type": "nom",
+  "fr": "Doppel Renne"
+ },
+ {
+  "cle": "1608",
+  "type": "nom",
+  "fr": "Cercle Sanglant"
+ },
+ {
+  "cle": "1609",
+  "type": "nom",
+  "fr": "Rendéroutrépas"
+ },
+ {
+  "cle": "1610",
+  "type": "nom",
+  "fr": "Épines d'Argent"
+ },
+ {
+  "cle": "1611",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1612",
+  "type": "nom",
+  "fr": "Irruption des Abysses"
+ },
+ {
+  "cle": "1613",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1614",
+  "type": "nom",
+  "fr": "Chute Météorique"
+ },
+ {
+  "cle": "1615",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1616",
+  "type": "nom",
+  "fr": "Lancer de Calamité"
+ },
+ {
+  "cle": "1619",
+  "type": "nom",
+  "fr": "Doppel Mueller"
+ },
+ {
+  "cle": "1622",
+  "type": "nom",
+  "fr": "Prise Ragna"
+ },
+ {
+  "cle": "1623",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1624",
+  "type": "nom",
+  "fr": "Rafale Déferlante"
+ },
+ {
+  "cle": "1625",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1626",
+  "type": "nom",
+  "fr": "Danse du Fer"
+ },
+ {
+  "cle": "1627",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1628",
+  "type": "nom",
+  "fr": "Tranchant Mirage"
+ },
+ {
+  "cle": "1629",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1632",
+  "type": "nom",
+  "fr": "Doppel Julia"
+ },
+ {
+  "cle": "1635",
+  "type": "nom",
+  "fr": "Lanzenreiter"
+ },
+ {
+  "cle": "1636",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1637",
+  "type": "nom",
+  "fr": "Mirageberg"
+ },
+ {
+  "cle": "1638",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1639",
+  "type": "nom",
+  "fr": "Commandement"
+ },
+ {
+  "cle": "1640",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1641",
+  "type": "nom",
+  "fr": "Trinität Kleis"
+ },
+ {
+  "cle": "1642",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1645",
+  "type": "nom",
+  "fr": "Arachne Graia"
+ },
+ {
+  "cle": "1648",
+  "type": "nom",
+  "fr": "Toile Laminante"
+ },
+ {
+  "cle": "1649",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1650",
+  "type": "nom",
+  "fr": "Toile Laminante"
+ },
+ {
+  "cle": "1651",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1652",
+  "type": "nom",
+  "fr": "Œil Maléfique"
+ },
+ {
+  "cle": "1653",
+  "type": "nom",
+  "fr": "Œil Maléfique"
+ },
+ {
+  "cle": "1654",
+  "type": "nom",
+  "fr": "Œil Maléfique"
+ },
+ {
+  "cle": "1655",
+  "type": "nom",
+  "fr": "Bombe de Poison"
+ },
+ {
+  "cle": "1658",
+  "type": "nom",
+  "fr": "Arachne Evros"
+ },
+ {
+  "cle": "1661",
+  "type": "nom",
+  "fr": "Toile Laminante"
+ },
+ {
+  "cle": "1662",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1663",
+  "type": "nom",
+  "fr": "Toile Laminante"
+ },
+ {
+  "cle": "1664",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1665",
+  "type": "nom",
+  "fr": "Bombe de Poison"
+ },
+ {
+  "cle": "1666",
+  "type": "nom",
+  "fr": "Lacrymal"
+ },
+ {
+  "cle": "1667",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1668",
+  "type": "nom",
+  "fr": "Matière Noire"
+ },
+ {
+  "cle": "1669",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1672",
+  "type": "nom",
+  "fr": "Arachne Thaleia"
+ },
+ {
+  "cle": "1675",
+  "type": "nom",
+  "fr": "Toile Laminante"
+ },
+ {
+  "cle": "1676",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1677",
+  "type": "nom",
+  "fr": "Toile Laminante"
+ },
+ {
+  "cle": "1678",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1679",
+  "type": "nom",
+  "fr": "Horde Malveillante"
+ },
+ {
+  "cle": "1680",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1681",
+  "type": "nom",
+  "fr": "Horde Malveillante"
+ },
+ {
+  "cle": "1682",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1683",
+  "type": "nom",
+  "fr": "Horde Malveillante"
+ },
+ {
+  "cle": "1684",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1685",
+  "type": "nom",
+  "fr": "Bombe de Poison"
+ },
+ {
+  "cle": "1688",
+  "type": "nom",
+  "fr": "Adepte"
+ },
+ {
+  "cle": "1691",
+  "type": "nom",
+  "fr": "Flash Intense"
+ },
+ {
+  "cle": "1692",
+  "type": "nom",
+  "fr": "Érosion spatiale"
+ },
+ {
+  "cle": "1693",
+  "type": "nom",
+  "fr": "Avide Lueur Cyane"
+ },
+ {
+  "cle": "1694",
+  "type": "nom",
+  "fr": "Absorption de PV"
+ },
+ {
+  "cle": "1695",
+  "type": "nom",
+  "fr": "Avide Lueur Cyane"
+ },
+ {
+  "cle": "1696",
+  "type": "nom",
+  "fr": "Absorption de PE"
+ },
+ {
+  "cle": "1697",
+  "type": "nom",
+  "fr": "Avide Lueur Cyane"
+ },
+ {
+  "cle": "1698",
+  "type": "nom",
+  "fr": "Absorption de PT"
+ },
+ {
+  "cle": "1701",
+  "type": "nom",
+  "fr": "Agnighast"
+ },
+ {
+  "cle": "1704",
+  "type": "nom",
+  "fr": "Terrassement"
+ },
+ {
+  "cle": "1705",
+  "type": "nom",
+  "fr": "Flamme Rancunière"
+ },
+ {
+  "cle": "1706",
+  "type": "nom",
+  "fr": "Horde Malveillante"
+ },
+ {
+  "cle": "1707",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1710",
+  "type": "nom",
+  "fr": "Tapie"
+ },
+ {
+  "cle": "1713",
+  "type": "nom",
+  "fr": "Morsure Venimeuse"
+ },
+ {
+  "cle": "1716",
+  "type": "nom",
+  "fr": "Sehdrehd - Talos"
+ },
+ {
+  "cle": "1719",
+  "type": "nom",
+  "fr": "Lance-flamme"
+ },
+ {
+  "cle": "1722",
+  "type": "nom",
+  "fr": "Arachne Zigma"
+ },
+ {
+  "cle": "1725",
+  "type": "nom",
+  "fr": "Toile Laminante"
+ },
+ {
+  "cle": "1726",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1727",
+  "type": "nom",
+  "fr": "Toile Laminante"
+ },
+ {
+  "cle": "1728",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1729",
+  "type": "nom",
+  "fr": "Œil du malin"
+ },
+ {
+  "cle": "1730",
+  "type": "nom",
+  "fr": "Œil du malin"
+ },
+ {
+  "cle": "1731",
+  "type": "nom",
+  "fr": "Œil du malin"
+ },
+ {
+  "cle": "1732",
+  "type": "nom",
+  "fr": "Bombe de Poison"
+ },
+ {
+  "cle": "1733",
+  "type": "nom",
+  "fr": "Sainte Aspiration - Cybèle"
+ },
+ {
+  "cle": "1734",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1737",
+  "type": "nom",
+  "fr": "Arachne Zigma"
+ },
+ {
+  "cle": "1740",
+  "type": "nom",
+  "fr": "Toile Laminante"
+ },
+ {
+  "cle": "1741",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1742",
+  "type": "nom",
+  "fr": "Toile Laminante"
+ },
+ {
+  "cle": "1743",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1744",
+  "type": "nom",
+  "fr": "Œil du malin"
+ },
+ {
+  "cle": "1745",
+  "type": "nom",
+  "fr": "Œil du malin"
+ },
+ {
+  "cle": "1746",
+  "type": "nom",
+  "fr": "Œil du malin"
+ },
+ {
+  "cle": "1747",
+  "type": "nom",
+  "fr": "Bombe de Poison"
+ },
+ {
+  "cle": "1748",
+  "type": "nom",
+  "fr": "Sainte Aspiration - Cybèle"
+ },
+ {
+  "cle": "1749",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1752",
+  "type": "nom",
+  "fr": "Guerrier d'os"
+ },
+ {
+  "cle": "1755",
+  "type": "nom",
+  "fr": "Tireur d'os"
+ },
+ {
+  "cle": "1758",
+  "type": "nom",
+  "fr": "Grenade"
+ },
+ {
+  "cle": "1759",
+  "type": "nom",
+  "fr": "Choc Arachnéen"
+ },
+ {
+  "cle": "1760",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1761",
+  "type": "nom",
+  "fr": "Tir Dispersé"
+ },
+ {
+  "cle": "1762",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1765",
+  "type": "nom",
+  "fr": "Archéos"
+ },
+ {
+  "cle": "1768",
+  "type": "nom",
+  "fr": "Lacrym"
+ },
+ {
+  "cle": "1769",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1770",
+  "type": "nom",
+  "fr": "Marteau Rocheux"
+ },
+ {
+  "cle": "1771",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1772",
+  "type": "nom",
+  "fr": "Jet Acqueux"
+ },
+ {
+  "cle": "1773",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1774",
+  "type": "nom",
+  "fr": "Boule de Feu"
+ },
+ {
+  "cle": "1775",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1776",
+  "type": "nom",
+  "fr": "Brise Frappante"
+ },
+ {
+  "cle": "1777",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1780",
+  "type": "nom",
+  "fr": "Owen le Déchu"
+ },
+ {
+  "cle": "1783",
+  "type": "nom",
+  "fr": "Absorption de PV"
+ },
+ {
+  "cle": "1784",
+  "type": "nom",
+  "fr": "Absorption de PE"
+ },
+ {
+  "cle": "1785",
+  "type": "nom",
+  "fr": "Absorption de PT"
+ },
+ {
+  "cle": "1786",
+  "type": "nom",
+  "fr": "Fluide"
+ },
+ {
+  "cle": "1787",
+  "type": "nom",
+  "fr": "遠距離攻撃+毒"
+ },
+ {
+  "cle": "1788",
+  "type": "nom",
+  "fr": "Fluide Omniprésent"
+ },
+ {
+  "cle": "1789",
+  "type": "nom",
+  "fr": "遠距離攻撃+毒"
+ },
+ {
+  "cle": "1790",
+  "type": "nom",
+  "fr": "Auto-destruction"
+ },
+ {
+  "cle": "1793",
+  "type": "nom",
+  "fr": "Elmer le Déchu"
+ },
+ {
+  "cle": "1796",
+  "type": "nom",
+  "fr": "Absorption de PV"
+ },
+ {
+  "cle": "1797",
+  "type": "nom",
+  "fr": "Absorption de PE"
+ },
+ {
+  "cle": "1798",
+  "type": "nom",
+  "fr": "Absorption de PT"
+ },
+ {
+  "cle": "1799",
+  "type": "nom",
+  "fr": "Fluide"
+ },
+ {
+  "cle": "1800",
+  "type": "nom",
+  "fr": "遠距離攻撃+毒"
+ },
+ {
+  "cle": "1801",
+  "type": "nom",
+  "fr": "Fluide Omniprésent"
+ },
+ {
+  "cle": "1802",
+  "type": "nom",
+  "fr": "遠距離攻撃+毒"
+ },
+ {
+  "cle": "1803",
+  "type": "nom",
+  "fr": "Auto-destruction"
+ },
+ {
+  "cle": "1806",
+  "type": "nom",
+  "fr": "Âme en peine"
+ },
+ {
+  "cle": "1809",
+  "type": "nom",
+  "fr": "Absorption de PV"
+ },
+ {
+  "cle": "1810",
+  "type": "nom",
+  "fr": "Absorption de PE"
+ },
+ {
+  "cle": "1811",
+  "type": "nom",
+  "fr": "Absorption de PT"
+ },
+ {
+  "cle": "1812",
+  "type": "nom",
+  "fr": "Fluide"
+ },
+ {
+  "cle": "1813",
+  "type": "nom",
+  "fr": "遠距離攻撃+毒"
+ },
+ {
+  "cle": "1814",
+  "type": "nom",
+  "fr": "Fluide Omniprésent"
+ },
+ {
+  "cle": "1815",
+  "type": "nom",
+  "fr": "遠距離攻撃+毒"
+ },
+ {
+  "cle": "1816",
+  "type": "nom",
+  "fr": "Auto-destruction"
+ },
+ {
+  "cle": "1819",
+  "type": "nom",
+  "fr": "Banshee"
+ },
+ {
+  "cle": "1822",
+  "type": "nom",
+  "fr": "Absorption de FOR"
+ },
+ {
+  "cle": "1823",
+  "type": "nom",
+  "fr": "Absorption de DÉF"
+ },
+ {
+  "cle": "1824",
+  "type": "nom",
+  "fr": "Absorption de RÉS"
+ },
+ {
+  "cle": "1827",
+  "type": "nom",
+  "fr": "Puck-au-marteau"
+ },
+ {
+  "cle": "1830",
+  "type": "nom",
+  "fr": "Marteau Magique"
+ },
+ {
+  "cle": "1831",
+  "type": "nom",
+  "fr": "Frappe Forcenée"
+ },
+ {
+  "cle": "1834",
+  "type": "nom",
+  "fr": "Puck-au-marteau"
+ },
+ {
+  "cle": "1837",
+  "type": "nom",
+  "fr": "Marteau Magique"
+ },
+ {
+  "cle": "1838",
+  "type": "nom",
+  "fr": "Frappe Forcenée"
+ },
+ {
+  "cle": "1839",
+  "type": "nom",
+  "fr": "Marteau Magique"
+ },
+ {
+  "cle": "1842",
+  "type": "nom",
+  "fr": "Incube de l'avarice"
+ },
+ {
+  "cle": "1845",
+  "type": "nom",
+  "fr": "Absorption de PV"
+ },
+ {
+  "cle": "1846",
+  "type": "nom",
+  "fr": "Absorption de PE"
+ },
+ {
+  "cle": "1847",
+  "type": "nom",
+  "fr": "Absorption de PT"
+ },
+ {
+  "cle": "1848",
+  "type": "nom",
+  "fr": "Respiration pestilentielle"
+ },
+ {
+  "cle": "1849",
+  "type": "nom",
+  "fr": "Cri Funeste"
+ },
+ {
+  "cle": "1850",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1853",
+  "type": "nom",
+  "fr": "Incube du désir"
+ },
+ {
+  "cle": "1856",
+  "type": "nom",
+  "fr": "Absorption de PV"
+ },
+ {
+  "cle": "1857",
+  "type": "nom",
+  "fr": "Absorption de PE"
+ },
+ {
+  "cle": "1858",
+  "type": "nom",
+  "fr": "Absorption de PT"
+ },
+ {
+  "cle": "1859",
+  "type": "nom",
+  "fr": "Respiration pestilentielle"
+ },
+ {
+  "cle": "1860",
+  "type": "nom",
+  "fr": "Cri Funeste"
+ },
+ {
+  "cle": "1861",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1864",
+  "type": "nom",
+  "fr": "Archidémon"
+ },
+ {
+  "cle": "1867",
+  "type": "nom",
+  "fr": "Griffes Démoniaques"
+ },
+ {
+  "cle": "1868",
+  "type": "nom",
+  "fr": "Griffes Démoniaques"
+ },
+ {
+  "cle": "1869",
+  "type": "nom",
+  "fr": "Griffes Démoniaques"
+ },
+ {
+  "cle": "1870",
+  "type": "nom",
+  "fr": "Super Soin"
+ },
+ {
+  "cle": "1871",
+  "type": "nom",
+  "fr": "Cocytus"
+ },
+ {
+  "cle": "1872",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1875",
+  "type": "nom",
+  "fr": "Chevalier de fer"
+ },
+ {
+  "cle": "1878",
+  "type": "nom",
+  "fr": "Kaiser de fer"
+ },
+ {
+  "cle": "1881",
+  "type": "nom",
+  "fr": "Charge Déchaînée"
+ },
+ {
+  "cle": "1884",
+  "type": "nom",
+  "fr": "Lame noire"
+ },
+ {
+  "cle": "1887",
+  "type": "nom",
+  "fr": "Coupe-gorge"
+ },
+ {
+  "cle": "1890",
+  "type": "nom",
+  "fr": "Force serre-leste"
+ },
+ {
+  "cle": "1893",
+  "type": "nom",
+  "fr": "Houspillade"
+ },
+ {
+  "cle": "1894",
+  "type": "nom",
+  "fr": "Houspillade"
+ },
+ {
+  "cle": "1895",
+  "type": "nom",
+  "fr": "Avide Lueur Cyane"
+ },
+ {
+  "cle": "1896",
+  "type": "nom",
+  "fr": "Absorption de PT fullscreen"
+ },
+ {
+  "cle": "1899",
+  "type": "nom",
+  "fr": "Rat-garou"
+ },
+ {
+  "cle": "1902",
+  "type": "nom",
+  "fr": "Assaut"
+ },
+ {
+  "cle": "1903",
+  "type": "nom",
+  "fr": "Piège"
+ },
+ {
+  "cle": "1904",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "1907",
+  "type": "nom",
+  "fr": "Grisemer"
+ },
+ {
+  "cle": "1910",
+  "type": "nom",
+  "fr": "Tir de Salive"
+ },
+ {
+  "cle": "1911",
+  "type": "nom",
+  "fr": "Tir de Salive"
+ },
+ {
+  "cle": "1914",
+  "type": "nom",
+  "fr": "Poltergeist"
+ },
+ {
+  "cle": "1917",
+  "type": "nom",
+  "fr": "Tireur de sang"
+ },
+ {
+  "cle": "1920",
+  "type": "nom",
+  "fr": "Lucifugus"
+ },
+ {
+  "cle": "1923",
+  "type": "nom",
+  "fr": "Lacrym"
+ },
+ {
+  "cle": "1924",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1925",
+  "type": "nom",
+  "fr": "Irruption des Abysses"
+ },
+ {
+  "cle": "1926",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1927",
+  "type": "nom",
+  "fr": "Géhenne Blanche"
+ },
+ {
+  "cle": "1928",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1929",
+  "type": "nom",
+  "fr": "Bouclier de Gaïa"
+ },
+ {
+  "cle": "1930",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1931",
+  "type": "nom",
+  "fr": "Boule de Feu"
+ },
+ {
+  "cle": "1932",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1933",
+  "type": "nom",
+  "fr": "Brise Frappante"
+ },
+ {
+  "cle": "1934",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1935",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "1938",
+  "type": "nom",
+  "fr": "Sleipnir"
+ },
+ {
+  "cle": "1941",
+  "type": "nom",
+  "fr": "Courroux"
+ },
+ {
+  "cle": "1942",
+  "type": "nom",
+  "fr": "Flamme Infernale"
+ },
+ {
+  "cle": "1943",
+  "type": "nom",
+  "fr": "Feu Megiddo"
+ },
+ {
+  "cle": "1944",
+  "type": "nom",
+  "fr": "Crochet Céleste"
+ },
+ {
+  "cle": "1947",
+  "type": "nom",
+  "fr": "Puck-au-bouclier"
+ },
+ {
+  "cle": "1950",
+  "type": "nom",
+  "fr": "Danse-Lame"
+ },
+ {
+  "cle": "1951",
+  "type": "nom",
+  "fr": "Tranche-Mort"
+ },
+ {
+  "cle": "1954",
+  "type": "nom",
+  "fr": "Puck-au-bazooka"
+ },
+ {
+  "cle": "1957",
+  "type": "nom",
+  "fr": "Bazooka enfûmé"
+ },
+ {
+  "cle": "1958",
+  "type": "nom",
+  "fr": "Trois Pieds de Calibre"
+ },
+ {
+  "cle": "1959",
+  "type": "nom",
+  "fr": "Trois Pieds de Calibre"
+ },
+ {
+  "cle": "1962",
+  "type": "nom",
+  "fr": "Aka Manah"
+ },
+ {
+  "cle": "1965",
+  "type": "nom",
+  "fr": "Griffes Démoniaques"
+ },
+ {
+  "cle": "1966",
+  "type": "nom",
+  "fr": "Griffes Démoniaques"
+ },
+ {
+  "cle": "1967",
+  "type": "nom",
+  "fr": "Griffes Démoniaques"
+ },
+ {
+  "cle": "1968",
+  "type": "nom",
+  "fr": "Super Soin"
+ },
+ {
+  "cle": "1969",
+  "type": "nom",
+  "fr": "Cocytus"
+ },
+ {
+  "cle": "1970",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1971",
+  "type": "nom",
+  "fr": "Boule de Feu"
+ },
+ {
+  "cle": "1972",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "1975",
+  "type": "nom",
+  "fr": "Chevalier coloré"
+ },
+ {
+  "cle": "1978",
+  "type": "nom",
+  "fr": "Dullahan"
+ },
+ {
+  "cle": "1981",
+  "type": "nom",
+  "fr": "Lance Démoniaque"
+ },
+ {
+  "cle": "1982",
+  "type": "nom",
+  "fr": "Œil Démoniaque"
+ },
+ {
+  "cle": "1985",
+  "type": "nom",
+  "fr": "Rat combattant"
+ },
+ {
+  "cle": "1988",
+  "type": "nom",
+  "fr": "Assaut"
+ },
+ {
+  "cle": "1989",
+  "type": "nom",
+  "fr": "Piège"
+ },
+ {
+  "cle": "1990",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "1993",
+  "type": "nom",
+  "fr": "Pacifiste"
+ },
+ {
+  "cle": "1996",
+  "type": "nom",
+  "fr": "Bupreste squelettique"
+ },
+ {
+  "cle": "1999",
+  "type": "nom",
+  "fr": "Secrétion Curative"
+ },
+ {
+  "cle": "2002",
+  "type": "nom",
+  "fr": "Crâne décapité"
+ },
+ {
+  "cle": "2005",
+  "type": "nom",
+  "fr": "Auto-destruction"
+ },
+ {
+  "cle": "2008",
+  "type": "nom",
+  "fr": "Loup-garou"
+ },
+ {
+  "cle": "2011",
+  "type": "nom",
+  "fr": "Charge"
+ },
+ {
+  "cle": "2014",
+  "type": "nom",
+  "fr": "Chauve-souris-garou"
+ },
+ {
+  "cle": "2017",
+  "type": "nom",
+  "fr": "Onde Étrange"
+ },
+ {
+  "cle": "2018",
+  "type": "nom",
+  "fr": "Onde Étrange"
+ },
+ {
+  "cle": "2019",
+  "type": "nom",
+  "fr": "Absorption de PV"
+ },
+ {
+  "cle": "2020",
+  "type": "nom",
+  "fr": "Absorption de PE"
+ },
+ {
+  "cle": "2023",
+  "type": "nom",
+  "fr": "Bête Niutou"
+ },
+ {
+  "cle": "2026",
+  "type": "nom",
+  "fr": "Charge Déchaînée"
+ },
+ {
+  "cle": "2027",
+  "type": "nom",
+  "fr": "Riposte Furieuse"
+ },
+ {
+  "cle": "2030",
+  "type": "nom",
+  "fr": "Bête Niutou"
+ },
+ {
+  "cle": "2033",
+  "type": "nom",
+  "fr": "Charge Déchaînée"
+ },
+ {
+  "cle": "2034",
+  "type": "nom",
+  "fr": "Riposte Furieuse"
+ },
+ {
+  "cle": "2037",
+  "type": "nom",
+  "fr": "Bête Mamian"
+ },
+ {
+  "cle": "2040",
+  "type": "nom",
+  "fr": "Charge Déchaînée"
+ },
+ {
+  "cle": "2041",
+  "type": "nom",
+  "fr": "Riposte Furieuse"
+ },
+ {
+  "cle": "2044",
+  "type": "nom",
+  "fr": "Bête Mamian"
+ },
+ {
+  "cle": "2047",
+  "type": "nom",
+  "fr": "Charge Déchaînée"
+ },
+ {
+  "cle": "2048",
+  "type": "nom",
+  "fr": "Riposte Furieuse"
+ },
+ {
+  "cle": "2051",
+  "type": "nom",
+  "fr": "Arpenteur d'os"
+ },
+ {
+  "cle": "2054",
+  "type": "nom",
+  "fr": "Tir d'os"
+ },
+ {
+  "cle": "2055",
+  "type": "nom",
+  "fr": "Tir d'os"
+ },
+ {
+  "cle": "2056",
+  "type": "nom",
+  "fr": "Tir d'os"
+ },
+ {
+  "cle": "2059",
+  "type": "nom",
+  "fr": "Follet"
+ },
+ {
+  "cle": "2062",
+  "type": "nom",
+  "fr": "Destroplasme"
+ },
+ {
+  "cle": "2063",
+  "type": "nom",
+  "fr": "封魔"
+ },
+ {
+  "cle": "2064",
+  "type": "nom",
+  "fr": "Destroplasme"
+ },
+ {
+  "cle": "2065",
+  "type": "nom",
+  "fr": "暗闇"
+ },
+ {
+  "cle": "2066",
+  "type": "nom",
+  "fr": "Destroplasme"
+ },
+ {
+  "cle": "2067",
+  "type": "nom",
+  "fr": "封技"
+ },
+ {
+  "cle": "2070",
+  "type": "nom",
+  "fr": "Apache G"
+ },
+ {
+  "cle": "2073",
+  "type": "nom",
+  "fr": "Déferlement de Balles"
+ },
+ {
+  "cle": "2074",
+  "type": "nom",
+  "fr": "Grenade à Fragmentation"
+ },
+ {
+  "cle": "2075",
+  "type": "nom",
+  "fr": "Fusion Puissance Max"
+ },
+ {
+  "cle": "2076",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "2077",
+  "type": "nom",
+  "fr": "Canon Cassant"
+ },
+ {
+  "cle": "2078",
+  "type": "nom",
+  "fr": "Mode Critique"
+ },
+ {
+  "cle": "2081",
+  "type": "nom",
+  "fr": "Chérubin des roses"
+ },
+ {
+  "cle": "2084",
+  "type": "nom",
+  "fr": "Larmes Célestes"
+ },
+ {
+  "cle": "2085",
+  "type": "nom",
+  "fr": "Décharge Céleste"
+ },
+ {
+  "cle": "2086",
+  "type": "nom",
+  "fr": "Pseudo-Ragna"
+ },
+ {
+  "cle": "2089",
+  "type": "nom",
+  "fr": "Démon du velours"
+ },
+ {
+  "cle": "2092",
+  "type": "nom",
+  "fr": "Assaut"
+ },
+ {
+  "cle": "2093",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "2094",
+  "type": "nom",
+  "fr": "Ivoire de Méduse"
+ },
+ {
+  "cle": "2097",
+  "type": "nom",
+  "fr": "Termalaube"
+ },
+ {
+  "cle": "2100",
+  "type": "nom",
+  "fr": "Révélation Divine"
+ },
+ {
+  "cle": "2101",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2102",
+  "type": "nom",
+  "fr": "Révélation Divine"
+ },
+ {
+  "cle": "2103",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2104",
+  "type": "nom",
+  "fr": "Mystification Divine"
+ },
+ {
+  "cle": "2105",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2106",
+  "type": "nom",
+  "fr": "Mystification Divine"
+ },
+ {
+  "cle": "2107",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2108",
+  "type": "nom",
+  "fr": "Mystification Divine"
+ },
+ {
+  "cle": "2109",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2110",
+  "type": "nom",
+  "fr": "Mystification Divine"
+ },
+ {
+  "cle": "2111",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2112",
+  "type": "nom",
+  "fr": "Mystification Divine"
+ },
+ {
+  "cle": "2113",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2116",
+  "type": "nom",
+  "fr": "Limaçon de flamme"
+ },
+ {
+  "cle": "2119",
+  "type": "nom",
+  "fr": "Cyclone de Napalm"
+ },
+ {
+  "cle": "2120",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2121",
+  "type": "nom",
+  "fr": "Boule de feu"
+ },
+ {
+  "cle": "2122",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2125",
+  "type": "nom",
+  "fr": "Oyeur rayé"
+ },
+ {
+  "cle": "2128",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "2129",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "2130",
+  "type": "nom",
+  "fr": "Étoile de Mars"
+ },
+ {
+  "cle": "2131",
+  "type": "nom",
+  "fr": "Auto-destruction"
+ },
+ {
+  "cle": "2134",
+  "type": "nom",
+  "fr": "Ange à l'arc"
+ },
+ {
+  "cle": "2137",
+  "type": "nom",
+  "fr": "Flèche Chronos"
+ },
+ {
+  "cle": "2138",
+  "type": "nom",
+  "fr": "Flèche Gorgone"
+ },
+ {
+  "cle": "2139",
+  "type": "nom",
+  "fr": "Flèche Gorgone"
+ },
+ {
+  "cle": "2140",
+  "type": "nom",
+  "fr": "Flèche Gorgone"
+ },
+ {
+  "cle": "2141",
+  "type": "nom",
+  "fr": "Flèche Artémis"
+ },
+ {
+  "cle": "2142",
+  "type": "nom",
+  "fr": "Galvanisation du Ciel"
+ },
+ {
+  "cle": "2143",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2146",
+  "type": "nom",
+  "fr": "Ange au bâton"
+ },
+ {
+  "cle": "2149",
+  "type": "nom",
+  "fr": "Claque Céleste"
+ },
+ {
+  "cle": "2150",
+  "type": "nom",
+  "fr": "Barrière Génésiaque"
+ },
+ {
+  "cle": "2151",
+  "type": "nom",
+  "fr": "Cri Funeste"
+ },
+ {
+  "cle": "2152",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2153",
+  "type": "nom",
+  "fr": "Géhenne Blanche"
+ },
+ {
+  "cle": "2154",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2155",
+  "type": "nom",
+  "fr": "Irruption des Abysses"
+ },
+ {
+  "cle": "2156",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2157",
+  "type": "nom",
+  "fr": "Disques Animiques"
+ },
+ {
+  "cle": "2158",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2159",
+  "type": "nom",
+  "fr": "Galvanisation du Ciel"
+ },
+ {
+  "cle": "2160",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2163",
+  "type": "nom",
+  "fr": "Fée des steppes"
+ },
+ {
+  "cle": "2166",
+  "type": "nom",
+  "fr": "Poudre Onirique"
+ },
+ {
+  "cle": "2167",
+  "type": "nom",
+  "fr": "Aeria"
+ },
+ {
+  "cle": "2168",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2171",
+  "type": "nom",
+  "fr": "Biwmaresbryn"
+ },
+ {
+  "cle": "2174",
+  "type": "nom",
+  "fr": "Griffes empoisonnées"
+ },
+ {
+  "cle": "2177",
+  "type": "nom",
+  "fr": "Rosée-pensante"
+ },
+ {
+  "cle": "2180",
+  "type": "nom",
+  "fr": "Éveil - Poing de Pierre"
+ },
+ {
+  "cle": "2181",
+  "type": "nom",
+  "fr": "Éveil - Célérité Divine"
+ },
+ {
+  "cle": "2182",
+  "type": "nom",
+  "fr": "Éveil - Perfection"
+ },
+ {
+  "cle": "2183",
+  "type": "nom",
+  "fr": "Échec de l'éveil"
+ },
+ {
+  "cle": "2186",
+  "type": "nom",
+  "fr": "Derme de Rostrum"
+ },
+ {
+  "cle": "2189",
+  "type": "nom",
+  "fr": "Secrétion Curative"
+ },
+ {
+  "cle": "2192",
+  "type": "nom",
+  "fr": "Vogel miroir"
+ },
+ {
+  "cle": "2195",
+  "type": "nom",
+  "fr": "Alerte"
+ },
+ {
+  "cle": "2196",
+  "type": "nom",
+  "fr": "Onde Plasmique"
+ },
+ {
+  "cle": "2197",
+  "type": "nom",
+  "fr": "Laser Fractale"
+ },
+ {
+  "cle": "2198",
+  "type": "nom",
+  "fr": "Laser Fractale"
+ },
+ {
+  "cle": "2199",
+  "type": "nom",
+  "fr": "Laser Fractale"
+ },
+ {
+  "cle": "2202",
+  "type": "nom",
+  "fr": "Vanguard miroir"
+ },
+ {
+  "cle": "2205",
+  "type": "nom",
+  "fr": "Déferlement de Balles"
+ },
+ {
+  "cle": "2206",
+  "type": "nom",
+  "fr": "Grenade à Fragmentation"
+ },
+ {
+  "cle": "2207",
+  "type": "nom",
+  "fr": "Auto-destruction"
+ },
+ {
+  "cle": "2210",
+  "type": "nom",
+  "fr": "Apache G"
+ },
+ {
+  "cle": "2213",
+  "type": "nom",
+  "fr": "Déferlement de Balles"
+ },
+ {
+  "cle": "2214",
+  "type": "nom",
+  "fr": "Grenade à Fragmentation"
+ },
+ {
+  "cle": "2215",
+  "type": "nom",
+  "fr": "Fusion Puissance Max"
+ },
+ {
+  "cle": "2216",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "2217",
+  "type": "nom",
+  "fr": "Canon Cassant"
+ },
+ {
+  "cle": "2218",
+  "type": "nom",
+  "fr": "Mode Critique"
+ },
+ {
+  "cle": "2221",
+  "type": "nom",
+  "fr": "Ries ?"
+ },
+ {
+  "cle": "2224",
+  "type": "nom",
+  "fr": "Curvescrime"
+ },
+ {
+  "cle": "2225",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2226",
+  "type": "nom",
+  "fr": "Mille-passereaux"
+ },
+ {
+  "cle": "2227",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2228",
+  "type": "nom",
+  "fr": "Bénédiction divine"
+ },
+ {
+  "cle": "2229",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2232",
+  "type": "nom",
+  "fr": "Kevin ?"
+ },
+ {
+  "cle": "2235",
+  "type": "nom",
+  "fr": "Souffle Sacré"
+ },
+ {
+  "cle": "2236",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2237",
+  "type": "nom",
+  "fr": "Carreau Sacrificiel"
+ },
+ {
+  "cle": "2238",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2239",
+  "type": "nom",
+  "fr": "Carreau Gorgone"
+ },
+ {
+  "cle": "2240",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2241",
+  "type": "nom",
+  "fr": "Graalsphère"
+ },
+ {
+  "cle": "2242",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2243",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "2246",
+  "type": "nom",
+  "fr": "Abysse monumental"
+ },
+ {
+  "cle": "2249",
+  "type": "nom",
+  "fr": "Tremblement des profondeurs"
+ },
+ {
+  "cle": "2250",
+  "type": "nom",
+  "fr": "Morsure Venimeuse"
+ },
+ {
+  "cle": "2251",
+  "type": "nom",
+  "fr": "Foudre"
+ },
+ {
+  "cle": "2254",
+  "type": "nom",
+  "fr": "Clown de guerre"
+ },
+ {
+  "cle": "2257",
+  "type": "nom",
+  "fr": "Piège"
+ },
+ {
+  "cle": "2258",
+  "type": "nom",
+  "fr": "Marionette"
+ },
+ {
+  "cle": "2259",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2260",
+  "type": "nom",
+  "fr": "Marionette"
+ },
+ {
+  "cle": "2261",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2262",
+  "type": "nom",
+  "fr": "Marionette"
+ },
+ {
+  "cle": "2263",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2264",
+  "type": "nom",
+  "fr": "Marionette"
+ },
+ {
+  "cle": "2265",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2268",
+  "type": "nom",
+  "fr": "Leor de guerre"
+ },
+ {
+  "cle": "2271",
+  "type": "nom",
+  "fr": "Salve de Missiles"
+ },
+ {
+  "cle": "2272",
+  "type": "nom",
+  "fr": "Toile Laser"
+ },
+ {
+  "cle": "2273",
+  "type": "nom",
+  "fr": "Cyclone Laser"
+ },
+ {
+  "cle": "2274",
+  "type": "nom",
+  "fr": "Salve de Missiles"
+ },
+ {
+  "cle": "2275",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "2278",
+  "type": "nom",
+  "fr": "Djinn de l'épouvante"
+ },
+ {
+  "cle": "2281",
+  "type": "nom",
+  "fr": "Terrassement"
+ },
+ {
+  "cle": "2282",
+  "type": "nom",
+  "fr": "Souffle Empoisonné"
+ },
+ {
+  "cle": "2283",
+  "type": "nom",
+  "fr": "Horde Malveillante"
+ },
+ {
+  "cle": "2284",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2287",
+  "type": "nom",
+  "fr": "Veuve avare"
+ },
+ {
+  "cle": "2290",
+  "type": "nom",
+  "fr": "Crochet d'Arachnoniros"
+ },
+ {
+  "cle": "2291",
+  "type": "nom",
+  "fr": "Crochet d'Arachnoniros"
+ },
+ {
+  "cle": "2292",
+  "type": "nom",
+  "fr": "Crochet d'Arachnoniros"
+ },
+ {
+  "cle": "2293",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "2296",
+  "type": "nom",
+  "fr": "Cauchemar"
+ },
+ {
+  "cle": "2299",
+  "type": "nom",
+  "fr": "Paralycorne"
+ },
+ {
+  "cle": "2300",
+  "type": "nom",
+  "fr": "Feu Follet"
+ },
+ {
+  "cle": "2302",
+  "type": "nom",
+  "fr": "Souffle Froid"
+ },
+ {
+  "cle": "2308",
+  "type": "nom",
+  "fr": "Charge"
+ },
+ {
+  "cle": "2312",
+  "type": "nom",
+  "fr": "Anelace ?"
+ },
+ {
+  "cle": "2315",
+  "type": "nom",
+  "fr": "Feuilles Mortes"
+ },
+ {
+  "cle": "2316",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2317",
+  "type": "nom",
+  "fr": "Huit-feuilles - Lame Fulgurante"
+ },
+ {
+  "cle": "2318",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2319",
+  "type": "nom",
+  "fr": "Danse Toupie"
+ },
+ {
+  "cle": "2320",
+  "type": "nom",
+  "fr": "Lance-rafale"
+ },
+ {
+  "cle": "2321",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2324",
+  "type": "nom",
+  "fr": "Scherazard ?"
+ },
+ {
+  "cle": "2327",
+  "type": "nom",
+  "fr": "Fouet Constricteur"
+ },
+ {
+  "cle": "2328",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2329",
+  "type": "nom",
+  "fr": "Baiser du Ciel"
+ },
+ {
+  "cle": "2330",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2331",
+  "type": "nom",
+  "fr": "Aeria"
+ },
+ {
+  "cle": "2332",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2333",
+  "type": "nom",
+  "fr": "Désorbement"
+ },
+ {
+  "cle": "2334",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2335",
+  "type": "nom",
+  "fr": "Défaut"
+ },
+ {
+  "cle": "2336",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2339",
+  "type": "nom",
+  "fr": "Agate ?"
+ },
+ {
+  "cle": "2342",
+  "type": "nom",
+  "fr": "Impact Enflammé"
+ },
+ {
+  "cle": "2343",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2344",
+  "type": "nom",
+  "fr": "Tranchant Draguna"
+ },
+ {
+  "cle": "2345",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2346",
+  "type": "nom",
+  "fr": "Spirale TranchanteⅡ"
+ },
+ {
+  "cle": "2347",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2348",
+  "type": "nom",
+  "fr": "Impact FinalⅡ"
+ },
+ {
+  "cle": "2349",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2350",
+  "type": "nom",
+  "fr": "Plongeon Draconique"
+ },
+ {
+  "cle": "2351",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2354",
+  "type": "nom",
+  "fr": "Moume juteux"
+ },
+ {
+  "cle": "2357",
+  "type": "nom",
+  "fr": "Tir de Mouchou"
+ },
+ {
+  "cle": "2358",
+  "type": "nom",
+  "fr": "Tir de Mouchou"
+ },
+ {
+  "cle": "2361",
+  "type": "nom",
+  "fr": "Chevalier de l'effroi"
+ },
+ {
+  "cle": "2364",
+  "type": "nom",
+  "fr": "Ténèbres Inextricables"
+ },
+ {
+  "cle": "2365",
+  "type": "nom",
+  "fr": "Ténèbres Inextricables"
+ },
+ {
+  "cle": "2366",
+  "type": "nom",
+  "fr": "Absorption de PV"
+ },
+ {
+  "cle": "2367",
+  "type": "nom",
+  "fr": "Absorption de PE"
+ },
+ {
+  "cle": "2370",
+  "type": "nom",
+  "fr": "Chevalier noir"
+ },
+ {
+  "cle": "2373",
+  "type": "nom",
+  "fr": "Serviteur émeraude"
+ },
+ {
+  "cle": "2376",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "2377",
+  "type": "nom",
+  "fr": "Laser Aérien"
+ },
+ {
+  "cle": "2378",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2379",
+  "type": "nom",
+  "fr": "Déflagration Ragna"
+ },
+ {
+  "cle": "2380",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2381",
+  "type": "nom",
+  "fr": "Cocytus"
+ },
+ {
+  "cle": "2382",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2385",
+  "type": "nom",
+  "fr": "Vogel ébène"
+ },
+ {
+  "cle": "2388",
+  "type": "nom",
+  "fr": "Alerte"
+ },
+ {
+  "cle": "2389",
+  "type": "nom",
+  "fr": "Onde Plasmique"
+ },
+ {
+  "cle": "2390",
+  "type": "nom",
+  "fr": "Laser Fractale"
+ },
+ {
+  "cle": "2391",
+  "type": "nom",
+  "fr": "Laser Fractale"
+ },
+ {
+  "cle": "2392",
+  "type": "nom",
+  "fr": "Laser Fractale"
+ },
+ {
+  "cle": "2395",
+  "type": "nom",
+  "fr": "Vanguard ébène"
+ },
+ {
+  "cle": "2398",
+  "type": "nom",
+  "fr": "Déferlement de Balles"
+ },
+ {
+  "cle": "2399",
+  "type": "nom",
+  "fr": "Grenade à Fragmentation"
+ },
+ {
+  "cle": "2400",
+  "type": "nom",
+  "fr": "Auto-destruction"
+ },
+ {
+  "cle": "2403",
+  "type": "nom",
+  "fr": "Fantôme grogneur"
+ },
+ {
+  "cle": "2406",
+  "type": "nom",
+  "fr": "Absorption de FOR"
+ },
+ {
+  "cle": "2407",
+  "type": "nom",
+  "fr": "Absorption de DÉF"
+ },
+ {
+  "cle": "2408",
+  "type": "nom",
+  "fr": "Absorption de RÉS"
+ },
+ {
+  "cle": "2411",
+  "type": "nom",
+  "fr": "Grand grimoire"
+ },
+ {
+  "cle": "2414",
+  "type": "nom",
+  "fr": "Lux Fieri"
+ },
+ {
+  "cle": "2415",
+  "type": "nom",
+  "fr": "Umbra Fieri"
+ },
+ {
+  "cle": "2418",
+  "type": "nom",
+  "fr": "Mini-Ragnard"
+ },
+ {
+  "cle": "2421",
+  "type": "nom",
+  "fr": "Souffle Froid"
+ },
+ {
+  "cle": "2422",
+  "type": "nom",
+  "fr": "Souffle Enflammé"
+ },
+ {
+  "cle": "2423",
+  "type": "nom",
+  "fr": "Souffle Orageux"
+ },
+ {
+  "cle": "2424",
+  "type": "nom",
+  "fr": "Plaquage"
+ },
+ {
+  "cle": "2427",
+  "type": "nom",
+  "fr": "Portier de la lune"
+ },
+ {
+  "cle": "2430",
+  "type": "nom",
+  "fr": "Soin Lunaire"
+ },
+ {
+  "cle": "2431",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2432",
+  "type": "nom",
+  "fr": "Soin Lunaire"
+ },
+ {
+  "cle": "2433",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2434",
+  "type": "nom",
+  "fr": "Soin Lunaire"
+ },
+ {
+  "cle": "2435",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2436",
+  "type": "nom",
+  "fr": "Folie Lunaire"
+ },
+ {
+  "cle": "2437",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2438",
+  "type": "nom",
+  "fr": "Folie Lunaire"
+ },
+ {
+  "cle": "2439",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2440",
+  "type": "nom",
+  "fr": "Folie Lunaire"
+ },
+ {
+  "cle": "2441",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2442",
+  "type": "nom",
+  "fr": "Folie Lunaire"
+ },
+ {
+  "cle": "2443",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2446",
+  "type": "nom",
+  "fr": "Portier des étoiles"
+ },
+ {
+  "cle": "2449",
+  "type": "nom",
+  "fr": "Étoile Filante"
+ },
+ {
+  "cle": "2450",
+  "type": "nom",
+  "fr": "Étoile Filante"
+ },
+ {
+  "cle": "2451",
+  "type": "nom",
+  "fr": "Soin Lunaire"
+ },
+ {
+  "cle": "2452",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2455",
+  "type": "nom",
+  "fr": "Portier des étoiles"
+ },
+ {
+  "cle": "2458",
+  "type": "nom",
+  "fr": "Étoile Filante"
+ },
+ {
+  "cle": "2459",
+  "type": "nom",
+  "fr": "Étoile Filante"
+ },
+ {
+  "cle": "2460",
+  "type": "nom",
+  "fr": "Soin Lunaire"
+ },
+ {
+  "cle": "2461",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2462",
+  "type": "nom",
+  "fr": "Ébranle-Monde"
+ },
+ {
+  "cle": "2463",
+  "type": "nom",
+  "fr": "Ébranle-Monde"
+ },
+ {
+  "cle": "2464",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "2467",
+  "type": "nom",
+  "fr": "Portier des étoiles"
+ },
+ {
+  "cle": "2470",
+  "type": "nom",
+  "fr": "Folie Lunaire"
+ },
+ {
+  "cle": "2471",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2472",
+  "type": "nom",
+  "fr": "Folie Lunaire"
+ },
+ {
+  "cle": "2473",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2474",
+  "type": "nom",
+  "fr": "Folie Lunaire"
+ },
+ {
+  "cle": "2475",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2476",
+  "type": "nom",
+  "fr": "Soin Lunaire"
+ },
+ {
+  "cle": "2477",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2480",
+  "type": "nom",
+  "fr": "Leor or"
+ },
+ {
+  "cle": "2483",
+  "type": "nom",
+  "fr": "Salve de Missiles"
+ },
+ {
+  "cle": "2484",
+  "type": "nom",
+  "fr": "Toile Laser"
+ },
+ {
+  "cle": "2485",
+  "type": "nom",
+  "fr": "Cyclone Laser"
+ },
+ {
+  "cle": "2486",
+  "type": "nom",
+  "fr": "Salve de Missiles"
+ },
+ {
+  "cle": "2487",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "2490",
+  "type": "nom",
+  "fr": "Vanguard or"
+ },
+ {
+  "cle": "2493",
+  "type": "nom",
+  "fr": "Déferlement de Balles"
+ },
+ {
+  "cle": "2494",
+  "type": "nom",
+  "fr": "Grenade à Fragmentation"
+ },
+ {
+  "cle": "2495",
+  "type": "nom",
+  "fr": "Auto-destruction"
+ },
+ {
+  "cle": "2501",
+  "type": "nom",
+  "fr": "Double Canon Destructeur"
+ },
+ {
+  "cle": "2502",
+  "type": "nom",
+  "fr": "Pression Colossale"
+ },
+ {
+  "cle": "2503",
+  "type": "nom",
+  "fr": "Ruée Colossale"
+ },
+ {
+  "cle": "2504",
+  "type": "nom",
+  "fr": "Pince Colossale"
+ },
+ {
+  "cle": "2505",
+  "type": "nom",
+  "fr": "Rayon de Résurrection"
+ },
+ {
+  "cle": "2508",
+  "type": "nom",
+  "fr": "Orgueil Mk.II"
+ },
+ {
+  "cle": "2511",
+  "type": "nom",
+  "fr": "Feu de l'Enfer"
+ },
+ {
+  "cle": "2512",
+  "type": "nom",
+  "fr": "Canon Orbal"
+ },
+ {
+  "cle": "2513",
+  "type": "nom",
+  "fr": "Puissance Maximale"
+ },
+ {
+  "cle": "2514",
+  "type": "nom",
+  "fr": "Grenades Brouilleuses"
+ },
+ {
+  "cle": "2515",
+  "type": "nom",
+  "fr": "Grenades Brouilleuses"
+ },
+ {
+  "cle": "2518",
+  "type": "nom",
+  "fr": "Gespenst T-II"
+ },
+ {
+  "cle": "2521",
+  "type": "nom",
+  "fr": "Canon Anti-Arts"
+ },
+ {
+  "cle": "2522",
+  "type": "nom",
+  "fr": "Interruption d'Incantation"
+ },
+ {
+  "cle": "2523",
+  "type": "nom",
+  "fr": "Canon Ralentissant"
+ },
+ {
+  "cle": "2524",
+  "type": "nom",
+  "fr": "4 coups (zone)"
+ },
+ {
+  "cle": "2525",
+  "type": "nom",
+  "fr": "Laser de Diffusion"
+ },
+ {
+  "cle": "2526",
+  "type": "nom",
+  "fr": "Laser de Diffusion"
+ },
+ {
+  "cle": "2527",
+  "type": "nom",
+  "fr": "Folie Meurtrière"
+ },
+ {
+  "cle": "2528",
+  "type": "nom",
+  "fr": "Annihilation"
+ },
+ {
+  "cle": "2529",
+  "type": "nom",
+  "fr": "Attaque de zone"
+ },
+ {
+  "cle": "2532",
+  "type": "nom",
+  "fr": "Éveilleur des ténèbres"
+ },
+ {
+  "cle": "2535",
+  "type": "nom",
+  "fr": "Lame Maudite"
+ },
+ {
+  "cle": "2536",
+  "type": "nom",
+  "fr": "Lame Maudite"
+ },
+ {
+  "cle": "2537",
+  "type": "nom",
+  "fr": "Lame Maudite"
+ },
+ {
+  "cle": "2538",
+  "type": "nom",
+  "fr": "Ouragan Orbal"
+ },
+ {
+  "cle": "2539",
+  "type": "nom",
+  "fr": "Déflagration d'énergie"
+ },
+ {
+  "cle": "2540",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "2543",
+  "type": "nom",
+  "fr": "Goldias type-0"
+ },
+ {
+  "cle": "2546",
+  "type": "nom",
+  "fr": "Double Canon Destructeur"
+ },
+ {
+  "cle": "2547",
+  "type": "nom",
+  "fr": "Pression Colossale"
+ },
+ {
+  "cle": "2548",
+  "type": "nom",
+  "fr": "Ruée Colossale"
+ },
+ {
+  "cle": "2549",
+  "type": "nom",
+  "fr": "Pince Colossale"
+ },
+ {
+  "cle": "2550",
+  "type": "nom",
+  "fr": "Rayon de Résurrection"
+ },
+ {
+  "cle": "2551",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "2554",
+  "type": "nom",
+  "fr": "Seigneur R"
+ },
+ {
+  "cle": "2557",
+  "type": "nom",
+  "fr": "Explosion Haute-Pression"
+ },
+ {
+  "cle": "2558",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "2561",
+  "type": "nom",
+  "fr": "Fantôme D"
+ },
+ {
+  "cle": "2564",
+  "type": "nom",
+  "fr": "Poing-Marteau"
+ },
+ {
+  "cle": "2565",
+  "type": "nom",
+  "fr": "Hyper-Laser"
+ },
+ {
+  "cle": "2566",
+  "type": "nom",
+  "fr": "Hyper-Canon à Résonance"
+ },
+ {
+  "cle": "2567",
+  "type": "nom",
+  "fr": "Électrogriffe"
+ },
+ {
+  "cle": "2568",
+  "type": "nom",
+  "fr": "Fracas Plasmique"
+ },
+ {
+  "cle": "2569",
+  "type": "nom",
+  "fr": "Canon Anti-Arts"
+ },
+ {
+  "cle": "2570",
+  "type": "nom",
+  "fr": "Double Poing"
+ },
+ {
+  "cle": "2572",
+  "type": "nom",
+  "fr": "Hyper-Tir Armé"
+ },
+ {
+  "cle": "2576",
+  "type": "nom",
+  "fr": "Rostrum"
+ },
+ {
+  "cle": "2579",
+  "type": "nom",
+  "fr": "Pulvérisation"
+ },
+ {
+  "cle": "2580",
+  "type": "nom",
+  "fr": "Pulvérisation"
+ },
+ {
+  "cle": "2581",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "2582",
+  "type": "nom",
+  "fr": "Jugement Dernier"
+ },
+ {
+  "cle": "2583",
+  "type": "nom",
+  "fr": "Double-pulvérisation"
+ },
+ {
+  "cle": "2586",
+  "type": "nom",
+  "fr": "Rostrum"
+ },
+ {
+  "cle": "2589",
+  "type": "nom",
+  "fr": "Pulvérisation"
+ },
+ {
+  "cle": "2590",
+  "type": "nom",
+  "fr": "Pulvérisation"
+ },
+ {
+  "cle": "2591",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "2592",
+  "type": "nom",
+  "fr": "Jugement Dernier"
+ },
+ {
+  "cle": "2593",
+  "type": "nom",
+  "fr": "Double-pulvérisation"
+ },
+ {
+  "cle": "2596",
+  "type": "nom",
+  "fr": "Astarte"
+ },
+ {
+  "cle": "2599",
+  "type": "nom",
+  "fr": "Invocation Purgatoresque"
+ },
+ {
+  "cle": "2600",
+  "type": "nom",
+  "fr": "Hurlement Purgatoresque"
+ },
+ {
+  "cle": "2601",
+  "type": "nom",
+  "fr": "Vague Chtonienne"
+ },
+ {
+  "cle": "2602",
+  "type": "nom",
+  "fr": "Œil Démoniaque"
+ },
+ {
+  "cle": "2603",
+  "type": "nom",
+  "fr": "Géo-catastrophe"
+ },
+ {
+  "cle": "2604",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2605",
+  "type": "nom",
+  "fr": "Purgatorii Ertserret Ecnal"
+ },
+ {
+  "cle": "2606",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2607",
+  "type": "nom",
+  "fr": "Foudre Meas Verde"
+ },
+ {
+  "cle": "2610",
+  "type": "nom",
+  "fr": "Astarte"
+ },
+ {
+  "cle": "2613",
+  "type": "nom",
+  "fr": "Invocation Purgatoresque"
+ },
+ {
+  "cle": "2614",
+  "type": "nom",
+  "fr": "Hurlement Purgatoresque"
+ },
+ {
+  "cle": "2615",
+  "type": "nom",
+  "fr": "Vague Chtonienne"
+ },
+ {
+  "cle": "2616",
+  "type": "nom",
+  "fr": "Œil Démoniaque"
+ },
+ {
+  "cle": "2617",
+  "type": "nom",
+  "fr": "Géo-catastrophe"
+ },
+ {
+  "cle": "2618",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2619",
+  "type": "nom",
+  "fr": "Purgatorii Ertserret Ecnal"
+ },
+ {
+  "cle": "2620",
+  "type": "nom",
+  "fr": "Inutile"
+ },
+ {
+  "cle": "2621",
+  "type": "nom",
+  "fr": "Foudre Meas Verde"
+ },
+ {
+  "cle": "2622",
+  "type": "nom",
+  "fr": "Lance Démoniaque Ashtar"
+ },
+ {
+  "cle": "2625",
+  "type": "nom",
+  "fr": "Anima-Mundi"
+ },
+ {
+  "cle": "2628",
+  "type": "nom",
+  "fr": "Arc Cyan Démon Nag Rub"
+ },
+ {
+  "cle": "2629",
+  "type": "nom",
+  "fr": "Templière Maudite Zek Wo"
+ },
+ {
+  "cle": "2630",
+  "type": "nom",
+  "fr": "Canon Stigma Megiddels"
+ },
+ {
+  "cle": "2631",
+  "type": "nom",
+  "fr": "Photons Maudits Sehnardy"
+ },
+ {
+  "cle": "2632",
+  "type": "nom",
+  "fr": "Invocation Purgatoresque"
+ },
+ {
+  "cle": "2633",
+  "type": "nom",
+  "fr": "Septio-crise"
+ },
+ {
+  "cle": "2634",
+  "type": "nom",
+  "fr": "Changement d'attribut"
+ },
+ {
+  "cle": "2635",
+  "type": "nom",
+  "fr": "*Retour de pilier"
+ },
+ {
+  "cle": "2636",
+  "type": "nom",
+  "fr": "Crissement Simehda"
+ },
+ {
+  "cle": "2637",
+  "type": "nom",
+  "fr": "Fissure spatiale - Yin"
+ },
+ {
+  "cle": "2638",
+  "type": "nom",
+  "fr": "Fissure spatiale - Yin"
+ },
+ {
+  "cle": "2639",
+  "type": "nom",
+  "fr": "Invocation Purgatoresque"
+ },
+ {
+  "cle": "2640",
+  "type": "nom",
+  "fr": "Art Temporel Zwordel"
+ },
+ {
+  "cle": "2641",
+  "type": "nom",
+  "fr": "Art Spatial Meivkrau"
+ },
+ {
+  "cle": "2644",
+  "type": "nom",
+  "fr": "Pilier de flamme"
+ },
+ {
+  "cle": "2647",
+  "type": "nom",
+  "fr": "Coactivation"
+ },
+ {
+  "cle": "2648",
+  "type": "nom",
+  "fr": "Disparition"
+ },
+ {
+  "cle": "2651",
+  "type": "nom",
+  "fr": "Pilier d'eau"
+ },
+ {
+  "cle": "2654",
+  "type": "nom",
+  "fr": "Coactivation"
+ },
+ {
+  "cle": "2655",
+  "type": "nom",
+  "fr": "Disparition"
+ },
+ {
+  "cle": "2658",
+  "type": "nom",
+  "fr": "Pilier de vent"
+ },
+ {
+  "cle": "2661",
+  "type": "nom",
+  "fr": "Coactivation"
+ },
+ {
+  "cle": "2662",
+  "type": "nom",
+  "fr": "Disparition"
+ },
+ {
+  "cle": "2665",
+  "type": "nom",
+  "fr": "Pilier de sol"
+ },
+ {
+  "cle": "2668",
+  "type": "nom",
+  "fr": "Coactivation"
+ },
+ {
+  "cle": "2669",
+  "type": "nom",
+  "fr": "Disparition"
+ },
+ {
+  "cle": "2672",
+  "type": "nom",
+  "fr": "Pilier fantôme"
+ },
+ {
+  "cle": "2675",
+  "type": "nom",
+  "fr": "Coactivation"
+ },
+ {
+  "cle": "2676",
+  "type": "nom",
+  "fr": "Disparition"
+ },
+ {
+  "cle": "2679",
+  "type": "nom",
+  "fr": "Pilier chronique"
+ },
+ {
+  "cle": "2682",
+  "type": "nom",
+  "fr": "Coactivation"
+ },
+ {
+  "cle": "2683",
+  "type": "nom",
+  "fr": "Disparition"
+ },
+ {
+  "cle": "2686",
+  "type": "nom",
+  "fr": "Pilier céleste"
+ },
+ {
+  "cle": "2689",
+  "type": "nom",
+  "fr": "Coactivation"
+ },
+ {
+  "cle": "2690",
+  "type": "nom",
+  "fr": "Disparition"
+ }
+]

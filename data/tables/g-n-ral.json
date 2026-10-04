@@ -1,0 +1,1462 @@
+[
+ {
+  "cle": "3",
+  "type": "terme",
+  "fr": "la société Verne"
+ },
+ {
+  "cle": "4",
+  "type": "terme",
+  "fr": "le groupe Reinford"
+ },
+ {
+  "cle": "5",
+  "type": "terme",
+  "fr": "le Centre Technologique de Zeiss (CTZ) (le centre technologique)"
+ },
+ {
+  "cle": "6",
+  "type": "terme",
+  "fr": "l'Atelier Technologique de Zeiss"
+ },
+ {
+  "cle": "7",
+  "type": "terme",
+  "fr": "Liberl Airlines"
+ },
+ {
+  "cle": "8",
+  "type": "terme",
+  "fr": "la fondation Epstein"
+ },
+ {
+  "cle": "9",
+  "type": "terme",
+  "fr": "Ouroboros / la Société (d'Ouroboros)"
+ },
+ {
+  "cle": "10",
+  "type": "terme",
+  "fr": "l'Armée royale"
+ },
+ {
+  "cle": "11",
+  "type": "terme",
+  "fr": "la Division du Renseignement"
+ },
+ {
+  "cle": "12",
+  "type": "terme",
+  "fr": "les Gardes-frontières"
+ },
+ {
+  "cle": "13",
+  "type": "terme",
+  "fr": "La Guilde des bracers (guilde sans majuscule pour branche locale)"
+ },
+ {
+  "cle": "14",
+  "type": "terme",
+  "fr": "Église septienne"
+ },
+ {
+  "cle": "15",
+  "type": "terme",
+  "fr": "Saint-Siège"
+ },
+ {
+  "cle": "16",
+  "type": "terme",
+  "fr": "Gralsritter(s) / Chevalier(s) du Graal"
+ },
+ {
+  "cle": "17",
+  "type": "terme",
+  "fr": "Dicastère pour la sainte captation"
+ },
+ {
+  "cle": "18",
+  "type": "terme",
+  "fr": "Dicastère pour la discipline des sacrements"
+ },
+ {
+  "cle": "19",
+  "type": "terme",
+  "fr": "Dominion"
+ },
+ {
+  "cle": "20",
+  "type": "terme",
+  "fr": "Écuyer"
+ },
+ {
+  "cle": "21",
+  "type": "terme",
+  "fr": "(en) Érébonia (féminin)"
+ },
+ {
+  "cle": "22",
+  "type": "terme",
+  "fr": "(en) Calvard (féminin)"
+ },
+ {
+  "cle": "23",
+  "type": "terme",
+  "fr": "(au) Liberl (masculin)"
+ },
+ {
+  "cle": "24",
+  "type": "terme",
+  "fr": "(en) Artéria (féminin)"
+ },
+ {
+  "cle": "25",
+  "type": "terme",
+  "fr": "(en) Ambria du Nord (féminin)"
+ },
+ {
+  "cle": "26",
+  "type": "terme",
+  "fr": "(au) Leman / (dans) l'état du Leman"
+ },
+ {
+  "cle": "27",
+  "type": "terme",
+  "fr": "(à) Crossbell / (dans) l'état de Crossbell"
+ },
+ {
+  "cle": "28",
+  "type": "terme",
+  "fr": "(en) Zémuria (féminin)"
+ },
+ {
+  "cle": "29",
+  "type": "terme",
+  "fr": "Liberlois / Rolentais / Bosois / Ruannais / Zeissien / Grancelite / Ravennate"
+ },
+ {
+  "cle": "30",
+  "type": "terme",
+  "fr": "la guilde des pêcheurs"
+ },
+ {
+  "cle": "31",
+  "type": "terme",
+  "fr": "le gang Raven / Raven"
+ },
+ {
+  "cle": "32",
+  "type": "terme",
+  "fr": "un Raven / des Raven / un membre des Raven / un membre du gang Raven"
+ },
+ {
+  "cle": "33",
+  "type": "terme",
+  "fr": "le Liberl News"
+ },
+ {
+  "cle": "34",
+  "type": "terme",
+  "fr": "l'Académie royale Jenis"
+ },
+ {
+  "cle": "35",
+  "type": "terme",
+  "fr": "les Treize Ateliers"
+ },
+ {
+  "cle": "36",
+  "type": "terme",
+  "fr": "Soldats Cramoisis"
+ },
+ {
+  "cle": "38",
+  "type": "terme",
+  "fr": "Adjectif associé :"
+ },
+ {
+  "cle": "39",
+  "type": "terme",
+  "fr": "Érébonien"
+ },
+ {
+  "cle": "40",
+  "type": "terme",
+  "fr": "Liberlois"
+ },
+ {
+  "cle": "41",
+  "type": "terme",
+  "fr": "Crossbellites"
+ },
+ {
+  "cle": "42",
+  "type": "terme",
+  "fr": "Calvardais"
+ },
+ {
+  "cle": "43",
+  "type": "terme",
+  "fr": "Zémurien(ne)"
+ },
+ {
+  "cle": "44",
+  "type": "terme",
+  "fr": "Muraille d'Ahnenburg"
+ },
+ {
+  "cle": "45",
+  "type": "terme",
+  "fr": "la Cité royale"
+ },
+ {
+  "cle": "46",
+  "type": "terme",
+  "fr": "Baie de Titith"
+ },
+ {
+  "cle": "48",
+  "type": "terme",
+  "fr": "Déplacement (DÉP)"
+ },
+ {
+  "cle": "49",
+  "type": "terme",
+  "fr": "Portée (POR)"
+ },
+ {
+  "cle": "50",
+  "type": "terme",
+  "fr": "Esquive (ESQ)"
+ },
+ {
+  "cle": "51",
+  "type": "terme",
+  "fr": "Force (FOR)"
+ },
+ {
+  "cle": "52",
+  "type": "terme",
+  "fr": "Défense (DÉF)"
+ },
+ {
+  "cle": "53",
+  "type": "terme",
+  "fr": "Vitesse (VIT)"
+ },
+ {
+  "cle": "54",
+  "type": "terme",
+  "fr": "Puissance des Arts (ART)"
+ },
+ {
+  "cle": "55",
+  "type": "terme",
+  "fr": "Résistance aux Arts (RÉS)"
+ },
+ {
+  "cle": "56",
+  "type": "terme",
+  "fr": "Précision (PRC)"
+ },
+ {
+  "cle": "57",
+  "type": "terme",
+  "fr": "Points de Vie (PV)"
+ },
+ {
+  "cle": "58",
+  "type": "terme",
+  "fr": "Points d'Énergie (PE)"
+ },
+ {
+  "cle": "59",
+  "type": "terme",
+  "fr": "Points de Technique (PT)"
+ },
+ {
+  "cle": "60",
+  "type": "terme",
+  "fr": "Points de Bracer (PB)"
+ },
+ {
+  "cle": "61",
+  "type": "terme",
+  "fr": "Expérience (EXP)"
+ },
+ {
+  "cle": "62",
+  "type": "terme",
+  "fr": "Niveau"
+ },
+ {
+  "cle": "63",
+  "type": "terme",
+  "fr": "NIV SUP"
+ },
+ {
+  "cle": "64",
+  "type": "terme",
+  "fr": "Efficacité élémentaire (%):"
+ },
+ {
+  "cle": "65",
+  "type": "terme",
+  "fr": "Statut"
+ },
+ {
+  "cle": "66",
+  "type": "terme",
+  "fr": "Statut / Altération d'état"
+ },
+ {
+  "cle": "67",
+  "type": "terme",
+  "fr": "Poison"
+ },
+ {
+  "cle": "68",
+  "type": "terme",
+  "fr": "Entrave"
+ },
+ {
+  "cle": "69",
+  "type": "terme",
+  "fr": "Pétrification"
+ },
+ {
+  "cle": "70",
+  "type": "terme",
+  "fr": "Gel"
+ },
+ {
+  "cle": "71",
+  "type": "terme",
+  "fr": "Sommeil"
+ },
+ {
+  "cle": "72",
+  "type": "terme",
+  "fr": "Étourdissement"
+ },
+ {
+  "cle": "73",
+  "type": "terme",
+  "fr": "Silence"
+ },
+ {
+  "cle": "74",
+  "type": "terme",
+  "fr": "Confusion"
+ },
+ {
+  "cle": "75",
+  "type": "terme",
+  "fr": "Cécité"
+ },
+ {
+  "cle": "76",
+  "type": "terme",
+  "fr": "Rage"
+ },
+ {
+  "cle": "77",
+  "type": "terme",
+  "fr": "qqchose ↑ / qqchose ↓"
+ },
+ {
+  "cle": "78",
+  "type": "terme",
+  "fr": "SOIN qqchose"
+ },
+ {
+  "cle": "79",
+  "type": "terme",
+  "fr": "Bonus !"
+ },
+ {
+  "cle": "80",
+  "type": "terme",
+  "fr": "INEFFICACE"
+ },
+ {
+  "cle": "81",
+  "type": "terme",
+  "fr": "IMMUNITÉ"
+ },
+ {
+  "cle": "82",
+  "type": "terme",
+  "fr": "RATÉ"
+ },
+ {
+  "cle": "83",
+  "type": "terme",
+  "fr": "TOUR ↓"
+ },
+ {
+  "cle": "84",
+  "type": "terme",
+  "fr": "TOUR ↑"
+ },
+ {
+  "cle": "85",
+  "type": "terme",
+  "fr": "BOUCLIER ARTS"
+ },
+ {
+  "cle": "86",
+  "type": "terme",
+  "fr": "BOUCLIER PHYS"
+ },
+ {
+  "cle": "87",
+  "type": "terme",
+  "fr": "BOUCLIER MAX"
+ },
+ {
+  "cle": "88",
+  "type": "terme",
+  "fr": "BLOQUÉ"
+ },
+ {
+  "cle": "89",
+  "type": "terme",
+  "fr": "Coup Mortel (quartz) / Mort subite (effet)"
+ },
+ {
+  "cle": "90",
+  "type": "terme",
+  "fr": "Disparition"
+ },
+ {
+  "cle": "91",
+  "type": "terme",
+  "fr": "K.O."
+ },
+ {
+  "cle": "92",
+  "type": "terme",
+  "fr": "Combat"
+ },
+ {
+  "cle": "93",
+  "type": "terme",
+  "fr": "Tour"
+ },
+ {
+  "cle": "94",
+  "type": "terme",
+  "fr": "Tour d'Attaque (TA)"
+ },
+ {
+  "cle": "95",
+  "type": "terme",
+  "fr": "Barre d'action"
+ },
+ {
+  "cle": "96",
+  "type": "terme",
+  "fr": "Déplacement"
+ },
+ {
+  "cle": "97",
+  "type": "terme",
+  "fr": "Attaque"
+ },
+ {
+  "cle": "98",
+  "type": "terme",
+  "fr": "Objets"
+ },
+ {
+  "cle": "99",
+  "type": "terme",
+  "fr": "Arts / Arts orbaux"
+ },
+ {
+  "cle": "100",
+  "type": "terme",
+  "fr": "Techniques"
+ },
+ {
+  "cle": "101",
+  "type": "terme",
+  "fr": "Fuite"
+ },
+ {
+  "cle": "102",
+  "type": "terme",
+  "fr": "S-Break"
+ },
+ {
+  "cle": "103",
+  "type": "terme",
+  "fr": "S-Tech "
+ },
+ {
+  "cle": "104",
+  "type": "terme",
+  "fr": "Enchaînement"
+ },
+ {
+  "cle": "105",
+  "type": "terme",
+  "fr": "(Ciblé)"
+ },
+ {
+  "cle": "106",
+  "type": "terme",
+  "fr": "(Libre)"
+ },
+ {
+  "cle": "107",
+  "type": "terme",
+  "fr": "Interruption"
+ },
+ {
+  "cle": "108",
+  "type": "terme",
+  "fr": "Tour d'attaque"
+ },
+ {
+  "cle": "109",
+  "type": "terme",
+  "fr": "Coup critique"
+ },
+ {
+  "cle": "110",
+  "type": "terme",
+  "fr": "Aspiration"
+ },
+ {
+  "cle": "112",
+  "type": "terme",
+  "fr": "Terre"
+ },
+ {
+  "cle": "113",
+  "type": "terme",
+  "fr": "Feu"
+ },
+ {
+  "cle": "114",
+  "type": "terme",
+  "fr": "Eau"
+ },
+ {
+  "cle": "115",
+  "type": "terme",
+  "fr": "Vent"
+ },
+ {
+  "cle": "116",
+  "type": "terme",
+  "fr": "Temps"
+ },
+ {
+  "cle": "117",
+  "type": "terme",
+  "fr": "Espace"
+ },
+ {
+  "cle": "118",
+  "type": "terme",
+  "fr": "Mirage"
+ },
+ {
+  "cle": "119",
+  "type": "terme",
+  "fr": "Résiste"
+ },
+ {
+  "cle": "121",
+  "type": "terme",
+  "fr": "rige / riges"
+ },
+ {
+  "cle": "122",
+  "type": "terme",
+  "fr": "selge / selges"
+ },
+ {
+  "cle": "123",
+  "type": "terme",
+  "fr": "arge / arges"
+ },
+ {
+  "cle": "124",
+  "type": "terme",
+  "fr": "torim / torims"
+ },
+ {
+  "cle": "125",
+  "type": "terme",
+  "fr": "mira / miras"
+ },
+ {
+  "cle": "127",
+  "type": "terme",
+  "fr": "Orbal (orbale, orbaux, orbales)"
+ },
+ {
+  "cle": "128",
+  "type": "terme",
+  "fr": "Un orbement"
+ },
+ {
+  "cle": "129",
+  "type": "terme",
+  "fr": "Orbement de combat"
+ },
+ {
+  "cle": "130",
+  "type": "terme",
+  "fr": "Quartz / Circuit cristallin"
+ },
+ {
+  "cle": "131",
+  "type": "terme",
+  "fr": "Sepith(s)"
+ },
+ {
+  "cle": "132",
+  "type": "terme",
+  "fr": "Septium"
+ },
+ {
+  "cle": "133",
+  "type": "terme",
+  "fr": "Gemme"
+ },
+ {
+  "cle": "134",
+  "type": "terme",
+  "fr": "Patrouilleur / Aéronef de patrouille"
+ },
+ {
+  "cle": "135",
+  "type": "terme",
+  "fr": "Aéronef"
+ },
+ {
+  "cle": "136",
+  "type": "terme",
+  "fr": "... de guerre / de combat"
+ },
+ {
+  "cle": "137",
+  "type": "terme",
+  "fr": "... de ligne"
+ },
+ {
+  "cle": "138",
+  "type": "terme",
+  "fr": "Croiseur"
+ },
+ {
+  "cle": "139",
+  "type": "terme",
+  "fr": "Vaisseau-mère"
+ },
+ {
+  "cle": "140",
+  "type": "terme",
+  "fr": "Aérogare "
+ },
+ {
+  "cle": "141",
+  "type": "terme",
+  "fr": "Archaïsme"
+ },
+ {
+  "cle": "142",
+  "type": "terme",
+  "fr": "Révolution orbale"
+ },
+ {
+  "cle": "143",
+  "type": "terme",
+  "fr": "Réseau orbal"
+ },
+ {
+  "cle": "144",
+  "type": "terme",
+  "fr": "Le Capel / Unité centrale de traitement orbal Capel"
+ },
+ {
+  "cle": "145",
+  "type": "terme",
+  "fr": "Orbement noir"
+ },
+ {
+  "cle": "146",
+  "type": "terme",
+  "fr": "Gospel"
+ },
+ {
+  "cle": "147",
+  "type": "terme",
+  "fr": "Station de recharge orbale"
+ },
+ {
+  "cle": "148",
+  "type": "terme",
+  "fr": "Téléphone / Téléphone orbal"
+ },
+ {
+  "cle": "149",
+  "type": "terme",
+  "fr": "phénomène d'interruption orbale\n#l'énergie orbale est interrompue"
+ },
+ {
+  "cle": "150",
+  "type": "terme",
+  "fr": "un générateur Zéro"
+ },
+ {
+  "cle": "151",
+  "type": "terme",
+  "fr": "envoleur"
+ },
+ {
+  "cle": "152",
+  "type": "terme",
+  "fr": "épée des Templiers"
+ },
+ {
+  "cle": "153",
+  "type": "terme",
+  "fr": "de classe Goldias"
+ },
+ {
+  "cle": "155",
+  "type": "terme",
+  "fr": "un bracer"
+ },
+ {
+  "cle": "156",
+  "type": "terme",
+  "fr": "un apprenti(e) bracer"
+ },
+ {
+  "cle": "157",
+  "type": "terme",
+  "fr": "un bracer novice"
+ },
+ {
+  "cle": "158",
+  "type": "terme",
+  "fr": "un(e) bracer confirmé(e)"
+ },
+ {
+  "cle": "159",
+  "type": "terme",
+  "fr": "Classe (Bracer novice) / Rang (Bracer confirmé)"
+ },
+ {
+  "cle": "160",
+  "type": "terme",
+  "fr": "les pirates du ciel"
+ },
+ {
+  "cle": "161",
+  "type": "terme",
+  "fr": "Le Croc noir"
+ },
+ {
+  "cle": "162",
+  "type": "terme",
+  "fr": "L'Éclat d'argent"
+ },
+ {
+  "cle": "163",
+  "type": "terme",
+  "fr": "La Lame lourde"
+ },
+ {
+  "cle": "164",
+  "type": "terme",
+  "fr": "L'Inébranlable"
+ },
+ {
+  "cle": "165",
+  "type": "terme",
+  "fr": "La Lame divine"
+ },
+ {
+  "cle": "166",
+  "type": "terme",
+  "fr": "Le Tacticien Fangshi"
+ },
+ {
+  "cle": "167",
+  "type": "terme",
+  "fr": "le Grand Master / le Grand Maître"
+ },
+ {
+  "cle": "168",
+  "type": "terme",
+  "fr": "Le Chancelier de Fer\n(traduction littérale du titre d'Otto von Bismarck)"
+ },
+ {
+  "cle": "169",
+  "type": "terme",
+  "fr": "Sa Majesté / Votre Majesté"
+ },
+ {
+  "cle": "170",
+  "type": "terme",
+  "fr": "Son Altesse / Votre Altesse"
+ },
+ {
+  "cle": "171",
+  "type": "terme",
+  "fr": "Ma Reine"
+ },
+ {
+  "cle": "172",
+  "type": "terme",
+  "fr": "Son Excellence"
+ },
+ {
+  "cle": "173",
+  "type": "terme",
+  "fr": "un corps de jaegers + distinguer selon les jaegers"
+ },
+ {
+  "cle": "174",
+  "type": "terme",
+  "fr": "la division Jester"
+ },
+ {
+  "cle": "175",
+  "type": "terme",
+  "fr": "un Exécuteur (invariable en genre)"
+ },
+ {
+  "cle": "176",
+  "type": "terme",
+  "fr": "Anguis"
+ },
+ {
+  "cle": "177",
+  "type": "terme",
+  "fr": "Le Sans-Visage"
+ },
+ {
+  "cle": "178",
+  "type": "terme",
+  "fr": "La Lame impériale"
+ },
+ {
+  "cle": "179",
+  "type": "terme",
+  "fr": "Le Voleur Fantôme -> le Gentleman Cambrioleur"
+ },
+ {
+  "cle": "180",
+  "type": "terme",
+  "fr": "L'Illusoire / le Glas illusoire"
+ },
+ {
+  "cle": "181",
+  "type": "terme",
+  "fr": "L'Ange du Massacre"
+ },
+ {
+  "cle": "182",
+  "type": "terme",
+  "fr": "Le Loup décharné"
+ },
+ {
+  "cle": "183",
+  "type": "terme",
+  "fr": "Le Fou"
+ },
+ {
+  "cle": "184",
+  "type": "terme",
+  "fr": "Le démon"
+ },
+ {
+  "cle": "185",
+  "type": "terme",
+  "fr": "Fervent pêcheur"
+ },
+ {
+  "cle": "186",
+  "type": "terme",
+  "fr": "Baron de la pêche"
+ },
+ {
+  "cle": "187",
+  "type": "terme",
+  "fr": "Estelle, la Pêcheuse suprême"
+ },
+ {
+  "cle": "188",
+  "type": "terme",
+  "fr": "Intendante"
+ },
+ {
+  "cle": "189",
+  "type": "terme",
+  "fr": "Directrice d'orphelinat (Madame Theresa)"
+ },
+ {
+  "cle": "190",
+  "type": "terme",
+  "fr": "Chef de la mine (Gaton)"
+ },
+ {
+  "cle": "191",
+  "type": "terme",
+  "fr": "Boss"
+ },
+ {
+  "cle": "192",
+  "type": "terme",
+  "fr": "Directeur (du CTZ) (Murdock)"
+ },
+ {
+  "cle": "193",
+  "type": "terme",
+  "fr": "Responsable de la maintenance (Gustav)"
+ },
+ {
+  "cle": "194",
+  "type": "terme",
+  "fr": "un garde"
+ },
+ {
+  "cle": "195",
+  "type": "terme",
+  "fr": "un soldat de l'Armée royale"
+ },
+ {
+  "cle": "196",
+  "type": "terme",
+  "fr": "un officier de l'Armée royale"
+ },
+ {
+  "cle": "197",
+  "type": "terme",
+  "fr": "les Forces spéciales"
+ },
+ {
+  "cle": "198",
+  "type": "terme",
+  "fr": "la Garde royale / Un garde royal"
+ },
+ {
+  "cle": "199",
+  "type": "terme",
+  "fr": "la Garnison royale"
+ },
+ {
+  "cle": "200",
+  "type": "terme",
+  "fr": "un adjudant"
+ },
+ {
+  "cle": "201",
+  "type": "terme",
+  "fr": "un 1er lieutenant"
+ },
+ {
+  "cle": "202",
+  "type": "terme",
+  "fr": "un sous-lieutenant"
+ },
+ {
+  "cle": "203",
+  "type": "terme",
+  "fr": "un général"
+ },
+ {
+  "cle": "204",
+  "type": "terme",
+  "fr": "un général de brigade"
+ },
+ {
+  "cle": "205",
+  "type": "terme",
+  "fr": "un commandant"
+ },
+ {
+  "cle": "206",
+  "type": "terme",
+  "fr": "le/la capitaine"
+ },
+ {
+  "cle": "207",
+  "type": "terme",
+  "fr": "un colonel"
+ },
+ {
+  "cle": "208",
+  "type": "terme",
+  "fr": "le Maître de Phantasma"
+ },
+ {
+  "cle": "209",
+  "type": "terme",
+  "fr": "le doyen Reisen"
+ },
+ {
+  "cle": "211",
+  "type": "terme",
+  "fr": "Phénomène de résonance"
+ },
+ {
+  "cle": "212",
+  "type": "terme",
+  "fr": "Déesse Aidios / déesse Aidios"
+ },
+ {
+  "cle": "213",
+  "type": "terme",
+  "fr": "Grand Effondrement"
+ },
+ {
+  "cle": "214",
+  "type": "terme",
+  "fr": "Artéfact"
+ },
+ {
+  "cle": "215",
+  "type": "terme",
+  "fr": "Auréole"
+ },
+ {
+  "cle": "216",
+  "type": "terme",
+  "fr": "Anneau Étincelant"
+ },
+ {
+  "cle": "217",
+  "type": "terme",
+  "fr": "Âge Sombre"
+ },
+ {
+  "cle": "218",
+  "type": "terme",
+  "fr": "Moyen-Âge "
+ },
+ {
+  "cle": "219",
+  "type": "terme",
+  "fr": "Arche Liber"
+ },
+ {
+  "cle": "220",
+  "type": "terme",
+  "fr": "Civilisation zémurienne"
+ },
+ {
+  "cle": "221",
+  "type": "terme",
+  "fr": "La guerre de Cent Jours"
+ },
+ {
+  "cle": "222",
+  "type": "terme",
+  "fr": "Là où se cachent les étoiles"
+ },
+ {
+  "cle": "223",
+  "type": "terme",
+  "fr": "Amour Ambré"
+ },
+ {
+  "cle": "224",
+  "type": "terme",
+  "fr": "Sept-Terrion / Sept-Terrions"
+ },
+ {
+  "cle": "225",
+  "type": "terme",
+  "fr": "Les Sept Trésors"
+ },
+ {
+  "cle": "226",
+  "type": "terme",
+  "fr": "un Asura (+ rendre le terme facile à comprendre en augmentant le texte lors de ses premières apparitions dans chaque cycle)"
+ },
+ {
+  "cle": "227",
+  "type": "terme",
+  "fr": "Poing meurtrier"
+ },
+ {
+  "cle": "228",
+  "type": "terme",
+  "fr": "Poing protecteur"
+ },
+ {
+  "cle": "229",
+  "type": "terme",
+  "fr": "Ch'i"
+ },
+ {
+  "cle": "230",
+  "type": "terme",
+  "fr": "Géhenne"
+ },
+ {
+  "cle": "231",
+  "type": "terme",
+  "fr": "Soixante-dix-sept diables"
+ },
+ {
+  "cle": "232",
+  "type": "terme",
+  "fr": "[atteindre] l'Éveil"
+ },
+ {
+  "cle": "233",
+  "type": "terme",
+  "fr": "Pacte de non-agression"
+ },
+ {
+  "cle": "234",
+  "type": "terme",
+  "fr": "Paradigme extérieur"
+ },
+ {
+  "cle": "235",
+  "type": "terme",
+  "fr": "Tours Périphériques"
+ },
+ {
+  "cle": "236",
+  "type": "terme",
+  "fr": "Les tours tétracycliques"
+ },
+ {
+  "cle": "237",
+  "type": "terme",
+  "fr": "La tour Esmelas / tour Carnelia / ..."
+ },
+ {
+  "cle": "238",
+  "type": "terme",
+  "fr": "Tour parallèle"
+ },
+ {
+  "cle": "239",
+  "type": "terme",
+  "fr": "Barrière mystique"
+ },
+ {
+  "cle": "240",
+  "type": "terme",
+  "fr": "Anniversaire de la reine"
+ },
+ {
+  "cle": "241",
+  "type": "terme",
+  "fr": "Le Flambeau de Saphirl / Chandelier"
+ },
+ {
+  "cle": "242",
+  "type": "terme",
+  "fr": "(un) Stigma"
+ },
+ {
+  "cle": "243",
+  "type": "terme",
+  "fr": "le Cube de l'Ermite / le Cube"
+ },
+ {
+  "cle": "244",
+  "type": "terme",
+  "fr": "pierre-sceau"
+ },
+ {
+  "cle": "245",
+  "type": "terme",
+  "fr": "Porte des Souvenirs"
+ },
+ {
+  "cle": "246",
+  "type": "terme",
+  "fr": "Terre première"
+ },
+ {
+  "cle": "248",
+  "type": "terme",
+  "fr": "un atelier orbal"
+ },
+ {
+  "cle": "249",
+  "type": "terme",
+  "fr": "Hébergements"
+ },
+ {
+  "cle": "250",
+  "type": "terme",
+  "fr": "Il y a une station de recharge orbale."
+ },
+ {
+  "cle": "251",
+  "type": "terme",
+  "fr": "Parler / Acheter / Partir"
+ },
+ {
+  "cle": "252",
+  "type": "terme",
+  "fr": "Solde insuffisant."
+ },
+ {
+  "cle": "253",
+  "type": "terme",
+  "fr": "Se reposer / Partir"
+ },
+ {
+  "cle": "254",
+  "type": "terme",
+  "fr": "Modifier-Echanger/Acheter/Changer membres/Partir"
+ },
+ {
+  "cle": "255",
+  "type": "terme",
+  "fr": "Déverrouiller un emplacement (orbal)"
+ },
+ {
+  "cle": "256",
+  "type": "terme",
+  "fr": "Des monstres ont fait leur apparition !"
+ },
+ {
+  "cle": "257",
+  "type": "terme",
+  "fr": "Des créatures mécanisées ont fait leur apparition !"
+ },
+ {
+  "cle": "258",
+  "type": "terme",
+  "fr": "Un énorme monstre rôde dans les parages."
+ },
+ {
+  "cle": "259",
+  "type": "terme",
+  "fr": "[Exterminer] / [Le laisser tranquille]"
+ },
+ {
+  "cle": "260",
+  "type": "terme",
+  "fr": "Monstre de X exterminé !"
+ },
+ {
+  "cle": "261",
+  "type": "terme",
+  "fr": "Remis(e/s) : X"
+ },
+ {
+  "cle": "262",
+  "type": "terme",
+  "fr": "Reçu(e/s) : X"
+ },
+ {
+  "cle": "263",
+  "type": "terme",
+  "fr": "Reçu : XXX"
+ },
+ {
+  "cle": "264",
+  "type": "terme",
+  "fr": "Acheté : X"
+ },
+ {
+  "cle": "265",
+  "type": "terme",
+  "fr": "Aucune mission disponible."
+ },
+ {
+  "cle": "266",
+  "type": "terme",
+  "fr": "Aucune mission disponible."
+ },
+ {
+  "cle": "267",
+  "type": "terme",
+  "fr": "Rapport pour [quest] effectué."
+ },
+ {
+  "cle": "268",
+  "type": "terme",
+  "fr": "Quête"
+ },
+ {
+  "cle": "269",
+  "type": "terme",
+  "fr": "Quête [...] terminée ! / échouée..."
+ },
+ {
+  "cle": "270",
+  "type": "terme",
+  "fr": "Je pourrais pêcher ici !"
+ },
+ {
+  "cle": "271",
+  "type": "terme",
+  "fr": "Essayer de pêcher ?"
+ },
+ {
+  "cle": "272",
+  "type": "terme",
+  "fr": "Allons taquiner le goujon ! | Ne rien faire"
+ },
+ {
+  "cle": "273",
+  "type": "terme",
+  "fr": "Découverte du point de pêche de ... notée dans le carnet de bracer."
+ },
+ {
+  "cle": "274",
+  "type": "terme",
+  "fr": "Trouvé(e/s) : X"
+ },
+ {
+  "cle": "275",
+  "type": "terme",
+  "fr": "Trouvé(e/s) : X.\nInventaire plein. Objet reposé."
+ },
+ {
+  "cle": "276",
+  "type": "terme",
+  "fr": "Utilisé(e/s) : XXX"
+ },
+ {
+  "cle": "277",
+  "type": "terme",
+  "fr": "La recette du/des/de la [ #xxxi ]\nest écrite sur un papier à l'intérieur du coffre."
+ },
+ {
+  "cle": "278",
+  "type": "terme",
+  "fr": "{0x06}Mangé : #2CXXXX#0C."
+ },
+ {
+  "cle": "279",
+  "type": "terme",
+  "fr": "{0x06}Recette apprise : [#2CXXXX#0C]."
+ },
+ {
+  "cle": "280",
+  "type": "terme",
+  "fr": "Recette apprise : [ #xxxi ]."
+ },
+ {
+  "cle": "281",
+  "type": "terme",
+  "fr": "À ce moment seulement s'ouvrira la Porte..."
+ },
+ {
+  "cle": "282",
+  "type": "terme",
+  "fr": "capacités à distance"
+ },
+ {
+  "cle": "283",
+  "type": "terme",
+  "fr": "Renne utilise \"Renne\" à la place de \"je\",\n\"elle\" à la place de \"moi\", etc."
+ },
+ {
+  "cle": "284",
+  "type": "terme",
+  "fr": "Qu'est-ce que quoi !?\n(ponctuation libre)"
+ },
+ {
+  "cle": "286",
+  "type": "terme",
+  "fr": "le Tournoi des Arts Martiaux"
+ },
+ {
+  "cle": "287",
+  "type": "terme",
+  "fr": "le tableau d'affichage"
+ },
+ {
+  "cle": "288",
+  "type": "terme",
+  "fr": "Carnelia - Chapitre 1"
+ },
+ {
+  "cle": "289",
+  "type": "terme",
+  "fr": "Guilde des bracers / Carnet de bracer"
+ },
+ {
+  "cle": "290",
+  "type": "terme",
+  "fr": "Bestiaire"
+ },
+ {
+  "cle": "291",
+  "type": "terme",
+  "fr": "Conformément aux lois de la Guilde des bracers, vous êtes en état d'arrestation pour..."
+ },
+ {
+  "cle": "292",
+  "type": "terme",
+  "fr": "Cruiiii"
+ },
+ {
+  "cle": "293",
+  "type": "terme",
+  "fr": "Point de passage"
+ },
+ {
+  "cle": "295",
+  "type": "terme",
+  "fr": "Devant un article = minuscule devant le grade/titre\nQuand on s'adresse directement à la personne = majuscule\nSa Majesté / Son Excellence / Son Altesse / ...\nMais ça ne concerne pas papa/maman/papy/..."
+ },
+ {
+  "cle": "296",
+  "type": "terme",
+  "fr": "Occidental / de l'Ouest --- Oriental / de l'Est"
+ },
+ {
+  "cle": "297",
+  "type": "terme",
+  "fr": "on peut utiliser les deux"
+ },
+ {
+  "cle": "298",
+  "type": "terme",
+  "fr": "forteresse Leiston / plaines Tratt / mine Malga / ...\nPas de majuscule nécessaire pour les noms communs comme forteresse/tour/mine/..."
+ },
+ {
+  "cle": "299",
+  "type": "terme",
+  "fr": "papy"
+ },
+ {
+  "cle": "300",
+  "type": "terme",
+  "fr": "«   »"
+ },
+ {
+  "cle": "301",
+  "type": "terme",
+  "fr": "Heure et âge = en chiffres\nordinaux = 1er, 1re, 2e, 3e\nle reste en lettre"
+ },
+ {
+  "cle": "302",
+  "type": "terme",
+  "fr": "M.  / Mme  / Mlle"
+ },
+ {
+  "cle": "303",
+  "type": "terme",
+  "fr": "Toujours un espace après les points de suspension\nMajuscule après sauf quand la phrase initiale n'est pas finie."
+ },
+ {
+  "cle": "304",
+  "type": "terme",
+  "fr": "Les ponctuations simples, pas d'espaces avant.\nLes ponctutations doubles, espaces avant (optionnel pour le \";\").\nLes crochets/parenthèses, pas d'espace à l'intérieur.\nLes guillemets français, espaces avant et après.\nTrait d'union et apostrophe, pas d'espace."
+ }
+]

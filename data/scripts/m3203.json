@@ -1,0 +1,50 @@
+[
+ {
+  "n": 12,
+  "fr": "{color 5}La porte est fermée à clé."
+ },
+ {
+  "n": 16,
+  "fr": "Qu... ?!"
+ },
+ {
+  "n": 33,
+  "fr": "H-Ha ha ha..."
+ },
+ {
+  "n": 98,
+  "fr": "......"
+ },
+ {
+  "n": 160,
+  "fr": "D'accord !"
+ },
+ {
+  "n": 161,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 162,
+  "fr": "Restaurer les PV/PE"
+ },
+ {
+  "n": 163,
+  "fr": "Acheter"
+ },
+ {
+  "n": 164,
+  "fr": "Synthétiser des quartz"
+ },
+ {
+  "n": 165,
+  "fr": "Terminer"
+ },
+ {
+  "n": 166,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 167,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ }
+]

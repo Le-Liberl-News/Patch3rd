@@ -1,0 +1,530 @@
+[
+ {
+  "n": 1,
+  "fr": "Qu-Quelle fille insistante..."
+ },
+ {
+  "n": 2,
+  "fr": "(Comment je peux me sortir de là ?\nC-C'est qu'un gars viril comme moi peut\npas avouer qu'il voulait devenir pâtissier...)"
+ },
+ {
+  "n": 3,
+  "fr": "Euh...\r\nPourquoi voulez-vous savoir quel était mon\r\nrêve d'enfant... ?"
+ },
+ {
+  "n": 4,
+  "fr": "C-C'est vraiment pas le genre de truc qu'on\nraconte aux gens vous savez..."
+ },
+ {
+  "n": 5,
+  "fr": "... Ah, vous avez encore esquivé la question !"
+ },
+ {
+  "n": 6,
+  "fr": "C'est une interview sérieuse, alors\nrépondez-moi correctement, s'il vous plaît !"
+ },
+ {
+  "n": 7,
+  "fr": "(On dirait bien qu'elle abuse un peu de son\nstatut de journaliste...)"
+ },
+ {
+  "n": 8,
+  "fr": "La chaîne de montagnes de Behgan marque\nla frontière entre le Liberl et la Calvard."
+ },
+ {
+  "n": 9,
+  "fr": "Une fois franchie, nous arriverons vite à Grancel."
+ },
+ {
+  "n": 10,
+  "fr": "Nous approchons de la chaîne de montagnes\nde Behgan."
+ },
+ {
+  "n": 11,
+  "fr": "Attention aux turbulences, l'air risque d'être agité\ndans cette zone."
+ },
+ {
+  "n": 12,
+  "fr": "Je sais, je sais !"
+ },
+ {
+  "n": 13,
+  "fr": "Ça fait déjà trois ans que je fais le trajet de cette ligne !\nJe sais ce que je fais !"
+ },
+ {
+  "n": 14,
+  "fr": "... Cap ouest-nord-ouest, en route !"
+ },
+ {
+  "n": 15,
+  "fr": "En fait, mon rêve à moi, c'était de devenir\nune voleuse fantôme, hé hé !"
+ },
+ {
+  "n": 16,
+  "fr": "(Ça vient sûrement de l'influence d'un roman\nqu'elle a dû lire.)"
+ },
+ {
+  "n": 17,
+  "fr": "Même après la signature du pacte de non-agression,\nil y a encore eu des incidents..."
+ },
+ {
+  "n": 18,
+  "fr": "Mon petit-fils dit ne pas avoir été blessé, mais je peux\npas m'empêcher de m'inquiéter."
+ },
+ {
+  "n": 19,
+  "fr": "Je vais à Grancel pour voir mon petit-fils."
+ },
+ {
+  "n": 20,
+  "fr": "Pfiou, maintenant, ça doit bien faire trois ans\nqu'on s'est pas vus..."
+ },
+ {
+  "n": 21,
+  "fr": "Quand j'ai appris qu'il y avait eu tant de problèmes\nau Liberl, j'étais tellement inquiet."
+ },
+ {
+  "n": 22,
+  "fr": "Je comprends que tu veuilles devenir ingénieur..."
+ },
+ {
+  "n": 23,
+  "fr": "... mais tu sais, tu devrais te détendre un peu."
+ },
+ {
+  "n": 24,
+  "fr": "Hé, te prends pas trop la tête, d'accord ?"
+ },
+ {
+  "n": 25,
+  "fr": "Tu stresses toujours trop vite de toute façon..."
+ },
+ {
+  "n": 26,
+  "fr": "J'ai peut-être raté l'entretien chez Verne..."
+ },
+ {
+  "n": 27,
+  "fr": "... mais cette fois, faut absolument que j'y arrive !"
+ },
+ {
+  "n": 28,
+  "fr": "D-D'abord, faut que j'aille visiter le centre\ntechnologique de Zeiss."
+ },
+ {
+  "n": 29,
+  "fr": "C'est une occasion en or pour apprendre les\ntechnologies orbales de pointe..."
+ },
+ {
+  "n": 30,
+  "fr": "F-Faut absolument que j'en profite au maximum !"
+ },
+ {
+  "n": 31,
+  "fr": "Déjà trois jours que je voyage, mais j'arrive\nenfin à destination..."
+ },
+ {
+  "n": 32,
+  "fr": "J'ai hâte d'atterrir !"
+ },
+ {
+  "n": 33,
+  "fr": "Le Liberl...\nLe dernier endroit où le dragon antique a été aperçu."
+ },
+ {
+  "n": 34,
+  "fr": "Hé hé, j'y suis enfin arrivée !"
+ },
+ {
+  "n": 35,
+  "fr": "Maintenant qu'on n'a plus aucune trace de lui,\nc'est mon unique piste..."
+ },
+ {
+  "n": 36,
+  "fr": "Bon, dès qu'on atterrit, je file demander\ndes infos à Lyndon."
+ },
+ {
+  "n": 37,
+  "fr": "Les sièges des vols réguliers sont toujours nickel,\nc'est agréable."
+ },
+ {
+  "n": 38,
+  "fr": "Hé hé, faut que je fasse attention à ne pas tout salir."
+ },
+ {
+  "n": 39,
+  "fr": "Hé hé, n'empêche, les sièges des vols réguliers sont\ntoujours nickel."
+ },
+ {
+  "n": 40,
+  "fr": "Ouais, c'est ce genre de service qu'on attend\ndans ce secteur d'activité !"
+ },
+ {
+  "n": 41,
+  "fr": "Moi à l'époque, j'ai vogué sur les flots\ndéchaînés de la baie de Titith, mais..."
+ },
+ {
+  "n": 42,
+  "fr": "... les temps changent. On n'arrête pas\nle progrès, faut croire..."
+ },
+ {
+  "n": 43,
+  "fr": "J'étais marin moi aussi avant.\nMais maintenant, je prends l'aéronef."
+ },
+ {
+  "n": 44,
+  "fr": "C'est plus rapide et plus confortable que\nle bateau, et au moins ça fait pas mal\naux fesses comme ces bus orbaux."
+ },
+ {
+  "n": 45,
+  "fr": "Ah, cet enfant alors, elle tient vraiment\npas en place..."
+ },
+ {
+  "n": 46,
+  "fr": "Tu ne peux pas rester tranquille deux secondes !?"
+ },
+ {
+  "n": 47,
+  "fr": "Ah là là... Assieds-toi gentiment."
+ },
+ {
+  "n": 48,
+  "fr": "On est bientôt arrivées alors arrête de faire\ndes caprices ! Sois sage."
+ },
+ {
+  "n": 49,
+  "fr": "Mais j'en ai m'ennuuiie, je veux plus m'asseoir !"
+ },
+ {
+  "n": 50,
+  "fr": "Dis maman, je peux ? S'il te plaît !"
+ },
+ {
+  "n": 51,
+  "fr": "Maman, je peux aller regarder dehors ?"
+ },
+ {
+  "n": 52,
+  "fr": "Je peux ? Je peux !?"
+ },
+ {
+  "n": 53,
+  "fr": "Pfiou, qu'est-ce qu'elle peut être têtue..."
+ },
+ {
+  "n": 54,
+  "fr": "Elle pourrait au moins faire un effort\net m'écouter un peu."
+ },
+ {
+  "n": 55,
+  "fr": "Ma sœur est tellement têtue, c'est pas possible..."
+ },
+ {
+  "n": 56,
+  "fr": "Comment je peux profiter de ce voyage dans\nces conditions ?"
+ },
+ {
+  "n": 57,
+  "fr": "Mon frère est vraiment égoïste. Il décide toujours\nde tout dans son coin !"
+ },
+ {
+  "n": 58,
+  "fr": "Il se fiche complètement de ce que je veux.\nAah ! Il m'énerve tellement !"
+ },
+ {
+  "n": 59,
+  "fr": "Non, je céderai pas !"
+ },
+ {
+  "n": 60,
+  "fr": "Après le château de Grancel, nous irons visiter\nla villa royale d'Erbe, point final !"
+ },
+ {
+  "n": 61,
+  "fr": "Faire le tour des coins de pêche...\nMais qu'est-ce qui te passe par la tête, frangin !?"
+ },
+ {
+  "n": 62,
+  "fr": "Roh...\nMon père est trop saoulant..."
+ },
+ {
+  "n": 63,
+  "fr": "J'ai seize ans maintenant, tu sais !"
+ },
+ {
+  "n": 64,
+  "fr": "Je fais ce que je veux, où je veux,\nde quoi il se mêle !?"
+ },
+ {
+  "n": 65,
+  "fr": "Pfff, j'ai même pas envie d'être ici."
+ },
+ {
+  "n": 66,
+  "fr": "De toute façon, pourquoi je devrais me taper\ntout ce trajet juste pour le voir ?"
+ },
+ {
+  "n": 67,
+  "fr": "C'est n'importe quoi, sérieux."
+ },
+ {
+  "n": 68,
+  "fr": "Ah, j'ai quand même un peu envie de\njeter un œil..."
+ },
+ {
+  "n": 69,
+  "fr": "J'hésite, j'ai envie de voir mais en même\ntemps pas trop..."
+ },
+ {
+  "n": 70,
+  "fr": "J-Je suis vraiment pas à l'aise avec la hauteur."
+ },
+ {
+  "n": 71,
+  "fr": "Enfin, pas au point d'avoir le vertige non\nplus, mais..."
+ },
+ {
+  "n": 72,
+  "fr": "Nous allons bientôt arriver à notre terminus,\nla Cité royale de Grancel, dans le royaume\nde Liberl."
+ },
+ {
+  "n": 73,
+  "fr": "Veuillez vérifier une dernière fois que vous\nn'oubliez aucun effet personnel."
+ },
+ {
+  "n": 74,
+  "fr": "Monsieur, vous avez entendu l'annonce ?"
+ },
+ {
+  "n": 75,
+  "fr": "Nous allons bientôt arriver à notre terminus,\nla Cité royale de Grancel, dans le royaume\nde Liberl."
+ },
+ {
+  "n": 76,
+  "fr": "Veuillez vérifier une dernière fois que vous\nn'oubliez aucun effet personnel."
+ },
+ {
+  "n": 77,
+  "fr": "Ce négociateur, aussi jeune qu'il soit,\nn'a rien lâché..."
+ },
+ {
+  "n": 78,
+  "fr": "Hmm, la prochaine fois, je devrais peut-être\nen profiter pour le débaucher..."
+ },
+ {
+  "n": 79,
+  "fr": "Ce négociateur, aussi jeune qu'il soit,\nn'a rien lâché..."
+ },
+ {
+  "n": 80,
+  "fr": "Bon, peu importe, de mon côté j'ai déjà un\nexcellent informateur."
+ },
+ {
+  "n": 81,
+  "fr": "La prochaine fois, ce sera du 60-40, non,\ndu 70-30 en ma faveur !"
+ },
+ {
+  "n": 82,
+  "fr": "Oui, mais au final, vous avez quand même\nréussi à imposer vos conditions, Mirano..."
+ },
+ {
+  "n": 83,
+  "fr": "On peut pas vraiment dire que vous avez perdu."
+ },
+ {
+  "n": 84,
+  "fr": "Pfiou, quelle négociation incroyable..."
+ },
+ {
+  "n": 85,
+  "fr": "Réussir à tenir tête à Mirano comme ça..."
+ },
+ {
+  "n": 86,
+  "fr": "L-Le monde est vraiment plein de surprises..."
+ },
+ {
+  "n": 87,
+  "fr": "Monsieur, s'il vous plaît, ne venez pas par ici."
+ },
+ {
+  "n": 88,
+  "fr": "Vous risqueriez d'accrocher quelque chose\net de vous blesser."
+ },
+ {
+  "n": 89,
+  "fr": "Bien, la pression orbale est normale."
+ },
+ {
+  "n": 90,
+  "fr": "Ah, monsieur.\nS'il vous plaît, ne venez pas par ici."
+ },
+ {
+  "n": 91,
+  "fr": "Aaah, je vois..."
+ },
+ {
+  "n": 92,
+  "fr": "Alors comme ça, tu es revenu au Liberl\npour faire une enquête complémentaire sur\nce qu'il s'est passé plus tôt cette année ?"
+ },
+ {
+  "n": 93,
+  "fr": "On peut dire ça, ouais."
+ },
+ {
+  "n": 94,
+  "fr": "Au fait, Dorothy, qu'est-ce que tu fais\nà bord d'un aéronef international ?"
+ },
+ {
+  "n": 95,
+  "fr": "Tu parlais du quartier oriental, mais me dis\npas que tu étais partie en reportage ?"
+ },
+ {
+  "n": 96,
+  "fr": "Hé hé, tout juste..."
+ },
+ {
+  "n": 97,
+  "fr": "Cette fois aussi, Nial m'a dit d'y aller\ntoute seule."
+ },
+ {
+  "n": 98,
+  "fr": "Hé, il manque pas d'air celui-là."
+ },
+ {
+  "n": 99,
+  "fr": "Confier un reportage à l'étranger à\nDorothy seule..."
+ },
+ {
+  "n": 100,
+  "fr": "... Mais bon, c'est vrai.\nC'est peut-être en lui donnant des\nresponsabilités qu'on fait grandir quelqu'un."
+ },
+ {
+  "n": 101,
+  "fr": "Hé hé, comptez sur moi..."
+ },
+ {
+  "n": 102,
+  "fr": "Au début, c'était censé être un reportage\nau marché de Bose, mais je m'en suis plutôt\nbien sortie..."
+ },
+ {
+  "n": 103,
+  "fr": "Hein... ?"
+ },
+ {
+  "n": 104,
+  "fr": "Attends... Nial t'avait dit de faire\nun reportage à Bose ? Pas en Calvard ?"
+ },
+ {
+  "n": 105,
+  "fr": "Oui, ça devait être ça..."
+ },
+ {
+  "n": 106,
+  "fr": "... mais j'ai fait une petite sieste sur mon siège\ndans l'aéronef, et quand je me suis réveillée,\non était arrivés dans la capitale de la Calvard..."
+ },
+ {
+  "n": 107,
+  "fr": "Bizarre, non ?"
+ },
+ {
+  "n": 108,
+  "fr": "Mais tu t'es carrément trompée d'aéronef, oui !"
+ },
+ {
+  "n": 109,
+  "fr": "Et t'es restée plusieurs jours\ndans la République comme ça !?"
+ },
+ {
+  "n": 110,
+  "fr": "Et ton passeport ?\nTes frais de voyage !?"
+ },
+ {
+  "n": 111,
+  "fr": "En fait, il y avait heureusement quelqu'un\nde l'ambassade du Liberl à l'aéroport qui\nm'a fait un passeport temporaire..."
+ },
+ {
+  "n": 112,
+  "fr": "... et pendant le reportage, plein de gens ont\nété super gentils avec moi, alors j'ai pas eu\nde problème de miras..."
+ },
+ {
+  "n": 113,
+  "fr": "Pfiou...\nFace à autant d'absurdités, je sais plus quoi dire..."
+ },
+ {
+  "n": 114,
+  "fr": "N'empêche, avec tout ça, Nial doit être mort\nd'inquiétude, non ?"
+ },
+ {
+  "n": 115,
+  "fr": "Hmm, tu crois ?"
+ },
+ {
+  "n": 116,
+  "fr": "Quand je l'ai appelé hier pour dire que je rentrais,\non aurait dit qu'il avait super mal au ventre..."
+ },
+ {
+  "n": 117,
+  "fr": "Faut dire que trop fumer, c'est vraiment\npas bon pour la santé !"
+ },
+ {
+  "n": 118,
+  "fr": "(Je crois pas que ce soit la cigarette le problème,\nmais plutôt une gastrite nerveuse...)"
+ },
+ {
+  "n": 119,
+  "fr": "{color 5}── Nous vous remercions d'avoir choisi l'aéronef international « Gretna » aujourd'hui."
+ },
+ {
+  "n": 120,
+  "fr": "{color 5}Dans environ trente minutes, notre aéronef arrivera à son terminus, la Cité royale\nde Grancel, dans le royaume de Liberl."
+ },
+ {
+  "n": 121,
+  "fr": "{color 5}Nous vous prions de bien vouloir vérifier vos bagages et de regagner vos sièges avant l'atterrissage."
+ },
+ {
+  "n": 122,
+  "fr": "{color 5}── En vous souhaitant une agréable fin de vol."
+ },
+ {
+  "n": 123,
+  "fr": "Pfiou... On arrive bientôt, on dirait."
+ },
+ {
+  "n": 124,
+  "fr": "Je vais aller faire un tour avant qu'on atterrisse..."
+ },
+ {
+  "n": 125,
+  "fr": "Et toi, Dorothy, tu vas faire quoi ?"
+ },
+ {
+  "n": 126,
+  "fr": "Hmm, voyons voir..."
+ },
+ {
+  "n": 127,
+  "fr": "Puisque c'est une occasion rare d'être à bord\nd'un aéronef international, je vais aller prendre\nencore quelques photos !"
+ },
+ {
+  "n": 128,
+  "fr": "D'accord, bon courage."
+ },
+ {
+  "n": 129,
+  "fr": "Hé hé. À plus tard alors !"
+ },
+ {
+  "n": 130,
+  "fr": "{color 5}... Chers passagers, votre attention s'il vous plaît."
+ },
+ {
+  "n": 131,
+  "fr": "{color 5}Notre aéronef va bientôt arriver à son terminus, la Cité royale de Grancel,\ndans le royaume de Liberl."
+ },
+ {
+  "n": 132,
+  "fr": "{color 5}L'appareil risque de secouer un peu lors de l'atterrissage, veuillez regagner\nvos sièges au plus vite."
+ }
+]

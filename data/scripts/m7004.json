@@ -1,0 +1,22 @@
+[
+ {
+  "n": 1,
+  "fr": "Trouvé : {item item[437]}{color 0}."
+ },
+ {
+  "n": 2,
+  "fr": "Trouvé : {item item[437]}{color 0}.\nInventaire plein. Objet reposé."
+ },
+ {
+  "n": 3,
+  "fr": "{color 5}J'aurais vraiment dû commander cet orbement \nde sécurité auprès du CTZ.{color 0}"
+ },
+ {
+  "n": 4,
+  "fr": "{color 0}Trouvés :\n{color 2}#62I 50 Sepiths de temps\n{color 2}#60I 50 Sepiths d'espace\n{color 2}#61I 50 Sepiths de mirage{color 0}"
+ },
+ {
+  "n": 5,
+  "fr": "{color 5}Un coffre oublié\nPillé et laissé pour compte\nLa tristesse."
+ }
+]

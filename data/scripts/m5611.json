@@ -1,0 +1,66 @@
+[
+ {
+  "n": 22,
+  "fr": "Ugh..."
+ },
+ {
+  "n": 51,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 52,
+  "fr": "Restaurer les PV/PE"
+ },
+ {
+  "n": 53,
+  "fr": "Acheter"
+ },
+ {
+  "n": 54,
+  "fr": "Synthétiser des quartz"
+ },
+ {
+  "n": 55,
+  "fr": "Terminer"
+ },
+ {
+  "n": 56,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 57,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 58,
+  "fr": "{color 5}La porte est fermée à clé."
+ },
+ {
+  "n": 59,
+  "fr": "{color 5}La porte est fermée à clé."
+ },
+ {
+  "n": 60,
+  "fr": "{color 5}La porte est fermée à clé."
+ },
+ {
+  "n": 61,
+  "fr": "{color 5}La porte est fermée à clé."
+ },
+ {
+  "n": 62,
+  "fr": "{color 5}La porte est fermée à clé."
+ },
+ {
+  "n": 64,
+  "fr": "[Ne rien faire]"
+ },
+ {
+  "n": 67,
+  "fr": "[Ne rien faire]"
+ },
+ {
+  "n": 71,
+  "fr": "[Ne rien faire]"
+ }
+]

@@ -1,0 +1,414 @@
+[
+ {
+  "n": 1,
+  "fr": "Oh, sérieusement... \nPourquoi y en a encore autant ?"
+ },
+ {
+  "n": 2,
+  "fr": "Comment peut-on atteindre la guilde\ndans cette situation ?!"
+ },
+ {
+  "n": 3,
+  "fr": "Je pense que nous allons devoir passer\nle reste de la nuit ici, malheureusement."
+ },
+ {
+  "n": 4,
+  "fr": "Il n'y aura pas besoin d'en arriver là.\nJe pense que si je peux trouver une\nouverture, on pourra passer en force."
+ },
+ {
+  "n": 5,
+  "fr": "Il s'agit juste d'y parvenir..."
+ },
+ {
+  "n": 6,
+  "fr": "Je ne pense pas que cela soit une bonne idée. \nNous devons être prudentes et nous reposer \ntant que nous le pouvons."
+ },
+ {
+  "n": 7,
+  "fr": "(Aah...\nElle marque un point, mais...)"
+ },
+ {
+  "n": 8,
+  "fr": "(Reprends-toi, Schera ! Je ne peux pas\nme laisser dépasser par mes émotions !)"
+ },
+ {
+  "n": 9,
+  "fr": "Il n'y a même pas de garantie qu'on\nsoit en sécurité ici, vous savez."
+ },
+ {
+  "n": 10,
+  "fr": "Je continue de penser que l'option la plus sûre \nsur le long terme est d'aller à la guilde, peu\nimporte ce que l'on doit faire pour y arriver."
+ },
+ {
+  "n": 11,
+  "fr": "H-Hé ! Où croyez-vous aller ?!"
+ },
+ {
+  "n": 12,
+  "fr": "Je pense que le deuxième étage est un meilleur \nendroit pour se reposer que le premier."
+ },
+ {
+  "n": 13,
+  "fr": "Ce sera plus facile de s'enfuir d'ici que d'en bas."
+ },
+ {
+  "n": 14,
+  "fr": "Ceci devrait être un bon coin."
+ },
+ {
+  "n": 15,
+  "fr": "Attendez une petite minute."
+ },
+ {
+  "n": 16,
+  "fr": "C'est de votre sécurité dont on parle, là !\nCela ne vous ferait pas de mal de m'écouter."
+ },
+ {
+  "n": 17,
+  "fr": "Ces hommes vont patrouiller attentivement\npour le restant de la nuit."
+ },
+ {
+  "n": 18,
+  "fr": "Ils ne vont pas vous donner l'ouverture que vous \nvoulez... ou du moins, je ne pense pas qu'ils le \nferont."
+ },
+ {
+  "n": 19,
+  "fr": "Nous sommes arrivées jusqu'ici, donc je pense qu'il \nvaudrait mieux pour nous que nous nous reposions \net que nous réessayions demain. Ne croyez-vous pas ?"
+ },
+ {
+  "n": 20,
+  "fr": "......"
+ },
+ {
+  "n": 21,
+  "fr": "... Que nous réessayions quoi ?"
+ },
+ {
+  "n": 22,
+  "fr": "Pardon ?"
+ },
+ {
+  "n": 23,
+  "fr": "Vous cachez encore quelque chose, n'est-ce pas ?"
+ },
+ {
+  "n": 24,
+  "fr": "D'une, vous semblez vraaaiment bien connaître \ncette ville, pour quelqu'un qui prétend que c'est \nla première fois qu'elle vient ici."
+ },
+ {
+  "n": 25,
+  "fr": "Vous semblez également savoir beaucoup de \nchoses sur ces hommes et ce qu'ils pourraient \nfaire ou non..."
+ },
+ {
+  "n": 26,
+  "fr": "... Après quoi en avez-vous vraiment ?"
+ },
+ {
+  "n": 27,
+  "fr": "À ce stade, il est clair comme de l'eau de roche \nque vous désirez plus que simplement leur \néchapper."
+ },
+ {
+  "n": 28,
+  "fr": "Si tel n'était pas le cas, vous n'auriez pas demandé \nà visiter la capitale. Non pas que je pense que c'est\nce que vous voulez, non plus."
+ },
+ {
+  "n": 29,
+  "fr": "Quel est votre véritable but ?"
+ },
+ {
+  "n": 30,
+  "fr": "... Alors ? Pas de réponse ?"
+ },
+ {
+  "n": 31,
+  "fr": "......"
+ },
+ {
+  "n": 32,
+  "fr": "... Notre travail est basé sur la confiance."
+ },
+ {
+  "n": 33,
+  "fr": "On ne peut pas accepter de requêtes venant de \ngens qui ne sont pas honnêtes avec nous, sinon \nqui sait quel genre de crimes on pourrait favoriser ?"
+ },
+ {
+  "n": 34,
+  "fr": "Allez. Toute cette histoire à propos de cet \nhéritage était un énorme mensonge, n'est-ce pas ?"
+ },
+ {
+  "n": 35,
+  "fr": "Quelque chose chez vous m'interpelle depuis \nque l'on est parties ensemble. À y réfléchir,\ndepuis que vous êtes arrivée à la guilde."
+ },
+ {
+  "n": 36,
+  "fr": "Pourquoi m'avez-vous menti ?"
+ },
+ {
+  "n": 37,
+  "fr": "Euhhh..."
+ },
+ {
+  "n": 38,
+  "fr": "L'histoire à propos de l'héritage est vraie.\nJe le jure."
+ },
+ {
+  "n": 39,
+  "fr": "Je... je veux aller au château de Grancel."
+ },
+ {
+  "n": 40,
+  "fr": "Je suis vraiment celle à qui mon grand-père\na légué sa fortune."
+ },
+ {
+  "n": 41,
+  "fr": "Mais je n'ai pas encore rempli les procédures  \nnécessaires pour véritablement en hériter."
+ },
+ {
+  "n": 42,
+  "fr": "Tant que je n'ai pas effectué les démarches\nnécessaires à l'administration du château de \nGrancel, je n'ai légalement droit à rien."
+ },
+ {
+  "n": 43,
+  "fr": "Et c'est pour cela qu'il y a autant de ces hommes \nen noir aux alentours."
+ },
+ {
+  "n": 44,
+  "fr": "Tous les membres de ma famille savent \nexactement ce que je dois faire, voyez-vous."
+ },
+ {
+  "n": 45,
+  "fr": "C'est pourquoi ils... essaient de s'assurer que je \nne puisse pas y arriver."
+ },
+ {
+  "n": 46,
+  "fr": "......"
+ },
+ {
+  "n": 47,
+  "fr": "Mais, si je ne continue pas d'avancer, je..."
+ },
+ {
+  "n": 48,
+  "fr": "Quel bourbier..."
+ },
+ {
+  "n": 49,
+  "fr": "Bon, d'accord. Partons du principe que je crois \nà tout ce que vous venez de raconter."
+ },
+ {
+  "n": 50,
+  "fr": "Pourquoi est-ce que j'apprends cela seulement \nmaintenant ?"
+ },
+ {
+  "n": 51,
+  "fr": "Euhhh..."
+ },
+ {
+  "n": 52,
+  "fr": "C-C'est..."
+ },
+ {
+  "n": 53,
+  "fr": "Vous pensiez que j'en aurais après cet argent, \nn'est-ce pas ?"
+ },
+ {
+  "n": 54,
+  "fr": "Si c'était le cas, j'aurais eu toutes un tas\nd'occasions d'en profiter pour vous voler\ncet argent."
+ },
+ {
+  "n": 55,
+  "fr": "C'est ce que vous pensiez que je ferais, n'est-ce \npas ? Je jouerais le jeu, puis volerais l'argent à \nla seconde où une chance se présenterait."
+ },
+ {
+  "n": 56,
+  "fr": "Ai-je vraiment AUTANT l'air d'une enfoirée,\nà vos yeux ?!#2S"
+ },
+ {
+  "n": 57,
+  "fr": "N-Non ! Ce n'est pas vrai !#2S"
+ },
+ {
+  "n": 58,
+  "fr": "Ce n'est pas cela du tout."
+ },
+ {
+  "n": 59,
+  "fr": "Après avoir perdu Grand-père, je vivais toute \nseule."
+ },
+ {
+  "n": 60,
+  "fr": "Mais à la seconde où son testament est devenu \npublic, une foule de gens m'est tombée dessus."
+ },
+ {
+  "n": 61,
+  "fr": "Des gens qui, comme vous l'avez dit, étaient \nseulement intéressés par l'idée de s'accaparer \nsa fortune."
+ },
+ {
+  "n": 62,
+  "fr": "C'est pourquoi j'ai décidé d'essayer de trouver \nquelqu'un en qui je POUVAIS avoir confiance pour \nm'escorter."
+ },
+ {
+  "n": 63,
+  "fr": "Donc ce n'est pas que je ne pense pas pouvoir\nvous faire confiance. Pas du tout."
+ },
+ {
+  "n": 64,
+  "fr": "E-Et, euh..."
+ },
+ {
+  "n": 65,
+  "fr": "... J'admets que vouloir explorer la capitale était un \nmensonge. Je suis désolée de vous avoir menti."
+ },
+ {
+  "n": 66,
+  "fr": "*soupir* Vous êtes une idiote de première..."
+ },
+ {
+  "n": 67,
+  "fr": "... Je suis désolée..."
+ },
+ {
+  "n": 68,
+  "fr": "Vous auriez pu dire tout cela dès le début et \nnous éviter beaucoup de problèmes."
+ },
+ {
+  "n": 69,
+  "fr": "Si j'avais su que c'était ce que vous essayiez de \nfaire, j'aurais été en mesure de vous escorter \nofficiellement là où vous voulez aller."
+ },
+ {
+  "n": 70,
+  "fr": "Et la Guilde aurait aussi été l'endroit le plus sûr \noù vous cacher. On n'aurait pas fini dans ce taudis \nà la place."
+ },
+ {
+  "n": 71,
+  "fr": "Je... suppose que vous avez raison."
+ },
+ {
+  "n": 72,
+  "fr": "......"
+ },
+ {
+  "n": 73,
+  "fr": "Je... j'avais juste... peur."
+ },
+ {
+  "n": 74,
+  "fr": "Je ne pourrai jamais oublier ce que j'ai vu,\nce jour-là."
+ },
+ {
+  "n": 75,
+  "fr": "Ce que j'ai vu dans les yeux de tous les gens\nvenus écouter la lecture de ce testament."
+ },
+ {
+  "n": 76,
+  "fr": "L'horreur que j'ai ressentie quand je l'ai vu."
+ },
+ {
+  "n": 77,
+  "fr": "La fureur. La folie. Un éclat froid et meurtrier..."
+ },
+ {
+  "n": 78,
+  "fr": "Des émotions que personne ne peut expliquer. \nSur lesquelles personne ne peut mettre de mots..."
+ },
+ {
+  "n": 79,
+  "fr": "Ce n'était pas visible longtemps avant qu'ils \nn'arrivent à l'étouffer et le dissimuler..."
+ },
+ {
+  "n": 80,
+  "fr": "... Mais c'était toujours là."
+ },
+ {
+  "n": 81,
+  "fr": "Car maintenant, je crois que c'est quelque chose \nque nous possédons tous naturellement."
+ },
+ {
+  "n": 82,
+  "fr": "Les êtres humains sont capables d'une cruauté \nsans limites. Chacun de nous."
+ },
+ {
+  "n": 83,
+  "fr": "Et ce sont ces êtres humains qui me faisaient peur."
+ },
+ {
+  "n": 84,
+  "fr": "Ce n'est pas que je ne fais pas confiance aux \nbracers..."
+ },
+ {
+  "n": 85,
+  "fr": "C'est juste que..."
+ },
+ {
+  "n": 86,
+  "fr": "... J'ai eu si peur..."
+ },
+ {
+  "n": 87,
+  "fr": "......"
+ },
+ {
+  "n": 88,
+  "fr": "J-Je suis vraiment désolée !"
+ },
+ {
+  "n": 89,
+  "fr": "Je sais que je n'aurais pas dû vous faire perdre \nvotre temps avec cela..."
+ },
+ {
+  "n": 90,
+  "fr": "......"
+ },
+ {
+  "n": 91,
+  "fr": "Euhh... Je..."
+ },
+ {
+  "n": 92,
+  "fr": "Je n'aurais jamais dû vous mêler à tout cela, \nalors que vous étiez déjà si occupée..."
+ },
+ {
+  "n": 93,
+  "fr": "Oubliez juste cette requê--"
+ },
+ {
+  "n": 94,
+  "fr": "... Écoutez."
+ },
+ {
+  "n": 95,
+  "fr": "... Hein ?"
+ },
+ {
+  "n": 96,
+  "fr": "Me donner à 100 % pour toutes les requêtes \ndont j'ai la charge est un de mes principes."
+ },
+ {
+  "n": 97,
+  "fr": "Ne me sous-estimez pas."
+ },
+ {
+  "n": 98,
+  "fr": "{0x18}{color 12}C'est moi qui devrais vous présenter \ndes excuses."
+ },
+ {
+  "n": 99,
+  "fr": "{0x18}{color 12}J'ai voulu être forte et vivre la tête \nhaute."
+ },
+ {
+  "n": 100,
+  "fr": "{0x18}{color 12}Je continue de croire que j'avais raison \nde penser cela, et oui, j'ai vécu à fond jusqu'à présent..."
+ },
+ {
+  "n": 101,
+  "fr": "{0x18}{color 12}... Mais vous m'avez fait remarquer qu'il \ny a quelque chose qui ne va pas avec mon attitude. \nJe m'y prends mal."
+ },
+ {
+  "n": 102,
+  "fr": "{0x18}{color 12}Et cela m'a fait prendre conscience\nd'une chose... je veux pouvoir continuer à avancer\nfièrement, à chaque instant."
+ },
+ {
+  "n": 103,
+  "fr": "{0x18}{color 12}Alors ne vous excusez plus, d'accord ? \nJe veux m'assurer que cette requête aboutisse, \njusqu'à la fin."
+ }
+]

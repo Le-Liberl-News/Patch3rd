@@ -1,0 +1,1654 @@
+[
+ {
+  "n": 1,
+  "fr": "Trouvé : {item item[502]}{color 0}."
+ },
+ {
+  "n": 2,
+  "fr": "Trouvé : {item item[502]}{color 0}.\nInventaire plein. Objet reposé."
+ },
+ {
+  "n": 3,
+  "fr": "Vous vous êtes jamais demandé comment\ncertains coffres communiquaient entre eux ?\nIls utilisent simplement la coffropathie."
+ },
+ {
+  "n": 4,
+  "fr": "Trouvée : {item item[510]}{color 0}."
+ },
+ {
+  "n": 5,
+  "fr": "Trouvée : {item item[510]}{color 0}.\nInventaire plein. Objet reposé."
+ },
+ {
+  "n": 6,
+  "fr": "Le coffre est vide.\n......\nUne blague ? Vous me prenez pour un clown ?"
+ },
+ {
+  "n": 7,
+  "fr": "Trouvé : {item item[502]}{color 0}."
+ },
+ {
+  "n": 8,
+  "fr": "Trouvé : {item item[502]}{color 0}.\nInventaire plein. Objet reposé."
+ },
+ {
+  "n": 9,
+  "fr": "Et voilà, je suis vide...\nPlus qu'à attendre le New Game+ pour récupérer un trésor."
+ },
+ {
+  "n": 10,
+  "fr": "Trouvée : {item item[510]}{color 0}."
+ },
+ {
+  "n": 11,
+  "fr": "Trouvée : {item item[510]}{color 0}.\nInventaire plein. Objet reposé."
+ },
+ {
+  "n": 12,
+  "fr": "J'espère que dans le remake mon trésor sera meilleur.\nUn beau quartz pour rendre le joueur heureux plutôt\nqu'une Recharge PE I qui sera vite oubliée dans son sac."
+ },
+ {
+  "n": 13,
+  "fr": "Hmm... Votre attention s'il vous plaît."
+ },
+ {
+  "n": 14,
+  "fr": "Au nom de la société Conrad, je vous\nremercie chaleureusement d'être\nvenus si nombreux à cette réception."
+ },
+ {
+  "n": 15,
+  "fr": "Comme vous le savez tous sans doute,\naujourd'hui est un jour mémorable..."
+ },
+ {
+  "n": 16,
+  "fr": "{color 0}... Oui, en effet !"
+ },
+ {
+  "n": 17,
+  "fr": "Il y a dix ans, jour pour jour, notre société..."
+ },
+ {
+  "n": 18,
+  "fr": "Hé hé... Vous n'avez pas l'air de vous amuser\nautant que lui, m'est avis."
+ },
+ {
+  "n": 19,
+  "fr": "Mais vous devriez au moins faire semblant d'écouter,\nce serait plus convenable."
+ },
+ {
+  "n": 20,
+  "fr": "Puisque vous êtes ici, vous devez bien savoir\nde quel genre de personne il s'agit."
+ },
+ {
+  "n": 21,
+  "fr": "{color 0}#1600F── Hermann Conrad."
+ },
+ {
+  "n": 22,
+  "fr": "Un marchand de mort qui a fait fortune pendant la guerre\nde Cent Jours, s'imposant comme l'un des hommes\nles plus riches de l'Empire malgré sa réussite récente."
+ },
+ {
+  "n": 23,
+  "fr": "Et depuis quelques années, il s'est associé au groupe\nReinford, au point de devenir l'un des membres du\nconseil d'administration..."
+ },
+ {
+  "n": 24,
+  "fr": "Oui, ma foi, si l'on ne regarde que son parcours,\nc'est un sacré personnage."
+ },
+ {
+  "n": 25,
+  "fr": "... Même si à le voir en vrai, je dois dire que\nc'est un peu décevant."
+ },
+ {
+  "n": 26,
+  "fr": "Hi hi.\nDire des choses pareilles..."
+ },
+ {
+  "n": 27,
+  "fr": "Vous avez beau porter un masque,\nne soyez pas surpris si les hommes en\nnoir là-bas viennent vous embarquer."
+ },
+ {
+  "n": 28,
+  "fr": "Hé hé, c'est une perspective bien effrayante."
+ },
+ {
+  "n": 29,
+  "fr": "J'imagine qu'un malotru dans mon genre finirait\npar se faire expulser vite fait."
+ },
+ {
+  "n": 30,
+  "fr": "... Jeté par la fenêtre, et hop !"
+ },
+ {
+  "n": 31,
+  "fr": "Hi hi, vous êtes vraiment amusant."
+ },
+ {
+  "n": 32,
+  "fr": "Vous êtes de la presse... ?\nOu peut-être bien un fonctionnaire ?"
+ },
+ {
+  "n": 33,
+  "fr": "Hé hé, je vous laisse imaginer."
+ },
+ {
+  "n": 34,
+  "fr": "Quoi qu'il en soit...\nOn a du mal à croire qu'on est à bord d'un aéronef."
+ },
+ {
+  "n": 35,
+  "fr": "Et encore moins qu'on se trouve à plusieurs\nmilliers d'arges au-dessus du sol..."
+ },
+ {
+  "n": 36,
+  "fr": "Et bien, c'est le tout nouvel aéronef de ligne\ndu groupe Reinford.\nOn n'en attendait pas moins d'eux..."
+ },
+ {
+  "n": 37,
+  "fr": "Aux dernières nouvelles, il était présenté comme\nle plus grand aéronef du monde, non ?"
+ },
+ {
+  "n": 38,
+  "fr": "Avec ses 120 arges de long, c'est sûrement le cas."
+ },
+ {
+  "n": 39,
+  "fr": "… Du moins, aux yeux du monde."
+ },
+ {
+  "n": 40,
+  "fr": "Hi hi, comme c'est mystérieux."
+ },
+ {
+  "n": 41,
+  "fr": "Utiliser des paroles si énigmatiques pour\nessayer de séduire une femme..."
+ },
+ {
+  "n": 42,
+  "fr": "Tout jeune que vous soyez, vous maniez cela\navec une grande aisance."
+ },
+ {
+  "n": 43,
+  "fr": "Eh bien, on dirait que le masque ne peut\ncacher tous mes secrets."
+ },
+ {
+  "n": 44,
+  "fr": "Décidément... Je ferais peut-être mieux\nde filer avant de trop en dévoiler."
+ },
+ {
+  "n": 45,
+  "fr": "Hi hi... Si le cœur vous en dit, n'hésitez pas\nà revenir me tenir compagnie."
+ },
+ {
+  "n": 46,
+  "fr": "Ce n'est pas tous les jours qu'on a l'occasion\nd'avoir une discussion aussi plaisante avec\nun inconnu."
+ },
+ {
+  "n": 47,
+  "fr": "... Et au besoin, nous pourrions poursuivre\ntranquillement dans votre chambre après\nla soirée."
+ },
+ {
+  "n": 48,
+  "fr": "Ha ha...\nJ'en serais honoré, madame..."
+ },
+ {
+  "n": 49,
+  "fr": "... mais seulement si je parviens à tromper\nla vigilance de la Déesse."
+ },
+ {
+  "n": 50,
+  "fr": "Quant à savoir pourquoi votre chambre\nne convient pas... ma foi, je préfère\nne pas demander."
+ },
+ {
+  "n": 51,
+  "fr": "Et je vous saurais gré de ne pas me forcer\nà évoquer cet imbécile."
+ },
+ {
+  "n": 52,
+  "fr": "(La fête bat son plein désormais...\nC'est le moment idéal.)"
+ },
+ {
+  "n": 53,
+  "fr": "(Sa chambre privée se trouve tout en haut,\nde l'autre côté du pont...)"
+ },
+ {
+  "n": 54,
+  "fr": "(Bien... C'est parti.)"
+ },
+ {
+  "n": 55,
+  "fr": "(......)"
+ },
+ {
+  "n": 56,
+  "fr": "(C'est étrange...\nJ'ai l'impression que quelqu'un me surveillait...)"
+ },
+ {
+  "n": 57,
+  "fr": "(... Peu importe.\nIl faut que je m'y mette.)"
+ },
+ {
+  "n": 58,
+  "fr": "(Direction l'autre côté du pont...\nLa chambre privée est au dernier étage.)"
+ },
+ {
+  "n": 59,
+  "fr": "Le voilà... !"
+ },
+ {
+  "n": 60,
+  "fr": "Sur l'honneur des jaegers du nord,\ntu n'iras pas plus loin !"
+ },
+ {
+  "n": 61,
+  "fr": "*soupir* C'est bien ce qu'il me semblait,\nvous êtes des jaegers en activité...\nEt un groupe plutôt réputé, en plus."
+ },
+ {
+  "n": 62,
+  "fr": "Je comprends votre situation par rapport\nà votre pays, mais vous pourriez pas...\nje sais pas... me laisser passer ?"
+ },
+ {
+  "n": 63,
+  "fr": "La ferme !\nQu'est-ce que tu peux bien comprendre\nà notre souffrance !"
+ },
+ {
+  "n": 64,
+  "fr": "Pour notre patrie de l'Ambria du Nord qui souffre\nde la faim et de la pauvreté, nous ne pouvons pas\nnous permettre d'échouer ici !"
+ },
+ {
+  "n": 65,
+  "fr": "... Décidément.\nCe monde est vraiment impitoyable."
+ },
+ {
+  "n": 66,
+  "fr": "Dans ce cas, moi aussi, je vais devoir\ny aller à fond !"
+ },
+ {
+  "n": 67,
+  "fr": "Q-Qu'est-ce que...\nQu'est-ce qu'il se passe ici !?"
+ },
+ {
+  "n": 68,
+  "fr": "C-C'est sans doute un intrus..."
+ },
+ {
+  "n": 69,
+  "fr": "Et en plus on dirait bien... qu'il sait ce qu'il fait."
+ },
+ {
+  "n": 70,
+  "fr": "Un intrus ?!\nMais pourquoi je vous paie, à votre avis ?!"
+ },
+ {
+  "n": 71,
+  "fr": "Tuez-le si vous voulez, mais débarrassez-moi\nde lui au plus vite !"
+ },
+ {
+  "n": 72,
+  "fr": "Ah, se débarrasser de moi, ça va pas être possible."
+ },
+ {
+  "n": 73,
+  "fr": "M-Mais, qui êtes-vous... ?"
+ },
+ {
+  "n": 74,
+  "fr": "Un prêtre de l'Église... Ne me dites pas que... !"
+ },
+ {
+  "n": 75,
+  "fr": "Ha ha, je me disais aussi qu'en ayant un truc\npareil entre les mains, vous deviez connaître\nnotre existence."
+ },
+ {
+  "n": 76,
+  "fr": "E-Espèce de... !"
+ },
+ {
+  "n": 77,
+  "fr": "Rends-le-moi !\nC'est à MOI !"
+ },
+ {
+  "n": 78,
+  "fr": "Navré, mais cet objet doit être restitué\nà son propriétaire légitime, la Déesse."
+ },
+ {
+  "n": 79,
+  "fr": "C'est pas le genre de truc qu'un simple\nindividu peut garder pour son petit plaisir."
+ },
+ {
+  "n": 80,
+  "fr": "T-Tuez-le..."
+ },
+ {
+  "n": 81,
+  "fr": "Tuez-le vite et ramenez-moi ce médaillon !"
+ },
+ {
+  "n": 82,
+  "fr": "Argh, ah..."
+ },
+ {
+  "n": 83,
+  "fr": "Hermann Conrad."
+ },
+ {
+  "n": 84,
+  "fr": "Conformément aux lois de l'Église,\net au nom d'Aidios, la Déesse des Cieux,\nvous êtes en état d'arrestation."
+ },
+ {
+  "n": 85,
+  "fr": "Vous êtes accusé de possession non autorisée\net d'utilisation illégale d'un artéfact."
+ },
+ {
+  "n": 86,
+  "fr": "V-Vous croyez vraiment que vous allez vous\nen tirer comme ça !?"
+ },
+ {
+  "n": 87,
+  "fr": "Vous avez beau appartenir à l'Église septienne,\nsi vous me touchez, moi, un administrateur\ndu groupe Reinford..."
+ },
+ {
+  "n": 88,
+  "fr": "Ah oui, à propos de ça, on a déjà réglé la\nquestion avec vos patrons."
+ },
+ {
+  "n": 89,
+  "fr": "De toute façon, vous avez fait pas mal de\nfolies avec ce truc, pas vrai ?"
+ },
+ {
+  "n": 90,
+  "fr": "Au point de créer un paquet de problèmes\nun peu partout, apparemment."
+ },
+ {
+  "n": 91,
+  "fr": "!!!"
+ },
+ {
+  "n": 92,
+  "fr": "Quand on vient de l'extérieur comme vous,\non a tendance à se faire beaucoup d'ennemis."
+ },
+ {
+  "n": 93,
+  "fr": "Enfin bref, dites-vous que vous avez pas eu\nde chance et laissez-vous faire gentiment."
+ },
+ {
+  "n": 94,
+  "fr": "Non..."
+ },
+ {
+  "n": 95,
+  "fr": "Nooon !{0x05}"
+ },
+ {
+  "n": 96,
+  "fr": "Argh... !{0x05}"
+ },
+ {
+  "n": 97,
+  "fr": "... Ah là là.\nMe faites pas perdre mon temps inutilement."
+ },
+ {
+  "n": 98,
+  "fr": "Et dire que cette mission devait être du gâteau..."
+ },
+ {
+  "n": 99,
+  "fr": "Mais capturer les personnes comme ça vivantes,\nc'est quand même bien galère..."
+ },
+ {
+  "n": 100,
+  "fr": "Halte-là !"
+ },
+ {
+  "n": 101,
+  "fr": "Oulà...\nVous êtes venus armés jusqu'aux dents, à ce que je vois."
+ },
+ {
+  "n": 102,
+  "fr": "Ça ne m'étonne pas d'un groupe réputé comme\nles « jaegers du nord ». Quelle réactivité."
+ },
+ {
+  "n": 103,
+  "fr": "La ferme !"
+ },
+ {
+  "n": 104,
+  "fr": "Maintenant qu'on est préparés, crois pas que\nça va se passer comme tout à l'heure !"
+ },
+ {
+  "n": 105,
+  "fr": "Sache qu'on a tout un bataillon en réserve\nsur cet aéronef !"
+ },
+ {
+  "n": 106,
+  "fr": "Même si tu as pris un otage,\ntu n'as nulle part où t'enfuir !"
+ },
+ {
+  "n": 107,
+  "fr": "Hé..."
+ },
+ {
+  "n": 108,
+  "fr": "Nous sommes tous chanceux aujourd'hui, pas vrai ?"
+ },
+ {
+  "n": 109,
+  "fr": "Quoi ?!"
+ },
+ {
+  "n": 110,
+  "fr": "Qu-Qu'est-ce que tu racontes ?"
+ },
+ {
+  "n": 111,
+  "fr": "Si cet idiot avait été déclaré « hérétique »..."
+ },
+ {
+  "n": 112,
+  "fr": "... j'aurais été obligé de chasser chacun d'entre\nvous jusqu'au dernier."
+ },
+ {
+  "n": 113,
+  "fr": "Qu... ?"
+ },
+ {
+  "n": 114,
+  "fr": "Ce... Ce type..."
+ },
+ {
+  "n": 115,
+  "fr": "Enfin bref, vous découragez pas et continuez à\nvous battre pour la reconstruction de votre patrie."
+ },
+ {
+  "n": 116,
+  "fr": "Tâchez seulement de ne pas entrer dans\nle viseur de l'« ordre des Gralsritter »."
+ },
+ {
+  "n": 117,
+  "fr": "C-C'est pas vrai..."
+ },
+ {
+  "n": 118,
+  "fr": "L'« ordre des Gralsritter »...\nQuels monstres..."
+ },
+ {
+  "n": 119,
+  "fr": "{color 2}#5PHa ha...\nVoilà qui était un spectacle plutôt divertissant."
+ },
+ {
+  "n": 120,
+  "fr": "Mais l'histoire ne fait que commencer,\nKevin Graham...{color 0}"
+ },
+ {
+  "n": 121,
+  "fr": "......"
+ },
+ {
+  "n": 122,
+  "fr": "......"
+ },
+ {
+  "n": 123,
+  "fr": "... Je peux vous aider ?"
+ },
+ {
+  "n": 124,
+  "fr": "Nous garantissons la sécurité au sein\nde la réception."
+ },
+ {
+  "n": 125,
+  "fr": "Soyez pleinement rassuré."
+ },
+ {
+  "n": 126,
+  "fr": "... Ne vous préoccupez pas de nous."
+ },
+ {
+  "n": 127,
+  "fr": "Profitez bien de votre soirée."
+ },
+ {
+  "n": 128,
+  "fr": "Veuillez nous excuser pour cette tenue peu\nconvenable, mais c'est pour votre sécurité..."
+ },
+ {
+  "n": 129,
+  "fr": "Nous comptons sur votre compréhension\net votre indulgence."
+ },
+ {
+  "n": 130,
+  "fr": "Veuillez nous excuser pour notre présence\npeu convenable."
+ },
+ {
+  "n": 131,
+  "fr": "Cependant, c'est uniquement pour assurer\nla sécurité de nos invités..."
+ },
+ {
+  "n": 132,
+  "fr": "Nous comptons sur votre compréhension\net votre indulgence."
+ },
+ {
+  "n": 133,
+  "fr": "... Oui, oui...\nBien entendu."
+ },
+ {
+  "n": 134,
+  "fr": "Et quant aux perspectives d'avenir de\nnotre société..."
+ },
+ {
+  "n": 135,
+  "fr": "(Hé hé...\nL'ambiance a l'air festive.)"
+ },
+ {
+  "n": 136,
+  "fr": "(Profitez-en bien, tant que vous le pouvez.)"
+ },
+ {
+  "n": 137,
+  "fr": "Ha ha ha... !\nImpressionnant comme toujours, Conrad."
+ },
+ {
+  "n": 138,
+  "fr": "Organiser un banquet dans les airs...\nCe n'est pas le premier riche venu qui\npourrait en faire autant."
+ },
+ {
+  "n": 139,
+  "fr": "Ah, absolument."
+ },
+ {
+  "n": 140,
+  "fr": "Ha ha ha, ravi de voir que cela\nvous plaît."
+ },
+ {
+  "n": 141,
+  "fr": "Mais ce n'est qu'un début.\nPour la suite, mes chers invités, nous allons..."
+ },
+ {
+  "n": 142,
+  "fr": "(Oh...\nLe marquis Ballad, célèbre pour ses folies financières,\net la PDG de la bijouterie St. Corries...)"
+ },
+ {
+  "n": 143,
+  "fr": "(C'est du beau monde que nous avons là.)"
+ },
+ {
+  "n": 144,
+  "fr": "(Hé... Continuez donc à profiter du banquet\npour le moment.)"
+ },
+ {
+  "n": 145,
+  "fr": "... Oui, oui...\nBien entendu."
+ },
+ {
+  "n": 146,
+  "fr": "Et quant aux perspectives d'avenir de\nnotre société..."
+ },
+ {
+  "n": 147,
+  "fr": "(Hé hé...\nL'ambiance a l'air festive.)"
+ },
+ {
+  "n": 148,
+  "fr": "(Profitez-en bien, tant que vous le pouvez.)"
+ },
+ {
+  "n": 149,
+  "fr": "Oh, vous êtes déjà de retour ?"
+ },
+ {
+  "n": 150,
+  "fr": "Hi hi, mon offre tient toujours si l'envie\nvous en prend."
+ },
+ {
+  "n": 151,
+  "fr": "Je peux me débarrasser de ce monsieur\nen deux temps trois mouvements."
+ },
+ {
+  "n": 152,
+  "fr": "Pardon, qu'avez-vous dit ?"
+ },
+ {
+  "n": 153,
+  "fr": "J-Je disais qu'aucun masque ne pourrait cacher\nvotre peau d'une blancheur cristalline..."
+ },
+ {
+  "n": 154,
+  "fr": "... ou l'éclat de vos pulpeuses lèvres rouges."
+ },
+ {
+  "n": 155,
+  "fr": "Hi hi, vous êtes un sacré flatteur."
+ },
+ {
+  "n": 156,
+  "fr": "Ma foi, la croissance de votre entreprise\na de quoi donner le tournis."
+ },
+ {
+  "n": 157,
+  "fr": "... D'ailleurs, votre petit coup de pouce de\nl'autre jour nous a bien servi."
+ },
+ {
+  "n": 158,
+  "fr": "... Ravi de savoir que cela vous a convenu."
+ },
+ {
+  "n": 159,
+  "fr": "Ha ha ha... !"
+ },
+ {
+  "n": 160,
+  "fr": "Ha ha ha... !"
+ },
+ {
+  "n": 161,
+  "fr": "Ha ha ha, je suis fier d'être le conseiller de\nvotre merveilleuse société."
+ },
+ {
+  "n": 162,
+  "fr": "... Mais ce n'est qu'un début, n'est-ce pas, Conrad ?"
+ },
+ {
+  "n": 163,
+  "fr": "Être un simple administrateur chez Reinford,\nc'est bien trop modeste pour vous."
+ },
+ {
+  "n": 164,
+  "fr": "Ha ha, il faut viser encore plus haut !"
+ },
+ {
+  "n": 165,
+  "fr": "Il semblerait qu'il nous réserve encore\nd'autres surprises."
+ },
+ {
+  "n": 166,
+  "fr": "Hi hi, j'ai hâte de voir ça."
+ },
+ {
+  "n": 167,
+  "fr": "... Le dressage des assiettes laisse à désirer."
+ },
+ {
+  "n": 168,
+  "fr": "C'est inadmissible...\nIl faudra que j'en touche un mot au chef plus tard..."
+ },
+ {
+  "n": 169,
+  "fr": "Le chef travaille pourtant habituellement à mon hôtel."
+ },
+ {
+  "n": 170,
+  "fr": "Ce n'est pas parce que les installations sont différentes\nqu'il faut se relâcher."
+ },
+ {
+  "n": 171,
+  "fr": "... Décidément, je dois tout surveiller moi-même."
+ },
+ {
+  "n": 172,
+  "fr": "Nous sommes ici en tant qu'invités aujourd'hui.\nNous ne devrions pas avoir à nous occuper de\nl'organisation de la réception."
+ },
+ {
+  "n": 173,
+  "fr": "Papa, dépêche-toi d'aller saluer ce Conrad qui\norganise la soirée."
+ },
+ {
+  "n": 174,
+  "fr": "Arrête papa, tu nous fais honte, c'est gênant."
+ },
+ {
+  "n": 175,
+  "fr": "Nous sommes ici en tant qu'invités aujourd'hui.\nNous ne devrions pas avoir à nous occuper de\nl'organisation de la réception."
+ },
+ {
+  "n": 176,
+  "fr": "Papa, dépêche-toi d'aller saluer ce Conrad qui\norganise la soirée."
+ },
+ {
+  "n": 177,
+  "fr": "Pfiou, c'est cette dame qui est venue me parler,\nsi tu veux savoir..."
+ },
+ {
+  "n": 178,
+  "fr": "Ah là là, pas le choix...\nJe vais faire semblant de suivre sa conversation."
+ },
+ {
+  "n": 179,
+  "fr": "C'était une fête idéale, elle aurait pu en profiter\npour se trouver un bon parti."
+ },
+ {
+  "n": 180,
+  "fr": "Cette Lindel...\nIl faut toujours qu'elle s'oppose à moi..."
+ },
+ {
+  "n": 181,
+  "fr": "Ah... Alors qu'on est à une fête magnifique..."
+ },
+ {
+  "n": 182,
+  "fr": "Ne me dites pas qu'elle feint d'être malade\nquand même ?"
+ },
+ {
+  "n": 183,
+  "fr": "Cette Lindel...\nIl faut toujours qu'elle s'oppose à moi..."
+ },
+ {
+  "n": 184,
+  "fr": "Monsieur, vous devriez la laisser se reposer\nun moment."
+ },
+ {
+  "n": 185,
+  "fr": "Cette fête n'est pas la seule au programme..."
+ },
+ {
+  "n": 186,
+  "fr": "... Oui, mademoiselle Lindel se repose dans\nsa chambre."
+ },
+ {
+  "n": 187,
+  "fr": "Elle disait qu'elle ne se sentait pas très bien..."
+ },
+ {
+  "n": 188,
+  "fr": "... N'empêche, ce retour du prince Olivert a de\nquoi surprendre."
+ },
+ {
+  "n": 189,
+  "fr": "Au cours des six derniers mois, n'est-ce pas le plus\ngros événement de la capitale ?"
+ },
+ {
+  "n": 190,
+  "fr": "Ha ha ha, je suis bien d'accord."
+ },
+ {
+  "n": 191,
+  "fr": "L'air de la capitale est vraiment étouffant..."
+ },
+ {
+  "n": 192,
+  "fr": "Je préfère passer mes vacances dans ma villa\ndans le sud."
+ },
+ {
+  "n": 193,
+  "fr": "Je n'en peux plus du ciel gris et morose\nde la capitale."
+ },
+ {
+  "n": 194,
+  "fr": "Si seulement quelqu'un pouvait apporter\nun peu d'animation."
+ },
+ {
+  "n": 195,
+  "fr": "Quel aéronef d'exception, le Lusitania...\nIl est vraiment merveilleux."
+ },
+ {
+  "n": 196,
+  "fr": "J'en avais assez de voir ce ciel gris et morose\nà la capitale. Ce changement de décor est exquis."
+ },
+ {
+  "n": 197,
+  "fr": "Ce soir, je vais enfin pouvoir en profiter."
+ },
+ {
+  "n": 198,
+  "fr": "Hé hé... Le gouvernement national n'est qu'un\nramassis de fonctionnaires."
+ },
+ {
+  "n": 199,
+  "fr": "Il suffit de savoir s'y prendre et on en fait\nce qu'on veut."
+ },
+ {
+  "n": 200,
+  "fr": "Hé hé, tu es encore bien jeune et tu as encore\nbeaucoup à apprendre..."
+ },
+ {
+  "n": 201,
+  "fr": "Le gouvernement national...\nCe n'est qu'un ramassis de fonctionnaires."
+ },
+ {
+  "n": 202,
+  "fr": "Il suffit de savoir s'y prendre et on en fait\nce qu'on veut."
+ },
+ {
+  "n": 203,
+  "fr": "Ce maudit projet de loi a gelé mon compte personnel..."
+ },
+ {
+  "n": 204,
+  "fr": "J'ai protesté immédiatement et j'ai pu récupérer\nmes fonds, mais..."
+ },
+ {
+  "n": 205,
+  "fr": "Tout ça, c'est la faute de ce parvenu de chancelier.\nÇa me met hors de moi... !"
+ },
+ {
+  "n": 206,
+  "fr": "Pff, un chancelier de pacotille sorti tout droit de l'armée."
+ },
+ {
+  "n": 207,
+  "fr": "Tout ce qu'il fait depuis c'est passer une loi agaçante\naprès l'autre..."
+ },
+ {
+  "n": 208,
+  "fr": "Laisser les roturiers faire la loi, franchement...\nOù est l'intérêt ?"
+ },
+ {
+  "n": 209,
+  "fr": "Le groupe Reinford...\nJe pense qu'il a encore une belle marge de progression."
+ },
+ {
+  "n": 210,
+  "fr": "Hi hi, je devrais peut-être envisager d'augmenter\nmes investissements."
+ },
+ {
+  "n": 211,
+  "fr": "La société Conrad est elle aussi passée sous le giron\ndu groupe Reinford, n'est-ce pas ?"
+ },
+ {
+  "n": 212,
+  "fr": "Le groupe Reinford est un conglomérat géant\nqui régit toute l'industrie lourde et l'armement\nde l'Empire..."
+ },
+ {
+  "n": 213,
+  "fr": "Hi hi, je devrais peut-être envisager d'augmenter\nmes investissements."
+ },
+ {
+  "n": 214,
+  "fr": "Impressionnant, ce Conrad...\nMême les gardes du corps ont l'air d'être\nd'un tout autre niveau. "
+ },
+ {
+  "n": 215,
+  "fr": "Il faudra que je lui demande de me les présenter.\nJ'aurais bien besoin de renouveler les effectifs\nde ma garde privée."
+ },
+ {
+  "n": 216,
+  "fr": "Hmm, les hommes en noir chargés de la sécurité\naujourd'hui ont l'air très fiables."
+ },
+ {
+  "n": 217,
+  "fr": "Justement, je me disais qu'il était temps de recruter\nde nouvelles têtes pour ma garde privée..."
+ },
+ {
+  "n": 218,
+  "fr": "Il faudra que je demande à Conrad de me les présenter\nplus tard."
+ },
+ {
+  "n": 219,
+  "fr": "... Oui !\nNiveau qualité c'est vraiment Bareahard qui l'emporte !"
+ },
+ {
+  "n": 220,
+  "fr": "Surtout les moutons Melg élevés sur les plateaux\ndu nord, leur laine est tellement douce... !"
+ },
+ {
+  "n": 221,
+  "fr": "(Elle a retrouvé toute son énergie d'un coup...)"
+ },
+ {
+  "n": 222,
+  "fr": "Euh... Madame la Duchesse..."
+ },
+ {
+  "n": 223,
+  "fr": "Hi hi, quelle coïncidence.\nJe ne savais pas que vous étiez invitée vous aussi..."
+ },
+ {
+  "n": 224,
+  "fr": "Seriez-vous venue acheter de la fourrure\nà Bareahard, par hasard ?"
+ },
+ {
+  "n": 225,
+  "fr": "E-Eh bien, oui..."
+ },
+ {
+  "n": 226,
+  "fr": "Mais... pourriez-vous garder ça secret\nvis-à-vis de mon mari ?"
+ },
+ {
+  "n": 227,
+  "fr": "Hi hi, mais bien sûr ma chère."
+ },
+ {
+  "n": 228,
+  "fr": "Cependant en échange de mon silence, vous devriez\nme faire une petite recommandation."
+ },
+ {
+  "n": 229,
+  "fr": "Voyez-vous, on ne trouve pas de très belles fourrures\ndans les boutiques de la capitale."
+ },
+ {
+  "n": 230,
+  "fr": "Ah oui, je devrais prendre ça pendant\nque c'est encore chaud."
+ },
+ {
+  "n": 231,
+  "fr": "Ajoutez-moi cette tarte là-bas également,\nje vous prie."
+ },
+ {
+  "n": 232,
+  "fr": "... Ah, dites-moi, vous n'auriez pas vu ma\nfemme par hasard ?"
+ },
+ {
+  "n": 233,
+  "fr": "*soupir* Je lui répète toujours de ne pas errer\nn'importe où, mais elle ne m'écoute jamais..."
+ },
+ {
+  "n": 234,
+  "fr": "(Hmm... ?)"
+ },
+ {
+  "n": 235,
+  "fr": "(Ah, ce serait pas lui, le mari de la dame\nde tout à l'heure... ?)"
+ },
+ {
+  "n": 236,
+  "fr": "Il s'étale jusqu'à venir sur mes terres..."
+ },
+ {
+  "n": 237,
+  "fr": "Ce blanc-bec... Il se croit tout permis."
+ },
+ {
+  "n": 238,
+  "fr": "La société Conrad a fait une ascension fulgurante\nen seulement dix ans... ?"
+ },
+ {
+  "n": 239,
+  "fr": "Pff, en fin de compte, ce n'est qu'un renard\nqui profite de la notoriété du groupe Reinford."
+ },
+ {
+  "n": 240,
+  "fr": "Ce blanc-bec... Il se croit tout permis."
+ },
+ {
+  "n": 241,
+  "fr": "Le Lusitania a le plaisir de vous offrir\nle plus raffiné des services."
+ },
+ {
+  "n": 242,
+  "fr": "Si vous avez besoin de quoi que ce soit,\nn'hésitez pas à nous solliciter."
+ },
+ {
+  "n": 243,
+  "fr": "Le Lusitania a le plaisir de vous offrir\nle plus raffiné des services."
+ },
+ {
+  "n": 244,
+  "fr": "Nous vous souhaitons un digne et agréable séjour."
+ },
+ {
+  "n": 245,
+  "fr": "D'autres divertissements sont prévus pour\nla suite de la soirée."
+ },
+ {
+  "n": 246,
+  "fr": "Nous espérons de tout cœur que vous en\nprofiterez pleinement."
+ },
+ {
+  "n": 247,
+  "fr": "La soirée se poursuivra avec un concert\nde Furlan du Ciel."
+ },
+ {
+  "n": 248,
+  "fr": "Puis nous vous proposerons un opéra à partir\nde onze heures."
+ },
+ {
+  "n": 249,
+  "fr": "Veillez à ne surtout pas les manquer."
+ },
+ {
+  "n": 250,
+  "fr": "Bienvenue à la réception donnée par\nmonsieur Conrad..."
+ },
+ {
+  "n": 251,
+  "fr": "Si vous avez la moindre demande,\nn'hésitez pas à nous en faire part."
+ },
+ {
+  "n": 252,
+  "fr": "Désirez-vous prendre un rafraîchissement, sire ?"
+ },
+ {
+  "n": 253,
+  "fr": "Nous avons notamment un très bon millésime\nde Steinrose à votre disposition."
+ },
+ {
+  "n": 254,
+  "fr": "Tous nos plats sont confectionnés à partir\nd'ingrédients rigoureusement sélectionnés..."
+ },
+ {
+  "n": 255,
+  "fr": "Souhaitez-vous y goûter également ?"
+ },
+ {
+  "n": 256,
+  "fr": "Aujourd'hui, le chef vous recommande sa spécialité...\nun abalone à la vapeur accompagné de sa crème."
+ },
+ {
+  "n": 257,
+  "fr": "Je suis certain que vous saurez en apprécier\ntoutes les subtilités."
+ },
+ {
+  "n": 258,
+  "fr": "Oh, il y a même Carnelia."
+ },
+ {
+  "n": 259,
+  "fr": "Hi hi, ce roman connaît un succès fou,\nvous savez."
+ },
+ {
+  "n": 260,
+  "fr": "Depuis sa parution, les rumeurs vont bon train\nquant au fait qu'il s'agirait d'une histoire vraie."
+ },
+ {
+  "n": 261,
+  "fr": "Hé hé, un aéronef de cette prestance se doit\nd'avoir une bibliothèque bien garnie."
+ },
+ {
+  "n": 262,
+  "fr": "Voyons voir...\nPar lequel devrais-je commencer ?"
+ },
+ {
+  "n": 263,
+  "fr": "Ah, enfin, ce ne sont pas nos affaires."
+ },
+ {
+  "n": 264,
+  "fr": "S'il s'agissait d'un incident grave, l'armée interviendrait.\nNous n'avons pas à nous en soucier."
+ },
+ {
+  "n": 265,
+  "fr": "Ah, vous parlez de cette affaire où les appareils\norbals sont devenus inutilisables pendant un temps\ndans les villes du sud d'Érébonia ?"
+ },
+ {
+  "n": 266,
+  "fr": "Il paraît même que le réseau ferroviaire orbal et\nles vols internationaux ont dû suspendre leurs\ntrajets durant cette période."
+ },
+ {
+  "n": 267,
+  "fr": "Allons, je ne pense pas que ce soit un\névénement si dramatique..."
+ },
+ {
+  "n": 268,
+  "fr": "Un de mes amis prétend avoir vu cet objet volant\ngéant s'effondrer de ses propres yeux, mais..."
+ },
+ {
+  "n": 269,
+  "fr": "... personne d'autre n'en parle, c'était sûrement\nune erreur de sa part."
+ },
+ {
+  "n": 270,
+  "fr": "... Pourtant, la rumeur disait qu'il s'agissait d'une\nnouvelle arme de l'armée du royaume de Liberl."
+ },
+ {
+  "n": 271,
+  "fr": "Le gouvernement a rapidement invoqué le secret\ndéfense sur cette affaire."
+ },
+ {
+  "n": 272,
+  "fr": "Et comme il n'y a eu aucune communication officielle\ndepuis, on n'en sait pas plus."
+ },
+ {
+  "n": 273,
+  "fr": "Je me sens un peu mal pour mon fils et\nsa femme qui m'ont offert ce billet, mais..."
+ },
+ {
+  "n": 274,
+  "fr": "... je n'ai jamais été très friand de ce genre\nd'événement."
+ },
+ {
+  "n": 275,
+  "fr": "*soupir* Impossible de se détendre ici..."
+ },
+ {
+  "n": 276,
+  "fr": "Tout est si raffiné et luxueux..."
+ },
+ {
+  "n": 277,
+  "fr": "C'est un peu trop pour un vieil homme comme moi."
+ },
+ {
+  "n": 278,
+  "fr": "Tant que vous restez à bord, vous pouvez\nemprunter les livres en toute liberté."
+ },
+ {
+  "n": 279,
+  "fr": "Vous pouvez également les emporter dans\nvotre chambre si vous le souhaitez."
+ },
+ {
+  "n": 280,
+  "fr": "Ici se trouve la bibliothèque de notre aéronef."
+ },
+ {
+  "n": 281,
+  "fr": "N'hésitez pas à vous y détendre."
+ },
+ {
+  "n": 282,
+  "fr": "... Je vous prie de rester silencieux à\nl'intérieur de cette pièce."
+ },
+ {
+  "n": 283,
+  "fr": "Ha ha, les croupiers savent parfaitement\ncomment divertir la clientèle."
+ },
+ {
+  "n": 284,
+  "fr": "Ça n'a rien à voir avec ces tripots de bas étage."
+ },
+ {
+  "n": 285,
+  "fr": "Le club de haut standing « Alicia » a son siège\ndans la capitale."
+ },
+ {
+  "n": 286,
+  "fr": "Je vois que la qualité du personnel ne laisse\nrien à désirer."
+ },
+ {
+  "n": 287,
+  "fr": "Et si j'en profitais pour prendre un verre de vin ?"
+ },
+ {
+  "n": 288,
+  "fr": "A-Allez ! Faut que je gagne cette fois..."
+ },
+ {
+  "n": 289,
+  "fr": "A-Allez, viens... !\n... Le 11 noir !!"
+ },
+ {
+  "n": 290,
+  "fr": "A-Allez, viens... !"
+ },
+ {
+  "n": 291,
+  "fr": "Cette fois, c'est la bonne, ce sera du noir... !"
+ },
+ {
+  "n": 292,
+  "fr": "Le rouge est tombé cinq fois de suite.\nCette fois, c'est forcément du noir !!"
+ },
+ {
+  "n": 293,
+  "fr": "Si un roturier comme moi peut rêver comme ça,\nc'est entièrement grâce au chancelier."
+ },
+ {
+  "n": 294,
+  "fr": "La méritocratie...\nQuel beau concept."
+ },
+ {
+  "n": 295,
+  "fr": "... En ce moment même, la fête doit battre\nson plein dans la salle du fond."
+ },
+ {
+  "n": 296,
+  "fr": "Vous verrez...\nUn jour, moi aussi j'irai à ce genre de fête..."
+ },
+ {
+  "n": 297,
+  "fr": "Hé, j'ai hâte de voir ça."
+ },
+ {
+  "n": 298,
+  "fr": "Ce ne serait pas drôle de gagner toutes les parties..."
+ },
+ {
+  "n": 299,
+  "fr": "Ah... C'était une bien belle partie."
+ },
+ {
+  "n": 300,
+  "fr": "Alors, que faisons-nous, cher croupier ?\nNous rejouons ?"
+ },
+ {
+  "n": 301,
+  "fr": "Dépenser sans compter n'est qu'un simple\ndivertissement..."
+ },
+ {
+  "n": 302,
+  "fr": "Ceux qui ne comprennent pas ça n'ont rien\nà faire ici."
+ },
+ {
+  "n": 303,
+  "fr": "Ah, dépenser sans compter n'est qu'un\ndivertissement..."
+ },
+ {
+  "n": 304,
+  "fr": "Gagner ou perdre n'est qu'un détail.\nCe qui est amusant c'est de miser gros."
+ },
+ {
+  "n": 305,
+  "fr": "Les gens obsédés uniquement par la victoire\nne comprennent rien au jeu et n'ont pas leur\nplace ici."
+ },
+ {
+  "n": 306,
+  "fr": "Voulez-vous tenter votre chance, sire ?"
+ },
+ {
+  "n": 307,
+  "fr": "Allez, il est temps pour moi aussi de parier."
+ },
+ {
+  "n": 308,
+  "fr": "300 000 miras sur le 21 rouge..."
+ },
+ {
+  "n": 309,
+  "fr": "Bien, cher client, vous avez l'œil aguerri."
+ },
+ {
+  "n": 310,
+  "fr": "Certainement, sire."
+ },
+ {
+  "n": 311,
+  "fr": "Cependant, la prochaine fois je compte\nbien l'emporter..."
+ },
+ {
+  "n": 312,
+  "fr": "Ha ha, je m'avoue vaincu."
+ },
+ {
+  "n": 313,
+  "fr": "Vous m'avez l'air de parfaitement maîtriser\nles jeux de cartes, cher monsieur..."
+ },
+ {
+  "n": 314,
+  "fr": "Bien, que désirez-vous faire à présent ?"
+ },
+ {
+  "n": 315,
+  "fr": "Que diriez-vous d'une partie de cartes ?"
+ },
+ {
+  "n": 316,
+  "fr": "Je suis certain que cela vous plaira."
+ },
+ {
+  "n": 317,
+  "fr": "*mélange*"
+ },
+ {
+  "n": 318,
+  "fr": "*mélange*"
+ },
+ {
+  "n": 319,
+  "fr": "Oh, voudriez-vous essayer une partie ?"
+ },
+ {
+  "n": 320,
+  "fr": "Hi hi, amusez-vous bien, je vous prie."
+ },
+ {
+  "n": 321,
+  "fr": "Hi hi, amusez-vous bien, je vous prie."
+ },
+ {
+  "n": 322,
+  "fr": "Essayez tout de même de ne pas trop vous\nlaisser emporter par le jeu."
+ },
+ {
+  "n": 323,
+  "fr": "Les personnes munies d'une invitation seront\naccueillies comme membres officiels de notre club."
+ },
+ {
+  "n": 324,
+  "fr": "Installez-vous à la table de votre choix."
+ },
+ {
+  "n": 325,
+  "fr": "Ah, auriez-vous une invitation par hasard ?"
+ },
+ {
+  "n": 326,
+  "fr": "Si vous avez l'invitation de M. Conrad,\nnous nous ferons un plaisir de vous\naccueillir comme membre officiel du club."
+ },
+ {
+  "n": 327,
+  "fr": "Nous vous souhaitons de passer un agréable moment."
+ },
+ {
+  "n": 328,
+  "fr": "... Je vous en prie, amusez-vous."
+ },
+ {
+  "n": 329,
+  "fr": "... Alors, cela vous a plu ?"
+ },
+ {
+  "n": 330,
+  "fr": "C'est donc ça, un aéronef...\nC'est bien plus confortable que je le pensais."
+ },
+ {
+  "n": 331,
+  "fr": "Je pense les utiliser plus souvent à l'avenir."
+ },
+ {
+  "n": 332,
+  "fr": "Le Lusitania...\nIl me semble avoir entendu que c'était le tout\ndernier modèle."
+ },
+ {
+  "n": 333,
+  "fr": "Hoho ! C'est vraiment très confortable."
+ },
+ {
+  "n": 334,
+  "fr": "Je pense voyager en aéronef aussi souvent\nque possible à l'avenir."
+ },
+ {
+  "n": 335,
+  "fr": "Le mobilier des chambres a l'air d'être\nde toute première qualité."
+ },
+ {
+  "n": 336,
+  "fr": "Hum, c'est pas mal du tout."
+ },
+ {
+  "n": 337,
+  "fr": "Hum, c'est vraiment pas mal."
+ },
+ {
+  "n": 338,
+  "fr": "Ce thé a aussi un arôme bien agréable..."
+ },
+ {
+  "n": 339,
+  "fr": "Il semble que le service soit à la hauteur\ndu prix du billet."
+ },
+ {
+  "n": 340,
+  "fr": "Cette chambre de seconde classe est libre\naujourd'hui."
+ },
+ {
+  "n": 341,
+  "fr": "Si vous avez une invitation, nous pouvons\nvous la prêter à tout moment."
+ },
+ {
+  "n": 342,
+  "fr": "... Oh, veuillez m'excuser."
+ },
+ {
+  "n": 343,
+  "fr": "Avez-vous une invitation ?"
+ },
+ {
+  "n": 344,
+  "fr": "La salle de réception se trouve tout\nau bout du couloir."
+ },
+ {
+  "n": 345,
+  "fr": "Merci, mademoiselle."
+ },
+ {
+  "n": 346,
+  "fr": "C'est ça, le mode de vie de la haute société...\nGrave bien ce que tu vois aujourd'hui dans ta\nmémoire et ne l'oublie jamais."
+ },
+ {
+  "n": 347,
+  "fr": "Et plus tard, n'oublie pas d'en faire profiter\nton père quand tu feras partie de ce monde."
+ },
+ {
+  "n": 348,
+  "fr": "Écoute-moi bien, mon fils."
+ },
+ {
+  "n": 349,
+  "fr": "J'ai dépensé le peu de miras qu'il me restait\njuste pour qu'on monte à bord de cet aéronef."
+ },
+ {
+  "n": 350,
+  "fr": "C'est ça, le mode de vie de la haute société...\nGrave bien ce que tu vois aujourd'hui dans ta\nmémoire et ne l'oublie jamais."
+ },
+ {
+  "n": 351,
+  "fr": "Et plus tard, n'oublie pas d'en faire profiter\nton père quand tu feras partie de ce monde."
+ },
+ {
+  "n": 352,
+  "fr": "Euh, en gros faut juste que je devienne un militaire\net que je devienne quelqu'un d'important, c'est ça ?"
+ },
+ {
+  "n": 353,
+  "fr": "Hé hé, en tout cas, les aéronefs, c'est trop classe ! ♪"
+ },
+ {
+  "n": 354,
+  "fr": "Vous faites une promenade, sire ?"
+ },
+ {
+  "n": 355,
+  "fr": "En montant l'escalier un peu plus loin,\nvous arriverez sur le pont principal."
+ },
+ {
+  "n": 356,
+  "fr": "Admirer les étoiles en profitant de la brise\nnocturne est une façon agréable de se\nchanger les idées."
+ },
+ {
+  "n": 357,
+  "fr": "En montant l'escalier un peu plus loin,\nvous arriverez sur le pont principal."
+ },
+ {
+  "n": 358,
+  "fr": "Admirer les étoiles en profitant de la brise\nnocturne est une façon agréable de se\nchanger les idées."
+ },
+ {
+  "n": 359,
+  "fr": "Hmm... ?"
+ },
+ {
+  "n": 360,
+  "fr": "A-Ah, excusez-moi... !?"
+ },
+ {
+  "n": 361,
+  "fr": "Euh, merci pour votre travail..."
+ },
+ {
+  "n": 362,
+  "fr": "H-Hé, qu'est-ce qu'on fait ?"
+ },
+ {
+  "n": 363,
+  "fr": "J'ai ramassé l'invitation pour cette fête\ncostumée..."
+ },
+ {
+  "n": 364,
+  "fr": "I-Idiote... ! C'est le truc distribué uniquement\naux riches des chambres de première classe, non !?"
+ },
+ {
+  "n": 365,
+  "fr": "O-On a pas le droit d'avoir ça sur nous !"
+ },
+ {
+  "n": 366,
+  "fr": "M-Mais..."
+ },
+ {
+  "n": 367,
+  "fr": "... Dites-moi, c'est bien cet escalier qui mène\nau pont d'observation ?"
+ },
+ {
+  "n": 368,
+  "fr": "Ah... O-Oui !"
+ },
+ {
+  "n": 369,
+  "fr": "C-C'est bien ça !"
+ },
+ {
+  "n": 370,
+  "fr": "Ha ha, merci."
+ },
+ {
+  "n": 371,
+  "fr": "Nous devons vérifier l'invitation de chaque\npersonne présente à la soirée."
+ },
+ {
+  "n": 372,
+  "fr": "Considérez cela comme une simple mesure\nde sécurité."
+ },
+ {
+  "n": 373,
+  "fr": "... Monsieur, auriez-vous votre invitation\nsur vous ?"
+ },
+ {
+  "n": 374,
+  "fr": "Ah, ceci, vous voulez dire ?"
+ },
+ {
+  "n": 375,
+  "fr": "{color 5}L'homme masqué montre son invitation à l'homme en noir.{color 0}"
+ },
+ {
+  "n": 376,
+  "fr": "Mes excuses, sire."
+ },
+ {
+  "n": 377,
+  "fr": "Considérez cela comme une simple mesure\nde sécurité."
+ },
+ {
+  "n": 378,
+  "fr": "Hé hé, pas de souci."
+ },
+ {
+  "n": 379,
+  "fr": "Oh... Que faites-vous par ici ?"
+ },
+ {
+  "n": 380,
+  "fr": "Ce passage mène au pont d'observation."
+ },
+ {
+  "n": 381,
+  "fr": "Si vous cherchez la salle de réception,\nc'est au bout du couloir à l'étage inférieur."
+ },
+ {
+  "n": 382,
+  "fr": "Hum, le bruit de ce moteur ne m'est pas familier..."
+ },
+ {
+  "n": 383,
+  "fr": "Je suppose que c'est un nouveau modèle..."
+ },
+ {
+  "n": 384,
+  "fr": "Pfiou, c'est donc ça l'aéronef dernier cri\ndont j'ai tant entendu parler ?"
+ },
+ {
+  "n": 385,
+  "fr": "Je vois...\nLe bruit de ce moteur ne m'est vraiment pas familier."
+ },
+ {
+  "n": 386,
+  "fr": "Je suppose que c'est un nouveau modèle..."
+ },
+ {
+  "n": 387,
+  "fr": "(Hmm... ?\nCe type serait aveugle ?)"
+ },
+ {
+  "n": 388,
+  "fr": "{color 5}La porte est fermée à clé."
+ },
+ {
+  "n": 389,
+  "fr": "{color 5}La porte est fermée à clé."
+ },
+ {
+  "n": 390,
+  "fr": "{color 5}La porte est fermée à clé."
+ },
+ {
+  "n": 391,
+  "fr": "Ce n'est pas par là."
+ },
+ {
+  "n": 392,
+  "fr": "(Ma cible est au dernier étage...)"
+ },
+ {
+  "n": 393,
+  "fr": "(Je n'ai rien à faire par ici.)"
+ },
+ {
+  "n": 394,
+  "fr": "Ce n'est pas par là."
+ },
+ {
+  "n": 395,
+  "fr": "(... Je ferai mieux d'éviter d'aller par là.)"
+ },
+ {
+  "n": 396,
+  "fr": "... Monsieur, il y a un problème ?"
+ },
+ {
+  "n": 397,
+  "fr": "... Oh, non. Désolé."
+ },
+ {
+  "n": 398,
+  "fr": "{color 5}La série « Carnelia » est rangée dans cette étagère.{color 0}"
+ },
+ {
+  "n": 399,
+  "fr": "[Chapitres 1 à 6]"
+ },
+ {
+  "n": 400,
+  "fr": "[Chapitres 7 au chapitre Final]"
+ },
+ {
+  "n": 401,
+  "fr": "[Lire le chapitre 1]"
+ },
+ {
+  "n": 402,
+  "fr": "[Lire le chapitre 2]"
+ },
+ {
+  "n": 403,
+  "fr": "[Lire le chapitre 3]"
+ },
+ {
+  "n": 404,
+  "fr": "[Lire le chapitre 4]"
+ },
+ {
+  "n": 405,
+  "fr": "[Lire le chapitre 5]"
+ },
+ {
+  "n": 406,
+  "fr": "[Lire le chapitre 6]"
+ },
+ {
+  "n": 407,
+  "fr": "[Quitter]"
+ },
+ {
+  "n": 408,
+  "fr": "[Lire le chapitre 7]"
+ },
+ {
+  "n": 409,
+  "fr": "[Lire le chapitre 8]"
+ },
+ {
+  "n": 410,
+  "fr": "[Lire le chapitre 9]"
+ },
+ {
+  "n": 411,
+  "fr": "[Lire le chapitre 10]"
+ },
+ {
+  "n": 412,
+  "fr": "[Lire le chapitre 11]"
+ },
+ {
+  "n": 413,
+  "fr": "[Quitter]"
+ }
+]

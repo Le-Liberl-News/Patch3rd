@@ -1,0 +1,30 @@
+[
+ {
+  "n": 25,
+  "fr": "{color 5}La porte est fermée à clé."
+ },
+ {
+  "n": 33,
+  "fr": "Entendu."
+ },
+ {
+  "n": 34,
+  "fr": "{color 5}La porte est fermée à clé."
+ },
+ {
+  "n": 57,
+  "fr": "Merci."
+ },
+ {
+  "n": 59,
+  "fr": "Correct."
+ },
+ {
+  "n": 62,
+  "fr": "Correct."
+ },
+ {
+  "n": 65,
+  "fr": "Correct."
+ }
+]

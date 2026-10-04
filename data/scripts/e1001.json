@@ -1,0 +1,58 @@
+[
+ {
+  "n": 6,
+  "fr": "Merci."
+ },
+ {
+  "n": 12,
+  "fr": "Merci."
+ },
+ {
+  "n": 25,
+  "fr": "[Quitter]"
+ },
+ {
+  "n": 60,
+  "fr": "[Commencer]"
+ },
+ {
+  "n": 61,
+  "fr": "[Règles]"
+ },
+ {
+  "n": 62,
+  "fr": "[Quitter]"
+ },
+ {
+  "n": 63,
+  "fr": "[Commencer]"
+ },
+ {
+  "n": 64,
+  "fr": "[Règles]"
+ },
+ {
+  "n": 65,
+  "fr": "[Quitter]"
+ },
+ {
+  "n": 66,
+  "fr": "[Commencer]"
+ },
+ {
+  "n": 67,
+  "fr": "[Règles]"
+ },
+ {
+  "n": 68,
+  "fr": "[Quitter]"
+ },
+ {
+  "n": 141,
+  "fr": "Reçus : {color 2}5000 miras{color 0}."
+ },
+ {
+  "n": 176,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ }
+]

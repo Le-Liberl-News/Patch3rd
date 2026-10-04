@@ -1,0 +1,142 @@
+[
+ {
+  "n": 1,
+  "fr": "Ceci est... un ascenseur ?"
+ },
+ {
+  "n": 2,
+  "fr": "Oui. Il relie le château à une ruine située à 500 arges \nde profondeur sous celui-ci, mais..."
+ },
+ {
+  "n": 3,
+  "fr": "... cela n'a aucun sens..."
+ },
+ {
+  "n": 4,
+  "fr": "Sans déconner. Il se passe quoi, ici ?"
+ },
+ {
+  "n": 5,
+  "fr": "Que trouvez-vous d'étrange, exactement ?"
+ },
+ {
+  "n": 6,
+  "fr": "Eh bien, la première fois que je suis venu au Liberl, \nJulia m'a guidé à travers cette pièce et dans la zone \nen-dessous..."
+ },
+ {
+  "n": 7,
+  "fr": "... Mais cette pièce était pas comme ça. C'était \nbeaucoup mieux rangé."
+ },
+ {
+  "n": 8,
+  "fr": "Je ne suis pas."
+ },
+ {
+  "n": 9,
+  "fr": "Qu'est-ce que vous voulez dire ?"
+ },
+ {
+  "n": 10,
+  "fr": "C'est quoi qui te dérange ?"
+ },
+ {
+  "n": 11,
+  "fr": "Eh bien, la première fois que je suis venu au Liberl, \nJulia m'a guidé à travers cette pièce et dans la zone \nen-dessous..."
+ },
+ {
+  "n": 12,
+  "fr": "... Mais cette pièce était pas comme ça. C'était \nbeaucoup mieux rangé."
+ },
+ {
+  "n": 13,
+  "fr": "En effet. À ma connaissance, la pièce avait été rangée \npuis fermée à clé, et il me semblait que cela était \ncensé rester ainsi."
+ },
+ {
+  "n": 14,
+  "fr": "Je l'ai vue comme cela une fois auparavant, cela dit..."
+ },
+ {
+  "n": 15,
+  "fr": "Oui. Moi aussi."
+ },
+ {
+  "n": 16,
+  "fr": "C'est exactement la manière dont je me souviens \nqu'elle était quand nous sommes venus ici pendant \nle coup d'état."
+ },
+ {
+  "n": 17,
+  "fr": "M-Mes souvenirs de cet endroit sont un peu flous, \nmais..."
+ },
+ {
+  "n": 18,
+  "fr": "... n'était-ce pas comme ça que c'était quand on s'est \nrassemblés ici pendant le coup d'état ?"
+ },
+ {
+  "n": 19,
+  "fr": "C'est ce à quoi je pensais également."
+ },
+ {
+  "n": 20,
+  "fr": "En effet. À ma connaissance, la pièce avait été rangée \npuis fermée à clé, et il me semblait que cela était \ncensé rester ainsi..."
+ },
+ {
+  "n": 21,
+  "fr": "C'est presque comme si elle était revenue dans la \nmême condition qu'elle était pendant le coup d'état. "
+ },
+ {
+  "n": 22,
+  "fr": "C'est la dernière fois dont je me souvienne que cet \nendroit ait été dans cet état."
+ },
+ {
+  "n": 23,
+  "fr": "Êtes-vous en train de suggérer que nous ayons \npeut-être remonté le temps ?"
+ },
+ {
+  "n": 24,
+  "fr": "Il me paraît impossible à croire que cela ait pu être \nle cas... Mais de quelle autre manière pourrais-je \nexpliquer cela ?"
+ },
+ {
+  "n": 25,
+  "fr": "Bien sûr, je pourrais me tromper. Et pourtant..."
+ },
+ {
+  "n": 26,
+  "fr": "......"
+ },
+ {
+  "n": 27,
+  "fr": "Bon, si on doit suivre ce que ce fantôme semble \nvouloir qu'on fasse, alors on avance en espérant \ntrouver plus de réponses en chemin."
+ },
+ {
+  "n": 28,
+  "fr": "C'est le moment de monter à bord et de voir ce qui \nnous attend."
+ },
+ {
+  "n": 29,
+  "fr": "Oui !"
+ },
+ {
+  "n": 30,
+  "fr": "{color 5}Activer l'ascenseur ?{0x18}"
+ },
+ {
+  "n": 31,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 32,
+  "fr": "[Non]"
+ },
+ {
+  "n": 33,
+  "fr": "{color 5}Activer l'ascenseur ?{0x18}"
+ },
+ {
+  "n": 34,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 35,
+  "fr": "[Non]"
+ }
+]

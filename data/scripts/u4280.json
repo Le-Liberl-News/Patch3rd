@@ -1,0 +1,26 @@
+[
+ {
+  "n": 1,
+  "fr": "{color 5}Trouvé : {item item[404]}{color 5}"
+ },
+ {
+  "n": 2,
+  "fr": "{color 5}Trouvé : {item item[404]}{color 5}.\n{color 5}Inventaire plein. Objet reposé{color 5}."
+ },
+ {
+  "n": 4,
+  "fr": "{color 5}Trouvé : {item item[502]}{color 5}"
+ },
+ {
+  "n": 5,
+  "fr": "{color 5}Trouvé : {item item[502]}{color 5}.\n{color 5}Inventaire plein. Objet reposé{color 5}."
+ },
+ {
+  "n": 7,
+  "fr": "{color 5}Les portes ont été déverrouillées."
+ },
+ {
+  "n": 8,
+  "fr": "{color 5}Les portes de la salle du trésor sont fermées à clé."
+ }
+]

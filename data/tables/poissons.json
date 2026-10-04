@@ -1,0 +1,187 @@
+[
+ {
+  "cle": "2",
+  "type": "terme",
+  "fr": "#1000F#1PVoyons voir… Quelle canne à pêche utiliser ?<x2><x3>"
+ },
+ {
+  "cle": "3",
+  "type": "terme",
+  "fr": "#1015F#1PAvec quel appât ?<x2><x3>"
+ },
+ {
+  "cle": "4",
+  "type": "terme",
+  "fr": "#1018F#1PEt hop !<x2>"
+ },
+ {
+  "cle": "5",
+  "type": "terme",
+  "fr": "#1018F#1P#20AC'est parti !<x2>"
+ },
+ {
+  "cle": "6",
+  "type": "terme",
+  "fr": "#1009F#1P#20AEt hop !<x2>"
+ },
+ {
+  "cle": "7",
+  "type": "terme",
+  "fr": "#1001F#1Pas mal !<x2>"
+ },
+ {
+  "cle": "8",
+  "type": "terme",
+  "fr": "#1001F#1PTrop facile !<x2>"
+ },
+ {
+  "cle": "9",
+  "type": "terme",
+  "fr": "#1001F#1PÇa, c'est ce que j'appelle une belle prise !<x2><x3>"
+ },
+ {
+  "cle": "10",
+  "type": "terme",
+  "fr": "#1005F#1PMais comment... ?!<x2><x3>"
+ },
+ {
+  "cle": "11",
+  "type": "terme",
+  "fr": "#1007F#1PMince, j'y suis peut-être allé trop fort..<x2><x3>"
+ },
+ {
+  "cle": "12",
+  "type": "terme",
+  "fr": "#1009F#1PArgh, j'y étais presque !<x2><x3>"
+ },
+ {
+  "cle": "13",
+  "type": "terme",
+  "fr": "#1006F#1PJe me demande comment ça se passe de son côté...♪<x2><x3>"
+ },
+ {
+  "cle": "14",
+  "type": "terme",
+  "fr": "#1015F#1PJe me demande comment ça se passe de son côté...<x2><x3>"
+ },
+ {
+  "cle": "15",
+  "type": "terme",
+  "fr": "#1009F#1PJe vais pas me laisser faire ! C'est pas encore fini !<x2><x3>"
+ },
+ {
+  "cle": "16",
+  "type": "terme",
+  "fr": "#1018F#1PC'est ma chance, je dois en profiter !!<x2><x3>"
+ },
+ {
+  "cle": "22",
+  "type": "terme",
+  "fr": "#4PPas mal, mais je suis loin d'avoir tout donné !<x2><x3>"
+ },
+ {
+  "cle": "23",
+  "type": "terme",
+  "fr": "#4PPas besoin de se presser, autant profiter du moment.<x2><x3>"
+ },
+ {
+  "cle": "24",
+  "type": "terme",
+  "fr": "#4P#20AHum !<x2>"
+ },
+ {
+  "cle": "25",
+  "type": "terme",
+  "fr": "#4P#20AHah !<x2>"
+ },
+ {
+  "cle": "26",
+  "type": "terme",
+  "fr": "#4P#20AHa !<x2>"
+ },
+ {
+  "cle": "27",
+  "type": "terme",
+  "fr": "#4PÇa c'est du beau boulot !<x2>"
+ },
+ {
+  "cle": "28",
+  "type": "terme",
+  "fr": "#4PBelle prise !<x2>"
+ },
+ {
+  "cle": "29",
+  "type": "terme",
+  "fr": "#4PÊtre aussi doué me ferait presque peur !<x2><x3>"
+ },
+ {
+  "cle": "30",
+  "type": "terme",
+  "fr": "#4PN-Non... C'est pas possible...<x2>"
+ },
+ {
+  "cle": "31",
+  "type": "terme",
+  "fr": "#4PC'est un cauchemar….<x2>"
+ },
+ {
+  "cle": "32",
+  "type": "terme",
+  "fr": "#4PQu'est-ce que... ?<x2>"
+ },
+ {
+  "cle": "42",
+  "type": "terme",
+  "fr": "#1POh, pas mal du tout ! Je vais devoir me donner à fond !<x2><x3>"
+ },
+ {
+  "cle": "43",
+  "type": "terme",
+  "fr": "#1PHeehee. Slow and steady wins the race.<x2><x3>"
+ },
+ {
+  "cle": "44",
+  "type": "terme",
+  "fr": "#1P#20ACast off!<x2>"
+ },
+ {
+  "cle": "45",
+  "type": "terme",
+  "fr": "#1P#20ACome to me!<x2>"
+ },
+ {
+  "cle": "46",
+  "type": "terme",
+  "fr": "#1P#20AThere!<x2>"
+ },
+ {
+  "cle": "47",
+  "type": "terme",
+  "fr": "#1PHeehee. Catching fish this size is nothing!<x2><x3>"
+ },
+ {
+  "cle": "48",
+  "type": "terme",
+  "fr": "#1POhohoho! Take a good look at this!<x2>"
+ },
+ {
+  "cle": "49",
+  "type": "terme",
+  "fr": "#1POhohoho! Now do you see what I can really do?<x2><x3>"
+ },
+ {
+  "cle": "50",
+  "type": "terme",
+  "fr": "#1PTh-This can't be happening!<x2>"
+ },
+ {
+  "cle": "51",
+  "type": "terme",
+  "fr": "#1PGracious no!<x2>"
+ },
+ {
+  "cle": "52",
+  "type": "terme",
+  "fr": "#1PI-Impossible...<x2>"
+ }
+]

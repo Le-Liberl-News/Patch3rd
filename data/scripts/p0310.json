@@ -1,0 +1,758 @@
+[
+ {
+  "n": 1,
+  "fr": "Il n'y a pas le moindre signe de vie, ici..."
+ },
+ {
+  "n": 2,
+  "fr": "Ce vaisseau a dû être abandonné il y a au moins \nplusieurs jours, si ce n'est plus."
+ },
+ {
+  "n": 3,
+  "fr": "Le courant orbal semble aussi être complètement \nen panne."
+ },
+ {
+  "n": 4,
+  "fr": "Je me demande s'il y a eu un genre de problème \navec les moteurs."
+ },
+ {
+  "n": 5,
+  "fr": "Mhh... Eh bien, on va pas comprendre quoi que ce \nsoit en restant plantés là. Jetons un œil aux \nalentours."
+ },
+ {
+  "n": 6,
+  "fr": "Y a peut-être un genre d'indice dans le coin qui \nnous aidera à découvrir ce qui s'est passé."
+ },
+ {
+  "n": 7,
+  "fr": "... Encore une autre, hein ?"
+ },
+ {
+  "n": 8,
+  "fr": "Wouah... C'est si joli..."
+ },
+ {
+  "n": 9,
+  "fr": "Qu'est-ce que c'est, par contre ?"
+ },
+ {
+  "n": 10,
+  "fr": "Il s'agit d'une pierre-sceau."
+ },
+ {
+  "n": 11,
+  "fr": "C'est exactement la même pierre que\ncelle dans laquelle tu étais emprisonnée."
+ },
+ {
+  "n": 12,
+  "fr": "Elle était aussi jolie que ça ?"
+ },
+ {
+  "n": 13,
+  "fr": "Ouah...\nJ'étais à l'intérieur d'une si belle pierre..."
+ },
+ {
+  "n": 14,
+  "fr": "{color 5}Trouvée : {item item[851]}{color 5}"
+ },
+ {
+  "n": 15,
+  "fr": "Si notre théorie est bonne et qu'on peut\npas avancer sans libérer la personne\ndans la pierre, y a qu'une chose à faire."
+ },
+ {
+  "n": 16,
+  "fr": "Prêtes à retourner à la base et libérer celle-là ?"
+ },
+ {
+  "n": 17,
+  "fr": "... Bien entendu."
+ },
+ {
+  "n": 18,
+  "fr": "O-OK !"
+ },
+ {
+  "n": 19,
+  "fr": "... Très bien. Tout le monde est maintenant en \nposition."
+ },
+ {
+  "n": 20,
+  "fr": "Celeste, je vous prie."
+ },
+ {
+  "n": 21,
+  "fr": "... Bien entendu."
+ },
+ {
+  "n": 22,
+  "fr": "Tout le monde, concentrez-vous, s'il vous plaît."
+ },
+ {
+  "n": 23,
+  "fr": "Focalisez-vous sur l'image de ce vaisseau \ns'élevant dans le ciel."
+ },
+ {
+  "n": 24,
+  "fr": "C'est tout ce que vous avez à faire.#0C"
+ },
+ {
+  "n": 25,
+  "fr": "Compris."
+ },
+ {
+  "n": 26,
+  "fr": "Ha ha ha... Ça va être facile."
+ },
+ {
+  "n": 27,
+  "fr": "Ce n'est pas quelque chose que j'aie eu le plaisir \nde voir auparavant, mais je peux facilement \nimaginer combien cela peut être beau."
+ },
+ {
+  "n": 28,
+  "fr": "M-Maintenant que j'y pense..."
+ },
+ {
+  "n": 29,
+  "fr": "J'étais à bord de ce vaisseau, quand j'ai été \ntransporté vers une cellule à la forteresse \nLeiston..."
+ },
+ {
+  "n": 30,
+  "fr": "*soupir* C'est à ce moment que ma vie a vraiment \npris un mauvais tournant..."
+ },
+ {
+  "n": 31,
+  "fr": "Si vous désirez rester à bord, je vous\nprierai de bien vouloir coopérer."
+ },
+ {
+  "n": 32,
+  "fr": "Pour que ce vaisseau puisse à nouveau voler, tout \nle monde à bord doit penser à la même chose."
+ },
+ {
+  "n": 33,
+  "fr": "... Si vous n'avez pas la volonté de participer, vous \npouvez toujours descendre et rester dans le jardin.#0C"
+ },
+ {
+  "n": 34,
+  "fr": "C'est bon, je vais coopérer !\nJe vous le jure !"
+ },
+ {
+  "n": 35,
+  "fr": "Grmbl... Comment ai-je pu me retrouver\ndans une telle situation, pour commencer... ? "
+ },
+ {
+  "n": 36,
+  "fr": "*soupir*"
+ },
+ {
+  "n": 37,
+  "fr": "Hi hi. Eh bien, n'es-tu pas un bon garçon ?"
+ },
+ {
+  "n": 38,
+  "fr": "Bien, maintenant que nous avons le soutien de \nchacun, je pense qu'il est temps de commencer.#0C"
+ },
+ {
+  "n": 39,
+  "fr": "Oh..."
+ },
+ {
+  "n": 40,
+  "fr": "E-Est-ce... ?"
+ },
+ {
+  "n": 41,
+  "fr": "Activation terminée."
+ },
+ {
+  "n": 42,
+  "fr": "L'Arseille est maintenant prêt à partir à tout moment."
+ },
+ {
+  "n": 43,
+  "fr": "Cruiii !"
+ },
+ {
+  "n": 44,
+  "fr": "On a réussi !"
+ },
+ {
+  "n": 45,
+  "fr": "Pfiou... Je ne voulais pas penser à ce qui ce serait \npassé si ça avait échoué..."
+ },
+ {
+  "n": 46,
+  "fr": "Bien, nous sommes enfin prêts."
+ },
+ {
+  "n": 47,
+  "fr": "Que devrions-nous faire, Kevin ?"
+ },
+ {
+  "n": 48,
+  "fr": "Si on est prêts, je dirais qu'on devrait partir \nimmédiatement."
+ },
+ {
+  "n": 49,
+  "fr": "Notre destination est planifiée... Alors allons-y \net finissons-en."
+ },
+ {
+  "n": 50,
+  "fr": "D'accord."
+ },
+ {
+  "n": 51,
+  "fr": "Julia, si tu veux bien."
+ },
+ {
+  "n": 52,
+  "fr": "Certainement, Votre Altesse."
+ },
+ {
+  "n": 53,
+  "fr": "À partir de maintenant, ce vaisseau va accélérer \npour atteindre sa vitesse de pointe de combat et \nsortir des plans astraux."
+ },
+ {
+  "n": 54,
+  "fr": "Démarrez tous les moteurs..."
+ },
+ {
+  "n": 55,
+  "fr": "... Et en avant !"
+ },
+ {
+  "n": 56,
+  "fr": "{color 0}#4SOui, Madame !"
+ },
+ {
+  "n": 57,
+  "fr": "W-Wow..."
+ },
+ {
+  "n": 58,
+  "fr": "C'est donc à cela que les plans astraux ressemblent \nréellement..."
+ },
+ {
+  "n": 59,
+  "fr": "Ha... C'est comme si nous étions entourés d'un \ngigantesque kaléidoscope."
+ },
+ {
+  "n": 60,
+  "fr": "3000 selges par heure... 3100... 3200..."
+ },
+ {
+  "n": 61,
+  "fr": "A-Attendez une seconde... 3500 ?! 3800 ?! 4300 ?!"
+ },
+ {
+  "n": 62,
+  "fr": "On avance maintenant à 5000 selges par heure !"
+ },
+ {
+  "n": 63,
+  "fr": "Comment... ?!"
+ },
+ {
+  "n": 64,
+  "fr": "Mais l'Arseille devrait seulement être capable \nd'atteindre les 3600 selges par heure..."
+ },
+ {
+  "n": 65,
+  "fr": "Je ne peux qu'imaginer que cela est dû à la \nmanière dont vous avez réussi à réunir vos\npensées en une seule."
+ },
+ {
+  "n": 66,
+  "fr": "Cela doit être la vitesse maximale théorique\nde l'Arseille, plutôt que son maximum\ndans le monde réel.#0C"
+ },
+ {
+  "n": 67,
+  "fr": "C-C'est génial..."
+ },
+ {
+  "n": 68,
+  "fr": "On devrait pas mettre longtemps à atteindre\nnotre destination, à cette vitesse."
+ },
+ {
+  "n": 69,
+  "fr": "À ce propos, sommes-nous toujours\ndans les plans astraux ?"
+ },
+ {
+  "n": 70,
+  "fr": "Oui, mais nous ne devrions plus y être pour \nlongtemps."
+ },
+ {
+  "n": 71,
+  "fr": "Barrière mystique détectée devant nous !"
+ },
+ {
+  "n": 72,
+  "fr": "Cent vingt secondes avant l'impact !"
+ },
+ {
+  "n": 73,
+  "fr": "Vitesse maximale ! Préparez le canon principal \nà tirer en rafale !"
+ },
+ {
+  "n": 74,
+  "fr": "Nous allons nous en servir\npour forcer le passage !"
+ },
+ {
+  "n": 75,
+  "fr": "À vos ordres !"
+ },
+ {
+  "n": 76,
+  "fr": "Wouah..."
+ },
+ {
+  "n": 77,
+  "fr": "C'est donc à cela que ressemble Phantasma en \ndehors des plans astraux..."
+ },
+ {
+  "n": 78,
+  "fr": "Ce n'est rien de plus qu'un terrain vague..."
+ },
+ {
+  "n": 79,
+  "fr": "Les coordonnées de notre destination\nsont telles que je l'ai mentionné plus tôt."
+ },
+ {
+  "n": 80,
+  "fr": "Tant que nous continuons tout droit,\nnous devrions l'atteindre rapidement.#0C"
+ },
+ {
+  "n": 81,
+  "fr": "Pfiou... J'imagine que c'est notre chance de\nnous reposer."
+ },
+ {
+  "n": 82,
+  "fr": "C'était vraiment amusant, n'est-ce pas ?"
+ },
+ {
+  "n": 83,
+  "fr": "Même Ouroboros ne dispose pas d'aéronefs\naussi rapides."
+ },
+ {
+  "n": 84,
+  "fr": "Je commence à me rendre compte seulement \nmaintenant d'à quel point Phantasma est vaste, \npar contre."
+ },
+ {
+  "n": 85,
+  "fr": "Les plans astraux avaient déjà l'air assez grands, \nmais cette zone autour d'eux semble encore plus \nspacieuse."
+ },
+ {
+  "n": 86,
+  "fr": "En effet... Il est stupéfiant d'imaginer que\ntout ceci ne soit qu'un sous-système\nde l'Auréole."
+ },
+ {
+  "n": 87,
+  "fr": "Cela rend aussi encore plus difficile le fait\nde croire que l'Auréole ait pu disparaître\ncomme elle l'a fait."
+ },
+ {
+  "n": 88,
+  "fr": "Ouais... Je suis d'accord avec toi."
+ },
+ {
+  "n": 89,
+  "fr": "Y a pas moyen qu'un truc capable de créer\nun tout autre monde comme celui-là\npuisse juste disparaître tout d'un coup."
+ },
+ {
+  "n": 90,
+  "fr": "(Ce qui veut dire qu'il l'a probablement\nrécupérée.)"
+ },
+ {
+  "n": 91,
+  "fr": "Y a un problème, Kevin ?"
+ },
+ {
+  "n": 92,
+  "fr": "Oh, non... C'est rien."
+ },
+ {
+  "n": 93,
+  "fr": "Je doute que ce à quoi je pense ait un quelconque \nlien direct avec ce qui se passe ici."
+ },
+ {
+  "n": 94,
+  "fr": "... ?#6P"
+ },
+ {
+  "n": 95,
+  "fr": "Q-Qu'est-ce que... ?"
+ },
+ {
+  "n": 96,
+  "fr": "Y a un petit objet volant qui s'approche de nous \npar derrière à 200 selges de distance !"
+ },
+ {
+  "n": 97,
+  "fr": "Quoi ?!"
+ },
+ {
+  "n": 98,
+  "fr": "Comment pourrait-il y avoir un autre aéronef\nici, à part le nôtre ?"
+ },
+ {
+  "n": 99,
+  "fr": "... Non."
+ },
+ {
+  "n": 100,
+  "fr": "Cela semble être un poursuivant venu\ndes plans astraux.#0C"
+ },
+ {
+  "n": 101,
+  "fr": "Un poursuivant... ?!"
+ },
+ {
+  "n": 102,
+  "fr": "Faites descendre le moniteur principal !"
+ },
+ {
+  "n": 103,
+  "fr": "Essayez d'avoir le poursuivant dans le champ de \nvision en utilisant la caméra arrière du vaisseau !"
+ },
+ {
+  "n": 104,
+  "fr": "À vos ordres !"
+ },
+ {
+  "n": 105,
+  "fr": "C-C'est... !"
+ },
+ {
+  "n": 106,
+  "fr": "Qu'est-ce que qu'un Dragion argenté fait ici ?!"
+ },
+ {
+  "n": 107,
+  "fr": "Mh... Renne n'en a jamais vu un de cette couleur \nauparavant."
+ },
+ {
+  "n": 108,
+  "fr": "C'est pas bon... Il va plus vite que nous !"
+ },
+ {
+  "n": 109,
+  "fr": "À ce rythme, il va pas tarder à nous rattraper."
+ },
+ {
+  "n": 110,
+  "fr": "Et il y aurait peu de chances que cela\nse termine bien."
+ },
+ {
+  "n": 111,
+  "fr": "L'Arseille a déjà été mis au tapis par un Dragion \nune fois auparavant."
+ },
+ {
+  "n": 112,
+  "fr": "Mhh...\nRenne pourrait toujours appeler Pater-Mater..."
+ },
+ {
+  "n": 113,
+  "fr": "Mais il n'a pas la maniabilité que cette chose a \ndans les airs."
+ },
+ {
+  "n": 114,
+  "fr": "Rah..."
+ },
+ {
+  "n": 115,
+  "fr": "Préparez-vous au combat en vol ! Pivotez le \nvaisseau et interceptez ce Dragion !"
+ },
+ {
+  "n": 116,
+  "fr": "... Non. Ce n'est pas nécessaire."
+ },
+ {
+  "n": 117,
+  "fr": "Comment... ?"
+ },
+ {
+  "n": 118,
+  "fr": "C'est nouveau, ça."
+ },
+ {
+  "n": 119,
+  "fr": "Ha ha ha..."
+ },
+ {
+  "n": 120,
+  "fr": "Le moment est enfin venu de\nvous montrer à tous mon véritable génie !"
+ },
+ {
+  "n": 121,
+  "fr": "... Hein ?"
+ },
+ {
+  "n": 122,
+  "fr": "T-tu te sens bien ?"
+ },
+ {
+  "n": 123,
+  "fr": "... Ne serait-il pas préférable que vous alliez\nvous reposer à l'infirmerie ?"
+ },
+ {
+  "n": 124,
+  "fr": "Ha ha ha ! Vous autres pouvez juste\ndemeurer ici et observer."
+ },
+ {
+  "n": 125,
+  "fr": "Vous êtes sur le point de voir un\nVÉRITABLE HÉROS en action !"
+ },
+ {
+  "n": 126,
+  "fr": "...#5PEt le voilà parti."
+ },
+ {
+  "n": 127,
+  "fr": "Non mais il lui prend quoi, à cet abruti ?"
+ },
+ {
+  "n": 128,
+  "fr": "*bouche bée*"
+ },
+ {
+  "n": 129,
+  "fr": "Il avait ce truc quand on était à Grancel !"
+ },
+ {
+  "n": 130,
+  "fr": "J'ignorais qu'on pouvait le commander ainsi..."
+ },
+ {
+  "n": 131,
+  "fr": "J-Je connais ce truc !"
+ },
+ {
+  "n": 132,
+  "fr": "Alors c'était bien lui qui avait attaqué le Lynx !"
+ },
+ {
+  "n": 133,
+  "fr": "Mhh... Peut-être que son idée n'était pas\nsi stupide, après tout."
+ },
+ {
+  "n": 134,
+  "fr": "Ce n'est peut-être pas aussi puissant que\nce Dragion, mais en matière de maniabilité,\nça se défend bien."
+ },
+ {
+  "n": 135,
+  "fr": "Il s'en sort bien, en fait..."
+ },
+ {
+  "n": 136,
+  "fr": "Oui. Je suis impressionnée !"
+ },
+ {
+  "n": 137,
+  "fr": "Mh. Je me suis toujours dit que c'était\nun gros nul, mais il en a peut-être plus\ndans le ventre que ce que je pensais."
+ },
+ {
+  "n": 138,
+  "fr": "Ouais ! J'ai l'impression de le voir sous\nun tout autre angle, maintenant."
+ },
+ {
+  "n": 139,
+  "fr": "Cela dit, bien que ses efforts soient vaillants,\nje ne le vois pas capable de vraiment\nle vaincre..."
+ },
+ {
+  "n": 140,
+  "fr": "... Effectivement."
+ },
+ {
+  "n": 141,
+  "fr": "Peut-être vaudrait-il mieux pour nous\nque nous fassions demi-tour et que nous\nl'affrontions directement."
+ },
+ {
+  "n": 142,
+  "fr": "{color 5}Je vous ai dit que cela n'était pas nécessaire !"
+ },
+ {
+  "n": 143,
+  "fr": "... Oh."
+ },
+ {
+  "n": 144,
+  "fr": "{color 5}Je suis sérieux ! Avancez !"
+ },
+ {
+  "n": 145,
+  "fr": "Ce n'est pas comme si je pouvais vous\nêtre d'une grande aide au combat,\nde toute façon !"
+ },
+ {
+  "n": 146,
+  "fr": "Autant que je contribue d'une autre manière !"
+ },
+ {
+  "n": 147,
+  "fr": "En êtes-vous certain ?"
+ },
+ {
+  "n": 148,
+  "fr": "{color 5}Bien sûr, je ne suis peut-être pas en mesure \nde le faire tomber au sol, mais je peux le dégager de \nvotre passage !"
+ },
+ {
+  "n": 149,
+  "fr": "Ensuite, quand vous vous serez échappés\nen toute sécurité, je battrai en retraite\net je vous suivrai."
+ },
+ {
+  "n": 150,
+  "fr": "......"
+ },
+ {
+  "n": 151,
+  "fr": "Je comprends. Je vais prier pour que\nvous réussissiez."
+ },
+ {
+  "n": 152,
+  "fr": "{color 5}Ha. J'en ferai de même pour vous !"
+ },
+ {
+  "n": 153,
+  "fr": "Wow..."
+ },
+ {
+  "n": 154,
+  "fr": "Eh bien. Il sait clairement comment voler\nla vedette."
+ },
+ {
+  "n": 155,
+  "fr": "Franchement, ça devrait aller pour lui.\nIl est plutôt compétent pour piloter ce truc."
+ },
+ {
+  "n": 156,
+  "fr": "Il nous a donné du fil à retordre, à mes\nfrères et moi, quand il nous a attaqués\nla dernière fois."
+ },
+ {
+  "n": 157,
+  "fr": "Eh bien, j'imagine que tout ce qu'on peut\nfaire à présent, c'est de croire en lui."
+ },
+ {
+  "n": 158,
+  "fr": "Prions Aidios pour qu'il soit en sécurité."
+ },
+ {
+  "n": 159,
+  "fr": "... En effet."
+ },
+ {
+  "n": 160,
+  "fr": "Tous les moteurs, vitesse maximale !"
+ },
+ {
+  "n": 161,
+  "fr": "Ne ralentissez pas avant que nous ayons\natteint notre destination !"
+ },
+ {
+  "n": 162,
+  "fr": "{color 0}#4SOui, Madame !"
+ },
+ {
+  "n": 163,
+  "fr": "Hé ? Vous entendez un truc, vous ?"
+ },
+ {
+  "n": 164,
+  "fr": "Renne n'a rien entendu..."
+ },
+ {
+  "n": 165,
+  "fr": "Structure gigantesque détectée à 120 selges \ndevant nous !"
+ },
+ {
+  "n": 166,
+  "fr": "Je crois que c'est vers là qu'on va !"
+ },
+ {
+  "n": 167,
+  "fr": "Nous devrions pouvoir visualiser cela bientôt,\nsi c'est si proche."
+ },
+ {
+  "n": 168,
+  "fr": "Joshua, pourriez-vous aligner la\ncaméra principale ?"
+ },
+ {
+  "n": 169,
+  "fr": "... Bien entendu."
+ },
+ {
+  "n": 170,
+  "fr": "Je zoome autant que possible sur la cible..."
+ },
+ {
+  "n": 171,
+  "fr": "......"
+ },
+ {
+  "n": 172,
+  "fr": "Je l'ai ! Je l'envoie vers l'écran !"
+ },
+ {
+  "n": 173,
+  "fr": "C-C'est quoi CE TRUC ?!"
+ },
+ {
+  "n": 174,
+  "fr": "Wouah... On dirait que ça sort d'un\nconte de fées !"
+ },
+ {
+  "n": 175,
+  "fr": "Cela ressemble à une sorte de palais..."
+ },
+ {
+  "n": 176,
+  "fr": "Ou peut-être que château serait un terme\nplus approprié."
+ },
+ {
+  "n": 177,
+  "fr": "C'est donc ici que le Maître de Phantasma\nnous attend – un grand château, dressé\ndans une étendue déserte..."
+ },
+ {
+  "n": 178,
+  "fr": "Ha, plutôt romantique, comme concept."
+ },
+ {
+  "n": 179,
+  "fr": "Rufina nous attend-elle ici ?"
+ },
+ {
+  "n": 180,
+  "fr": "Ouais... Aucun doute là-dessus."
+ },
+ {
+  "n": 181,
+  "fr": "N'empêche...\nC'est un sacré château qu'elle a réussi à bâtir..."
+ },
+ {
+  "n": 182,
+  "fr": "... Que devrions-nous faire à présent, Kevin ?"
+ },
+ {
+  "n": 183,
+  "fr": "Mhh..."
+ },
+ {
+  "n": 184,
+  "fr": "Essayons de nous approcher et de voir s'il y a une \nentrée. Doucement, par contre."
+ },
+ {
+  "n": 185,
+  "fr": "Je pense pas que notre arrivée soit une surprise \npour elle."
+ },
+ {
+  "n": 186,
+  "fr": "Entendu."
+ },
+ {
+  "n": 187,
+  "fr": "Arseille, ralentissez !"
+ },
+ {
+  "n": 188,
+  "fr": "Dès que nous atteindrons la cible, commencez\nà l'encercler lentement !"
+ },
+ {
+  "n": 189,
+  "fr": "{color 0}#4SOui, Madame !"
+ }
+]

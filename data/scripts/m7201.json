@@ -1,0 +1,30 @@
+[
+ {
+  "n": 9,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 10,
+  "fr": "Restaurer les PV/PE"
+ },
+ {
+  "n": 11,
+  "fr": "Acheter"
+ },
+ {
+  "n": 12,
+  "fr": "Synthétiser des quartz"
+ },
+ {
+  "n": 13,
+  "fr": "Terminer"
+ },
+ {
+  "n": 14,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 15,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ }
+]

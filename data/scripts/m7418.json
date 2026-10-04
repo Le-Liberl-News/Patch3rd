@@ -1,0 +1,14 @@
+[
+ {
+  "n": 3,
+  "fr": "{color 5}Trouvée : {item item[517]}{color 5}"
+ },
+ {
+  "n": 4,
+  "fr": "{color 5}Trouvée : {item item[517]}{color 5}.\n{color 5}Inventaire plein. Objet reposé{color 5}."
+ },
+ {
+  "n": 12,
+  "fr": "[Non]"
+ }
+]

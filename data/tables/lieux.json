@@ -1,0 +1,2187 @@
+[
+ {
+  "cle": "2",
+  "type": "terme",
+  "fr": "Rolent"
+ },
+ {
+  "cle": "3",
+  "type": "terme",
+  "fr": "Guilde de Rolent"
+ },
+ {
+  "cle": "4",
+  "type": "terme",
+  "fr": "Chapelle de Rolent"
+ },
+ {
+  "cle": "5",
+  "type": "terme",
+  "fr": "Armurerie Elger"
+ },
+ {
+  "cle": "6",
+  "type": "terme",
+  "fr": "Épicerie Rinon"
+ },
+ {
+  "cle": "7",
+  "type": "terme",
+  "fr": "Atelier Melders"
+ },
+ {
+  "cle": "8",
+  "type": "terme",
+  "fr": "Bar Abend"
+ },
+ {
+  "cle": "9",
+  "type": "terme",
+  "fr": "Hôtel Rolent"
+ },
+ {
+  "cle": "10",
+  "type": "terme",
+  "fr": "Rolent - Aérogare"
+ },
+ {
+  "cle": "11",
+  "type": "terme",
+  "fr": "Rolent - Tour horloge"
+ },
+ {
+  "cle": "12",
+  "type": "terme",
+  "fr": "Rolent - Résidence"
+ },
+ {
+  "cle": "13",
+  "type": "terme",
+  "fr": "Rolent - Résidence du maire"
+ },
+ {
+  "cle": "14",
+  "type": "terme",
+  "fr": "Ferme Perzel"
+ },
+ {
+  "cle": "15",
+  "type": "terme",
+  "fr": "Mine Malga"
+ },
+ {
+  "cle": "16",
+  "type": "terme",
+  "fr": "Maison des Bright"
+ },
+ {
+  "cle": "17",
+  "type": "terme",
+  "fr": "Tour Esmelas"
+ },
+ {
+  "cle": "18",
+  "type": "terme",
+  "fr": "Porte de Gurune"
+ },
+ {
+  "cle": "19",
+  "type": "terme",
+  "fr": "Pont de Verte - Point de passage"
+ },
+ {
+  "cle": "20",
+  "type": "terme",
+  "fr": "Mistwald"
+ },
+ {
+  "cle": "21",
+  "type": "terme",
+  "fr": "Rolent - Égouts"
+ },
+ {
+  "cle": "22",
+  "type": "terme",
+  "fr": "Sentier Malga "
+ },
+ {
+  "cle": "23",
+  "type": "terme",
+  "fr": "Route Milch"
+ },
+ {
+  "cle": "24",
+  "type": "terme",
+  "fr": "Chemin Elize"
+ },
+ {
+  "cle": "25",
+  "type": "terme",
+  "fr": "Tour Esmelas - RDC"
+ },
+ {
+  "cle": "26",
+  "type": "terme",
+  "fr": "Tour Esmelas - 1E"
+ },
+ {
+  "cle": "27",
+  "type": "terme",
+  "fr": "Tour Esmelas - 2E"
+ },
+ {
+  "cle": "28",
+  "type": "terme",
+  "fr": "Tour Esmelas - 3E"
+ },
+ {
+  "cle": "29",
+  "type": "terme",
+  "fr": "Tour Esmelas - 4E"
+ },
+ {
+  "cle": "30",
+  "type": "terme",
+  "fr": "Tour Esmelas - Toit"
+ },
+ {
+  "cle": "31",
+  "type": "terme",
+  "fr": "Bose - Quartier nord"
+ },
+ {
+  "cle": "32",
+  "type": "terme",
+  "fr": "Bose - Quartier sud"
+ },
+ {
+  "cle": "33",
+  "type": "terme",
+  "fr": "Guilde de Bose"
+ },
+ {
+  "cle": "34",
+  "type": "terme",
+  "fr": "Chapelle de Bose"
+ },
+ {
+  "cle": "35",
+  "type": "terme",
+  "fr": "Armurerie Zein"
+ },
+ {
+  "cle": "36",
+  "type": "terme",
+  "fr": "Marché de Bose"
+ },
+ {
+  "cle": "37",
+  "type": "terme",
+  "fr": "Atelier Lucir"
+ },
+ {
+  "cle": "38",
+  "type": "terme",
+  "fr": "Bar Kirsche"
+ },
+ {
+  "cle": "39",
+  "type": "terme",
+  "fr": "Hôtel Frieden"
+ },
+ {
+  "cle": "40",
+  "type": "terme",
+  "fr": "Bose - Aérogare internationale"
+ },
+ {
+  "cle": "41",
+  "type": "terme",
+  "fr": "Marché de Bose"
+ },
+ {
+  "cle": "42",
+  "type": "terme",
+  "fr": "Bose - Résidence"
+ },
+ {
+  "cle": "43",
+  "type": "terme",
+  "fr": "Bose - Résidence du maire"
+ },
+ {
+  "cle": "44",
+  "type": "terme",
+  "fr": "Restaurant Anterose "
+ },
+ {
+  "cle": "45",
+  "type": "terme",
+  "fr": "Ravennue"
+ },
+ {
+  "cle": "46",
+  "type": "terme",
+  "fr": "Épicerie Émile"
+ },
+ {
+  "cle": "47",
+  "type": "terme",
+  "fr": "Auberge - Le Clair de Lune"
+ },
+ {
+  "cle": "48",
+  "type": "terme",
+  "fr": "Ravennue - Maison du Doyen"
+ },
+ {
+  "cle": "49",
+  "type": "terme",
+  "fr": "Ravennue - Maison"
+ },
+ {
+  "cle": "50",
+  "type": "terme",
+  "fr": "Mine abandonnée"
+ },
+ {
+  "cle": "51",
+  "type": "terme",
+  "fr": "Lac Valleria"
+ },
+ {
+  "cle": "52",
+  "type": "terme",
+  "fr": "Tour Amberl"
+ },
+ {
+  "cle": "53",
+  "type": "terme",
+  "fr": "Ancien repaire des pirates du ciel"
+ },
+ {
+  "cle": "54",
+  "type": "terme",
+  "fr": "Porte de Haken "
+ },
+ {
+  "cle": "55",
+  "type": "terme",
+  "fr": "Col de Krone - Point de passage"
+ },
+ {
+  "cle": "56",
+  "type": "terme",
+  "fr": "Bose - Route Est"
+ },
+ {
+  "cle": "57",
+  "type": "terme",
+  "fr": "Bose - Route Ouest"
+ },
+ {
+  "cle": "58",
+  "type": "terme",
+  "fr": "Route d'Eisen"
+ },
+ {
+  "cle": "59",
+  "type": "terme",
+  "fr": "Nouvelle route d'Ansel"
+ },
+ {
+  "cle": "60",
+  "type": "terme",
+  "fr": "Sentier de Ravennue"
+ },
+ {
+  "cle": "61",
+  "type": "terme",
+  "fr": "Gorges Nebel"
+ },
+ {
+  "cle": "62",
+  "type": "terme",
+  "fr": "Sentier de Krone"
+ },
+ {
+  "cle": "63",
+  "type": "terme",
+  "fr": "Gorges Nebel - Hutte"
+ },
+ {
+  "cle": "64",
+  "type": "terme",
+  "fr": "Auberge du Martin-pêcheur"
+ },
+ {
+  "cle": "65",
+  "type": "terme",
+  "fr": "Tour Amberl - RDC"
+ },
+ {
+  "cle": "66",
+  "type": "terme",
+  "fr": "Tour Amberl - 1E"
+ },
+ {
+  "cle": "67",
+  "type": "terme",
+  "fr": "Tour Amberl - 2E"
+ },
+ {
+  "cle": "68",
+  "type": "terme",
+  "fr": "Tour Amberl - 3E"
+ },
+ {
+  "cle": "69",
+  "type": "terme",
+  "fr": "Tour Amberl - 4E"
+ },
+ {
+  "cle": "70",
+  "type": "terme",
+  "fr": "Tour Amberl - Toit"
+ },
+ {
+  "cle": "71",
+  "type": "terme",
+  "fr": "Ruan - Quartier Nord"
+ },
+ {
+  "cle": "72",
+  "type": "terme",
+  "fr": "Ruan - Quartier Sud"
+ },
+ {
+  "cle": "73",
+  "type": "terme",
+  "fr": "Guilde de Ruan"
+ },
+ {
+  "cle": "74",
+  "type": "terme",
+  "fr": "Chapelle de Ruan"
+ },
+ {
+  "cle": "75",
+  "type": "terme",
+  "fr": "Armurerie Joan"
+ },
+ {
+  "cle": "76",
+  "type": "terme",
+  "fr": "Magasin d'O'Neil"
+ },
+ {
+  "cle": "77",
+  "type": "terme",
+  "fr": "Atelier Granate"
+ },
+ {
+  "cle": "78",
+  "type": "terme",
+  "fr": "Casino-bar Lavantar"
+ },
+ {
+  "cle": "79",
+  "type": "terme",
+  "fr": "Hôtel Blanche"
+ },
+ {
+  "cle": "80",
+  "type": "terme",
+  "fr": "Ruan - Aérogare"
+ },
+ {
+  "cle": "81",
+  "type": "terme",
+  "fr": "Ruan - Entrepôt"
+ },
+ {
+  "cle": "82",
+  "type": "terme",
+  "fr": "Ruan - Résidence"
+ },
+ {
+  "cle": "83",
+  "type": "terme",
+  "fr": "Ruan - Villa du maire"
+ },
+ {
+  "cle": "84",
+  "type": "terme",
+  "fr": "Pont Langland"
+ },
+ {
+  "cle": "85",
+  "type": "terme",
+  "fr": "Phare Varenne"
+ },
+ {
+  "cle": "86",
+  "type": "terme",
+  "fr": "Orphelinat Mercia"
+ },
+ {
+  "cle": "87",
+  "type": "terme",
+  "fr": "Manoria"
+ },
+ {
+  "cle": "88",
+  "type": "terme",
+  "fr": "Épicerie Fiore"
+ },
+ {
+  "cle": "89",
+  "type": "terme",
+  "fr": "Le Magnolia Blanc"
+ },
+ {
+  "cle": "90",
+  "type": "terme",
+  "fr": "Manoria - Maison du doyen"
+ },
+ {
+  "cle": "91",
+  "type": "terme",
+  "fr": "Manoria - Maison"
+ },
+ {
+  "cle": "92",
+  "type": "terme",
+  "fr": "Académie royale Jenis"
+ },
+ {
+  "cle": "93",
+  "type": "terme",
+  "fr": "Académie - Bâtiment principal"
+ },
+ {
+  "cle": "94",
+  "type": "terme",
+  "fr": "Académie - Maison des clubs"
+ },
+ {
+  "cle": "95",
+  "type": "terme",
+  "fr": "Académie - Bureau du proviseur"
+ },
+ {
+  "cle": "96",
+  "type": "terme",
+  "fr": "Académie - Auditorium"
+ },
+ {
+  "cle": "97",
+  "type": "terme",
+  "fr": "Académie - École désaffectée"
+ },
+ {
+  "cle": "98",
+  "type": "terme",
+  "fr": "École désaffectée - Sous-sols"
+ },
+ {
+  "cle": "99",
+  "type": "terme",
+  "fr": "Tour Saphirl"
+ },
+ {
+  "cle": "100",
+  "type": "terme",
+  "fr": "Air-Letten - Point de passage"
+ },
+ {
+  "cle": "101",
+  "type": "terme",
+  "fr": "Route de Manoria"
+ },
+ {
+  "cle": "102",
+  "type": "terme",
+  "fr": "Côte Möwe"
+ },
+ {
+  "cle": "103",
+  "type": "terme",
+  "fr": "Bois Vista"
+ },
+ {
+  "cle": "104",
+  "type": "terme",
+  "fr": "Route Aina"
+ },
+ {
+  "cle": "105",
+  "type": "terme",
+  "fr": "Casino-bar Lavantar"
+ },
+ {
+  "cle": "106",
+  "type": "terme",
+  "fr": "Bar Aqua Rossa"
+ },
+ {
+  "cle": "107",
+  "type": "terme",
+  "fr": "Manoria - Moulin"
+ },
+ {
+  "cle": "108",
+  "type": "terme",
+  "fr": "Académie - Route secondaire"
+ },
+ {
+  "cle": "109",
+  "type": "terme",
+  "fr": "Académie - Dortoir des garcons"
+ },
+ {
+  "cle": "110",
+  "type": "terme",
+  "fr": "Académie - Dortoir des filles"
+ },
+ {
+  "cle": "111",
+  "type": "terme",
+  "fr": "Classe de sciences humaines"
+ },
+ {
+  "cle": "112",
+  "type": "terme",
+  "fr": "Salle des professeurs"
+ },
+ {
+  "cle": "113",
+  "type": "terme",
+  "fr": "Académie - Bureau des étudiants"
+ },
+ {
+  "cle": "114",
+  "type": "terme",
+  "fr": "Academie - Salle de documentation"
+ },
+ {
+  "cle": "115",
+  "type": "terme",
+  "fr": "Vestiaire des garçons"
+ },
+ {
+  "cle": "116",
+  "type": "terme",
+  "fr": "Classe de sciences économiques et sociales"
+ },
+ {
+  "cle": "117",
+  "type": "terme",
+  "fr": "Classe de sciences naturelles"
+ },
+ {
+  "cle": "118",
+  "type": "terme",
+  "fr": "Vestiaire des filles"
+ },
+ {
+  "cle": "119",
+  "type": "terme",
+  "fr": "Tour Saphirl - RDC"
+ },
+ {
+  "cle": "120",
+  "type": "terme",
+  "fr": "Tour Saphirl - 1E"
+ },
+ {
+  "cle": "121",
+  "type": "terme",
+  "fr": "Tour Saphirl - 2E"
+ },
+ {
+  "cle": "122",
+  "type": "terme",
+  "fr": "Tour Saphirl - 3E"
+ },
+ {
+  "cle": "123",
+  "type": "terme",
+  "fr": "Tour Saphirl - 4E"
+ },
+ {
+  "cle": "124",
+  "type": "terme",
+  "fr": "Tour Saphirl - Toit"
+ },
+ {
+  "cle": "125",
+  "type": "terme",
+  "fr": "Zeiss - Centre-ville"
+ },
+ {
+  "cle": "126",
+  "type": "terme",
+  "fr": "Zeiss - Parvis du CTZ"
+ },
+ {
+  "cle": "127",
+  "type": "terme",
+  "fr": "Guilde de Zeiss"
+ },
+ {
+  "cle": "128",
+  "type": "terme",
+  "fr": "Chapelle de Zeiss"
+ },
+ {
+  "cle": "129",
+  "type": "terme",
+  "fr": "Armurerie Stain"
+ },
+ {
+  "cle": "130",
+  "type": "terme",
+  "fr": "Épicerie Bell"
+ },
+ {
+  "cle": "131",
+  "type": "terme",
+  "fr": "Centre Technologique de Zeiss"
+ },
+ {
+  "cle": "132",
+  "type": "terme",
+  "fr": "Bar Vogel"
+ },
+ {
+  "cle": "133",
+  "type": "terme",
+  "fr": "Hôtel Zahnrad"
+ },
+ {
+  "cle": "134",
+  "type": "terme",
+  "fr": "Zeiss - Aérogare"
+ },
+ {
+  "cle": "135",
+  "type": "terme",
+  "fr": "Maison des Russell"
+ },
+ {
+  "cle": "136",
+  "type": "terme",
+  "fr": "Zeiss - Résidence"
+ },
+ {
+  "cle": "137",
+  "type": "terme",
+  "fr": "Zeiss - Résidence du maire"
+ },
+ {
+  "cle": "138",
+  "type": "terme",
+  "fr": "Centre Technologique de Zeiss"
+ },
+ {
+  "cle": "139",
+  "type": "terme",
+  "fr": "Elmo"
+ },
+ {
+  "cle": "140",
+  "type": "terme",
+  "fr": "Boutique Hazuki"
+ },
+ {
+  "cle": "141",
+  "type": "terme",
+  "fr": "Auberge Momiji"
+ },
+ {
+  "cle": "142",
+  "type": "terme",
+  "fr": "Elmo - Local de maintenance"
+ },
+ {
+  "cle": "143",
+  "type": "terme",
+  "fr": "Fort Wolf"
+ },
+ {
+  "cle": "144",
+  "type": "terme",
+  "fr": "Porte de Sanktheim"
+ },
+ {
+  "cle": "145",
+  "type": "terme",
+  "fr": "Forteresse Leiston"
+ },
+ {
+  "cle": "146",
+  "type": "terme",
+  "fr": "Tour Carnelia"
+ },
+ {
+  "cle": "147",
+  "type": "terme",
+  "fr": "Grotte calcaire de Kaldia"
+ },
+ {
+  "cle": "148",
+  "type": "terme",
+  "fr": "Tunnel de Kaldia"
+ },
+ {
+  "cle": "149",
+  "type": "terme",
+  "fr": "Plaines Tratt"
+ },
+ {
+  "cle": "150",
+  "type": "terme",
+  "fr": "Route du Soldat"
+ },
+ {
+  "cle": "151",
+  "type": "terme",
+  "fr": "Route Ritter"
+ },
+ {
+  "cle": "152",
+  "type": "terme",
+  "fr": "CTZ - Bibliothèque"
+ },
+ {
+  "cle": "153",
+  "type": "terme",
+  "fr": "CTZ - Bureau du directeur"
+ },
+ {
+  "cle": "154",
+  "type": "terme",
+  "fr": "CTZ - Salle de conception"
+ },
+ {
+  "cle": "155",
+  "type": "terme",
+  "fr": "CTZ - Atelier"
+ },
+ {
+  "cle": "156",
+  "type": "terme",
+  "fr": "CTZ - Infirmerie"
+ },
+ {
+  "cle": "157",
+  "type": "terme",
+  "fr": "CTZ - Laboratoire"
+ },
+ {
+  "cle": "158",
+  "type": "terme",
+  "fr": "CTZ - Escaliers"
+ },
+ {
+  "cle": "159",
+  "type": "terme",
+  "fr": "CTZ - Salle informatique"
+ },
+ {
+  "cle": "160",
+  "type": "terme",
+  "fr": "Elmo - Maison individuelle"
+ },
+ {
+  "cle": "161",
+  "type": "terme",
+  "fr": "Leiston - Aérodrome"
+ },
+ {
+  "cle": "162",
+  "type": "terme",
+  "fr": "Leiston - Quartier Général"
+ },
+ {
+  "cle": "163",
+  "type": "terme",
+  "fr": "Leiston - Centre de recherche"
+ },
+ {
+  "cle": "164",
+  "type": "terme",
+  "fr": "Leiston - Égouts"
+ },
+ {
+  "cle": "165",
+  "type": "terme",
+  "fr": "Tour Carnelia - RDC"
+ },
+ {
+  "cle": "166",
+  "type": "terme",
+  "fr": "Tour Carnelia - 1E"
+ },
+ {
+  "cle": "167",
+  "type": "terme",
+  "fr": "Tour Carnelia - 2E"
+ },
+ {
+  "cle": "168",
+  "type": "terme",
+  "fr": "Tour Carnelia - 3E"
+ },
+ {
+  "cle": "169",
+  "type": "terme",
+  "fr": "Tour Carnelia - 4E"
+ },
+ {
+  "cle": "170",
+  "type": "terme",
+  "fr": "Tour Carnelia - Toit"
+ },
+ {
+  "cle": "171",
+  "type": "terme",
+  "fr": "Grancel - Quartier Sud"
+ },
+ {
+  "cle": "172",
+  "type": "terme",
+  "fr": "Grancel - Quartier Est"
+ },
+ {
+  "cle": "173",
+  "type": "terme",
+  "fr": "Grancel - Quartier Ouest"
+ },
+ {
+  "cle": "174",
+  "type": "terme",
+  "fr": "Grancel - Quartier Nord"
+ },
+ {
+  "cle": "175",
+  "type": "terme",
+  "fr": "Guilde de Grancel"
+ },
+ {
+  "cle": "176",
+  "type": "terme",
+  "fr": "Cathédrale de Grancel"
+ },
+ {
+  "cle": "177",
+  "type": "terme",
+  "fr": "Armurerie Weis"
+ },
+ {
+  "cle": "178",
+  "type": "terme",
+  "fr": "Centre commercial Edel"
+ },
+ {
+  "cle": "179",
+  "type": "terme",
+  "fr": "Atelier Wingard"
+ },
+ {
+  "cle": "180",
+  "type": "terme",
+  "fr": "Taverne Sunnybell"
+ },
+ {
+  "cle": "181",
+  "type": "terme",
+  "fr": "Hôtel Roenbaum"
+ },
+ {
+  "cle": "182",
+  "type": "terme",
+  "fr": "Grancel - Aérogare"
+ },
+ {
+  "cle": "183",
+  "type": "terme",
+  "fr": "Grancel - Résidence"
+ },
+ {
+  "cle": "184",
+  "type": "terme",
+  "fr": "Café Baral"
+ },
+ {
+  "cle": "185",
+  "type": "terme",
+  "fr": "Bureaux du Liberl News"
+ },
+ {
+  "cle": "186",
+  "type": "terme",
+  "fr": "Guilde des pêcheurs"
+ },
+ {
+  "cle": "187",
+  "type": "terme",
+  "fr": "Arène royale"
+ },
+ {
+  "cle": "188",
+  "type": "terme",
+  "fr": "Musée historique de Grancel"
+ },
+ {
+  "cle": "189",
+  "type": "terme",
+  "fr": "Ambassade de Calvard"
+ },
+ {
+  "cle": "190",
+  "type": "terme",
+  "fr": "Ambassade d'Érébonia"
+ },
+ {
+  "cle": "191",
+  "type": "terme",
+  "fr": "Château de Grancel"
+ },
+ {
+  "cle": "192",
+  "type": "terme",
+  "fr": "Château - Salle de réception"
+ },
+ {
+  "cle": "193",
+  "type": "terme",
+  "fr": "Château - Administration"
+ },
+ {
+  "cle": "194",
+  "type": "terme",
+  "fr": "Château - QG de la Garde royale"
+ },
+ {
+  "cle": "195",
+  "type": "terme",
+  "fr": "Château - Salle des domestiques"
+ },
+ {
+  "cle": "196",
+  "type": "terme",
+  "fr": "Château - Cuisine"
+ },
+ {
+  "cle": "197",
+  "type": "terme",
+  "fr": "Château - Salle du trône"
+ },
+ {
+  "cle": "198",
+  "type": "terme",
+  "fr": "Château - Bibliothèque"
+ },
+ {
+  "cle": "199",
+  "type": "terme",
+  "fr": "Château - Salon-bar"
+ },
+ {
+  "cle": "200",
+  "type": "terme",
+  "fr": "Château - Chambre des convives"
+ },
+ {
+  "cle": "201",
+  "type": "terme",
+  "fr": "Chambre de la princesse"
+ },
+ {
+  "cle": "202",
+  "type": "terme",
+  "fr": "Quartiers de la reine"
+ },
+ {
+  "cle": "203",
+  "type": "terme",
+  "fr": "Château - Cellier"
+ },
+ {
+  "cle": "204",
+  "type": "terme",
+  "fr": "Château - Salle du trésor"
+ },
+ {
+  "cle": "205",
+  "type": "terme",
+  "fr": "Villa royale d'Erbe"
+ },
+ {
+  "cle": "206",
+  "type": "terme",
+  "fr": "Villa d'Erbe - Chambre des convives"
+ },
+ {
+  "cle": "207",
+  "type": "terme",
+  "fr": "Villa d'Erbe - Bibliothèque"
+ },
+ {
+  "cle": "208",
+  "type": "terme",
+  "fr": "Villa d'Erbe - Salle de réception"
+ },
+ {
+  "cle": "209",
+  "type": "terme",
+  "fr": "Villa d'Erbe - Galerie"
+ },
+ {
+  "cle": "210",
+  "type": "terme",
+  "fr": "Villa d'Erbe - Salon-bar"
+ },
+ {
+  "cle": "211",
+  "type": "terme",
+  "fr": "Avenue Kirsche"
+ },
+ {
+  "cle": "212",
+  "type": "terme",
+  "fr": "Route touristique d'Erbe"
+ },
+ {
+  "cle": "213",
+  "type": "terme",
+  "fr": "Route d'Erbe - Lac Romal"
+ },
+ {
+  "cle": "214",
+  "type": "terme",
+  "fr": "Grancel - Égouts Ouest"
+ },
+ {
+  "cle": "215",
+  "type": "terme",
+  "fr": "Grancel - Égouts Est"
+ },
+ {
+  "cle": "216",
+  "type": "terme",
+  "fr": "Grancel - Égouts Nord"
+ },
+ {
+  "cle": "217",
+  "type": "terme",
+  "fr": "Zone scellée"
+ },
+ {
+  "cle": "218",
+  "type": "terme",
+  "fr": "Château - Vestibule"
+ },
+ {
+  "cle": "219",
+  "type": "terme",
+  "fr": "Château - Palais royal"
+ },
+ {
+  "cle": "220",
+  "type": "terme",
+  "fr": "Château - Jardins suspendus"
+ },
+ {
+  "cle": "221",
+  "type": "terme",
+  "fr": "Château - Aile gauche"
+ },
+ {
+  "cle": "222",
+  "type": "terme",
+  "fr": "Château - Aile droite"
+ },
+ {
+  "cle": "223",
+  "type": "terme",
+  "fr": "Zone scellée - 1er sous-sol"
+ },
+ {
+  "cle": "224",
+  "type": "terme",
+  "fr": "Zone scellée - 2e sous-sol"
+ },
+ {
+  "cle": "225",
+  "type": "terme",
+  "fr": "Zone scellée - 3e sous-sol"
+ },
+ {
+  "cle": "226",
+  "type": "terme",
+  "fr": "Zone scellée - 4e sous-sol"
+ },
+ {
+  "cle": "227",
+  "type": "terme",
+  "fr": "Zone scellée - 5e sous-sol"
+ },
+ {
+  "cle": "228",
+  "type": "terme",
+  "fr": "Zone scellée - Dernier sous-sol"
+ },
+ {
+  "cle": "229",
+  "type": "terme",
+  "fr": "Zone scellée - SS1 - Passerelle"
+ },
+ {
+  "cle": "230",
+  "type": "terme",
+  "fr": "Zone scellée - SS3 - Passerelle"
+ },
+ {
+  "cle": "231",
+  "type": "terme",
+  "fr": "Liberl Airlines"
+ },
+ {
+  "cle": "232",
+  "type": "terme",
+  "fr": "Demeure du général Morgan"
+ },
+ {
+  "cle": "233",
+  "type": "terme",
+  "fr": "Firme Dalmore"
+ },
+ {
+  "cle": "234",
+  "type": "terme",
+  "fr": "Aéronef Linde"
+ },
+ {
+  "cle": "235",
+  "type": "terme",
+  "fr": "Aéronef Cecilia"
+ },
+ {
+  "cle": "236",
+  "type": "terme",
+  "fr": "Leibnitz"
+ },
+ {
+  "cle": "237",
+  "type": "terme",
+  "fr": "Arseille "
+ },
+ {
+  "cle": "238",
+  "type": "terme",
+  "fr": "Lynx"
+ },
+ {
+  "cle": "239",
+  "type": "terme",
+  "fr": "Patrouilleur de l'Armée Royale"
+ },
+ {
+  "cle": "240",
+  "type": "terme",
+  "fr": "Frégate des Forces Spéciales"
+ },
+ {
+  "cle": "241",
+  "type": "terme",
+  "fr": "Vaisseau d'Ouroboros"
+ },
+ {
+  "cle": "242",
+  "type": "terme",
+  "fr": "Glorieux"
+ },
+ {
+  "cle": "243",
+  "type": "terme",
+  "fr": "Aéronef international Gretna"
+ },
+ {
+  "cle": "244",
+  "type": "terme",
+  "fr": "Prologue - FIN"
+ },
+ {
+  "cle": "245",
+  "type": "terme",
+  "fr": "Chapitre 1 - FIN"
+ },
+ {
+  "cle": "246",
+  "type": "terme",
+  "fr": "Chapitre 2 - FIN"
+ },
+ {
+  "cle": "247",
+  "type": "terme",
+  "fr": "Chapitre 3 - FIN"
+ },
+ {
+  "cle": "248",
+  "type": "terme",
+  "fr": "--------"
+ },
+ {
+  "cle": "249",
+  "type": "terme",
+  "fr": "--------"
+ },
+ {
+  "cle": "250",
+  "type": "terme",
+  "fr": "--------"
+ },
+ {
+  "cle": "251",
+  "type": "terme",
+  "fr": "Tanière du dragon antique"
+ },
+ {
+  "cle": "252",
+  "type": "terme",
+  "fr": "Grotte des sources chaudes"
+ },
+ {
+  "cle": "253",
+  "type": "terme",
+  "fr": "Grancel - Port"
+ },
+ {
+  "cle": "254",
+  "type": "terme",
+  "fr": "Laboratoire du lac"
+ },
+ {
+  "cle": "255",
+  "type": "terme",
+  "fr": "Laboratoire - RDC"
+ },
+ {
+  "cle": "256",
+  "type": "terme",
+  "fr": "Laboratoire - 1E"
+ },
+ {
+  "cle": "257",
+  "type": "terme",
+  "fr": "Laboratoire - 2E"
+ },
+ {
+  "cle": "258",
+  "type": "terme",
+  "fr": "Laboratoire - 3E"
+ },
+ {
+  "cle": "259",
+  "type": "terme",
+  "fr": "Secteur souche - Zone centrale"
+ },
+ {
+  "cle": "260",
+  "type": "terme",
+  "fr": "Secteur souche - Dimension parallèle"
+ },
+ {
+  "cle": "261",
+  "type": "terme",
+  "fr": "Le Locle - Centre d'entraînement"
+ },
+ {
+  "cle": "262",
+  "type": "terme",
+  "fr": "Centre d'entraînement - Auberge"
+ },
+ {
+  "cle": "263",
+  "type": "terme",
+  "fr": "Canalisations de Balstar"
+ },
+ {
+  "cle": "264",
+  "type": "terme",
+  "fr": "Forêt de Sainte-Croix"
+ },
+ {
+  "cle": "265",
+  "type": "terme",
+  "fr": "Fort Grimsel"
+ },
+ {
+  "cle": "266",
+  "type": "terme",
+  "fr": "Glorieux"
+ },
+ {
+  "cle": "267",
+  "type": "terme",
+  "fr": "Glorieux - Chapelle"
+ },
+ {
+  "cle": "268",
+  "type": "terme",
+  "fr": "Glorieux - Pont"
+ },
+ {
+  "cle": "269",
+  "type": "terme",
+  "fr": "Glorieux - Hangar"
+ },
+ {
+  "cle": "270",
+  "type": "terme",
+  "fr": "--------"
+ },
+ {
+  "cle": "271",
+  "type": "terme",
+  "fr": "Secteur industriel - Factoria"
+ },
+ {
+  "cle": "272",
+  "type": "terme",
+  "fr": "Secteur résidentiel - Cradle"
+ },
+ {
+  "cle": "273",
+  "type": "terme",
+  "fr": "Secteur végétalisé - Calmare"
+ },
+ {
+  "cle": "274",
+  "type": "terme",
+  "fr": "Tour centrale - Pilier Axis"
+ },
+ {
+  "cle": "275",
+  "type": "terme",
+  "fr": "Secteur souche - Themelios"
+ },
+ {
+  "cle": "276",
+  "type": "terme",
+  "fr": "--------"
+ },
+ {
+  "cle": "277",
+  "type": "terme",
+  "fr": "Tunnels du Liber Ark - 1"
+ },
+ {
+  "cle": "278",
+  "type": "terme",
+  "fr": "Tunnels du Liber Ark - 2"
+ },
+ {
+  "cle": "279",
+  "type": "terme",
+  "fr": "Tunnels du Liber Ark - 3"
+ },
+ {
+  "cle": "280",
+  "type": "terme",
+  "fr": "Tunnels du Liber Ark - 4"
+ },
+ {
+  "cle": "281",
+  "type": "terme",
+  "fr": "Station Calmare Ouest"
+ },
+ {
+  "cle": "282",
+  "type": "terme",
+  "fr": "Station Cradle 35"
+ },
+ {
+  "cle": "283",
+  "type": "terme",
+  "fr": "Station Factoria 7"
+ },
+ {
+  "cle": "284",
+  "type": "terme",
+  "fr": "Station Pilier Axis"
+ },
+ {
+  "cle": "285",
+  "type": "terme",
+  "fr": "Pilier Axis - Niveau 1"
+ },
+ {
+  "cle": "286",
+  "type": "terme",
+  "fr": "Pilier Axis - Niveau 2"
+ },
+ {
+  "cle": "287",
+  "type": "terme",
+  "fr": "Pilier Axis - Niveau 3"
+ },
+ {
+  "cle": "288",
+  "type": "terme",
+  "fr": "Pilier Axis - Niveau 4"
+ },
+ {
+  "cle": "289",
+  "type": "terme",
+  "fr": "Pilier Axis - Niveau 5"
+ },
+ {
+  "cle": "290",
+  "type": "terme",
+  "fr": "Pilier Axis - Niveau 6"
+ },
+ {
+  "cle": "291",
+  "type": "terme",
+  "fr": "Prologue - FIN"
+ },
+ {
+  "cle": "292",
+  "type": "terme",
+  "fr": "Chapitre 1 - FIN"
+ },
+ {
+  "cle": "293",
+  "type": "terme",
+  "fr": "Chapitre 2 - FIN"
+ },
+ {
+  "cle": "294",
+  "type": "terme",
+  "fr": "Chapitre 3 - FIN"
+ },
+ {
+  "cle": "295",
+  "type": "terme",
+  "fr": "Chapitre 4 - FIN"
+ },
+ {
+  "cle": "296",
+  "type": "terme",
+  "fr": "Chapitre 5 - FIN"
+ },
+ {
+  "cle": "297",
+  "type": "terme",
+  "fr": "Chapitre 6 - FIN"
+ },
+ {
+  "cle": "298",
+  "type": "terme",
+  "fr": "Chapitre 7 - FIN"
+ },
+ {
+  "cle": "299",
+  "type": "terme",
+  "fr": "Chapitre 8 - FIN"
+ },
+ {
+  "cle": "300",
+  "type": "terme",
+  "fr": "Trails in the Sky - Partie terminée"
+ },
+ {
+  "cle": "301",
+  "type": "terme",
+  "fr": "Esmelas - Dimension parallèle 1"
+ },
+ {
+  "cle": "302",
+  "type": "terme",
+  "fr": "Esmelas - Dimension parallèle 2"
+ },
+ {
+  "cle": "303",
+  "type": "terme",
+  "fr": "Esmelas - Dimension parallèle 3"
+ },
+ {
+  "cle": "304",
+  "type": "terme",
+  "fr": "Esmelas - Dimension parallèle 4"
+ },
+ {
+  "cle": "305",
+  "type": "terme",
+  "fr": "Esmelas - Dimension parallèle 5"
+ },
+ {
+  "cle": "306",
+  "type": "terme",
+  "fr": "Amberl - Dimension parallèle 1"
+ },
+ {
+  "cle": "307",
+  "type": "terme",
+  "fr": "Amberl - Dimension parallèle 2"
+ },
+ {
+  "cle": "308",
+  "type": "terme",
+  "fr": "Amberl - Dimension parallèle 3"
+ },
+ {
+  "cle": "309",
+  "type": "terme",
+  "fr": "Amberl - Dimension parallèle 4"
+ },
+ {
+  "cle": "310",
+  "type": "terme",
+  "fr": "Amberl - Dimension parallèle 5"
+ },
+ {
+  "cle": "311",
+  "type": "terme",
+  "fr": "Saphirl - Dimension parallèle 1"
+ },
+ {
+  "cle": "312",
+  "type": "terme",
+  "fr": "Saphirl - Dimension parallèle 2"
+ },
+ {
+  "cle": "313",
+  "type": "terme",
+  "fr": "Saphirl - Dimension parallèle 3"
+ },
+ {
+  "cle": "314",
+  "type": "terme",
+  "fr": "Saphirl - Dimension parallèle 4"
+ },
+ {
+  "cle": "315",
+  "type": "terme",
+  "fr": "Saphirl - Dimension parallèle 5"
+ },
+ {
+  "cle": "316",
+  "type": "terme",
+  "fr": "Carnelia - Dimension parallèle 1"
+ },
+ {
+  "cle": "317",
+  "type": "terme",
+  "fr": "Carnelia - Dimension parallèle 2"
+ },
+ {
+  "cle": "318",
+  "type": "terme",
+  "fr": "Carnelia - Dimension parallèle 3"
+ },
+ {
+  "cle": "319",
+  "type": "terme",
+  "fr": "Carnelia - Dimension parallèle 4"
+ },
+ {
+  "cle": "320",
+  "type": "terme",
+  "fr": "Carnelia - Dimension parallèle 5"
+ },
+ {
+  "cle": "321",
+  "type": "terme",
+  "fr": "Glorieux - Proue, Niv. 1"
+ },
+ {
+  "cle": "322",
+  "type": "terme",
+  "fr": "Glorieux - Proue, Niv. 2"
+ },
+ {
+  "cle": "323",
+  "type": "terme",
+  "fr": "Glorieux - Poupe, Niv. 1"
+ },
+ {
+  "cle": "324",
+  "type": "terme",
+  "fr": "Glorieux - Poupe, Niv. 2"
+ },
+ {
+  "cle": "325",
+  "type": "terme",
+  "fr": "Glorieux - Prison"
+ },
+ {
+  "cle": "331",
+  "type": "terme",
+  "fr": "Jardin de l'ermite"
+ },
+ {
+  "cle": "332",
+  "type": "terme",
+  "fr": "Couloirs d'Esmelas"
+ },
+ {
+  "cle": "333",
+  "type": "terme",
+  "fr": "Voie d'or"
+ },
+ {
+  "cle": "334",
+  "type": "terme",
+  "fr": "Voie d'argent"
+ },
+ {
+  "cle": "335",
+  "type": "terme",
+  "fr": "Labyrinthe de lumière"
+ },
+ {
+  "cle": "336",
+  "type": "terme",
+  "fr": "Labyrinthe de ténèbres"
+ },
+ {
+  "cle": "337",
+  "type": "terme",
+  "fr": "Labyrinthe de lumière 2"
+ },
+ {
+  "cle": "338",
+  "type": "terme",
+  "fr": "Voie d'or, voie d'argent"
+ },
+ {
+  "cle": "339",
+  "type": "terme",
+  "fr": "Géhenne"
+ },
+ {
+  "cle": "340",
+  "type": "terme",
+  "fr": "Aéronef de plaisance Lusitania"
+ },
+ {
+  "cle": "341",
+  "type": "terme",
+  "fr": "Maison des asters"
+ },
+ {
+  "cle": "342",
+  "type": "terme",
+  "fr": "Prologue - FIN"
+ },
+ {
+  "cle": "343",
+  "type": "terme",
+  "fr": "Chapitre 1 - FIN"
+ },
+ {
+  "cle": "344",
+  "type": "terme",
+  "fr": "Chapitre 2 - FIN"
+ },
+ {
+  "cle": "345",
+  "type": "terme",
+  "fr": "Chapitre 3 - FIN"
+ },
+ {
+  "cle": "346",
+  "type": "terme",
+  "fr": "Chapitre 4 - FIN"
+ },
+ {
+  "cle": "347",
+  "type": "terme",
+  "fr": "Chapitre 5 - FIN"
+ },
+ {
+  "cle": "348",
+  "type": "terme",
+  "fr": "Chapitre 6 - FIN"
+ },
+ {
+  "cle": "349",
+  "type": "terme",
+  "fr": "Chapitre 7 - FIN"
+ },
+ {
+  "cle": "350",
+  "type": "terme",
+  "fr": "Trails in the Sky 3rd - Partie terminée"
+ },
+ {
+  "cle": "351",
+  "type": "terme",
+  "fr": "-"
+ },
+ {
+  "cle": "352",
+  "type": "terme",
+  "fr": "Route Milch - Étang"
+ },
+ {
+  "cle": "353",
+  "type": "terme",
+  "fr": "Pont de Verte"
+ },
+ {
+  "cle": "354",
+  "type": "terme",
+  "fr": "Mistwald - Courant limpide"
+ },
+ {
+  "cle": "355",
+  "type": "terme",
+  "fr": "Égouts de Rolent"
+ },
+ {
+  "cle": "356",
+  "type": "terme",
+  "fr": "Maison des Bright - Étang"
+ },
+ {
+  "cle": "357",
+  "type": "terme",
+  "fr": "Route Elize - Rivière"
+ },
+ {
+  "cle": "358",
+  "type": "terme",
+  "fr": "-"
+ },
+ {
+  "cle": "359",
+  "type": "terme",
+  "fr": "-"
+ },
+ {
+  "cle": "360",
+  "type": "terme",
+  "fr": "-"
+ },
+ {
+  "cle": "361",
+  "type": "terme",
+  "fr": "Ravennue - Étang"
+ },
+ {
+  "cle": "362",
+  "type": "terme",
+  "fr": "Bose Ouest - Rivière"
+ },
+ {
+  "cle": "363",
+  "type": "terme",
+  "fr": "Auberge du lac"
+ },
+ {
+  "cle": "364",
+  "type": "terme",
+  "fr": "-"
+ },
+ {
+  "cle": "365",
+  "type": "terme",
+  "fr": "-"
+ },
+ {
+  "cle": "366",
+  "type": "terme",
+  "fr": "-"
+ },
+ {
+  "cle": "367",
+  "type": "terme",
+  "fr": "-"
+ },
+ {
+  "cle": "368",
+  "type": "terme",
+  "fr": "-"
+ },
+ {
+  "cle": "369",
+  "type": "terme",
+  "fr": "-"
+ },
+ {
+  "cle": "370",
+  "type": "terme",
+  "fr": "-"
+ },
+ {
+  "cle": "371",
+  "type": "terme",
+  "fr": "Phare Varenne - Falaise"
+ },
+ {
+  "cle": "372",
+  "type": "terme",
+  "fr": "Manoria"
+ },
+ {
+  "cle": "373",
+  "type": "terme",
+  "fr": "Côte Möwe - Rivage"
+ },
+ {
+  "cle": "374",
+  "type": "terme",
+  "fr": "Côte Möwe - Plage"
+ },
+ {
+  "cle": "375",
+  "type": "terme",
+  "fr": "Ruan - Rubine (Sud)"
+ },
+ {
+  "cle": "376",
+  "type": "terme",
+  "fr": "Ruan - Rubine (Nord)"
+ },
+ {
+  "cle": "377",
+  "type": "terme",
+  "fr": "Cascade d'Air-Letten"
+ },
+ {
+  "cle": "378",
+  "type": "terme",
+  "fr": "Cascade d'Air-Letten"
+ },
+ {
+  "cle": "379",
+  "type": "terme",
+  "fr": "Tour Saphirl - RDC"
+ },
+ {
+  "cle": "380",
+  "type": "terme",
+  "fr": "Tour Saphirl - 4E"
+ },
+ {
+  "cle": "381",
+  "type": "terme",
+  "fr": "Tunnel de Kaldia - Rivière"
+ },
+ {
+  "cle": "382",
+  "type": "terme",
+  "fr": "Tunnel de Kaldia - Lac souterrain"
+ },
+ {
+  "cle": "383",
+  "type": "terme",
+  "fr": "Kaldia - Extémité du lac souterrain"
+ },
+ {
+  "cle": "384",
+  "type": "terme",
+  "fr": "Environs d'Elmo - Bassin"
+ },
+ {
+  "cle": "385",
+  "type": "terme",
+  "fr": "Auberge Momiji - Étang de la cour"
+ },
+ {
+  "cle": "386",
+  "type": "terme",
+  "fr": "Plaines Tratt - Bassin"
+ },
+ {
+  "cle": "387",
+  "type": "terme",
+  "fr": "Devant la forteresse Leiston"
+ },
+ {
+  "cle": "388",
+  "type": "terme",
+  "fr": "-"
+ },
+ {
+  "cle": "389",
+  "type": "terme",
+  "fr": "-"
+ },
+ {
+  "cle": "390",
+  "type": "terme",
+  "fr": "-"
+ },
+ {
+  "cle": "391",
+  "type": "terme",
+  "fr": "Route touristique - Étang de Romal"
+ },
+ {
+  "cle": "392",
+  "type": "terme",
+  "fr": "Égouts de Grancel - Est"
+ },
+ {
+  "cle": "393",
+  "type": "terme",
+  "fr": "Égouts de Grancel - Ouest"
+ },
+ {
+  "cle": "394",
+  "type": "terme",
+  "fr": "Égouts de Grancel - Nord"
+ },
+ {
+  "cle": "395",
+  "type": "terme",
+  "fr": "Grancel - Fond du port"
+ },
+ {
+  "cle": "396",
+  "type": "terme",
+  "fr": "Grancel - Entrée du château"
+ },
+ {
+  "cle": "397",
+  "type": "terme",
+  "fr": "Terrace du palais royal"
+ },
+ {
+  "cle": "398",
+  "type": "terme",
+  "fr": "Villa royale d'Erbe - Canal"
+ },
+ {
+  "cle": "399",
+  "type": "terme",
+  "fr": "-"
+ },
+ {
+  "cle": "400",
+  "type": "terme",
+  "fr": "-"
+ },
+ {
+  "cle": "401",
+  "type": "terme",
+  "fr": "Arche noire - Chapelle"
+ },
+ {
+  "cle": "402",
+  "type": "terme",
+  "fr": "Arche noire - Pont"
+ },
+ {
+  "cle": "403",
+  "type": "terme",
+  "fr": "Glorieux - Hangar"
+ },
+ {
+  "cle": "404",
+  "type": "terme",
+  "fr": "Arche noire - Proue, Niv. 1"
+ },
+ {
+  "cle": "405",
+  "type": "terme",
+  "fr": "Arche noire - Proue, Niv. 2"
+ },
+ {
+  "cle": "406",
+  "type": "terme",
+  "fr": "Arche noire - Poupe, Niv. 1"
+ },
+ {
+  "cle": "407",
+  "type": "terme",
+  "fr": "Arche noire - Poupe, Niv. 2"
+ },
+ {
+  "cle": "408",
+  "type": "terme",
+  "fr": "Arche noire - Prison"
+ },
+ {
+  "cle": "409",
+  "type": "terme",
+  "fr": "Abysses - Surface"
+ },
+ {
+  "cle": "410",
+  "type": "terme",
+  "fr": "Abysses - 1"
+ },
+ {
+  "cle": "411",
+  "type": "terme",
+  "fr": "Abysses - 2"
+ },
+ {
+  "cle": "412",
+  "type": "terme",
+  "fr": "Abysses - 3"
+ },
+ {
+  "cle": "413",
+  "type": "terme",
+  "fr": "Abysses - 4"
+ },
+ {
+  "cle": "414",
+  "type": "terme",
+  "fr": "Abysses - Fond"
+ },
+ {
+  "cle": "415",
+  "type": "terme",
+  "fr": "Phantasmagoria - Porte droite"
+ },
+ {
+  "cle": "416",
+  "type": "terme",
+  "fr": "Phantasmagoria - Porte gauche"
+ },
+ {
+  "cle": "417",
+  "type": "terme",
+  "fr": "Phantasmagoria - Porte centrale"
+ },
+ {
+  "cle": "418",
+  "type": "terme",
+  "fr": "Phantasmagoria - Grande porte"
+ },
+ {
+  "cle": "419",
+  "type": "terme",
+  "fr": "Phantasmagoria - Entrée"
+ },
+ {
+  "cle": "420",
+  "type": "terme",
+  "fr": "Phantasmagoria - Destination finale"
+ },
+ {
+  "cle": "421",
+  "type": "terme",
+  "fr": "Faille"
+ },
+ {
+  "cle": "422",
+  "type": "terme",
+  "fr": "Forteresse Leiston - Caserne"
+ },
+ {
+  "cle": "423",
+  "type": "terme",
+  "fr": "Monde illusoire - Phantasma"
+ },
+ {
+  "cle": "424",
+  "type": "terme",
+  "fr": "Académie - Route secondaire"
+ },
+ {
+  "cle": "425",
+  "type": "terme",
+  "fr": "Académie - Dortoir des garcons"
+ },
+ {
+  "cle": "426",
+  "type": "terme",
+  "fr": "Académie - Dortoir des filles"
+ },
+ {
+  "cle": "427",
+  "type": "terme",
+  "fr": "Classe de sciences humaines"
+ },
+ {
+  "cle": "428",
+  "type": "terme",
+  "fr": "Salle des professeurs"
+ },
+ {
+  "cle": "429",
+  "type": "terme",
+  "fr": "Académie - Bureau des étudiants"
+ },
+ {
+  "cle": "430",
+  "type": "terme",
+  "fr": "Academie - Salle de documentation"
+ },
+ {
+  "cle": "431",
+  "type": "terme",
+  "fr": "Vestiaire des garçons"
+ },
+ {
+  "cle": "432",
+  "type": "terme",
+  "fr": "Classe de sciences économiques et sociales"
+ },
+ {
+  "cle": "433",
+  "type": "terme",
+  "fr": "Classe de sciences naturelles"
+ },
+ {
+  "cle": "434",
+  "type": "terme",
+  "fr": "Vestiaire des filles"
+ },
+ {
+  "cle": "435",
+  "type": "terme",
+  "fr": "Académie monochrome"
+ },
+ {
+  "cle": "436",
+  "type": "terme",
+  "fr": "Académie - Bâtiment principal"
+ },
+ {
+  "cle": "437",
+  "type": "terme",
+  "fr": "Académie - Maison des clubs"
+ },
+ {
+  "cle": "438",
+  "type": "terme",
+  "fr": "Académie - Bureau du proviseur"
+ },
+ {
+  "cle": "439",
+  "type": "terme",
+  "fr": "Académie - Auditorium"
+ },
+ {
+  "cle": "440",
+  "type": "terme",
+  "fr": "Académie - École désaffectée"
+ },
+ {
+  "cle": "441",
+  "type": "terme",
+  "fr": "Porte de la lune"
+ },
+ {
+  "cle": "442",
+  "type": "terme",
+  "fr": "Porte des étoiles"
+ },
+ {
+  "cle": "443",
+  "type": "terme",
+  "fr": "Tournoi des Arts Martiaux"
+ }
+]

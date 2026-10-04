@@ -1,0 +1,34 @@
+[
+ {
+  "n": 1,
+  "fr": "Reçus : {color 2}5000 miras{color 0}."
+ },
+ {
+  "n": 3,
+  "fr": "{color 5}Reçu : {item item[726]}{color 5}."
+ },
+ {
+  "n": 20,
+  "fr": "Trouvé : {item item[508]}{color 0}."
+ },
+ {
+  "n": 21,
+  "fr": "Trouvé : {item item[508]}{color 0}.\nInventaire plein. Objet reposé."
+ },
+ {
+  "n": 28,
+  "fr": "{color 5}Ouvrir la Porte ?{0x18}"
+ },
+ {
+  "n": 29,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 30,
+  "fr": "[Non]"
+ },
+ {
+  "n": 31,
+  "fr": "{color 5}#40WLa voie a déjà été ouverte...\n#500W \n#40WOuvrez la Porte, et entrez à l'intérieur.{color 0}"
+ }
+]

@@ -1,0 +1,317 @@
+[
+ {
+  "cle": "2",
+  "type": "titre",
+  "fr": "Chapitre 0"
+ },
+ {
+  "cle": "3",
+  "type": "titre",
+  "fr": "Chapitre 1"
+ },
+ {
+  "cle": "4",
+  "type": "titre",
+  "fr": "Chapitre 2"
+ },
+ {
+  "cle": "5",
+  "type": "titre",
+  "fr": "Chapitre 3"
+ },
+ {
+  "cle": "6",
+  "type": "titre",
+  "fr": "Chapitre 4"
+ },
+ {
+  "cle": "7",
+  "type": "titre",
+  "fr": "Chapitre 5"
+ },
+ {
+  "cle": "8",
+  "type": "titre",
+  "fr": "Chapitre 6"
+ },
+ {
+  "cle": "9",
+  "type": "titre",
+  "fr": "Chapitre 7"
+ },
+ {
+  "cle": "10",
+  "type": "titre",
+  "fr": "Final"
+ },
+ {
+  "cle": "12",
+  "type": "titre",
+  "fr": "Épisode"
+ },
+ {
+  "cle": "13",
+  "type": "titre",
+  "fr": "Gralsritter"
+ },
+ {
+  "cle": "14",
+  "type": "titre",
+  "fr": "Phantasma - Pays des ombres"
+ },
+ {
+  "cle": "15",
+  "type": "titre",
+  "fr": "La Cité royale transfigurée"
+ },
+ {
+  "cle": "16",
+  "type": "titre",
+  "fr": "Voie d'or, voie d'argent"
+ },
+ {
+  "cle": "17",
+  "type": "titre",
+  "fr": "Sombre Stigma"
+ },
+ {
+  "cle": "18",
+  "type": "titre",
+  "fr": "Labyrinthe de lumière et ténèbres"
+ },
+ {
+  "cle": "19",
+  "type": "titre",
+  "fr": "Épreuve des gardiens"
+ },
+ {
+  "cle": "20",
+  "type": "titre",
+  "fr": "Flammes lointaines"
+ },
+ {
+  "cle": "21",
+  "type": "titre",
+  "fr": "Destination inéluctable"
+ },
+ {
+  "cle": "22",
+  "type": "titre",
+  "fr": "Rencontre fortuite"
+ },
+ {
+  "cle": "23",
+  "type": "titre",
+  "fr": "Josette la petite livreuse"
+ },
+ {
+  "cle": "24",
+  "type": "titre",
+  "fr": "La fin d'un périple"
+ },
+ {
+  "cle": "25",
+  "type": "titre",
+  "fr": "Une main tendue"
+ },
+ {
+  "cle": "26",
+  "type": "titre",
+  "fr": "---"
+ },
+ {
+  "cle": "27",
+  "type": "titre",
+  "fr": "La nuit du banquet"
+ },
+ {
+  "cle": "28",
+  "type": "titre",
+  "fr": "Retour à la Cité impériale"
+ },
+ {
+  "cle": "29",
+  "type": "titre",
+  "fr": "Cliente"
+ },
+ {
+  "cle": "30",
+  "type": "titre",
+  "fr": "La descente des ailes"
+ },
+ {
+  "cle": "31",
+  "type": "titre",
+  "fr": "Pierre de bonheur"
+ },
+ {
+  "cle": "32",
+  "type": "titre",
+  "fr": "Le Kisequiz"
+ },
+ {
+  "cle": "33",
+  "type": "titre",
+  "fr": "Dans le quartier oriental"
+ },
+ {
+  "cle": "34",
+  "type": "titre",
+  "fr": "Examen de la guilde des pêcheurs"
+ },
+ {
+  "cle": "35",
+  "type": "titre",
+  "fr": "La pédagogie de la Lame lourde"
+ },
+ {
+  "cle": "36",
+  "type": "titre",
+  "fr": "---"
+ },
+ {
+  "cle": "37",
+  "type": "titre",
+  "fr": "---"
+ },
+ {
+  "cle": "38",
+  "type": "titre",
+  "fr": "Tournoi Secret des Arts martiaux"
+ },
+ {
+  "cle": "39",
+  "type": "titre",
+  "fr": "Le matin du grand départ"
+ },
+ {
+  "cle": "40",
+  "type": "titre",
+  "fr": "La voie de l'épée"
+ },
+ {
+  "cle": "41",
+  "type": "titre",
+  "fr": "Affection prématuré"
+ },
+ {
+  "cle": "42",
+  "type": "titre",
+  "fr": "Protecteur du Royaume"
+ },
+ {
+  "cle": "43",
+  "type": "titre",
+  "fr": "---"
+ },
+ {
+  "cle": "44",
+  "type": "titre",
+  "fr": "---"
+ },
+ {
+  "cle": "45",
+  "type": "titre",
+  "fr": "---"
+ },
+ {
+  "cle": "46",
+  "type": "titre",
+  "fr": "---"
+ },
+ {
+  "cle": "47",
+  "type": "titre",
+  "fr": "Le projet Orbal Gear - partie 1"
+ },
+ {
+  "cle": "48",
+  "type": "titre",
+  "fr": "Le projet Orbal Gear - partie 2"
+ },
+ {
+  "cle": "49",
+  "type": "titre",
+  "fr": "---"
+ },
+ {
+  "cle": "50",
+  "type": "titre",
+  "fr": "---"
+ },
+ {
+  "cle": "51",
+  "type": "titre",
+  "fr": "Le Grand Master et le Fou"
+ },
+ {
+  "cle": "52",
+  "type": "titre",
+  "fr": "Le Pieu de Sel"
+ },
+ {
+  "cle": "53",
+  "type": "titre",
+  "fr": "Enquête sur le Voleur Fantôme B"
+ },
+ {
+  "cle": "54",
+  "type": "titre",
+  "fr": "La fondation Epstein"
+ },
+ {
+  "cle": "55",
+  "type": "titre",
+  "fr": "Assauts en série des guildes éréboniennes"
+ },
+ {
+  "cle": "56",
+  "type": "titre",
+  "fr": "Le projet Goldias et sa mise en œuvre"
+ },
+ {
+  "cle": "57",
+  "type": "titre",
+  "fr": "Prologue"
+ },
+ {
+  "cle": "58",
+  "type": "titre",
+  "fr": "Plan astral I"
+ },
+ {
+  "cle": "59",
+  "type": "titre",
+  "fr": "Plan astral II"
+ },
+ {
+  "cle": "60",
+  "type": "titre",
+  "fr": "Plan astral III"
+ },
+ {
+  "cle": "61",
+  "type": "titre",
+  "fr": "Plan astral IV"
+ },
+ {
+  "cle": "62",
+  "type": "titre",
+  "fr": "Plan astral V"
+ },
+ {
+  "cle": "63",
+  "type": "titre",
+  "fr": "Plan astral VI"
+ },
+ {
+  "cle": "64",
+  "type": "titre",
+  "fr": "Plan astral VII"
+ },
+ {
+  "cle": "65",
+  "type": "titre",
+  "fr": "Phantasmagoria"
+ }
+]

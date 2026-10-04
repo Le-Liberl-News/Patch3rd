@@ -1,0 +1,66 @@
+[
+ {
+  "n": 1,
+  "fr": "{color 5}Ouvrir la Porte ?{0x18}"
+ },
+ {
+  "n": 2,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 3,
+  "fr": "[Non]"
+ },
+ {
+  "n": 14,
+  "fr": "Trouvée : {item item[510]}{color 0}."
+ },
+ {
+  "n": 15,
+  "fr": "Trouvée : {item item[510]}{color 0}.\nInventaire plein. Objet reposé."
+ },
+ {
+  "n": 29,
+  "fr": "[Non]"
+ },
+ {
+  "n": 30,
+  "fr": "{color 5}Il ne s'est rien passé."
+ },
+ {
+  "n": 32,
+  "fr": "[Non]"
+ },
+ {
+  "n": 36,
+  "fr": "[Non]"
+ },
+ {
+  "n": 37,
+  "fr": "{color 5}Il ne s'est rien passé."
+ },
+ {
+  "n": 39,
+  "fr": "[Non]"
+ },
+ {
+  "n": 43,
+  "fr": "[Non]"
+ },
+ {
+  "n": 44,
+  "fr": "{color 5}Il ne s'est rien passé."
+ },
+ {
+  "n": 46,
+  "fr": "[Non]"
+ },
+ {
+  "n": 49,
+  "fr": "[Non]"
+ },
+ {
+  "n": 51,
+  "fr": "[Non]"
+ }
+]

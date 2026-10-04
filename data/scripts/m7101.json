@@ -1,0 +1,38 @@
+[
+ {
+  "n": 1,
+  "fr": "Ah... !"
+ },
+ {
+  "n": 5,
+  "fr": "Ugh..."
+ },
+ {
+  "n": 6,
+  "fr": "Q-Qu'est-ce que... ?!"
+ },
+ {
+  "n": 7,
+  "fr": "......"
+ },
+ {
+  "n": 24,
+  "fr": "{color 5}Ouvrir la Porte ?{0x18}"
+ },
+ {
+  "n": 25,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 26,
+  "fr": "[Non]"
+ },
+ {
+  "n": 35,
+  "fr": "Trouvé : {item item[508]}{color 0}."
+ },
+ {
+  "n": 36,
+  "fr": "Trouvé : {item item[508]}{color 0}.\nInventaire plein. Objet reposé."
+ }
+]

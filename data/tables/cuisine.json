@@ -1,0 +1,412 @@
+[
+ {
+  "cle": "2",
+  "type": "nom",
+  "fr": "－－－－－－－－－－－－"
+ },
+ {
+  "cle": "2",
+  "type": "description",
+  "fr": "説明"
+ },
+ {
+  "cle": "3",
+  "type": "nom",
+  "fr": "Paella Tadam"
+ },
+ {
+  "cle": "3",
+  "type": "description",
+  "fr": "[Sur place/4000PV pour tous]\nFacile à préparer, facile à manger.\nAccessible à n'importe qui."
+ },
+ {
+  "cle": "4",
+  "type": "nom",
+  "fr": "Tom yum goong drakéen"
+ },
+ {
+  "cle": "4",
+  "type": "description",
+  "fr": "[Sur place/10000PV/40PT pour tous]\nSoupe bien épicée colorée d'une teinte\nrougeâtre brûlante."
+ },
+ {
+  "cle": "9",
+  "type": "nom",
+  "fr": "Fondue du Maître"
+ },
+ {
+  "cle": "9",
+  "type": "description",
+  "fr": "[Sur place/200000PV/40PT pour tous]\nPlat ultime, capable de satisfaire même\nles plus exigeants des gourmets."
+ },
+ {
+  "cle": "10",
+  "type": "nom",
+  "fr": "Sombre ragoût du chaos"
+ },
+ {
+  "cle": "10",
+  "type": "description",
+  "fr": "[Sur place/???]\nCHOSE NOIRE ISSUE DU MÉLANGE\nHASARDEUX DE DIVERS INGRÉDIENTS..."
+ },
+ {
+  "cle": "11",
+  "type": "nom",
+  "fr": "Déjeuner somptueux"
+ },
+ {
+  "cle": "11",
+  "type": "description",
+  "fr": "[Sur place/8000PV pour tous]\nDéjeuner de luxe. Extase garantie.\n[Soigne toute l'équipe du K.O.]"
+ },
+ {
+  "cle": "22",
+  "type": "nom",
+  "fr": "Cookie Sa Majesté"
+ },
+ {
+  "cle": "22",
+  "type": "description",
+  "fr": "[Attaque/FOR : 1750]\nÀ l'effigie de la couronne de la reine\nrepoussant ceux qui sont indignes."
+ },
+ {
+  "cle": "23",
+  "type": "nom",
+  "fr": "Castella Castel"
+ },
+ {
+  "cle": "23",
+  "type": "description",
+  "fr": "[À emporter/5500PV]\nUne pâtisserie aromatisée à l'alcool.\n[Soigne de la Pétrification]"
+ },
+ {
+  "cle": "24",
+  "type": "nom",
+  "fr": "Sandwich salade œuf"
+ },
+ {
+  "cle": "24",
+  "type": "description",
+  "fr": "[À emporter/1500PV]\nSandwich simple fait avec un œuf à\nla coque et une salade fraîche."
+ },
+ {
+  "cle": "25",
+  "type": "nom",
+  "fr": "Assortiment anti-tanuki"
+ },
+ {
+  "cle": "25",
+  "type": "description",
+  "fr": "[À emporter/4100PV/DÉF+10%]\nConçu pour éloigner les tanukis ?\nDu moins, c'est ce que dit la légende."
+ },
+ {
+  "cle": "27",
+  "type": "nom",
+  "fr": "Grappino-tourte"
+ },
+ {
+  "cle": "27",
+  "type": "description",
+  "fr": "[À emporter/8000PV]\nEnvoyez-la comme un frisbee.\n[Soigne de la Confusion]"
+ },
+ {
+  "cle": "29",
+  "type": "nom",
+  "fr": "Frites carnel-ketchup"
+ },
+ {
+  "cle": "29",
+  "type": "description",
+  "fr": "[À emporter/2000PV]\nFrites de patate douce super épicées.\n[Soigne du Gel]"
+ },
+ {
+  "cle": "30",
+  "type": "nom",
+  "fr": "Swingdwich"
+ },
+ {
+  "cle": "30",
+  "type": "description",
+  "fr": "[À emporter/3000PV/50PT]\nUn sandwich gros comme une batte.\nAgitez-le comme tel pour le style."
+ },
+ {
+  "cle": "31",
+  "type": "nom",
+  "fr": "Amar Spiritus"
+ },
+ {
+  "cle": "31",
+  "type": "description",
+  "fr": "[À emporter/5500PV]\nFort alcool utilisé comme stimulant\n[Soigne du K.O.]"
+ },
+ {
+  "cle": "32",
+  "type": "nom",
+  "fr": "Eau fraîche naturelle"
+ },
+ {
+  "cle": "32",
+  "type": "description",
+  "fr": "[À emporter/2000PV]\nEau de source filtrée avec feuilles de thé.\n[Soigne du K.O.}"
+ },
+ {
+  "cle": "33",
+  "type": "nom",
+  "fr": "Rôti de cerveau"
+ },
+ {
+  "cle": "33",
+  "type": "description",
+  "fr": "[À emporter/4000PV]\nCafé bien trop amer.\n[Soigne du Sommeil]"
+ },
+ {
+  "cle": "34",
+  "type": "nom",
+  "fr": "Élixir du goûteur"
+ },
+ {
+  "cle": "34",
+  "type": "description",
+  "fr": "[À emporter/12000PV]\nPlat médicinal à haut potentiel toxique.\n[Soigne du K.O.]"
+ },
+ {
+  "cle": "39",
+  "type": "nom",
+  "fr": "Fragrance émotion"
+ },
+ {
+  "cle": "39",
+  "type": "description",
+  "fr": "[À emporter/8000PV/FOR&DÉF+20%]\nUn jus au parfum enivrant qui arrache toujours un soupir."
+ },
+ {
+  "cle": "40",
+  "type": "nom",
+  "fr": "Grill Vortex"
+ },
+ {
+  "cle": "40",
+  "type": "description",
+  "fr": "[À emporter/8200PV]\nUn plat atypique à la croûte délicieuse.\n[Soigne d'Étourd./Sommeil/Pétrif.]"
+ },
+ {
+  "cle": "41",
+  "type": "nom",
+  "fr": "Eden fruité perdu"
+ },
+ {
+  "cle": "41",
+  "type": "description",
+  "fr": "[À emporter/12000PV]\nUn dessert à la tentation indicible.\n[Soigne des altérations d'état]"
+ },
+ {
+  "cle": "42",
+  "type": "nom",
+  "fr": "Boulette glaçante"
+ },
+ {
+  "cle": "42",
+  "type": "description",
+  "fr": "[Attaque/FOR : 2550]\nUne boulette de viande si mauvaise\nqu'elle glace le sang."
+ },
+ {
+  "cle": "44",
+  "type": "nom",
+  "fr": "Sire Onsen Tamago"
+ },
+ {
+  "cle": "44",
+  "type": "description",
+  "fr": "[À emporter/10000PV]\nUn œuf de source chaude de luxe.\n[Soigne de Poison/Cécité/Gel]"
+ },
+ {
+  "cle": "45",
+  "type": "nom",
+  "fr": "Osso bucco napalm"
+ },
+ {
+  "cle": "45",
+  "type": "description",
+  "fr": "[À emporter/16000PV/DÉF+20%]\nUne viande grillée qui se mange jusqu'à\nl'os. Faites le plein de calcium. "
+ },
+ {
+  "cle": "46",
+  "type": "nom",
+  "fr": "Carapace gri-mi-bou"
+ },
+ {
+  "cle": "46",
+  "type": "description",
+  "fr": "[À emporter/18000PV/DÉF+20%]\nPlat de luxe dont même le bouillon et le\nmiso sont faits de crabe."
+ },
+ {
+  "cle": "48",
+  "type": "nom",
+  "fr": "Ronde des mets"
+ },
+ {
+  "cle": "48",
+  "type": "description",
+  "fr": "[À emporter/10000PV]\nUn mets marin mettant l'eau à la bouche.\n[Soigne d'Étourd./Sommeil/Pétrif.]"
+ },
+ {
+  "cle": "49",
+  "type": "nom",
+  "fr": "Phénix frit"
+ },
+ {
+  "cle": "49",
+  "type": "description",
+  "fr": "[À emporter/4000PV/FOR+20%]\nDu poulet frit extrêmement épicé.\nPréparez-vous à avoir chaud."
+ },
+ {
+  "cle": "50",
+  "type": "nom",
+  "fr": "Goutte heptacolore"
+ },
+ {
+  "cle": "50",
+  "type": "description",
+  "fr": "[Attaque/FOR : 1350]\nBonbon aux 7 rebonds pour ses 7 couleurs.\n[Inflige parfois une altération d'état]"
+ },
+ {
+  "cle": "57",
+  "type": "nom",
+  "fr": "Poisson effondu"
+ },
+ {
+  "cle": "57",
+  "type": "description",
+  "fr": "[À emporter/5400PV]\nUn poisson mijoté dans du miso.\n[Soigne de l'Entrave]"
+ },
+ {
+  "cle": "58",
+  "type": "nom",
+  "fr": "Finito de poisson"
+ },
+ {
+  "cle": "58",
+  "type": "description",
+  "fr": "[À emporter/2500PV]\nLa destination d'un poisson voyageur.\n[Soigne d'Étourd./Sommeil/Pétrif.]"
+ },
+ {
+  "cle": "59",
+  "type": "nom",
+  "fr": "Brochette de rivière"
+ },
+ {
+  "cle": "59",
+  "type": "description",
+  "fr": "[À emporter/14000PV/VIT+20%]\nBrochette de poisson grillé en plein air\njuste après avoir été pêché."
+ },
+ {
+  "cle": "61",
+  "type": "nom",
+  "fr": "Gelée de crudités"
+ },
+ {
+  "cle": "61",
+  "type": "description",
+  "fr": "[À emporter/13000PV]\nPlat de crudités dans de la gélatine.\n[Soigne d'Entrave/Silence/Confusion]"
+ },
+ {
+  "cle": "62",
+  "type": "nom",
+  "fr": "Fondue Rico"
+ },
+ {
+  "cle": "62",
+  "type": "description",
+  "fr": "[À emporter/13000PV]\nUne sauce fondante à la tomate.\n[Soigne de Poison/Cécité/Gel]"
+ },
+ {
+  "cle": "65",
+  "type": "nom",
+  "fr": "Crêpe drapée"
+ },
+ {
+  "cle": "65",
+  "type": "description",
+  "fr": "[À emporter/4300PV/DÉP+1/VIT+10%]\nUne crêpe si moelleuse et si sucrée\nqu’elle allège le corps et l’esprit."
+ },
+ {
+  "cle": "67",
+  "type": "nom",
+  "fr": "Trio de glaces"
+ },
+ {
+  "cle": "67",
+  "type": "description",
+  "fr": "[À emporter/8200PV/20PT]\nUne glace mélangeant les trois saveurs\nles plus populaires."
+ },
+ {
+  "cle": "69",
+  "type": "nom",
+  "fr": "Cookie proquo"
+ },
+ {
+  "cle": "69",
+  "type": "description",
+  "fr": "[Attaque/FOR : 900]\nUn cookie à l'aura perturbante.\n[Inflige Sommeil (100%)]"
+ },
+ {
+  "cle": "70",
+  "type": "nom",
+  "fr": "Boulette saignante"
+ },
+ {
+  "cle": "70",
+  "type": "description",
+  "fr": "[Attaque/FOR : 3150]\nPeut provoquer des conflits sanglants.\n[Inflige Étourdissement (100%)]"
+ },
+ {
+  "cle": "71",
+  "type": "nom",
+  "fr": "Balle de seption"
+ },
+ {
+  "cle": "71",
+  "type": "description",
+  "fr": "[Attaque/FOR : 2850]\nFausse balle de septium comestible.\n[Inflige une altération d'état (100%)]"
+ },
+ {
+  "cle": "73",
+  "type": "nom",
+  "fr": "Délice étincelant"
+ },
+ {
+  "cle": "73",
+  "type": "description",
+  "fr": "[À emporter/14000PV/FOR&DÉF+20%]\nUn jus exceptionnel qui mérite tous les\ncompliments du monde."
+ },
+ {
+  "cle": "76",
+  "type": "nom",
+  "fr": "Ragoût purgatoire"
+ },
+ {
+  "cle": "76",
+  "type": "description",
+  "fr": "[À emporter/12000PV/60PT]\nUn ragoût dont la saveur est\nproportionnelle à votre karma."
+ },
+ {
+  "cle": "77",
+  "type": "nom",
+  "fr": "Blob arc-en-ciel"
+ },
+ {
+  "cle": "77",
+  "type": "description",
+  "fr": "[À emporter/24000PV]\nÉtrange plat qui semble encore vivant.\n[Soigne du K.O.]"
+ },
+ {
+  "cle": "78",
+  "type": "nom",
+  "fr": "Extrait sanguin"
+ },
+ {
+  "cle": "78",
+  "type": "description",
+  "fr": "[À emporter/100%PV]\nSang frais d'origine évidente.\n[Soigne des altérations d'état]"
+ }
+]

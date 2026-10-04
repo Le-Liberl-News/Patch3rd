@@ -1,0 +1,42 @@
+[
+ {
+  "n": 18,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 19,
+  "fr": "Restaurer les PV/PE"
+ },
+ {
+  "n": 20,
+  "fr": "Acheter"
+ },
+ {
+  "n": 21,
+  "fr": "Synthétiser des quartz"
+ },
+ {
+  "n": 22,
+  "fr": "Terminer"
+ },
+ {
+  "n": 23,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 24,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 25,
+  "fr": "{color 5}Ouvrir la Porte ?{0x18}"
+ },
+ {
+  "n": 26,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 27,
+  "fr": "[Non]"
+ }
+]

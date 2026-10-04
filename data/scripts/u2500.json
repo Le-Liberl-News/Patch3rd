@@ -1,0 +1,86 @@
+[
+ {
+  "n": 10,
+  "fr": "Q-Qu'est-ce que... ?!"
+ },
+ {
+  "n": 14,
+  "fr": "En effet..."
+ },
+ {
+  "n": 20,
+  "fr": "D'accord !"
+ },
+ {
+  "n": 21,
+  "fr": "Compris !"
+ },
+ {
+  "n": 22,
+  "fr": "Compris !"
+ },
+ {
+  "n": 23,
+  "fr": "D'accord !"
+ },
+ {
+  "n": 24,
+  "fr": "D'accord !"
+ },
+ {
+  "n": 25,
+  "fr": "Entendu !"
+ },
+ {
+  "n": 26,
+  "fr": "Entendu !"
+ },
+ {
+  "n": 27,
+  "fr": "Entendu !"
+ },
+ {
+  "n": 30,
+  "fr": "Entendu !"
+ },
+ {
+  "n": 31,
+  "fr": "Compris !"
+ },
+ {
+  "n": 32,
+  "fr": "D'accord !"
+ },
+ {
+  "n": 35,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 36,
+  "fr": "Restaurer les PV/PE"
+ },
+ {
+  "n": 37,
+  "fr": "Acheter"
+ },
+ {
+  "n": 38,
+  "fr": "Synthétiser des quartz"
+ },
+ {
+  "n": 39,
+  "fr": "Terminer"
+ },
+ {
+  "n": 40,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 41,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 42,
+  "fr": "{color 5}La porte est fermée à clé."
+ }
+]

@@ -1,0 +1,372 @@
+[
+ {
+  "cle": "as00100:0x1255.1",
+  "type": "as",
+  "fr": "Allez ! Venez m'attaquer !"
+ },
+ {
+  "cle": "as00100:0x1255.2",
+  "type": "as",
+  "fr": "Fais attention, ou je vais te frapper !"
+ },
+ {
+  "cle": "as00110:0x1007.1",
+  "type": "as",
+  "fr": "C'est moi, ton adversaire !"
+ },
+ {
+  "cle": "as00110:0x1007.2",
+  "type": "as",
+  "fr": "C'est pas le moment d'admirer le paysage."
+ },
+ {
+  "cle": "as00280:0x0777.1",
+  "type": "as",
+  "fr": "Fais tes prières !"
+ },
+ {
+  "cle": "as00280:0x0AE0.1",
+  "type": "as",
+  "fr": "Balles à bout portant !!"
+ },
+ {
+  "cle": "as00280:0x1028.0",
+  "type": "as",
+  "fr": "Préparation de balles spéciales..."
+ },
+ {
+  "cle": "as00450:0x0755.1",
+  "type": "as",
+  "fr": "Arrête de glander !"
+ },
+ {
+  "cle": "as00450:0x0921.1",
+  "type": "as",
+  "fr": "Que je te reprenne pas à glander comme ça !"
+ },
+ {
+  "cle": "as00450:0x0B01.1",
+  "type": "as",
+  "fr": "Allez, debout, fainéant !"
+ },
+ {
+  "cle": "as00450:0x0CBC.1",
+  "type": "as",
+  "fr": "Te crois pas invincible, toi !"
+ },
+ {
+  "cle": "as00450:0x0D81.1",
+  "type": "as",
+  "fr": "Vous m'aurez pas si facilement !"
+ },
+ {
+  "cle": "as00450:0x0FC3.0",
+  "type": "as",
+  "fr": "Vous m'aurez pas si facilement !"
+ },
+ {
+  "cle": "as00450:0x1013.1",
+  "type": "as",
+  "fr": "Vous m'aurez pas si facilement !"
+ },
+ {
+  "cle": "as00460:0x0755.1",
+  "type": "as",
+  "fr": "C'est pas le moment de glander !"
+ },
+ {
+  "cle": "as00460:0x0932.1",
+  "type": "as",
+  "fr": "Arrêtez de rêvasser !"
+ },
+ {
+  "cle": "as00460:0x0AFC.1",
+  "type": "as",
+  "fr": "Arrête de traîner et mets-toi au boulot !"
+ },
+ {
+  "cle": "as00460:0x0CBD.1",
+  "type": "as",
+  "fr": "Faut pas me sous-estimer !"
+ },
+ {
+  "cle": "as00470:0x0755.1",
+  "type": "as",
+  "fr": "Fini de glander ! Compris ?!"
+ },
+ {
+  "cle": "as00470:0x092E.1",
+  "type": "as",
+  "fr": "Tu crois que c'est la sieste ou quoi ?!"
+ },
+ {
+  "cle": "as00470:0x0B0E.1",
+  "type": "as",
+  "fr": "Allez, debout, toi !"
+ },
+ {
+  "cle": "as00470:0x0CC0.1",
+  "type": "as",
+  "fr": "Détourne pas le regard, toi !"
+ },
+ {
+  "cle": "as00470:0x0D79.1",
+  "type": "as",
+  "fr": "J-Je veux pas perdre ce combat..."
+ },
+ {
+  "cle": "as00470:0x0FF9.1",
+  "type": "as",
+  "fr": "J-Je veux pas perdre ce combat..."
+ },
+ {
+  "cle": "as04000:0x14EA.1",
+  "type": "as",
+  "fr": "Allez ! Venez m'attaquer !"
+ },
+ {
+  "cle": "as04000:0x15B6.1",
+  "type": "as",
+  "fr": "Fais attention, ou je vais te frapper !"
+ },
+ {
+  "cle": "as04050:0x08BC.1",
+  "type": "as",
+  "fr": "Allez !"
+ },
+ {
+  "cle": "as04050:0x08BC.2",
+  "type": "as",
+  "fr": "Donne tout ce que t'as !"
+ },
+ {
+  "cle": "as04050:0x1511.1",
+  "type": "as",
+  "fr": "Ce combat a assez duré !"
+ },
+ {
+  "cle": "as04050:0x1D21.1",
+  "type": "as",
+  "fr": "DAAAAAAH !"
+ },
+ {
+  "cle": "as04070:0x0AA6.1",
+  "type": "as",
+  "fr": "Alors ?"
+ },
+ {
+  "cle": "as04090:0x1150.1",
+  "type": "as",
+  "fr": "Échec et mat !"
+ },
+ {
+  "cle": "as04200:0x133F.1",
+  "type": "as",
+  "fr": "C'est moi, ton adversaire !"
+ },
+ {
+  "cle": "as04200:0x1465.1",
+  "type": "as",
+  "fr": "C'est pas le moment d'admirer le paysage."
+ },
+ {
+  "cle": "as04210:0x0EA2.1",
+  "type": "as",
+  "fr": "Sieg ! Aide-moi !"
+ },
+ {
+  "cle": "as04250:0x139F.1",
+  "type": "as",
+  "fr": "C'est moi, ton adversaire !"
+ },
+ {
+  "cle": "as04250:0x14C5.1",
+  "type": "as",
+  "fr": "C'est pas le moment d'admirer le paysage."
+ },
+ {
+  "cle": "as04440:0x08C0.1",
+  "type": "as",
+  "fr": "Haaaaaa !"
+ },
+ {
+  "cle": "as04450:0x0748.1",
+  "type": "as",
+  "fr": "Discernez-vous mes mouvements ?"
+ },
+ {
+  "cle": "as04530:0x0AFF.1",
+  "type": "as",
+  "fr": "J'ai échoué..."
+ },
+ {
+  "cle": "as04570:0x0AD7.1",
+  "type": "as",
+  "fr": "Tu ne m'échapperas pas !"
+ },
+ {
+  "cle": "as04590:0x0D40.1",
+  "type": "as",
+  "fr": "Feu, maintenant !!!"
+ },
+ {
+  "cle": "as04630:0x088B.1",
+  "type": "as",
+  "fr": "Je ne fais que commencer !"
+ },
+ {
+  "cle": "as04630:0x09E4.1",
+  "type": "as",
+  "fr": "Essayez seulement de suivre mon rythme !"
+ },
+ {
+  "cle": "as04630:0x0AEC.1",
+  "type": "as",
+  "fr": "Je ne suis pas à votre portée !"
+ },
+ {
+  "cle": "as04630:0x0C3F.1",
+  "type": "as",
+  "fr": "Eins !"
+ },
+ {
+  "cle": "as04630:0x0F8B.1",
+  "type": "as",
+  "fr": "Ho !!!!"
+ },
+ {
+  "cle": "as04640:0x07FC.1",
+  "type": "as",
+  "fr": "Allez, mangez ça !"
+ },
+ {
+  "cle": "as04750:0x0DB7.1",
+  "type": "as",
+  "fr": "A-Attends..."
+ },
+ {
+  "cle": "as04750:0x0DFA.1",
+  "type": "as",
+  "fr": "Je suis désolé !!!"
+ },
+ {
+  "cle": "as04750:0x0E3F.1",
+  "type": "as",
+  "fr": "Regarde mes yeux !!!"
+ },
+ {
+  "cle": "as04750:0x0EC4.1",
+  "type": "as",
+  "fr": "S'il te plaît !!!"
+ },
+ {
+  "cle": "as04750:0x0F0F.1",
+  "type": "as",
+  "fr": "Redevenons amis comme avant !"
+ },
+ {
+  "cle": "as04750:0x0FB8.1",
+  "type": "as",
+  "fr": "Je t'ai eu... ♪"
+ },
+ {
+  "cle": "as04750:0x1011.1",
+  "type": "as",
+  "fr": "Imbécile !"
+ },
+ {
+  "cle": "as04750:0x1027.1",
+  "type": "as",
+  "fr": "Tu vaux que pouic !"
+ },
+ {
+  "cle": "as04750:0x104C.1",
+  "type": "as",
+  "fr": "Pourquoi t'existes, d'abord ?!"
+ },
+ {
+  "cle": "as04750:0x1069.1",
+  "type": "as",
+  "fr": "Merde !"
+ },
+ {
+  "cle": "as04750:0x1081.1",
+  "type": "as",
+  "fr": "C'est moi, l'élite !"
+ },
+ {
+  "cle": "as04750:0x109E.1",
+  "type": "as",
+  "fr": "Tu... !"
+ },
+ {
+  "cle": "as04750:0x10AF.1",
+  "type": "as",
+  "fr": "Tuuu... !"
+ },
+ {
+  "cle": "as04750:0x10C3.1",
+  "type": "as",
+  "fr": "Putain !"
+ },
+ {
+  "cle": "as04750:0x10DC.1",
+  "type": "as",
+  "fr": "Alors ?!"
+ },
+ {
+  "cle": "as04750:0x10F3.1",
+  "type": "as",
+  "fr": "On fait moins le malin ?!"
+ },
+ {
+  "cle": "as04750:0x1110.1",
+  "type": "as",
+  "fr": "Enflure !"
+ },
+ {
+  "cle": "as04750:0x1167.1",
+  "type": "as",
+  "fr": "A-Attends... On va trouver un terrain d'entente !"
+ },
+ {
+  "cle": "as13060:0x0E77.0",
+  "type": "as",
+  "fr": "Analyse des données de combat"
+ },
+ {
+  "cle": "as14800:0x169C.0",
+  "type": "as",
+  "fr": "Analyse des données de combat"
+ },
+ {
+  "cle": "as14960:0x0D56.0",
+  "type": "as",
+  "fr": "Analyse des données de combat"
+ },
+ {
+  "cle": "as14970:0x16C9.0",
+  "type": "as",
+  "fr": "Analyse des données de combat"
+ },
+ {
+  "cle": "as15030:0x079D.0",
+  "type": "as",
+  "fr": "Tous les missiles sont embrayés."
+ },
+ {
+  "cle": "as15170:0x0D56.0",
+  "type": "as",
+  "fr": "Analyse des données de combat"
+ },
+ {
+  "cle": "as15240:0x079D.0",
+  "type": "as",
+  "fr": "Tous les missiles sont embrayés."
+ },
+ {
+  "cle": "as15250:0x0D56.0",
+  "type": "as",
+  "fr": "Analyse des données de combat"
+ }
+]

@@ -1,0 +1,212 @@
+[
+ {
+  "cle": "2",
+  "type": "terme",
+  "fr": "Progression"
+ },
+ {
+  "cle": "3",
+  "type": "terme",
+  "fr": "Orbements 1"
+ },
+ {
+  "cle": "4",
+  "type": "terme",
+  "fr": "Orbements 2"
+ },
+ {
+  "cle": "5",
+  "type": "terme",
+  "fr": "Config. orbale"
+ },
+ {
+  "cle": "6",
+  "type": "terme",
+  "fr": "Techniques"
+ },
+ {
+  "cle": "7",
+  "type": "terme",
+  "fr": "Enchaînements"
+ },
+ {
+  "cle": "8",
+  "type": "terme",
+  "fr": "Bonus TA"
+ },
+ {
+  "cle": "9",
+  "type": "terme",
+  "fr": "Statuts"
+ },
+ {
+  "cle": "10",
+  "type": "terme",
+  "fr": "Éléments"
+ },
+ {
+  "cle": "11",
+  "type": "terme",
+  "fr": "Cuisine"
+ },
+ {
+  "cle": "12",
+  "type": "terme",
+  "fr": "Caractérist."
+ },
+ {
+  "cle": "13",
+  "type": "terme",
+  "fr": "Fonctions du Cube"
+ },
+ {
+  "cle": "14",
+  "type": "terme",
+  "fr": "Fonctions de soutien"
+ },
+ {
+  "cle": "15",
+  "type": "terme",
+  "fr": "Composition d'équipe"
+ },
+ {
+  "cle": "16",
+  "type": "terme",
+  "fr": "Histoires secondaires"
+ },
+ {
+  "cle": "17",
+  "type": "terme",
+  "fr": "Arts 1"
+ },
+ {
+  "cle": "18",
+  "type": "terme",
+  "fr": "Arts 2"
+ },
+ {
+  "cle": "19",
+  "type": "terme",
+  "fr": "Arts 3"
+ },
+ {
+  "cle": "20",
+  "type": "terme",
+  "fr": "Arts 4"
+ },
+ {
+  "cle": "21",
+  "type": "terme",
+  "fr": "Arts 5"
+ },
+ {
+  "cle": "22",
+  "type": "terme",
+  "fr": "Arts 6"
+ },
+ {
+  "cle": "23",
+  "type": "terme",
+  "fr": "Quartz 1"
+ },
+ {
+  "cle": "24",
+  "type": "terme",
+  "fr": "Quartz 2"
+ },
+ {
+  "cle": "25",
+  "type": "terme",
+  "fr": "Quartz 3"
+ },
+ {
+  "cle": "26",
+  "type": "terme",
+  "fr": "Quartz 4"
+ },
+ {
+  "cle": "27",
+  "type": "terme",
+  "fr": "Quartz 5"
+ },
+ {
+  "cle": "28",
+  "type": "terme",
+  "fr": "Quartz 6"
+ },
+ {
+  "cle": "32",
+  "type": "terme",
+  "fr": "Nom :              Kevin Graham"
+ },
+ {
+  "cle": "34",
+  "type": "terme",
+  "fr": "Affiliation :    Gralsritters"
+ },
+ {
+  "cle": "35",
+  "type": "terme",
+  "fr": "Rang :             Dominion N°5"
+ },
+ {
+  "cle": "39",
+  "type": "terme",
+  "fr": "Combats :       "
+ },
+ {
+  "cle": "40",
+  "type": "terme",
+  "fr": "Victoires :     "
+ },
+ {
+  "cle": "41",
+  "type": "terme",
+  "fr": "Morts :        "
+ },
+ {
+  "cle": "42",
+  "type": "terme",
+  "fr": "Fuites :          "
+ },
+ {
+  "cle": "54",
+  "type": "terme",
+  "fr": "[Code moral des Gralsritter en six articles]"
+ },
+ {
+  "cle": "56",
+  "type": "terme",
+  "fr": "- Dévouez votre âme à la Déesse des cieux,"
+ },
+ {
+  "cle": "57",
+  "type": "terme",
+  "fr": "  votre chair à la septienté."
+ },
+ {
+  "cle": "59",
+  "type": "terme",
+  "fr": "- Soyez garants des sacrements."
+ },
+ {
+  "cle": "61",
+  "type": "terme",
+  "fr": "- Jurez allégeance au Saint-Père."
+ },
+ {
+  "cle": "63",
+  "type": "terme",
+  "fr": "- Accomplissez dignement la sainte captation."
+ },
+ {
+  "cle": "65",
+  "type": "terme",
+  "fr": "- Préservez l'ordre et la paix dans les trois mondes."
+ },
+ {
+  "cle": "67",
+  "type": "terme",
+  "fr": "- Anéantissez l'hérétisme."
+ }
+]

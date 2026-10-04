@@ -1,0 +1,2737 @@
+[
+ {
+  "cle": "0x225A08",
+  "type": "exe",
+  "fr": "Attaque préventive !"
+ },
+ {
+  "cle": "0x225A28",
+  "type": "exe",
+  "fr": "ÉCHEC S-BREAK"
+ },
+ {
+  "cle": "0x225A38",
+  "type": "exe",
+  "fr": "Déplacement"
+ },
+ {
+  "cle": "0x225A50",
+  "type": "exe",
+  "fr": "Attaque"
+ },
+ {
+  "cle": "0x225A68",
+  "type": "exe",
+  "fr": "Aucun personnage n'est sélectionné pour l'enchaînement."
+ },
+ {
+  "cle": "0x225AC8",
+  "type": "exe",
+  "fr": "Technique"
+ },
+ {
+  "cle": "0x225ADC",
+  "type": "exe",
+  "fr": "Enchaînement"
+ },
+ {
+  "cle": "0x225AFC",
+  "type": "exe",
+  "fr": "INEFFICACE"
+ },
+ {
+  "cle": "0x225B08",
+  "type": "exe",
+  "fr": "CRITIQUE"
+ },
+ {
+  "cle": "0x225B14",
+  "type": "exe",
+  "fr": "Défaite..."
+ },
+ {
+  "cle": "0x225B4C",
+  "type": "exe",
+  "fr": "L'ennemi a pris la fuite..."
+ },
+ {
+  "cle": "0x225B78",
+  "type": "exe",
+  "fr": "Vous avez pris la fuite..."
+ },
+ {
+  "cle": "0x225BC0",
+  "type": "exe",
+  "fr": "Techniques"
+ },
+ {
+  "cle": "0x225BD8",
+  "type": "exe",
+  "fr": "Objets"
+ },
+ {
+  "cle": "0x225BF0",
+  "type": "exe",
+  "fr": "Associer %c%c%s%c%c au bouton S-Break ?"
+ },
+ {
+  "cle": "0x225C38",
+  "type": "exe",
+  "fr": "Tactiques"
+ },
+ {
+  "cle": "0x225C40",
+  "type": "exe",
+  "fr": "%c%c%s%c%c associé au S-Break.\nRendez-vous dans le menu [%c%c%s%c%c]\npour changer d'association."
+ },
+ {
+  "cle": "0x225D00",
+  "type": "exe",
+  "fr": "RATZ"
+ },
+ {
+  "cle": "0x225D08",
+  "type": "exe",
+  "fr": "NIVEAU K"
+ },
+ {
+  "cle": "0x2296E0",
+  "type": "exe",
+  "fr": "Terre"
+ },
+ {
+  "cle": "0x2296E8",
+  "type": "exe",
+  "fr": "Eau"
+ },
+ {
+  "cle": "0x2296F0",
+  "type": "exe",
+  "fr": "Feu"
+ },
+ {
+  "cle": "0x2296F8",
+  "type": "exe",
+  "fr": "Vent"
+ },
+ {
+  "cle": "0x229700",
+  "type": "exe",
+  "fr": "Temps"
+ },
+ {
+  "cle": "0x229708",
+  "type": "exe",
+  "fr": "Espace"
+ },
+ {
+  "cle": "0x229778",
+  "type": "exe",
+  "fr": "Afficher tous les objets de l'inventaire."
+ },
+ {
+  "cle": "0x2297AC",
+  "type": "exe",
+  "fr": "Afficher les armes."
+ },
+ {
+  "cle": "0x2297D4",
+  "type": "exe",
+  "fr": "Afficher les protections."
+ },
+ {
+  "cle": "0x229808",
+  "type": "exe",
+  "fr": "Afficher les objets de soin."
+ },
+ {
+  "cle": "0x229838",
+  "type": "exe",
+  "fr": "Afficher les quartz."
+ },
+ {
+  "cle": "0x229864",
+  "type": "exe",
+  "fr": "Afficher les objets-clés."
+ },
+ {
+  "cle": "0x229898",
+  "type": "exe",
+  "fr": "Afficher les ingrédients."
+ },
+ {
+  "cle": "0x2298C4",
+  "type": "exe",
+  "fr": "Afficher les livres."
+ },
+ {
+  "cle": "0x2298E8",
+  "type": "exe",
+  "fr": "Retirer l'équipement."
+ },
+ {
+  "cle": "0x229934",
+  "type": "exe",
+  "fr": "Installer un quartz."
+ },
+ {
+  "cle": "0x22996C",
+  "type": "exe",
+  "fr": "Équiper une arme."
+ },
+ {
+  "cle": "0x22999C",
+  "type": "exe",
+  "fr": "Équiper une protection."
+ },
+ {
+  "cle": "0x2299D0",
+  "type": "exe",
+  "fr": "Équiper des chaussures."
+ },
+ {
+  "cle": "0x229A00",
+  "type": "exe",
+  "fr": "Équiper un accessoire."
+ },
+ {
+  "cle": "0x229B54",
+  "type": "exe",
+  "fr": "Nv"
+ },
+ {
+  "cle": "0x229B88",
+  "type": "exe",
+  "fr": "Exp"
+ },
+ {
+  "cle": "0x229B94",
+  "type": "exe",
+  "fr": "Suiv."
+ },
+ {
+  "cle": "0x229C28",
+  "type": "exe",
+  "fr": "-"
+ },
+ {
+  "cle": "0x229F20",
+  "type": "exe",
+  "fr": "%s prépare un Art.\n"
+ },
+ {
+  "cle": "0x229F64",
+  "type": "exe",
+  "fr": "%s s'est enfui."
+ },
+ {
+  "cle": "0x22A22C",
+  "type": "exe",
+  "fr": "IMMUNITZ"
+ },
+ {
+  "cle": "0x22A234",
+  "type": "exe",
+  "fr": "DZF J"
+ },
+ {
+  "cle": "0x22A240",
+  "type": "exe",
+  "fr": "DZP K"
+ },
+ {
+  "cle": "0x22A248",
+  "type": "exe",
+  "fr": "DZP J"
+ },
+ {
+  "cle": "0x22A254",
+  "type": "exe",
+  "fr": "BOUCLIER ARTS"
+ },
+ {
+  "cle": "0x22A260",
+  "type": "exe",
+  "fr": "BOUCLIER PHYS"
+ },
+ {
+  "cle": "0x22A26C",
+  "type": "exe",
+  "fr": "FOR K"
+ },
+ {
+  "cle": "0x22A274",
+  "type": "exe",
+  "fr": "FOR J"
+ },
+ {
+  "cle": "0x22A280",
+  "type": "exe",
+  "fr": "DZF K"
+ },
+ {
+  "cle": "0x22A288",
+  "type": "exe",
+  "fr": "VIT K"
+ },
+ {
+  "cle": "0x22A290",
+  "type": "exe",
+  "fr": "VIT J"
+ },
+ {
+  "cle": "0x22A2A4",
+  "type": "exe",
+  "fr": "RZS K"
+ },
+ {
+  "cle": "0x22A2AC",
+  "type": "exe",
+  "fr": "RZS J"
+ },
+ {
+  "cle": "0x22A2B8",
+  "type": "exe",
+  "fr": "AGL K"
+ },
+ {
+  "cle": "0x22A2C0",
+  "type": "exe",
+  "fr": "AGL J"
+ },
+ {
+  "cle": "0x22A2CC",
+  "type": "exe",
+  "fr": "BOUCLIER MAX"
+ },
+ {
+  "cle": "0x22A2D8",
+  "type": "exe",
+  "fr": "DISPARU"
+ },
+ {
+  "cle": "0x22A2E0",
+  "type": "exe",
+  "fr": "ALTZR BLOQUZE"
+ },
+ {
+  "cle": "0x22A444",
+  "type": "exe",
+  "fr": "BLOQUZ"
+ },
+ {
+  "cle": "0x22A44C",
+  "type": "exe",
+  "fr": "TOUR J"
+ },
+ {
+  "cle": "0x22A458",
+  "type": "exe",
+  "fr": "TOUR K"
+ },
+ {
+  "cle": "0x22A5B0",
+  "type": "exe",
+  "fr": "#5P#%dA%s#350W "
+ },
+ {
+  "cle": "0x22A68C",
+  "type": "exe",
+  "fr": "TOUR D'ATTAQUE (TA)"
+ },
+ {
+  "cle": "0x22A6A0",
+  "type": "exe",
+  "fr": "%c%c%s%c%c\nLe tour d'attaque est représenté sur la gauche.\nLa barre se lit de haut en bas et indique qui sera\nle prochain protagoniste à pouvoir attaquer."
+ },
+ {
+  "cle": "0x22A774",
+  "type": "exe",
+  "fr": "ATTAQUE"
+ },
+ {
+  "cle": "0x22A780",
+  "type": "exe",
+  "fr": "%c%c%s%c%c\nC'est la commande qui vous permet d'attaquer\nphysiquement un ennemi."
+ },
+ {
+  "cle": "0x22A8A0",
+  "type": "exe",
+  "fr": "La zone en surbrillance indique le champ d'action de votre personnage.\nEn sélectionnant un ennemi dans cette zone,                                    \nvotre personnage se déplacera immédiatement pour l'attaquer."
+ },
+ {
+  "cle": "0x22A9C0",
+  "type": "exe",
+  "fr": "Si un ennemi se trouve hors de portée, l'icône ci-dessous\n        apparaîtra sur votre curseur. Si vous sélectionnez\nune cible hors de portée, l'unité se déplacera vers elle\nautant que possible, mais sans possibilité d'attaquer."
+ },
+ {
+  "cle": "0x22AB50",
+  "type": "exe",
+  "fr": "BONUS DE COMBAT"
+ },
+ {
+  "cle": "0x22AB68",
+  "type": "exe",
+  "fr": "%c%c%s%c%c\nCes icônes indiquent des bonus accordés aux\ncombattants en fonction de l'ordre de leurs tours.\nSi une icône apparaît à côté du portrait d'un\npersonnage, celui-ci recevra le bonus correspondant."
+ },
+ {
+  "cle": "0x22ACF0",
+  "type": "exe",
+  "fr": "  : Soin PV,     : Sepith +, etc.\nindiquent les effets de chaque icône."
+ },
+ {
+  "cle": "0x22AD98",
+  "type": "exe",
+  "fr": "ARTS"
+ },
+ {
+  "cle": "0x22ADA0",
+  "type": "exe",
+  "fr": "%c%c%s%c%c\nLes arts sont efficaces contre les ennemis\ntrès agiles ou insensibles aux attaques\nphysiques."
+ },
+ {
+  "cle": "0x22AEC0",
+  "type": "exe",
+  "fr": "#0CLes %c%c%s%c%c consomment des %c%c%s%c%c.\nCes attaques nécessitent un temps\nde préparation avant d'être lancés."
+ },
+ {
+  "cle": "0x22AF98",
+  "type": "exe",
+  "fr": "ÉLÉMENT"
+ },
+ {
+  "cle": "0x22AFA0",
+  "type": "exe",
+  "fr": "#0CLes %c%c%s%c%c sont des attaques élémentaires.\nCiblez vos ennemis en fonction de leur\nsensibilité face à tel ou tel élément."
+ },
+ {
+  "cle": "0x22B070",
+  "type": "exe",
+  "fr": "TECHNIQUES"
+ },
+ {
+  "cle": "0x22B078",
+  "type": "exe",
+  "fr": "%c%c%s%c%c\nLes techniques sont des compétences de combat\nspécifiques à chaque personnage qui peuvent\noccasionner de lourds dégâts et causer divers effets."
+ },
+ {
+  "cle": "0x22B198",
+  "type": "exe",
+  "fr": "#0CLes %c%c%s%c%c consomment des %c%c%s%c%c.\nLes %c%c%s%c%c augmentent graduellement en infligeant des dégâts\naux ennemis ou lorsque vous subissez des attaques."
+ },
+ {
+  "cle": "0x22B2B8",
+  "type": "exe",
+  "fr": "S-Techs"
+ },
+ {
+  "cle": "0x22B2C4",
+  "type": "exe",
+  "fr": "S-BREAK"
+ },
+ {
+  "cle": "0x22B2D0",
+  "type": "exe",
+  "fr": "%c%c%s%c%c\n\t\t\t\t\t\t\t\t\tC'est une capacité qui permet aux %c%c%s%c%c d'avoir\n\t\t\t\t\t\t\t\t\tlieu immédiatement sans tenir compte de l'ordre normal\n\t\t\t\t\t\t\t\t\tdes tours, ce qui vide la barre de %c%c%s%c%c jusqu'à 0."
+ },
+ {
+  "cle": "0x22B458",
+  "type": "exe",
+  "fr": "Rendez-vous dans le menu [Tactiques] puis\nsélectionnez [Définir S-Break] pour associer\nla S-Tech de votre choix au bouton S-Break."
+ },
+ {
+  "cle": "0x22B550",
+  "type": "exe",
+  "fr": "S-Break"
+ },
+ {
+  "cle": "0x22B558",
+  "type": "exe",
+  "fr": "Bouton Break"
+ },
+ {
+  "cle": "0x22B568",
+  "type": "exe",
+  "fr": "   1) \n%c%c%s%c%c utilisable. À tout instant, appuyez sur le %c%c%s%c%c\npour déclencher la technique spéciale du personnage.\n   2)\nS-Break inutilisable à cause d'une altération d'état.\n\n"
+ },
+ {
+  "cle": "0x22B6B0",
+  "type": "exe",
+  "fr": "    Appuyez sur        pour activer le #3CS-Break#0C.\n\nSur le clavier, les touches 1 à 4 du pavé principal ou\nles flèches gauche et droite vous permettent aussi de\nsélectionner un %c%c%s%c%c pour activer un %c%c%s%c%c."
+ },
+ {
+  "cle": "0x22B870",
+  "type": "exe",
+  "fr": "Protégez les personnes\nqui vous accompagnent !"
+ },
+ {
+  "cle": "0x22B894",
+  "type": "exe",
+  "fr": "Si un PNJ perd tous ses PV\nlors d'un combat, la partie\nest finie !"
+ },
+ {
+  "cle": "0x22B8F0",
+  "type": "exe",
+  "fr": "enchaînements"
+ },
+ {
+  "cle": "0x22B900",
+  "type": "exe",
+  "fr": "ENCHAÎNEMENTS"
+ },
+ {
+  "cle": "0x22B910",
+  "type": "exe",
+  "fr": "%c%c%s%c%c\n\\t\\t\\t\\t\\t\\t\\t\\t\\tLes %c%c%s%c%c sont des techniques qui\n\\t\\t\\t\\t\\t\\t\\t\\t\\tpermettent à plusieurs personnages d'attaquer\nen même temps."
+ },
+ {
+  "cle": "0x22B9F8",
+  "type": "exe",
+  "fr": "%c%c%s%c%c\n\t\t\t\t\t\t\t\t\tPour utiliser un Enchaînement, vous devez sélectionner\n\t\t\t\t\t\t\t\t\tles personnages qui participeront à l'attaque avant la cible."
+ },
+ {
+  "cle": "0x22BAD8",
+  "type": "exe",
+  "fr": "#0CUn minimum de PT est requis de la part de tous les\nparticipants. Celui-ci est affiché en haut à gauche\navec le nombre de participants maximum."
+ },
+ {
+  "cle": "0x22BBE8",
+  "type": "exe",
+  "fr": "#0CPlus il y a de participants, plus la zone d'attaque\nest grande, et chaque attaque augmente l'impact des suivantes."
+ },
+ {
+  "cle": "0x22BD58",
+  "type": "exe",
+  "fr": "PV :"
+ },
+ {
+  "cle": "0x22BD74",
+  "type": "exe",
+  "fr": "Statut :"
+ },
+ {
+  "cle": "0x22BD88",
+  "type": "exe",
+  "fr": "Aucun"
+ },
+ {
+  "cle": "0x22BD90",
+  "type": "exe",
+  "fr": "Efficacité élémentaire (%) :"
+ },
+ {
+  "cle": "0x22BDC0",
+  "type": "exe",
+  "fr": "PT :"
+ },
+ {
+  "cle": "0x22BDCC",
+  "type": "exe",
+  "fr": "Exp :"
+ },
+ {
+  "cle": "0x22BDDC",
+  "type": "exe",
+  "fr": "Sepith :"
+ },
+ {
+  "cle": "0x22BFCC",
+  "type": "exe",
+  "fr": "Recommencer"
+ },
+ {
+  "cle": "0x22BFD4",
+  "type": "exe",
+  "fr": "Menu principal"
+ },
+ {
+  "cle": "0x22C01C",
+  "type": "exe",
+  "fr": "Conserver"
+ },
+ {
+  "cle": "0x22C034",
+  "type": "exe",
+  "fr": "Ne pas conserver"
+ },
+ {
+  "cle": "0x22C064",
+  "type": "exe",
+  "fr": "Équipement"
+ },
+ {
+  "cle": "0x22C08C",
+  "type": "exe",
+  "fr": "Statut"
+ },
+ {
+  "cle": "0x22C0E4",
+  "type": "exe",
+  "fr": "Valider"
+ },
+ {
+  "cle": "0x22C0F4",
+  "type": "exe",
+  "fr": "Conserver les miras et les sepiths."
+ },
+ {
+  "cle": "0x22C138",
+  "type": "exe",
+  "fr": "Conserver les objets consommables."
+ },
+ {
+  "cle": "0x22C240",
+  "type": "exe",
+  "fr": "Conserver les données du livre de recettes, du bestiaire\net du carnet de pêche."
+ },
+ {
+  "cle": "0x22C2B8",
+  "type": "exe",
+  "fr": "Conserver les niveaux et les emplacements ouverts."
+ },
+ {
+  "cle": "0x22C310",
+  "type": "exe",
+  "fr": "Choisissez un niveau de difficulté.\n[Normal] Difficulté moyenne. Pour ceux qui veulent un challenge raisonnable."
+ },
+ {
+  "cle": "0x22C370",
+  "type": "exe",
+  "fr": "Choisissez un niveau de difficulté.\n[Difficile] Difficulté élevée. Pour ceux qui ne se satisfont pas du mode normal."
+ },
+ {
+  "cle": "0x22C3D0",
+  "type": "exe",
+  "fr": "Choisissez un niveau de difficulté.\n[Cauchemar] Vous êtes condamné. Qu'Aidios soit avec vous."
+ },
+ {
+  "cle": "0x22C420",
+  "type": "exe",
+  "fr": "Choisissez un niveau de difficulté.\n[Facile] Anéantit la difficulté. Pour les débutants ou les pressés."
+ },
+ {
+  "cle": "0x22C5F4",
+  "type": "exe",
+  "fr": "Commencer une nouvelle partie avec les paramètres sélectionnés."
+ },
+ {
+  "cle": "0x22C954",
+  "type": "exe",
+  "fr": "%c#5C%s a récupéré %d#5C PV et %d#5C PT."
+ },
+ {
+  "cle": "0x22C9B0",
+  "type": "exe",
+  "fr": "%c#5C%s a récupéré %d#5C PT."
+ },
+ {
+  "cle": "0x22CC20",
+  "type": "exe",
+  "fr": "FOR%4d"
+ },
+ {
+  "cle": "0x22CC28",
+  "type": "exe",
+  "fr": "PV    ?"
+ },
+ {
+  "cle": "0x22CC30",
+  "type": "exe",
+  "fr": "PV  MAX"
+ },
+ {
+  "cle": "0x22CC40",
+  "type": "exe",
+  "fr": "PV%5d"
+ },
+ {
+  "cle": "0x22E8A8",
+  "type": "exe",
+  "fr": "# Pêché"
+ },
+ {
+  "cle": "0x22E8C0",
+  "type": "exe",
+  "fr": "Appât"
+ },
+ {
+  "cle": "0x22E8D8",
+  "type": "exe",
+  "fr": "Dernier lieu pêché"
+ },
+ {
+  "cle": "0x22E908",
+  "type": "exe",
+  "fr": "riges"
+ },
+ {
+  "cle": "0x22EAFC",
+  "type": "exe",
+  "fr": "C'est un %s %s."
+ },
+ {
+  "cle": "0x22EB18",
+  "type": "exe",
+  "fr": "Dommage."
+ },
+ {
+  "cle": "0x22EB3C",
+  "type": "exe",
+  "fr": "Impressionnant."
+ },
+ {
+  "cle": "0x22EB60",
+  "type": "exe",
+  "fr": "Souhaitez-vous continuer ?"
+ },
+ {
+  "cle": "0x22EB8C",
+  "type": "exe",
+  "fr": "Quitter ?"
+ },
+ {
+  "cle": "0x22EBA4",
+  "type": "exe",
+  "fr": "Nous avons hâte de vous revoir."
+ },
+ {
+  "cle": "0x22EC24",
+  "type": "exe",
+  "fr": "Croupier"
+ },
+ {
+  "cle": "0x22EC54",
+  "type": "exe",
+  "fr": "Commencer"
+ },
+ {
+  "cle": "0x22EC5C",
+  "type": "exe",
+  "fr": "Quitter"
+ },
+ {
+  "cle": "0x22EC60",
+  "type": "exe",
+  "fr": "Explication"
+ },
+ {
+  "cle": "0x22EC78",
+  "type": "exe",
+  "fr": "Vous ne semblez avoir aucun jeton en votre possession.\nVeuillez vous en fournir au comptoir d'échange."
+ },
+ {
+  "cle": "0x22ED34",
+  "type": "exe",
+  "fr": "Bienvenue à la table de roulette."
+ },
+ {
+  "cle": "0x22ED80",
+  "type": "exe",
+  "fr": "Oui"
+ },
+ {
+  "cle": "0x22ED84",
+  "type": "exe",
+  "fr": "Non"
+ },
+ {
+  "cle": "0x22F2D0",
+  "type": "exe",
+  "fr": "Ce jeu consiste à parier sur le nombre où s'arrêtera\nla bille sur la roulette. Ce peut être 00, 0, ou un nombre\nentre 1 et 36."
+ },
+ {
+  "cle": "0x22F358",
+  "type": "exe",
+  "fr": "Pour parier « en plein », on place des jetons\nsur un seul numéro. Le taux de gain est alors de x36."
+ },
+ {
+  "cle": "0x22F3A0",
+  "type": "exe",
+  "fr": "Pour parier « à cheval », vous choisissez deux numéros,\n20 et 23 par exemple. Le taux est alors de x18."
+ },
+ {
+  "cle": "0x22F400",
+  "type": "exe",
+  "fr": "Pour parier « en transversale », on choisit une ligne,\n13, 14, 15, ici par exemple. Le taux est alors de x12."
+ },
+ {
+  "cle": "0x22F478",
+  "type": "exe",
+  "fr": "Pour parier un « sixain », on choisit deux ligne adjacentes."
+ },
+ {
+  "cle": "0x22F4C0",
+  "type": "exe",
+  "fr": "Ici par exemple, avec 13, 14, 15, 16, 17, 18.\nLe taux est alors de x6."
+ },
+ {
+  "cle": "0x22F508",
+  "type": "exe",
+  "fr": "Un « carré » consiste à choisir quatre numéros\nautour d'un point, ici 17, 18, 20, 21. Le taux est alors de x9."
+ },
+ {
+  "cle": "0x22F578",
+  "type": "exe",
+  "fr": "Vous pouvez aussi parier sur une « colonne »."
+ },
+ {
+  "cle": "0x22F5A8",
+  "type": "exe",
+  "fr": "Ici, cela comprend tous les nombres de 3 en 3 entre 2 et 35.\nLe taux est alors de x3."
+ },
+ {
+  "cle": "0x22F6C0",
+  "type": "exe",
+  "fr": "Autre « chance simple », le pari sur PAIR."
+ },
+ {
+  "cle": "0x22F6F8",
+  "type": "exe",
+  "fr": "Le pari sur IMPAIR est également une « chance simple »."
+ },
+ {
+  "cle": "0x22F730",
+  "type": "exe",
+  "fr": "Dernière « chance simple », le pari sur le rouge ou le noir.\nToutes les « chances simples » ont un taux de gain de x2."
+ },
+ {
+  "cle": "0x22F788",
+  "type": "exe",
+  "fr": "Plus le taux est élevé, plus la probabilité de réussite est faible."
+ },
+ {
+  "cle": "0x22F7D0",
+  "type": "exe",
+  "fr": "Vous pouvez parier jusqu'à 10 jetons sur maximum 10 endroits différents.\nEssayez différentes méthodes pour voir celle qui vous plaît le plus."
+ },
+ {
+  "cle": "0x22F828",
+  "type": "exe",
+  "fr": "Une fois vos jetons placés, appuyez sur Lancer ! en haut à gauche\npour faire tourner la roulette."
+ },
+ {
+  "cle": "0x22F8E0",
+  "type": "exe",
+  "fr": "Jetons"
+ },
+ {
+  "cle": "0x22F930",
+  "type": "exe",
+  "fr": "Bonus"
+ },
+ {
+  "cle": "0x22FD24",
+  "type": "exe",
+  "fr": "Bienvenue au casino.\nVous êtes à la table de blackjack."
+ },
+ {
+  "cle": "0x22FDB8",
+  "type": "exe",
+  "fr": "Mise"
+ },
+ {
+  "cle": "0x22FE00",
+  "type": "exe",
+  "fr": "6 CARTES"
+ },
+ {
+  "cle": "0x22FE08",
+  "type": "exe",
+  "fr": "7 CARTES"
+ },
+ {
+  "cle": "0x22FEA4",
+  "type": "exe",
+  "fr": "Jetons possédés"
+ },
+ {
+  "cle": "0x22FEBC",
+  "type": "exe",
+  "fr": "Jetons pariés"
+ },
+ {
+  "cle": "0x22FEDC",
+  "type": "exe",
+  "fr": "Jetons restants"
+ },
+ {
+  "cle": "0x2306E8",
+  "type": "exe",
+  "fr": "Le blackjack est un jeu qui se joue à deux personnes :\nun joueur et un donneur."
+ },
+ {
+  "cle": "0x230738",
+  "type": "exe",
+  "fr": "Il y a en tout 4 x 13 = 52 cartes.\nLe jeu ne contient pas de joker."
+ },
+ {
+  "cle": "0x2307A4",
+  "type": "exe",
+  "fr": "Pour commencer, le joueur et le donneur reçoivent chacun deux cartes :\nune visible et une face cachée."
+ },
+ {
+  "cle": "0x2307E0",
+  "type": "exe",
+  "fr": "Ensuite, la mise doit être choisie. Elle doit être comprise entre 1 et 100 jetons.\nPrenez en compte les cartes visibles pour faire ce choix."
+ },
+ {
+  "cle": "0x230930",
+  "type": "exe",
+  "fr": "Une fois la mise décidée,\nc'est au tour du joueur de retourner sa carte face cachée."
+ },
+ {
+  "cle": "0x230998",
+  "type": "exe",
+  "fr": "Si jamais sa main vaut déjà précisément 21 points,\nil obtient blackjack et c'est immédiatement au tour du donneur."
+ },
+ {
+  "cle": "0x230A08",
+  "type": "exe",
+  "fr": "Sinon, le joueur a quatre options durant son tour :"
+ },
+ {
+  "cle": "0x230A60",
+  "type": "exe",
+  "fr": "1- « TIRER »\n Piocher une carte. Il peut répéter cette action autant de fois\n qu'il le veut tant que sa main est inférieure à 21."
+ },
+ {
+  "cle": "0x230AC0",
+  "type": "exe",
+  "fr": "2- « RESTER »\n Passer la main au donneur sans reprendre de carte."
+ },
+ {
+  "cle": "0x230B10",
+  "type": "exe",
+  "fr": "3- « DOUBLER »\n Piocher une dernière carte en doublant la mise."
+ },
+ {
+  "cle": "0x230B80",
+  "type": "exe",
+  "fr": "4- « ABANDONNER »\n Quelle que soit la valeur des deux mains, le joueur perd,\n mais il récupère la moitié de la mise."
+ },
+ {
+  "cle": "0x230C00",
+  "type": "exe",
+  "fr": "Si le joueur choisit de TIRER ou DOUBLER et que sa main\ndépasse 21 points, il perd automatiquement."
+ },
+ {
+  "cle": "0x230C98",
+  "type": "exe",
+  "fr": "Ainsi, même si le donneur dépasse lui aussi 21 points\naprès coup, la défaite du joueur reste inchangée."
+ },
+ {
+  "cle": "0x230CF8",
+  "type": "exe",
+  "fr": "RESTER lance le tour du donneur."
+ },
+ {
+  "cle": "0x230D30",
+  "type": "exe",
+  "fr": "À son tour, il va retourner sa carte face cachée\net TIRER ou DOUBLER pour tenter d'approcher des 21 points."
+ },
+ {
+  "cle": "0x230D98",
+  "type": "exe",
+  "fr": "Une fois son tour terminé, les valeurs des mains sont comparées\net celle la plus proche de 21 emporte la manche."
+ },
+ {
+  "cle": "0x230DF8",
+  "type": "exe",
+  "fr": "En cas d'égalité, la moitié de la mise est rendue au joueur.\n(Consultez l'explication sur les mains pour en savoir plus\nsur les mains spéciales)"
+ },
+ {
+  "cle": "0x230EA0",
+  "type": "exe",
+  "fr": "Exceptionnellement, si le joueur pioche six cartes ou plus sans atteindre les 21 points,\nla victoire lui est automatiquement accordée."
+ },
+ {
+  "cle": "0x230F20",
+  "type": "exe",
+  "fr": "En cas de victoire, le nombre de jetons gagnés dépend du taux associé\nà la main du joueur."
+ },
+ {
+  "cle": "0x2313C0",
+  "type": "exe",
+  "fr": " [BLACKJACK]\nCombinaison de deux cartes valant 21 points.\nMultiplie le taux par x3.   *les têtes valent 10, l'as 11 ou 1."
+ },
+ {
+  "cle": "0x231450",
+  "type": "exe",
+  "fr": " [QUEENJACK]\nCombinaison d'un as de carreau et d'un valet de carreau.\nMultiplie le taux par x10."
+ },
+ {
+  "cle": "0x2314B0",
+  "type": "exe",
+  "fr": " [BLACKJACK PUR]\nCombinaison d'un as de pique et d'un valet de pique.\nMultiplie le taux par x50."
+ },
+ {
+  "cle": "0x231518",
+  "type": "exe",
+  "fr": "* Si les deux mains sont des blackjacks,\nle meilleur l'emporte dans l'ordre\nBLACKJACK PUR > QUEENJACK > BLACKJACK."
+ },
+ {
+  "cle": "0x2315B8",
+  "type": "exe",
+  "fr": " [7-7-7] : Trois sept\nAvoir dans sa main trois 7 et aucune autre carte. Ignoré pour le donneur.\nMultiplie le taux par x100."
+ },
+ {
+  "cle": "0x231660",
+  "type": "exe",
+  "fr": " [6 CARTES]\nMain de six cartes inférieure à 21 points. Ignorée pour le donneur.\nMultiplie le taux par x120."
+ },
+ {
+  "cle": "0x2316D8",
+  "type": "exe",
+  "fr": " [7 CARTES]\nMain de sept cartes inférieure à 21 points. Ignorée pour le donneur.\nMultiplie le taux par x250."
+ },
+ {
+  "cle": "0x231778",
+  "type": "exe",
+  "fr": "* Dans le cas des 7-7-7, 6 CARTES ou 7 CARTES, le joueur\nest toujours victorieux, quelle que soit la main du donneur."
+ },
+ {
+  "cle": "0x2317F8",
+  "type": "exe",
+  "fr": "Toute victoire sans main particulière correspond\nà un taux x2."
+ },
+ {
+  "cle": "0x231850",
+  "type": "exe",
+  "fr": "Vous n'avez aucun jeton.\nVeuillez vous en fournir au comptoir d'échange."
+ },
+ {
+  "cle": "0x2318E0",
+  "type": "exe",
+  "fr": "Veuillez placer votre mise de départ.\nElle peut être compris entre 1 et 100 jetons.%c"
+ },
+ {
+  "cle": "0x23195C",
+  "type": "exe",
+  "fr": "Voulez-vous continuer ?%c"
+ },
+ {
+  "cle": "0x231A78",
+  "type": "exe",
+  "fr": "%c#2C#56I %d#0C  sepiths de terre."
+ },
+ {
+  "cle": "0x231AC4",
+  "type": "exe",
+  "fr": "%c#2C#57I %d#0C  sepiths d'eau."
+ },
+ {
+  "cle": "0x231B10",
+  "type": "exe",
+  "fr": "%c#2C#58I %d#0C  sepiths de feu."
+ },
+ {
+  "cle": "0x231B5C",
+  "type": "exe",
+  "fr": "%c#2C#59I %d#0C  sepiths de vent."
+ },
+ {
+  "cle": "0x231BA8",
+  "type": "exe",
+  "fr": "%c#2C#62I %d#0C  sepiths de temps."
+ },
+ {
+  "cle": "0x231BF4",
+  "type": "exe",
+  "fr": "%c#2C#60I %d#0C  sepiths d'espace."
+ },
+ {
+  "cle": "0x231C40",
+  "type": "exe",
+  "fr": "%c#2C#61I %d#0C  sepiths de mirage."
+ },
+ {
+  "cle": "0x231C90",
+  "type": "exe",
+  "fr": "%c#2C\n#56I %d sepiths de terre,\n#57I %d sepiths d'eau,\n#58I %d sepiths de terre,\n#59I %d sepiths de vent,\n#62I %d sepiths de temps,\n#60I %d sepiths d'espace,\n#0Cet#2C #61I %d sepiths de mirage."
+ },
+ {
+  "cle": "0x231E58",
+  "type": "exe",
+  "fr": "Vous n'avez pas de canne."
+ },
+ {
+  "cle": "0x231E80",
+  "type": "exe",
+  "fr": "Vous n'avez pas d'appât."
+ },
+ {
+  "cle": "0x231EAC",
+  "type": "exe",
+  "fr": "Quelle canne voulez-vous utiliser ?"
+ },
+ {
+  "cle": "0x231EE8",
+  "type": "exe",
+  "fr": "Sélection de la canne"
+ },
+ {
+  "cle": "0x231F1C",
+  "type": "exe",
+  "fr": "Quel appât voulez-vous utiliser ?"
+ },
+ {
+  "cle": "0x231F58",
+  "type": "exe",
+  "fr": "Sélection de l'appât"
+ },
+ {
+  "cle": "0x231F9C",
+  "type": "exe",
+  "fr": "#0CPêché #5C%s#0C (#3C%d#0C riges)\n\n\n\n\n"
+ },
+ {
+  "cle": "0x231FF8",
+  "type": "exe",
+  "fr": "Rien ne s'approche de votre hameçon."
+ },
+ {
+  "cle": "0x232038",
+  "type": "exe",
+  "fr": "La prise s'est enfuie."
+ },
+ {
+  "cle": "0x23205C",
+  "type": "exe",
+  "fr": "Objets de pêche"
+ },
+ {
+  "cle": "0x232204",
+  "type": "exe",
+  "fr": "Bienvenue à vous.\nVous pouvez jouer ici au poker.%c"
+ },
+ {
+  "cle": "0x2322B8",
+  "type": "exe",
+  "fr": "AUCUNE PAIRE"
+ },
+ {
+  "cle": "0x2322C0",
+  "type": "exe",
+  "fr": "1 PAIRE"
+ },
+ {
+  "cle": "0x2322C8",
+  "type": "exe",
+  "fr": "2 PAIRES"
+ },
+ {
+  "cle": "0x2322D0",
+  "type": "exe",
+  "fr": "BRELAN"
+ },
+ {
+  "cle": "0x2322DC",
+  "type": "exe",
+  "fr": "QUINTE"
+ },
+ {
+  "cle": "0x2322E8",
+  "type": "exe",
+  "fr": "COULEUR"
+ },
+ {
+  "cle": "0x2322F0",
+  "type": "exe",
+  "fr": "FULL"
+ },
+ {
+  "cle": "0x2322FC",
+  "type": "exe",
+  "fr": "CARRÉ"
+ },
+ {
+  "cle": "0x232314",
+  "type": "exe",
+  "fr": "Q. F. ROYALE"
+ },
+ {
+  "cle": "0x232334",
+  "type": "exe",
+  "fr": "Taux x"
+ },
+ {
+  "cle": "0x2328F8",
+  "type": "exe",
+  "fr": "Cette variante du poker se joue à un seul joueur.\nLe donneur ne fait que distribuer les cartes,\nil ne participe pas directement."
+ },
+ {
+  "cle": "0x232970",
+  "type": "exe",
+  "fr": "Il y a quatre couleurs et 13 cartes par couleur,\npour un total de 52 cartes. Il n'y a pas de joker."
+ },
+ {
+  "cle": "0x232A38",
+  "type": "exe",
+  "fr": "Une fois la mise décidée, cinq cartes vous seront distribuées.\nEn formant une main précise avec ces cartes, vous pourrez\nmultiplier votre mise par un taux associé à la main en question."
+ },
+ {
+  "cle": "0x232AE8",
+  "type": "exe",
+  "fr": "En appuyant sur CHANGE en bas à droite de l'écran,\nvous choisissez d'échanger jusqu'à cinq cartes de votre main."
+ },
+ {
+  "cle": "0x232B78",
+  "type": "exe",
+  "fr": "Les cartes que vous voulez garder doivent être sélectionnées\npour être dans l'état « à garder ». \n(vous pouvez aussi resélectionner une carte pour annuler cela)"
+ },
+ {
+  "cle": "0x232C08",
+  "type": "exe",
+  "fr": "Lorsque vous voulez garder toutes vos cartes en main,\nvous pouvez toutes les sélectionner puis appuyer sur CHANGE\npour passer au tour suivant."
+ },
+ {
+  "cle": "0x232C78",
+  "type": "exe",
+  "fr": "Vous pouvez aussi appuyer sur ALL HOLD pour en faire autant."
+ },
+ {
+  "cle": "0x232CD0",
+  "type": "exe",
+  "fr": "Après cela, la valeur de votre main est évaluée.\nLe taux et le nombre de jetons à recevoir sont mis à jour\nen conséquence."
+ },
+ {
+  "cle": "0x232D80",
+  "type": "exe",
+  "fr": "Tant que vous formez des mains valides et que le taux n'atteint\npas 0, vous pouvez choisir de continuer de jouer ou de vous\narrêter là."
+ },
+ {
+  "cle": "0x232E08",
+  "type": "exe",
+  "fr": "Plus vous jouez et plus les mains s'enchaînent,\nplus le jackpot devient important."
+ },
+ {
+  "cle": "0x232E60",
+  "type": "exe",
+  "fr": "Quand vous vous arrêtez, des jetons vous serons reversés\nproportionnellement à la mise de départ et au taux obtenu.\nLe jeu peut alors reprendre comme à son début."
+ },
+ {
+  "cle": "0x232ED8",
+  "type": "exe",
+  "fr": "Si jamais le taux tombe à 0, tous les jetons pariés sont perdus,\nles gains sont annulés et le jeu reprend comme à son début."
+ },
+ {
+  "cle": "0x2330BC",
+  "type": "exe",
+  "fr": "Aucune paire.\nVous perdez."
+ },
+ {
+  "cle": "0x2330D8",
+  "type": "exe",
+  "fr": "Une paire.\nVous continuez, bien sûr ?"
+ },
+ {
+  "cle": "0x233108",
+  "type": "exe",
+  "fr": "Deux paires."
+ },
+ {
+  "cle": "0x23311C",
+  "type": "exe",
+  "fr": "Brelan.\nC'est une belle main."
+ },
+ {
+  "cle": "0x233144",
+  "type": "exe",
+  "fr": "Bien joué. Une quinte."
+ },
+ {
+  "cle": "0x233164",
+  "type": "exe",
+  "fr": "Une couleur.\nVous avez de la chance."
+ },
+ {
+  "cle": "0x23318C",
+  "type": "exe",
+  "fr": "Impressionnant.\nUn full."
+ },
+ {
+  "cle": "0x2331A8",
+  "type": "exe",
+  "fr": "Un carré...\nVous vous débrouillez bien."
+ },
+ {
+  "cle": "0x2331D0",
+  "type": "exe",
+  "fr": "Incroyable...\nUne quinte flush."
+ },
+ {
+  "cle": "0x2331EC",
+  "type": "exe",
+  "fr": "Une quinte flush royale !\nNous ne pouvons plus rien contre vous."
+ },
+ {
+  "cle": "0x2336BC",
+  "type": "exe",
+  "fr": "Il y a dix mains au total."
+ },
+ {
+  "cle": "0x2336E0",
+  "type": "exe",
+  "fr": "[1 PAIRE]\nCondition : Avoir deux cartes identiques.\nMultiplie le taux par 2x."
+ },
+ {
+  "cle": "0x233738",
+  "type": "exe",
+  "fr": "[2 PAIRES]\nCondition : Avoir 2 x 2 cartes identiques.\nMultiplie le taux par 3x."
+ },
+ {
+  "cle": "0x233780",
+  "type": "exe",
+  "fr": "[BRELAN]\nCondition : Avoir trois cartes identiques.\nMultiplie le taux par 4x."
+ },
+ {
+  "cle": "0x2337E0",
+  "type": "exe",
+  "fr": "[QUINTE]\nCondition : Avoir cinq cartes se suivant en valeur.\nMultiplie le taux par 8x."
+ },
+ {
+  "cle": "0x233848",
+  "type": "exe",
+  "fr": "*L'as est plaçable uniquement après le roi.\n10, J, Q, K, A est une quinte. J, Q, K, A, 2 n'en est pas une."
+ },
+ {
+  "cle": "0x2338B8",
+  "type": "exe",
+  "fr": "[COULEUR]\nCondition : Avoir cinq cartes de la même famille (même symbole).\nMultiplie le taux par x10."
+ },
+ {
+  "cle": "0x233918",
+  "type": "exe",
+  "fr": "[FULL]\nCondition : Avoir un brelan et une paire.\nMultiplie le taux par x15."
+ },
+ {
+  "cle": "0x233980",
+  "type": "exe",
+  "fr": "[CARRÉ]\nCondition : Avoir quatre cartes identiques.\nMultiplie le taux par x50."
+ },
+ {
+  "cle": "0x2339E0",
+  "type": "exe",
+  "fr": "[QUINTE FLUSH]\nCondition : Avoir en même temps quinte et couleur.\nMultiplie le taux par x100."
+ },
+ {
+  "cle": "0x233A48",
+  "type": "exe",
+  "fr": "[QUINTE FLUSH ROYALE]\nCondition : Avoir une quinte flush avec 10, J, Q, K, A.\nMultiplie le taux par x500."
+ },
+ {
+  "cle": "0x233AB8",
+  "type": "exe",
+  "fr": "[AUCUNE PAIRE]\nCondition : N'avoir aucune des mains précédemment mentionnées.\nMultiplie le taux par x0. Autrement dit, vous perdez."
+ },
+ {
+  "cle": "0x233B34",
+  "type": "exe",
+  "fr": "Choisissez la mise de départ à parier.\nVous pouvez placer entre 1 et 10 jetons.%c"
+ },
+ {
+  "cle": "0x233BAC",
+  "type": "exe",
+  "fr": "Choisissez les cartes que vous voulez garder.%c"
+ },
+ {
+  "cle": "0x234000",
+  "type": "exe",
+  "fr": "Normal"
+ },
+ {
+  "cle": "0x237AA4",
+  "type": "exe",
+  "fr": "Prix"
+ },
+ {
+  "cle": "0x23BC3C",
+  "type": "exe",
+  "fr": "Nv.%d  PV : %d"
+ },
+ {
+  "cle": "0x23BC4C",
+  "type": "exe",
+  "fr": "FOR : %4d  DÉF : %4d"
+ },
+ {
+  "cle": "0x23BC60",
+  "type": "exe",
+  "fr": "ART : %4d  RÉS : %4d"
+ },
+ {
+  "cle": "0x23BC74",
+  "type": "exe",
+  "fr": "VIT  : %4d  EXP : %4d"
+ },
+ {
+  "cle": "0x23BC88",
+  "type": "exe",
+  "fr": "FOR : ????  DÉF : ????"
+ },
+ {
+  "cle": "0x23BC9C",
+  "type": "exe",
+  "fr": "ART : ????  RÉS : ????"
+ },
+ {
+  "cle": "0x23BCB0",
+  "type": "exe",
+  "fr": "VIT  : ????  EXP : ????"
+ },
+ {
+  "cle": "0x23BCE8",
+  "type": "exe",
+  "fr": "Efficacité"
+ },
+ {
+  "cle": "0x23BCF4",
+  "type": "exe",
+  "fr": "élémentaire (%)"
+ },
+ {
+  "cle": "0x23BD88",
+  "type": "exe",
+  "fr": "Immunité"
+ },
+ {
+  "cle": "0x23BDA0",
+  "type": "exe",
+  "fr": "Sepiths"
+ },
+ {
+  "cle": "0x23BDB8",
+  "type": "exe",
+  "fr": "Localisation"
+ },
+ {
+  "cle": "0x23D398",
+  "type": "exe",
+  "fr": "Rafale de Canon F"
+ },
+ {
+  "cle": "0x23D3B0",
+  "type": "exe",
+  "fr": "S-Technique - Ligne - Attaque\nPuissance et portée améliorées grâce aux pièces de Reinford !"
+ },
+ {
+  "cle": "0x23D818",
+  "type": "exe",
+  "fr": "%cInventaire plein.\nRetrait impossible."
+ },
+ {
+  "cle": "0x23D894",
+  "type": "exe",
+  "fr": "%cInventaire plein.\nChangement impossible."
+ },
+ {
+  "cle": "0x23D900",
+  "type": "exe",
+  "fr": "%cImpossible d'installer deux quartz\ndu même type."
+ },
+ {
+  "cle": "0x23D974",
+  "type": "exe",
+  "fr": "%cL'attribut élémentaire du quartz ne correspond\npas à celui de l'emplacement."
+ },
+ {
+  "cle": "0x23D9EC",
+  "type": "exe",
+  "fr": "%cNiveau d'emplacement insuffisant.\nInstallation du quartz impossible."
+ },
+ {
+  "cle": "0x23DA78",
+  "type": "exe",
+  "fr": "%cInventaire plein.\nRetrait impossible."
+ },
+ {
+  "cle": "0x23DAD0",
+  "type": "exe",
+  "fr": "%c%s a récupéré %d PV."
+ },
+ {
+  "cle": "0x23DB20",
+  "type": "exe",
+  "fr": "%c%s a récupéré %d PV.\n%s a récupéré %d PV."
+ },
+ {
+  "cle": "0x23DBA8",
+  "type": "exe",
+  "fr": "%c%s a récupéré %d PV.\n%s a récupéré %d PV.\n%s a récupéré %d PV."
+ },
+ {
+  "cle": "0x23DC58",
+  "type": "exe",
+  "fr": "%c%s a récupéré %d PV.\n%s a récupéré %d PV.\n%s a récupéré %d PV.\n%s a récupéré %d PV."
+ },
+ {
+  "cle": "0x23DCB0",
+  "type": "exe",
+  "fr": "%d PE restaurés."
+ },
+ {
+  "cle": "0x23DCC0",
+  "type": "exe",
+  "fr": "%c%s a récupéré %d PV."
+ },
+ {
+  "cle": "0x23DCD8",
+  "type": "exe",
+  "fr": "%d PT restaurés."
+ },
+ {
+  "cle": "0x23DD00",
+  "type": "exe",
+  "fr": "Recette apprise : [%s]."
+ },
+ {
+  "cle": "0x23DD30",
+  "type": "exe",
+  "fr": "Rien ne se passe..."
+ },
+ {
+  "cle": "0x23E0D4",
+  "type": "exe",
+  "fr": "Prologue"
+ },
+ {
+  "cle": "0x23E0F0",
+  "type": "exe",
+  "fr": "Chapitre 2"
+ },
+ {
+  "cle": "0x23E0FC",
+  "type": "exe",
+  "fr": "Chapitre 1"
+ },
+ {
+  "cle": "0x23E108",
+  "type": "exe",
+  "fr": "Chapitre 4"
+ },
+ {
+  "cle": "0x23E114",
+  "type": "exe",
+  "fr": "Chapitre 3"
+ },
+ {
+  "cle": "0x23E120",
+  "type": "exe",
+  "fr": "Chapitre 6"
+ },
+ {
+  "cle": "0x23E12C",
+  "type": "exe",
+  "fr": "Chapitre 5"
+ },
+ {
+  "cle": "0x23E138",
+  "type": "exe",
+  "fr": "Chapitre 8"
+ },
+ {
+  "cle": "0x23E144",
+  "type": "exe",
+  "fr": "Chapitre 7"
+ },
+ {
+  "cle": "0x23E150",
+  "type": "exe",
+  "fr": "Partie terminée"
+ },
+ {
+  "cle": "0x23E15C",
+  "type": "exe",
+  "fr": "Chapitre final"
+ },
+ {
+  "cle": "0x23E22C",
+  "type": "exe",
+  "fr": "La décision d'une jeune fille"
+ },
+ {
+  "cle": "0x23E25C",
+  "type": "exe",
+  "fr": "Terre déchainée"
+ },
+ {
+  "cle": "0x23E26C",
+  "type": "exe",
+  "fr": "S'immiscent les ombres"
+ },
+ {
+  "cle": "0x23E280",
+  "type": "exe",
+  "fr": "La cible du démon des brumes"
+ },
+ {
+  "cle": "0x23E298",
+  "type": "exe",
+  "fr": "À l'heure du thé..."
+ },
+ {
+  "cle": "0x23E2AC",
+  "type": "exe",
+  "fr": "Où se cachent les sentiments"
+ },
+ {
+  "cle": "0x23E2C8",
+  "type": "exe",
+  "fr": "Je te protégerai"
+ },
+ {
+  "cle": "0x23E2E4",
+  "type": "exe",
+  "fr": "Terre bouleversée"
+ },
+ {
+  "cle": "0x23E2F4",
+  "type": "exe",
+  "fr": "Les tours tétracycliques"
+ },
+ {
+  "cle": "0x23E30C",
+  "type": "exe",
+  "fr": "Partie terminée - Trails in the sky SC"
+ },
+ {
+  "cle": "0x23E330",
+  "type": "exe",
+  "fr": "Les vestiges des cieux"
+ },
+ {
+  "cle": "0x23E36C",
+  "type": "exe",
+  "fr": "Partie terminée - Trails in the sky"
+ },
+ {
+  "cle": "0x23E3A4",
+  "type": "exe",
+  "fr": "Sauvegarder"
+ },
+ {
+  "cle": "0x23E3B8",
+  "type": "exe",
+  "fr": "Effacer"
+ },
+ {
+  "cle": "0x23E3C0",
+  "type": "exe",
+  "fr": "Charger"
+ },
+ {
+  "cle": "0x23E3DC",
+  "type": "exe",
+  "fr": "Quitter"
+ },
+ {
+  "cle": "0x23E3E4",
+  "type": "exe",
+  "fr": "Menu principal"
+ },
+ {
+  "cle": "0x23E408",
+  "type": "exe",
+  "fr": "Quitter le jeu"
+ },
+ {
+  "cle": "0x23E414",
+  "type": "exe",
+  "fr": "Utiliser"
+ },
+ {
+  "cle": "0x23E424",
+  "type": "exe",
+  "fr": "Jeter"
+ },
+ {
+  "cle": "0x23E444",
+  "type": "exe",
+  "fr": "L'emplacement est déjà ouvert."
+ },
+ {
+  "cle": "0x23E460",
+  "type": "exe",
+  "fr": "L'emplacement ne peut pas être ouvert."
+ },
+ {
+  "cle": "0x23E478",
+  "type": "exe",
+  "fr": "L'emplacement peut être ouvert."
+ },
+ {
+  "cle": "0x23E49C",
+  "type": "exe",
+  "fr": "L'emplacement est fermé."
+ },
+ {
+  "cle": "0x23E50C",
+  "type": "exe",
+  "fr": "Tous quartz OK"
+ },
+ {
+  "cle": "0x23E52C",
+  "type": "exe",
+  "fr": "Eau uniquement"
+ },
+ {
+  "cle": "0x23E540",
+  "type": "exe",
+  "fr": "Terre uniquement"
+ },
+ {
+  "cle": "0x23E554",
+  "type": "exe",
+  "fr": "Vent uniquement"
+ },
+ {
+  "cle": "0x23E568",
+  "type": "exe",
+  "fr": "Feu uniquement"
+ },
+ {
+  "cle": "0x23E57C",
+  "type": "exe",
+  "fr": "Espace uniquement"
+ },
+ {
+  "cle": "0x23E590",
+  "type": "exe",
+  "fr": "Temps uniquement"
+ },
+ {
+  "cle": "0x23E5B8",
+  "type": "exe",
+  "fr": "Mirage uniquement"
+ },
+ {
+  "cle": "0x23E5DC",
+  "type": "exe",
+  "fr": "Générique de fin"
+ },
+ {
+  "cle": "0x23E5E4",
+  "type": "exe",
+  "fr": "Intro"
+ },
+ {
+  "cle": "0x23E688",
+  "type": "exe",
+  "fr": "Debug"
+ },
+ {
+  "cle": "0x23E6CC",
+  "type": "exe",
+  "fr": "En cours"
+ },
+ {
+  "cle": "0x23EA20",
+  "type": "exe",
+  "fr": "Échangé :"
+ },
+ {
+  "cle": "0x23EA5C",
+  "type": "exe",
+  "fr": "Miras nécessaires :"
+ },
+ {
+  "cle": "0x23EA74",
+  "type": "exe",
+  "fr": "ANNULER"
+ },
+ {
+  "cle": "0x23EA7C",
+  "type": "exe",
+  "fr": "Échanger"
+ },
+ {
+  "cle": "0x23EA90",
+  "type": "exe",
+  "fr": "Vous ne pouvez pas avoir plus de jetons"
+ },
+ {
+  "cle": "0x23EAB4",
+  "type": "exe",
+  "fr": "Arrêter"
+ },
+ {
+  "cle": "0x23EABC",
+  "type": "exe",
+  "fr": "Échanger des miras contre des jetons."
+ },
+ {
+  "cle": "0x23EB00",
+  "type": "exe",
+  "fr": "Échanger vos jetons pour un prix."
+ },
+ {
+  "cle": "0x23EB38",
+  "type": "exe",
+  "fr": "Quitter l'échange."
+ },
+ {
+  "cle": "0x23EB6C",
+  "type": "exe",
+  "fr": "Quitter le menu d'échange."
+ },
+ {
+  "cle": "0x23EB94",
+  "type": "exe",
+  "fr": "%cVous ne pouvez pas avoir plus de #1C%s#0C."
+ },
+ {
+  "cle": "0x23EBC8",
+  "type": "exe",
+  "fr": "%cÉchanger %d jetons contre #1C%s#0C x%d ?"
+ },
+ {
+  "cle": "0x23EC24",
+  "type": "exe",
+  "fr": "%cÉchangé %d jetons contre #1C%s#0C x%d."
+ },
+ {
+  "cle": "0x23EC88",
+  "type": "exe",
+  "fr": "%cJetons insuffisants."
+ },
+ {
+  "cle": "0x23ECCC",
+  "type": "exe",
+  "fr": "Échange de %d miras contre %d jetons. Vous confirmez ?"
+ },
+ {
+  "cle": "0x23ED14",
+  "type": "exe",
+  "fr": "Échangé %d miras contre %d jetons."
+ },
+ {
+  "cle": "0x23ED68",
+  "type": "exe",
+  "fr": "Solde insuffisant."
+ },
+ {
+  "cle": "0x23EDA0",
+  "type": "exe",
+  "fr": "Échangé %d contre %d jetons."
+ },
+ {
+  "cle": "0x23EDD0",
+  "type": "exe",
+  "fr": "Inventaire : ------"
+ },
+ {
+  "cle": "0x23EE04",
+  "type": "exe",
+  "fr": "Que voulez-vous acquérir ?"
+ },
+ {
+  "cle": "0x23EE34",
+  "type": "exe",
+  "fr": "Inventaire : %4d"
+ },
+ {
+  "cle": "0x23F168",
+  "type": "exe",
+  "fr": "Sauvegarder la partie en cours"
+ },
+ {
+  "cle": "0x23F1A0",
+  "type": "exe",
+  "fr": "Effacer une sauvegarde\nATTENTION : Cette action est irréversible."
+ },
+ {
+  "cle": "0x23F1B4",
+  "type": "exe",
+  "fr": "Charger une partie sauvegardée"
+ },
+ {
+  "cle": "0x23F1F4",
+  "type": "exe",
+  "fr": "Quitter le jeu"
+ },
+ {
+  "cle": "0x23F270",
+  "type": "exe",
+  "fr": "Sur qui voulez-vous utiliser cet objet ?"
+ },
+ {
+  "cle": "0x23F29C",
+  "type": "exe",
+  "fr": "Jeter cet objet ?"
+ },
+ {
+  "cle": "0x23F2D8",
+  "type": "exe",
+  "fr": "Sur qui voulez-vous utiliser cet art ?"
+ },
+ {
+  "cle": "0x23F384",
+  "type": "exe",
+  "fr": "%cMenu Tactiques inutilsable pour le moment."
+ },
+ {
+  "cle": "0x23F418",
+  "type": "exe",
+  "fr": "%cEmplacement réservé aux sauvegardes automatiques.\nVous pouvez utiliser les emplacements 001 à 1000."
+ },
+ {
+  "cle": "0x23F45C",
+  "type": "exe",
+  "fr": "Sauvegarde déjà existante.\nÉcraser cette partie ?"
+ },
+ {
+  "cle": "0x23F49C",
+  "type": "exe",
+  "fr": "Charger cette partie ?"
+ },
+ {
+  "cle": "0x23F4BC",
+  "type": "exe",
+  "fr": "Effacer cette partie ?"
+ },
+ {
+  "cle": "0x23FA30",
+  "type": "exe",
+  "fr": "PV      /%5d"
+ },
+ {
+  "cle": "0x23FA40",
+  "type": "exe",
+  "fr": "PE %5d/%5d"
+ },
+ {
+  "cle": "0x23FB10",
+  "type": "exe",
+  "fr": "Nom"
+ },
+ {
+  "cle": "0x23FB24",
+  "type": "exe",
+  "fr": "Niveau"
+ },
+ {
+  "cle": "0x23FB54",
+  "type": "exe",
+  "fr": "Statistiques"
+ },
+ {
+  "cle": "0x23FBDC",
+  "type": "exe",
+  "fr": "Expérience"
+ },
+ {
+  "cle": "0x23FC18",
+  "type": "exe",
+  "fr": "Suiv."
+ },
+ {
+  "cle": "0x23FC9C",
+  "type": "exe",
+  "fr": "Deséquiper"
+ },
+ {
+  "cle": "0x23FE50",
+  "type": "exe",
+  "fr": "Sauv. auto"
+ },
+ {
+  "cle": "0x23FEC8",
+  "type": "exe",
+  "fr": "Page %2d"
+ },
+ {
+  "cle": "0x23FF70",
+  "type": "exe",
+  "fr": "Difficile"
+ },
+ {
+  "cle": "0x23FF84",
+  "type": "exe",
+  "fr": "Facile"
+ },
+ {
+  "cle": "0x23FF8C",
+  "type": "exe",
+  "fr": "Cauchemar"
+ },
+ {
+  "cle": "0x240020",
+  "type": "exe",
+  "fr": "Inconnu :"
+ },
+ {
+  "cle": "0x2400B0",
+  "type": "exe",
+  "fr": "%cEmplacement réservé aux sauvegardes automatiques.\nVous pouvez utiliser les emplacements 001 à 1000."
+ },
+ {
+  "cle": "0x2400D8",
+  "type": "exe",
+  "fr": "Êtes-vous sûrs de vouloir\nmettre fin à la phase de\nsauvegarde post-jeu ?"
+ },
+ {
+  "cle": "0x240140",
+  "type": "exe",
+  "fr": "Écraser le fichier ?"
+ },
+ {
+  "cle": "0x240404",
+  "type": "exe",
+  "fr": "Formation combat"
+ },
+ {
+  "cle": "0x240414",
+  "type": "exe",
+  "fr": "Disposition persos"
+ },
+ {
+  "cle": "0x240428",
+  "type": "exe",
+  "fr": "Modifier la position des personnages en jeu."
+ },
+ {
+  "cle": "0x240444",
+  "type": "exe",
+  "fr": "Définir S-Break"
+ },
+ {
+  "cle": "0x240450",
+  "type": "exe",
+  "fr": "Modifier la position des personnages en combat."
+ },
+ {
+  "cle": "0x240488",
+  "type": "exe",
+  "fr": "Associer une Spéciale au bouton S-Break."
+ },
+ {
+  "cle": "0x2404E0",
+  "type": "exe",
+  "fr": "Disposition"
+ },
+ {
+  "cle": "0x2405C4",
+  "type": "exe",
+  "fr": "Aucune S-Tech encore apprise."
+ },
+ {
+  "cle": "0x24095C",
+  "type": "exe",
+  "fr": "Père Kevin"
+ },
+ {
+  "cle": "0x240988",
+  "type": "exe",
+  "fr": "Capitaine Julia"
+ },
+ {
+  "cle": "0x2409A0",
+  "type": "exe",
+  "fr": "Cmd. Mueller"
+ },
+ {
+  "cle": "0x240A4C",
+  "type": "exe",
+  "fr": "Commerce"
+ },
+ {
+  "cle": "0x240A5C",
+  "type": "exe",
+  "fr": "Armurerie"
+ },
+ {
+  "cle": "0x240A6C",
+  "type": "exe",
+  "fr": "Guilde des bracers"
+ },
+ {
+  "cle": "0x240A7C",
+  "type": "exe",
+  "fr": "Hébergement"
+ },
+ {
+  "cle": "0x240A88",
+  "type": "exe",
+  "fr": "Restaurant/Auberge"
+ },
+ {
+  "cle": "0x240A98",
+  "type": "exe",
+  "fr": "Atelier orbal"
+ },
+ {
+  "cle": "0x240AA8",
+  "type": "exe",
+  "fr": "Café"
+ },
+ {
+  "cle": "0x240AB0",
+  "type": "exe",
+  "fr": "Église septienne"
+ },
+ {
+  "cle": "0x240C10",
+  "type": "exe",
+  "fr": "Cap au nord"
+ },
+ {
+  "cle": "0x240C2C",
+  "type": "exe",
+  "fr": "Rotative"
+ },
+ {
+  "cle": "0x240C5C",
+  "type": "exe",
+  "fr": "45 degrés"
+ },
+ {
+  "cle": "0x240C74",
+  "type": "exe",
+  "fr": "Rotation libre"
+ },
+ {
+  "cle": "0x240CB0",
+  "type": "exe",
+  "fr": "Simple clic"
+ },
+ {
+  "cle": "0x240CC8",
+  "type": "exe",
+  "fr": "Double clic"
+ },
+ {
+  "cle": "0x240CE8",
+  "type": "exe",
+  "fr": "Désactivé"
+ },
+ {
+  "cle": "0x240CEC",
+  "type": "exe",
+  "fr": "60 IPS"
+ },
+ {
+  "cle": "0x240D10",
+  "type": "exe",
+  "fr": "30 IPS"
+ },
+ {
+  "cle": "0x240D2C",
+  "type": "exe",
+  "fr": "Automatique"
+ },
+ {
+  "cle": "0x240D5C",
+  "type": "exe",
+  "fr": "Activé"
+ },
+ {
+  "cle": "0x240DA8",
+  "type": "exe",
+  "fr": "Originale"
+ },
+ {
+  "cle": "0x240DBC",
+  "type": "exe",
+  "fr": "Pack sans nom %d"
+ },
+ {
+  "cle": "0x240E6C",
+  "type": "exe",
+  "fr": "Japonais"
+ },
+ {
+  "cle": "0x240E80",
+  "type": "exe",
+  "fr": "Anglais"
+ },
+ {
+  "cle": "0x240EF0",
+  "type": "exe",
+  "fr": "Afficher ou non le statut des personnages en dehors des\ncombats."
+ },
+ {
+  "cle": "0x240F50",
+  "type": "exe",
+  "fr": "Afficher ou non la mini-carte."
+ },
+ {
+  "cle": "0x240FB0",
+  "type": "exe",
+  "fr": "Modifier les paramètres de la caméra."
+ },
+ {
+  "cle": "0x240FF4",
+  "type": "exe",
+  "fr": "Afficher ou non le bouton d'accès au menu de camp."
+ },
+ {
+  "cle": "0x241038",
+  "type": "exe",
+  "fr": "Changer le nombre d'images par seconde affichées à l'écran."
+ },
+ {
+  "cle": "0x241070",
+  "type": "exe",
+  "fr": "Activer ou non la transparence des personnages."
+ },
+ {
+  "cle": "0x2410FC",
+  "type": "exe",
+  "fr": "Activer ou non la bande-son."
+ },
+ {
+  "cle": "0x241148",
+  "type": "exe",
+  "fr": "Changer de bande-son."
+ },
+ {
+  "cle": "0x241184",
+  "type": "exe",
+  "fr": "Modifier le volume de la bande-son."
+ },
+ {
+  "cle": "0x2411CC",
+  "type": "exe",
+  "fr": "Activer ou non les effets sonores."
+ },
+ {
+  "cle": "0x241208",
+  "type": "exe",
+  "fr": "Modifier le volume des effets sonores."
+ },
+ {
+  "cle": "0x241224",
+  "type": "exe",
+  "fr": "Activer ou non les voix lors des combats."
+ },
+ {
+  "cle": "0x241244",
+  "type": "exe",
+  "fr": "Changer la langue des voix lors des combats uniquement."
+ },
+ {
+  "cle": "0x241300",
+  "type": "exe",
+  "fr": "Difficulté dégressive à chaque nouvelle tentative.\nUtiliser cette option en cas de difficultés lors d'un combat."
+ },
+ {
+  "cle": "0x241418",
+  "type": "exe",
+  "fr": "Emplacements"
+ },
+ {
+  "cle": "0x241444",
+  "type": "exe",
+  "fr": "Arts"
+ },
+ {
+  "cle": "0x2414A0",
+  "type": "exe",
+  "fr": "Retirer quartz"
+ },
+ {
+  "cle": "0x2414B0",
+  "type": "exe",
+  "fr": "%3dPE"
+ },
+ {
+  "cle": "0x2414D4",
+  "type": "exe",
+  "fr": "Ligne"
+ },
+ {
+  "cle": "0x2419F4",
+  "type": "exe",
+  "fr": "Choix d'équipe"
+ },
+ {
+  "cle": "0x241A08",
+  "type": "exe",
+  "fr": "[Estelle] Flexible en combat grâce à son orbement sans restriction d'élement."
+ },
+ {
+  "cle": "0x241B98",
+  "type": "exe",
+  "fr": "[Olivier] Maître des Arts, doté d'un orbement d'une seule ligne et d'une arme\nà distance."
+ },
+ {
+  "cle": "0x241C40",
+  "type": "exe",
+  "fr": "[Kloe] Experte des Arts de soin. Dispose de techniques de soutien très efficaces."
+ },
+ {
+  "cle": "0x241CD8",
+  "type": "exe",
+  "fr": "[Agate] Combattant de front aux attaques devastatrices et variées."
+ },
+ {
+  "cle": "0x241E10",
+  "type": "exe",
+  "fr": "[Zin] Spécialiste du rentre-dedans, bon défenseur et attaquant. Faible en Arts."
+ },
+ {
+  "cle": "0x241F40",
+  "type": "exe",
+  "fr": "[Anelace] Épéiste puissante et efficace. Acculée, sa vitesse et sa ténacité l'avantagent."
+ },
+ {
+  "cle": "0x241FD8",
+  "type": "exe",
+  "fr": "[Josette] Ses techs ont des effets très pratiques. Sa place est plutôt à l'arrière."
+ },
+ {
+  "cle": "0x242380",
+  "type": "exe",
+  "fr": "Choisissez votre équipe."
+ },
+ {
+  "cle": "0x2427E4",
+  "type": "exe",
+  "fr": "Valider"
+ },
+ {
+  "cle": "0x242800",
+  "type": "exe",
+  "fr": "Annuler"
+ },
+ {
+  "cle": "0x2428C4",
+  "type": "exe",
+  "fr": "Temps"
+ },
+ {
+  "cle": "0x2428D0",
+  "type": "exe",
+  "fr": "Miras"
+ },
+ {
+  "cle": "0x242B50",
+  "type": "exe",
+  "fr": "Chute de l'arche Liber"
+ },
+ {
+  "cle": "0x242C8C",
+  "type": "exe",
+  "fr": "[Facile] Anéantit la difficulté. Pour les débutants ou les pressés."
+ },
+ {
+  "cle": "0x242D10",
+  "type": "exe",
+  "fr": "[Normal] Pour ceux qui veulent un challenge raisonnable."
+ },
+ {
+  "cle": "0x242D98",
+  "type": "exe",
+  "fr": "[Difficile] Pour ceux qui ne se satisfont pas du mode normal."
+ },
+ {
+  "cle": "0x242E2C",
+  "type": "exe",
+  "fr": "[Cauchemar] L'enfer vous attend. Qu'Aidios soit avec vous."
+ },
+ {
+  "cle": "0x243180",
+  "type": "exe",
+  "fr": "Améliorer l'emplacement."
+ },
+ {
+  "cle": "0x2431AC",
+  "type": "exe",
+  "fr": "Synthétiser un quartz."
+ },
+ {
+  "cle": "0x2431DC",
+  "type": "exe",
+  "fr": "Échanger vos sepiths contre des miras."
+ },
+ {
+  "cle": "0x2431F8",
+  "type": "exe",
+  "fr": "Que voulez-vous faire ?"
+ },
+ {
+  "cle": "0x243254",
+  "type": "exe",
+  "fr": "Emplacement"
+ },
+ {
+  "cle": "0x24325C",
+  "type": "exe",
+  "fr": "Quitter"
+ },
+ {
+  "cle": "0x243264",
+  "type": "exe",
+  "fr": "Échanger"
+ },
+ {
+  "cle": "0x24326C",
+  "type": "exe",
+  "fr": "Ouvrable"
+ },
+ {
+  "cle": "0x243290",
+  "type": "exe",
+  "fr": "Améliorable"
+ },
+ {
+  "cle": "0x2432E4",
+  "type": "exe",
+  "fr": "Sepith Eau"
+ },
+ {
+  "cle": "0x2432F4",
+  "type": "exe",
+  "fr": "Sepith Terre"
+ },
+ {
+  "cle": "0x243304",
+  "type": "exe",
+  "fr": "Sepith Vent"
+ },
+ {
+  "cle": "0x243310",
+  "type": "exe",
+  "fr": "Sepith Feu"
+ },
+ {
+  "cle": "0x24331C",
+  "type": "exe",
+  "fr": "Sepith Espace"
+ },
+ {
+  "cle": "0x24332C",
+  "type": "exe",
+  "fr": "Sepith Temps"
+ },
+ {
+  "cle": "0x243358",
+  "type": "exe",
+  "fr": "Sepith Mirage"
+ },
+ {
+  "cle": "0x243550",
+  "type": "exe",
+  "fr": "%cEmplacement [%d] amélioré."
+ },
+ {
+  "cle": "0x24358C",
+  "type": "exe",
+  "fr": "%cEmplacement [%d] ouvert."
+ },
+ {
+  "cle": "0x2435A0",
+  "type": "exe",
+  "fr": "%cSepith insuffisant."
+ },
+ {
+  "cle": "0x2435DC",
+  "type": "exe",
+  "fr": "%c#0CSynthétiser #3C%s#0C?"
+ },
+ {
+  "cle": "0x243610",
+  "type": "exe",
+  "fr": "%c#0CSynthétisé : #3C%s#0C."
+ },
+ {
+  "cle": "0x243674",
+  "type": "exe",
+  "fr": "%cÉchanger les sepiths pour %d miras ?"
+ },
+ {
+  "cle": "0x243690",
+  "type": "exe",
+  "fr": "%cSepiths échangés contre %d miras."
+ },
+ {
+  "cle": "0x2436E0",
+  "type": "exe",
+  "fr": "Sélectionnez l'emplacement que vous souhaitez ouvrir."
+ },
+ {
+  "cle": "0x24371C",
+  "type": "exe",
+  "fr": "L'emplacement [%d] peut être ouvert."
+ },
+ {
+  "cle": "0x243760",
+  "type": "exe",
+  "fr": "L'emplacement [%d] ne peut pas être amélioré\ndavantage."
+ },
+ {
+  "cle": "0x243788",
+  "type": "exe",
+  "fr": "L'emplacement [%d] n'est pas ouvrable car le circuit\nn'est pas connecté."
+ },
+ {
+  "cle": "0x2437F0",
+  "type": "exe",
+  "fr": "L'emplacement [%d] peut être amélioré au niveau %d."
+ },
+ {
+  "cle": "0x243888",
+  "type": "exe",
+  "fr": "Sélectionnez un personnage."
+ },
+ {
+  "cle": "0x2438C8",
+  "type": "exe",
+  "fr": "Sélectionnez le quartz à synthétiser."
+ },
+ {
+  "cle": "0x243934",
+  "type": "exe",
+  "fr": "Sélectionnez les sepiths à échanger."
+ },
+ {
+  "cle": "0x243950",
+  "type": "exe",
+  "fr": "Vendre %s."
+ },
+ {
+  "cle": "0x24398C",
+  "type": "exe",
+  "fr": "Vendre les sepiths."
+ },
+ {
+  "cle": "0x2439B8",
+  "type": "exe",
+  "fr": "Vendre %d sepiths pour %d miras."
+ },
+ {
+  "cle": "0x243A44",
+  "type": "exe",
+  "fr": "Sepith - Valeur"
+ },
+ {
+  "cle": "0x243A54",
+  "type": "exe",
+  "fr": "Sepith - Coût"
+ },
+ {
+  "cle": "0x243AC0",
+  "type": "exe",
+  "fr": "Valider"
+ },
+ {
+  "cle": "0x243AD0",
+  "type": "exe",
+  "fr": "Total"
+ },
+ {
+  "cle": "0x243C5C",
+  "type": "exe",
+  "fr": "Acheter des objets."
+ },
+ {
+  "cle": "0x243C68",
+  "type": "exe",
+  "fr": "Vendre des objets."
+ },
+ {
+  "cle": "0x243C88",
+  "type": "exe",
+  "fr": "Vendre son sepith."
+ },
+ {
+  "cle": "0x243DB4",
+  "type": "exe",
+  "fr": "Acheter"
+ },
+ {
+  "cle": "0x243DC0",
+  "type": "exe",
+  "fr": "Échanger"
+ },
+ {
+  "cle": "0x243DC8",
+  "type": "exe",
+  "fr": "Vendre"
+ },
+ {
+  "cle": "0x243DE4",
+  "type": "exe",
+  "fr": "Que voulez-vous acheter ?"
+ },
+ {
+  "cle": "0x243E1C",
+  "type": "exe",
+  "fr": "Prix de vente : ------------------"
+ },
+ {
+  "cle": "0x243E50",
+  "type": "exe",
+  "fr": "Que voulez-vous vendre ?"
+ },
+ {
+  "cle": "0x243E7C",
+  "type": "exe",
+  "fr": "Prix : %5dx%2d = %7d"
+ },
+ {
+  "cle": "0x243EB4",
+  "type": "exe",
+  "fr": "Acheter %d pour %d miras."
+ },
+ {
+  "cle": "0x243EE4",
+  "type": "exe",
+  "fr": "Vendre %d pour %d miras."
+ },
+ {
+  "cle": "0x244050",
+  "type": "exe",
+  "fr": "%c#0CInventaire plein pour #1C%s#0C."
+ },
+ {
+  "cle": "0x2440B8",
+  "type": "exe",
+  "fr": "%c#0CAcheter %d #1C%s#0C pour %d miras ?"
+ },
+ {
+  "cle": "0x244108",
+  "type": "exe",
+  "fr": "%c#0CVous avez acheté %d #1C%s#0C pour %d miras."
+ },
+ {
+  "cle": "0x244130",
+  "type": "exe",
+  "fr": "%c#0CVendre %d #1C%s#0C pour %d miras ?"
+ },
+ {
+  "cle": "0x244154",
+  "type": "exe",
+  "fr": "%cMiras insuffisants."
+ },
+ {
+  "cle": "0x24416C",
+  "type": "exe",
+  "fr": "%c#0CVous avez vendu %d #1C%s#0C pour %d miras."
+ },
+ {
+  "cle": "0x2441C8",
+  "type": "exe",
+  "fr": "Se reposer et restaurer ses PV/PE."
+ },
+ {
+  "cle": "0x244208",
+  "type": "exe",
+  "fr": "Sélectionner une option."
+ },
+ {
+  "cle": "0x244234",
+  "type": "exe",
+  "fr": "Se reposer"
+ },
+ {
+  "cle": "0x244244",
+  "type": "exe",
+  "fr": "Effets"
+ },
+ {
+  "cle": "0x244258",
+  "type": "exe",
+  "fr": "%c#0CLe séjour coûte #3C%d#0C miras.\nCela vous convient ?"
+ },
+ {
+  "cle": "0x2442E0",
+  "type": "exe",
+  "fr": "Ingrédients"
+ },
+ {
+  "cle": "0x2442EC",
+  "type": "exe",
+  "fr": "Recette non apprise"
+ },
+ {
+  "cle": "0x244308",
+  "type": "exe",
+  "fr": "Utilisé dans :"
+ },
+ {
+  "cle": "0x24431C",
+  "type": "exe",
+  "fr": "(Requis %2d)"
+ },
+ {
+  "cle": "0x24433C",
+  "type": "exe",
+  "fr": "Situation"
+ },
+ {
+  "cle": "0x244354",
+  "type": "exe",
+  "fr": "PB totaux : %4d"
+ },
+ {
+  "cle": "0x244364",
+  "type": "exe",
+  "fr": "Rang : Bracer confirmée - Rang %s"
+ },
+ {
+  "cle": "0x2443A8",
+  "type": "exe",
+  "fr": "Missions accomplies : %4d"
+ },
+ {
+  "cle": "0x244434",
+  "type": "exe",
+  "fr": "Bonus de la Guilde"
+ },
+ {
+  "cle": "0x24444C",
+  "type": "exe",
+  "fr": "Rapport de mission."
+ },
+ {
+  "cle": "0x244454",
+  "type": "exe",
+  "fr": "Rapport effectué pour [%c%c%s%c%c]."
+ },
+ {
+  "cle": "0x244478",
+  "type": "exe",
+  "fr": "Paiement reçu pour [%c%c%s%c%c]."
+ },
+ {
+  "cle": "0x244530",
+  "type": "exe",
+  "fr": "%c#0CPaiement :  %c%c%5d (%+5d)%c%c\nPB gagnés : %c%c%5d (%+5d)%c%c"
+ },
+ {
+  "cle": "0x244598",
+  "type": "exe",
+  "fr": "Aucun rapport à faire."
+ },
+ {
+  "cle": "0x2445D0",
+  "type": "exe",
+  "fr": "Rang au sein de la Guilde."
+ },
+ {
+  "cle": "0x244608",
+  "type": "exe",
+  "fr": "Promotion au rang de [Bracer confirmée - Rang %s]."
+ },
+ {
+  "cle": "0x244670",
+  "type": "exe",
+  "fr": "Reçu : [%c%c%s%c%c]."
+ },
+ {
+  "cle": "0x2446CC",
+  "type": "exe",
+  "fr": "Reçu : [%c%c%s%c%c]."
+ },
+ {
+  "cle": "0x244728",
+  "type": "exe",
+  "fr": "Reçu : [%c%c%s%c%c]."
+ },
+ {
+  "cle": "0x24477C",
+  "type": "exe",
+  "fr": "Votre rang actuel est [Bracer confirmée - Rang %s]."
+ }
+]

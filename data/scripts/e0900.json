@@ -1,0 +1,326 @@
+[
+ {
+  "n": 1,
+  "fr": "Eh bah. Le soleil est déjà en train de se coucher, \nhein ?"
+ },
+ {
+  "n": 2,
+  "fr": "Si ce coin s'avère être un fiasco, faudra probablement \nqu'on s'arrête là pour aujourd'hui."
+ },
+ {
+  "n": 3,
+  "fr": "Il n'y a plus qu'à espérer..."
+ },
+ {
+  "n": 4,
+  "fr": "La professeure Erika est-elle certaine que c'est à \ncet endroit que nous devrions regarder ?"
+ },
+ {
+  "n": 5,
+  "fr": "Ouais. Et si elle dit que c'est ici, alors c'est ici."
+ },
+ {
+  "n": 6,
+  "fr": "Malheureusement, comme vous le savez, le lac \nValleria est aussi profond qu'un lac puisse l'être."
+ },
+ {
+  "n": 7,
+  "fr": "Si le truc qu'on cherche est petit, on va avoir du \npain sur la planche pour le trouver."
+ },
+ {
+  "n": 8,
+  "fr": "Mhh..."
+ },
+ {
+  "n": 9,
+  "fr": "Est-ce qu'il est probable que ce soit petit, cela dit ? \nLes relevés orbaux suggèrent que l'on a affaire à \nun objet d'assez grande taille, je crois..."
+ },
+ {
+  "n": 10,
+  "fr": "Oh, je ne me baserais pas sur cela pour juger de \nsa taille."
+ },
+ {
+  "n": 11,
+  "fr": "Ah, Professeur."
+ },
+ {
+  "n": 12,
+  "fr": "Salut, petite. Vous avez fini de nous trouver\nune localisation approximative ?"
+ },
+ {
+  "n": 13,
+  "fr": "Presque."
+ },
+ {
+  "n": 14,
+  "fr": "Ce serait vraiment top que vous arrêtiez de \nm'appeler « petite », par contre."
+ },
+ {
+  "n": 15,
+  "fr": "Je ne suis pas sûre que ce soit la manière\nla plus appropriée de s'adresser à\nune femme mariée, encore moins à une mère."
+ },
+ {
+  "n": 16,
+  "fr": "Ah ! Désolé, mais c'est dur de lâcher\nles vieilles habitudes, tu sais ?"
+ },
+ {
+  "n": 17,
+  "fr": "C'est pas facile de changer quand\nje t'appelle comme ça depuis que\nt'es haute comme trois pommes."
+ },
+ {
+  "n": 18,
+  "fr": "*soupir* Je vais laisser passer cela pour cette fois."
+ },
+ {
+  "n": 19,
+  "fr": "Remettons-nous au travail. Colonel, pouvez-vous \ndemander à vos subordonnés de s'écarter pour \nl'instant ?"
+ },
+ {
+  "n": 20,
+  "fr": "Est-ce donc le bon endroit ?"
+ },
+ {
+  "n": 21,
+  "fr": "Avez-vous réussi à déterminer exactement où se \ntrouve l'objet ?"
+ },
+ {
+  "n": 22,
+  "fr": "Oui, à un arge près."
+ },
+ {
+  "n": 23,
+  "fr": "À en croire les relevés, ce que nous essayons de \nremonter n'est pas si gros que cela."
+ },
+ {
+  "n": 24,
+  "fr": "Probablement autour de cinquante reges. Peut-être \nencore moins."
+ },
+ {
+  "n": 25,
+  "fr": "Sérieux ?"
+ },
+ {
+  "n": 26,
+  "fr": "Je croyais qu'on allait tomber sur un gros morceau,\npas un truc de la taille d'Antoine."
+ },
+ {
+  "n": 27,
+  "fr": "Miaou ?"
+ },
+ {
+  "n": 28,
+  "fr": "Mhh..."
+ },
+ {
+  "n": 29,
+  "fr": "Cela dit, si cela s'avère être un artéfact,\ncela pourrait devenir un problème."
+ },
+ {
+  "n": 30,
+  "fr": "Malheureusement. L'Église ne va pas\nvouloir nous laisser le garder, c'est certain."
+ },
+ {
+  "n": 31,
+  "fr": "Ugh ! Je ne peux vraiment pas les supporter. Peu \nimporte à quel point vous travaillez dur pour obtenir \nquelque chose, dès qu'il s'agit d'un artéfact..."
+ },
+ {
+  "n": 32,
+  "fr": "... ils se ramènent comme si tout leur appartenait.\nÇa m'énerve !"
+ },
+ {
+  "n": 33,
+  "fr": "Du calme. On est même pas encore sûrs\nque c'est un artéfact !"
+ },
+ {
+  "n": 34,
+  "fr": "Quoi qu'il en soit, je vais immédiatement faire \npasser le message à mes subordonnés."
+ },
+ {
+  "n": 35,
+  "fr": "Je vous laisse gérer les choses ici, Gustav."
+ },
+ {
+  "n": 36,
+  "fr": "Ça marche."
+ },
+ {
+  "n": 37,
+  "fr": "Voyons voir à quoi on a affaire, hein ?"
+ },
+ {
+  "n": 38,
+  "fr": "OK. C'est là."
+ },
+ {
+  "n": 39,
+  "fr": "Allez-y !"
+ },
+ {
+  "n": 40,
+  "fr": "Oui, Madame ! On commence l'opération de \nrécupération !"
+ },
+ {
+  "n": 41,
+  "fr": "Gah... Ce son me donne le cafard."
+ },
+ {
+  "n": 42,
+  "fr": "Est-ce que le bruit de la grue vous laisse penser \nqu'elle est en mauvais état ?"
+ },
+ {
+  "n": 43,
+  "fr": "Oh, ce n'est pas vraiment ce que je voulais dire."
+ },
+ {
+  "n": 44,
+  "fr": "Je n'arrive pas à apprécier les artéfacts, voyez-vous."
+ },
+ {
+  "n": 45,
+  "fr": "Nous ne pouvons pas expliquer comment ils ont \nleurs pouvoirs, mais ils les ont, et ce n'est pas non \nplus quelque chose que nous pouvons ignorer."
+ },
+ {
+  "n": 46,
+  "fr": "Pour une chercheuse, il n'y a rien de plus\nabsurde et de plus énervant."
+ },
+ {
+  "n": 47,
+  "fr": "Bien que nous ne puissions nous empêcher d'être \ncaptivés par eux, nous avons bien conscience qu'il \nest inutile d'essayer de résoudre leurs mystères."
+ },
+ {
+  "n": 48,
+  "fr": "Je vois... Dit comme cela, je peux en quelque sorte \ncomprendre ce que vous devez ressentir."
+ },
+ {
+  "n": 49,
+  "fr": "Six mois ont passé depuis que ce chaos a pris fin, \net en apparence, nous sommes retournés à la \nnormale..."
+ },
+ {
+  "n": 50,
+  "fr": "... Mais même maintenant, nous ne savons toujours \npas ce qui s'est vraiment passé, ou ce que cela \nsignifiait."
+ },
+ {
+  "n": 51,
+  "fr": "... Mh."
+ },
+ {
+  "n": 52,
+  "fr": "Pas que j'aie pu voir cela de mes propres yeux, \nbien sûr."
+ },
+ {
+  "n": 53,
+  "fr": "Le bras de la grue a atteint le fond du lac."
+ },
+ {
+  "n": 54,
+  "fr": "Je vais essayer d'attraper l'objet."
+ },
+ {
+  "n": 55,
+  "fr": "Raté."
+ },
+ {
+  "n": 56,
+  "fr": "On bouge de trente reges sur la droite."
+ },
+ {
+  "n": 57,
+  "fr": "Ha ha. Bingo."
+ },
+ {
+  "n": 58,
+  "fr": "Ouais ! On l'a eu."
+ },
+ {
+  "n": 59,
+  "fr": "Vous voulez que je le remonte ?"
+ },
+ {
+  "n": 60,
+  "fr": "S'il vous plaît."
+ },
+ {
+  "n": 61,
+  "fr": "Le moment de vérité, n'est-ce pas ?"
+ },
+ {
+  "n": 62,
+  "fr": "C'est parti !"
+ },
+ {
+  "n": 63,
+  "fr": "Quoi ?!"
+ },
+ {
+  "n": 64,
+  "fr": "O-Oh, c'est..."
+ },
+ {
+  "n": 65,
+  "fr": "Pouvez-vous voir l'objet ?"
+ },
+ {
+  "n": 66,
+  "fr": "O-Oui... Enfin, je crois."
+ },
+ {
+  "n": 67,
+  "fr": "J-Je vais aller voir ça de plus près !"
+ },
+ {
+  "n": 68,
+  "fr": "Soyez prudent !"
+ },
+ {
+  "n": 69,
+  "fr": "N'essayez pas de le toucher avant que je ne vous \nen aie donné l'autorisation !"
+ },
+ {
+  "n": 70,
+  "fr": "W-Wouah !{0x05}"
+ },
+ {
+  "n": 71,
+  "fr": "Q-Que se passe-t-il ?!"
+ },
+ {
+  "n": 72,
+  "fr": "Il n'y a pas de raison d'avoir peur. Il émet juste des \nondes orbales qui se sont accumulées avec le temps."
+ },
+ {
+  "n": 73,
+  "fr": "Ce n'est pas exactement un phénomène sans \nprécédent de voir de puissants artéfacts briller \nintensément lors de leur extraction."
+ },
+ {
+  "n": 74,
+  "fr": "J-Je vois..."
+ },
+ {
+  "n": 75,
+  "fr": "Attendez ! Alors il s'agit bien d'un artéfact ?!"
+ },
+ {
+  "n": 76,
+  "fr": "Que cela pourrait-il être d'autre ?"
+ },
+ {
+  "n": 77,
+  "fr": "Bien, vous savez qui contacter. De mon côté,\nje vais préparer l'expertise."
+ },
+ {
+  "n": 78,
+  "fr": "Je sais qui contacter... ?"
+ },
+ {
+  "n": 79,
+  "fr": "Avec ce à quoi nous avons affaire, à qui d'autre \npourriez-vous avoir besoin de le faire savoir ?"
+ },
+ {
+  "n": 80,
+  "fr": "Je parle de l'Artéria, évidemment."
+ },
+ {
+  "n": 81,
+  "fr": "{color 0}◆S'il y a un opening, lancez-le ici."
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "n": 1,
+  "fr": "{color 5}Ouvrir la Porte ?{0x18}"
+ },
+ {
+  "n": 2,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 3,
+  "fr": "[Non]"
+ },
+ {
+  "n": 4,
+  "fr": "{color 5}#40WAmenez-moi la danseuse aux cheveux argentés.\n#500W\n#40WÀ ce moment seulement s'ouvrira la Porte...{color 0}"
+ },
+ {
+  "n": 5,
+  "fr": "{color 5}Les moyens de communication orbale ne sont \npas utilisables."
+ }
+]

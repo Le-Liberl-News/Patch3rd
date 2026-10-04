@@ -1,0 +1,618 @@
+[
+ {
+  "n": 1,
+  "fr": "Wow..."
+ },
+ {
+  "n": 2,
+  "fr": "Incroyable..."
+ },
+ {
+  "n": 3,
+  "fr": "Pendant toutes ces années, je n'avais aucune \nidée qu'un tel lieu se cachait sous la cathédrale \nde Grancel."
+ },
+ {
+  "n": 4,
+  "fr": "Eh bien, c'est pas vraiment quelque chose qu'on \ncrie sur tous les toits. Ça a été construit selon \nles accords entre l'Église et la famille royale."
+ },
+ {
+  "n": 5,
+  "fr": "Il n'a qu'une seule vocation :"
+ },
+ {
+  "n": 6,
+  "fr": "Contenir le pouvoir des artéfacts anciens et garder \nle contrôle sur leur influence."
+ },
+ {
+  "n": 7,
+  "fr": "... Je vois."
+ },
+ {
+  "n": 8,
+  "fr": "Son importance pour vous, les Gralsritter, est \ntrès claire, dans ce cas."
+ },
+ {
+  "n": 9,
+  "fr": "J'imagine qu'il existe des endroits similaires en \ndehors du Liberl, également."
+ },
+ {
+  "n": 10,
+  "fr": "Eh bien, je vais pas le nier."
+ },
+ {
+  "n": 11,
+  "fr": "Enfin bon, on appelle cet endroit une « terre \npremière »."
+ },
+ {
+  "n": 12,
+  "fr": "Un nom lourd de sens."
+ },
+ {
+  "n": 13,
+  "fr": "La terre originelle sur laquelle sont basées les \nautres est-elle en Arteria ?"
+ },
+ {
+  "n": 14,
+  "fr": "......"
+ },
+ {
+  "n": 15,
+  "fr": "Je prends cela pour un oui."
+ },
+ {
+  "n": 16,
+  "fr": "Oh, c'est pas une confirmation."
+ },
+ {
+  "n": 17,
+  "fr": "J'étais juste en train de penser au fait que vous \nressemblez beaucoup à l'autre professeur Russell, \nc'est tout."
+ },
+ {
+  "n": 18,
+  "fr": "Ne me mettez pas dans le même panier que\nle vieux chauve."
+ },
+ {
+  "n": 19,
+  "fr": "Il a peut-être un peu l'avantage sur moi pour ce qui \nest du plan théorique, mais sur le côté pratique de \nla science orbale, je le bats à plate couture."
+ },
+ {
+  "n": 20,
+  "fr": "Et je suis celle qui a conçu les systèmes \nfondamentaux du Capel et de l'Arseille,\nvous savez."
+ },
+ {
+  "n": 21,
+  "fr": "Sérieux ? Cool."
+ },
+ {
+  "n": 22,
+  "fr": "... Mais je pense qu'on s'éloigne du sujet, là."
+ },
+ {
+  "n": 23,
+  "fr": "C'est ça, l'objet en question, hein ?"
+ },
+ {
+  "n": 24,
+  "fr": "C'est exact."
+ },
+ {
+  "n": 25,
+  "fr": "Il a été remonté il y a trois jours de la zone où \nl'Arche Liber a coulé, et nous pensons qu'il s'agit \nd'un artéfact."
+ },
+ {
+  "n": 26,
+  "fr": "Je vois..."
+ },
+ {
+  "n": 27,
+  "fr": "Cependant, en le regardant..."
+ },
+ {
+  "n": 28,
+  "fr": "Hé hé, regardez donc."
+ },
+ {
+  "n": 29,
+  "fr": "Il y avait des ondes orbales émanant de l'artéfact \nquand nous l'avons trouvé, mais plus maintenant."
+ },
+ {
+  "n": 30,
+  "fr": "Et je suis sûre que je n'ai pas besoin de vous faire \nun dessin pour vous expliquer ce que cela \nsignifie, n'est-ce pas ?"
+ },
+ {
+  "n": 31,
+  "fr": "Non, la raison pour laquelle vous avez décidé de \nrester et de m'attendre est claire comme de l'eau \nde roche, maintenant."
+ },
+ {
+  "n": 32,
+  "fr": "Si un artéfact a perdu son pouvoir, il est exempté \ndes accords traditionnels qui le régissent et n'a \npas besoin d'être remis à l'Église. C'est ça ?"
+ },
+ {
+  "n": 33,
+  "fr": "Hi hi. Vous me comprenez déjà si bien. Venons-en \nau fait, dans ce cas."
+ },
+ {
+  "n": 34,
+  "fr": "Il s'avère que les relevés orbaux ont disparu juste \navant que nous ne remettions l'artéfact à la \ncathédrale."
+ },
+ {
+  "n": 35,
+  "fr": "Il est actuellement supervisé ici, mais le transfert \nde propriété n'est pas encore acté, ce qui rend \nfloue l'identité de son propriétaire légal."
+ },
+ {
+  "n": 36,
+  "fr": "Selon votre expertise, qu'est-ce qui devrait \nêtre fait ?"
+ },
+ {
+  "n": 37,
+  "fr": "Mhh... La situation est pas simple..."
+ },
+ {
+  "n": 38,
+  "fr": "J'imagine que dans ce cas, le Liberl veut\ns'assurer d'en être propriétaire, hein ?"
+ },
+ {
+  "n": 39,
+  "fr": "Il s'agit surtout du professeur ici présente qui \nsouhaite cela."
+ },
+ {
+  "n": 40,
+  "fr": "Je suis seulement ici pour l'accompagner en tant \nque représentant de l'Armée royale."
+ },
+ {
+  "n": 41,
+  "fr": "La seule raison pour laquelle il n'est pas au fond \ndu Lac Valleria à l'heure actuelle est grâce aux \nefforts qu'a faits le CTZ pour le récupérer."
+ },
+ {
+  "n": 42,
+  "fr": "Personnellement, je dirais que nous avons tout à \nfait le droit de le conserver."
+ },
+ {
+  "n": 43,
+  "fr": "De ce que j'ai entendu, c'est complètement \nimpossible d'analyser un artéfact qui n'est\nplus actif."
+ },
+ {
+  "n": 44,
+  "fr": "Je vois pas comment il pourrait vous être d'une \nquelconque utilité dans vos recherches, en l'état \nactuel des choses..."
+ },
+ {
+  "n": 45,
+  "fr": "... Mais vous êtes sûre de le vouloir à ce point ?"
+ },
+ {
+  "n": 46,
+  "fr": "Oh, absolument."
+ },
+ {
+  "n": 47,
+  "fr": "On parle d'un objet découvert sur le site où se \ntrouvait une énorme cité volante."
+ },
+ {
+  "n": 48,
+  "fr": "Je ne l'ai peut-être pas vu de mes propres yeux, \nmais on dirait que tout ce que nous pensions \nsavoir sur le monde a été plus ou moins démenti."
+ },
+ {
+  "n": 49,
+  "fr": "Vous savez, par la vérité que vous, les membres \nde l'Église, avez dissimulée pendant... oh, je ne \nsais pas, un millénaire."
+ },
+ {
+  "n": 50,
+  "fr": "......"
+ },
+ {
+  "n": 51,
+  "fr": "Et au sujet de ce groupe, Ouroboros, ce qu'ils \nfont n'a pas vraiment plus de sens que vous, \nl'Église."
+ },
+ {
+  "n": 52,
+  "fr": "Plus j'entends parler de leurs avancées \ntechnologiques, moins j'arrive à comprendre \ncomment cela est possible."
+ },
+ {
+  "n": 53,
+  "fr": "Je ne sais pas quelle est la vérité, ni ce qu'il se \npasse vraiment ici, dans ce pays..."
+ },
+ {
+  "n": 54,
+  "fr": "... mais je ne peux plus rester les bras croisés à \nfaire semblant de ne pas vouloir de réponses, et \nje suis loin d'être la seule."
+ },
+ {
+  "n": 55,
+  "fr": "Tant qu'il y a la moindre chance que cet artéfact \npuisse éclaircir tout ce que je souhaite savoir, je \nle veux."
+ },
+ {
+  "n": 56,
+  "fr": "......"
+ },
+ {
+  "n": 57,
+  "fr": "Je pense que le message est passé, Professeur."
+ },
+ {
+  "n": 58,
+  "fr": "Ce n'est pas comme si lui faire subir un \ninterrogatoire allait faire avancer les choses."
+ },
+ {
+  "n": 59,
+  "fr": "... C'est vrai."
+ },
+ {
+  "n": 60,
+  "fr": "Bon, vous avez entendu ce que j'avais à dire."
+ },
+ {
+  "n": 61,
+  "fr": "Maintenant, c'est à vous de nous dire ce que vous \nallez faire."
+ },
+ {
+  "n": 62,
+  "fr": "Vous nous le donnez, oui ou non ?"
+ },
+ {
+  "n": 63,
+  "fr": "Eh bien..."
+ },
+ {
+  "n": 64,
+  "fr": "« Cette brève hésitation est tout ce qu'il aura \nfallu pour donner naissance à un grand mal. »"
+ },
+ {
+  "n": 65,
+  "fr": "... ?!"
+ },
+ {
+  "n": 66,
+  "fr": "Qui est-elle ?"
+ },
+ {
+  "n": 67,
+  "fr": "(Im... possible...)"
+ },
+ {
+  "n": 68,
+  "fr": "« Il rampa à travers les champs, gravit les \ncollines, et propagea le fléau dans les cieux. »"
+ },
+ {
+  "n": 69,
+  "fr": "Un extrait du Livre d'Ezer, Verset 2, « Le désastre \ndéchaîné »."
+ },
+ {
+  "n": 70,
+  "fr": "Je vous présente mes excuses pour mon retard, \nPère Graham."
+ },
+ {
+  "n": 71,
+  "fr": "Je m'appelle Ries Argent, et je suis une écuyère \ndes Gralsritter."
+ },
+ {
+  "n": 72,
+  "fr": "J'ai hâte de travailler pour vous."
+ },
+ {
+  "n": 73,
+  "fr": "......"
+ },
+ {
+  "n": 74,
+  "fr": "Je ne pensais pas qu'on finirait par avoir davantage \nde compagnie."
+ },
+ {
+  "n": 75,
+  "fr": "Attendez une minute."
+ },
+ {
+  "n": 76,
+  "fr": "... Quelque chose ne va pas ?"
+ },
+ {
+  "n": 77,
+  "fr": "Alors c'est ainsi qu'ils pensent m'avoir, \nc'est cela ?!"
+ },
+ {
+  "n": 78,
+  "fr": "Mais ils ne peuvent pas me soudoyer aussi \nfacilement ! Je vaux mieux que cela !"
+ },
+ {
+  "n": 79,
+  "fr": "... ?"
+ },
+ {
+  "n": 80,
+  "fr": "P-Peut-être que j'ai sous-estimé les Gralsritter..."
+ },
+ {
+  "n": 81,
+  "fr": "Ils pensent qu'ils peuvent briser ma volonté de me \nbattre en m'envoyant une fille comme vous, n'est-ce \npas ?"
+ },
+ {
+  "n": 82,
+  "fr": "Mais je ne vais pas me laisser abattre aussi \nfacilement, car j'ai ma propre arme secrète !"
+ },
+ {
+  "n": 83,
+  "fr": "Regardez ! La plus grande force de l'univers !"
+ },
+ {
+  "n": 84,
+  "fr": "{color 0}#702FN'est-ce pas... ?"
+ },
+ {
+  "n": 85,
+  "fr": "{color 0}#1064FC'est Tita, hein... ?"
+ },
+ {
+  "n": 86,
+  "fr": "{color 0}#1442F... Qu'elle est mignonne."
+ },
+ {
+  "n": 87,
+  "fr": "N'est-ce pas ?! N'EST-CE PAS ?!"
+ },
+ {
+  "n": 88,
+  "fr": "Je parie que vous avez envie de sauter à l'intérieur \nde cette photo et de la serrer dans vos bras comme \nune peluche, non ?!"
+ },
+ {
+  "n": 89,
+  "fr": "J'aurais dû me douter qu'un bout de chou comme \nvous serait capable d'apprécier les mêmes qualités \nchez les autres !"
+ },
+ {
+  "n": 90,
+  "fr": "*tousse* P-Passons !"
+ },
+ {
+  "n": 91,
+  "fr": "C'est pourquoi peu importe à quel point vous \npouvez être adorable, vous ne pouvez pas m'avoir, \nMOI, parce que j'ai une immunité naturelle !"
+ },
+ {
+  "n": 92,
+  "fr": "Mhh... Je vous demande pardon, mais j'ai bien \npeur de ne pas arriver à suivre."
+ },
+ {
+  "n": 93,
+  "fr": "Vous n'arrêtez pas de dire que quelqu'un est \nadorable, mais... est-ce de moi que vous parlez ?"
+ },
+ {
+  "n": 94,
+  "fr": "De qui d'autre pourrais-je parler ?!#2S"
+ },
+ {
+  "n": 95,
+  "fr": "Vous dégagez une telle aura de maturité, mais \npourtant, vos traits ont toujours cette irrésistible \ntrace d'innocence."
+ },
+ {
+  "n": 96,
+  "fr": "Et ils vous ont habillée en bonne sœur pour \ncomplimenter le tout, c'est la cerise sur le \ngâteau ! C'est l'habit le plus flatteur que j'aie vu !"
+ },
+ {
+  "n": 97,
+  "fr": "Ugh... Si je n'avais pas mon bouclier, je serais \nvraiment dans le pétrin, là."
+ },
+ {
+  "n": 98,
+  "fr": "......"
+ },
+ {
+  "n": 99,
+  "fr": "P-Pourquoi me regardez-vous ainsi ?! Je ne fais \nque dire les choses !"
+ },
+ {
+  "n": 100,
+  "fr": "... Puis-je m'enquérir de l'identité des personnes \nqui vous accompagnent, Père Graham ?"
+ },
+ {
+  "n": 101,
+  "fr": "O-Ouais..."
+ },
+ {
+  "n": 102,
+  "fr": "Cette dame est le professeur Erika Russell\ndu CTZ, tandis que ce monsieur est le\nlieutenant-colonel Cid de l'Armée royale."
+ },
+ {
+  "n": 103,
+  "fr": "Par contre. « Père Graham » ? Sérieux ?"
+ },
+ {
+  "n": 104,
+  "fr": "Ah, donc vous êtes les personnes qui ont découvert \nl'artéfact en premier, alors ?"
+ },
+ {
+  "n": 105,
+  "fr": "Merci d'avoir coopéré à notre mission. À partir \nde maintenant, nous allons nous en occuper."
+ },
+ {
+  "n": 106,
+  "fr": "Ce sera tout."
+ },
+ {
+  "n": 107,
+  "fr": "Attendez une..."
+ },
+ {
+  "n": 108,
+  "fr": "... Quoi ?"
+ },
+ {
+  "n": 109,
+  "fr": "A-Attends une minute ! On a pas encore\nfini de se mettre d'accord sur ce qu'on\nallait faire avec !"
+ },
+ {
+  "n": 110,
+  "fr": "Peut-être pas, mais mon intention était de vous \nfaire gagner le temps et l'effort requis pour le \nfaire en prenant moi-même la bonne décision."
+ },
+ {
+  "n": 111,
+  "fr": "Qu'il ait ou non perdu son pouvoir, ce n'est pas \nun artéfact ordinaire. Il est potentiellement lié \nà l'un des Sept-Terrions."
+ },
+ {
+  "n": 112,
+  "fr": "Je suis surprise que vous ayez ne serait-ce que \nconsidéré la possibilité de laisser une personne \nextérieure à l'Église en avoir la garde."
+ },
+ {
+  "n": 113,
+  "fr": "J-Je veux dire..."
+ },
+ {
+  "n": 114,
+  "fr": "Bien, bien. Vous en avez dans le ventre."
+ },
+ {
+  "n": 115,
+  "fr": "Continuez, dans ce cas. De quelle base juridique \ndisposez-vous pour pouvoir nous le prendre ?"
+ },
+ {
+  "n": 116,
+  "fr": "Les accords avec l'Église disent très clairement \nque les artéfacts ayant perdu leurs pouvoirs sont \nexemptés des règles habituelles."
+ },
+ {
+  "n": 117,
+  "fr": "Je ne dispose pas de base juridique, mais vous non \nplus."
+ },
+ {
+  "n": 118,
+  "fr": "Si l'on suit les accords à la lettre, personne n'est \nautorisé à se déclarer propriétaire d'un artéfact \ninactif."
+ },
+ {
+  "n": 119,
+  "fr": "Il n'appartient ni à vous, ni à moi ; il s'agit \nsimplement d'un objet abandonné, dépourvu d'un \nquelconque propriétaire."
+ },
+ {
+  "n": 120,
+  "fr": "Quoi ? Alors tout ce que vous avez, c'est « je n'ai \npas besoin d'une raison, cela m'appartient, point \nbarre » ?"
+ },
+ {
+  "n": 121,
+  "fr": "En toute franchise, oui."
+ },
+ {
+  "n": 122,
+  "fr": "Hmph. Bien, si c'est à cela que vous voulez jouer..."
+ },
+ {
+  "n": 123,
+  "fr": "Quel est votre avis, Kevin Graham ?"
+ },
+ {
+  "n": 124,
+  "fr": "Je vous en prie."
+ },
+ {
+  "n": 125,
+  "fr": "M-Moi ?! Je croyais avoir été exclu de cette \nconversation !"
+ },
+ {
+  "n": 126,
+  "fr": "... Mais bon, je peux pas dire que je veux pas le \nramener avec nous en Arteria."
+ },
+ {
+  "n": 127,
+  "fr": "Mais après tout ce que le Liberl a fait pour nous,\nje me sentirais un peu mal de le leur arracher comme \nça, sans même leur donner une raison valable."
+ },
+ {
+  "n": 128,
+  "fr": "Mhh... Les deux côtés ont de bons arguments, mais \naucun n'a clairement le dessus."
+ },
+ {
+  "n": 129,
+  "fr": "La situation devient bien compliquée..."
+ },
+ {
+  "n": 130,
+  "fr": "Vous, euh, vous vous rendez compte que vous \nêtes aussi impliqué, hein ?"
+ },
+ {
+  "n": 131,
+  "fr": "Wow..."
+ },
+ {
+  "n": 132,
+  "fr": "Ah..."
+ },
+ {
+  "n": 133,
+  "fr": "Qu'est-ce qu'il y a ?"
+ },
+ {
+  "n": 134,
+  "fr": "Pourquoi avez-vous tous deux l'air aussi surpris ?"
+ },
+ {
+  "n": 135,
+  "fr": "Comment ça, « pourquoi » ?"
+ },
+ {
+  "n": 136,
+  "fr": "N'avez-vous pas entendu cela ?"
+ },
+ {
+  "n": 137,
+  "fr": "Entendu quoi ?"
+ },
+ {
+  "n": 138,
+  "fr": "Hein... ?"
+ },
+ {
+  "n": 139,
+  "fr": "Oh..."
+ },
+ {
+  "n": 140,
+  "fr": "Wow..."
+ },
+ {
+  "n": 141,
+  "fr": "C-C'est absurde..."
+ },
+ {
+  "n": 142,
+  "fr": "Cette chose n'émettait plus aucune onde orbale !\nRien ! Du tout !"
+ },
+ {
+  "n": 143,
+  "fr": "Pourquoi est-ce qu'elle est de nouveau\nactive, tout à coup ?!"
+ },
+ {
+  "n": 144,
+  "fr": "......"
+ },
+ {
+  "n": 145,
+  "fr": "... Je pense que cela résout notre problème."
+ },
+ {
+  "n": 146,
+  "fr": "C'est clair..."
+ },
+ {
+  "n": 147,
+  "fr": "Alors le véritable artéfact était à\nl'intérieur, hein ?"
+ },
+ {
+  "n": 148,
+  "fr": "J'en ai encore jamais vu un comme ça."
+ },
+ {
+  "n": 149,
+  "fr": "On dirait un genre de boîte.\nSi je devais lui donner un nom,\nje dirais plutôt... le « cube »."
+ },
+ {
+  "n": 150,
+  "fr": "Oh..."
+ },
+ {
+  "n": 151,
+  "fr": "......"
+ },
+ {
+  "n": 152,
+  "fr": "Je voudrais vous remercier pour votre\ncoopération lors de la récupération\nde cet artéfact."
+ },
+ {
+  "n": 153,
+  "fr": "Conformément aux accords passés avec l'Église,\nmoi, Kevin Graham des Gralsritter, je procède à la\nrécupération de cet artéfact."
+ },
+ {
+  "n": 154,
+  "fr": "Vous, et tous ceux qui vous ont aidés,\navez la profonde reconnaissance de\nl'Église septienne."
+ }
+]

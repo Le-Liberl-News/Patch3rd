@@ -1,0 +1,334 @@
+[
+ {
+  "n": 1,
+  "fr": "{color 5}Trouvé : {item item[502]}{color 5}"
+ },
+ {
+  "n": 2,
+  "fr": "{color 5}Trouvé : {item item[502]}{color 5}.\n{color 5}Inventaire plein. Objet reposé{color 5}."
+ },
+ {
+  "n": 4,
+  "fr": "{color 5}Trouvé : {item item[607]}{color 5}"
+ },
+ {
+  "n": 5,
+  "fr": "{color 5}Trouvé : {item item[607]}{color 5}.\n{color 5}Inventaire plein. Objet reposé{color 5}."
+ },
+ {
+  "n": 7,
+  "fr": "Hiiiii !"
+ },
+ {
+  "n": 8,
+  "fr": "Ne m'approchez pas ! Ne m'approchez pas !"
+ },
+ {
+  "n": 9,
+  "fr": "C'était la voix d'un humain, n'est-ce pas... ?!"
+ },
+ {
+  "n": 10,
+  "fr": "Donc y a quelqu'un encore sain et sauf ici ?!"
+ },
+ {
+  "n": 11,
+  "fr": "... Nous devrions nous hâter de trouver cet individu \nimmédiatement."
+ },
+ {
+  "n": 12,
+  "fr": "Q-Qu'ai-je donc fait pour mériter cela ?"
+ },
+ {
+  "n": 13,
+  "fr": "R-Reculez ! Ne vous approchez pas ! S'il vous plait !"
+ },
+ {
+  "n": 14,
+  "fr": "... Quel est ce curieux spectacle ?"
+ },
+ {
+  "n": 15,
+  "fr": "Merde... Je l'avais complètement oublié, lui."
+ },
+ {
+  "n": 16,
+  "fr": "Moi de même..."
+ },
+ {
+  "n": 17,
+  "fr": "Je suppose qu'il n'est pas surprenant qu'il ait fini ici, \ncependant."
+ },
+ {
+  "n": 18,
+  "fr": "C'est chiant de l'admettre, mais tu as raison."
+ },
+ {
+  "n": 19,
+  "fr": "Et c'est encore plus chiant parce que j'ai plein de \nquestions que je veux lui poser, et la seule manière \nde le faire, c'est de le tirer de là !"
+ },
+ {
+  "n": 20,
+  "fr": "Éloignez-vous de lui !"
+ },
+ {
+  "n": 21,
+  "fr": "Si vous êtes incapables d'abandonner votre \nattachement à ce monde, permettez-nous de vous \naider."
+ },
+ {
+  "n": 22,
+  "fr": "Q-Que faites vo... ? \nJe veux dire, que faites-vous, merveilleux, angéliques \net modèles être humains, ici ?!"
+ },
+ {
+  "n": 23,
+  "fr": "Garde tes flatteries pour plus tard ! D'abord, on doit \néliminer ces trucs !"
+ },
+ {
+  "n": 24,
+  "fr": "... Contentez-vous de rester ici, et ne vous mettez pas \nen travers de notre chemin."
+ },
+ {
+  "n": 25,
+  "fr": "J-Je suis vivant..."
+ },
+ {
+  "n": 26,
+  "fr": "Merci beaucoup ! Vous m'avez sauv—"
+ },
+ {
+  "n": 27,
+  "fr": "Hiiiiii !"
+ },
+ {
+  "n": 28,
+  "fr": "Maintenant, il est temps pour vous de répondre à \nquelques-unes de nos questions."
+ },
+ {
+  "n": 29,
+  "fr": "... Capitaine Julia. \nY a-t-il quelque chose que vous souhaiteriez lui \ndemander ?"
+ },
+ {
+  "n": 30,
+  "fr": "O-Oui..."
+ },
+ {
+  "n": 31,
+  "fr": "Comment exactement êtes-vous arrivé ici... Gilbert, \nil me semble ?"
+ },
+ {
+  "n": 32,
+  "fr": "Savez-vous quoi que ce soit concernant la manière \ndont la capitale est devenue ainsi ?"
+ },
+ {
+  "n": 33,
+  "fr": "N-N-Non, je ne sais pas..."
+ },
+ {
+  "n": 34,
+  "fr": "Je me suis juste réveillé et j-je me suis retrouvé ici, \nau port. Je ne sais pas pourquoi, ni comment."
+ },
+ {
+  "n": 35,
+  "fr": "Je suis allé en ville, mais il n'y avait personne là-bas. \nSeulement quelques chevaliers blindés et bizarres..."
+ },
+ {
+  "n": 36,
+  "fr": "J'ai commencé à les fuir, et avant que je ne puisse \nm'en rendre compte, je me suis r-retrouvé dans ce \nchâteau..."
+ },
+ {
+  "n": 37,
+  "fr": "Mhh... Donc tu as été envoyé à un autre endroit que \nnous, hein ?"
+ },
+ {
+  "n": 38,
+  "fr": "Dommage que la ville soit déjà devenue bizarre avant \nque tu te sois réveillé."
+ },
+ {
+  "n": 39,
+  "fr": "Je tablais un peu sur le fait que tu aies été témoin \ndes trucs qui s'étaient passés ici."
+ },
+ {
+  "n": 40,
+  "fr": "Hmph. Eh bien, comme cela est triste pour vous."
+ },
+ {
+  "n": 41,
+  "fr": "J'ai quelque chose à te demander, moi aussi."
+ },
+ {
+  "n": 42,
+  "fr": "Est-ce qu'Ouroboros est impliqué là-dedans ?"
+ },
+ {
+  "n": 43,
+  "fr": "Joshua Bright... \nAlors tu es ici, toi aussi..."
+ },
+ {
+  "n": 44,
+  "fr": "B-Bah... Bien sûr que non !"
+ },
+ {
+  "n": 45,
+  "fr": "Si tel était le cas, j'aurais bien évidemment été le \npremier à le savoir !"
+ },
+ {
+  "n": 46,
+  "fr": "(Plutôt le dernier.)"
+ },
+ {
+  "n": 47,
+  "fr": "Hé, pendant qu'on y est..."
+ },
+ {
+  "n": 48,
+  "fr": "... Je viens juste de me souvenir de cet aéronef \nd'Ouroboros qui avait essayé de nous faire nous \nécraser y a un moment."
+ },
+ {
+  "n": 49,
+  "fr": "... Tu as pas personnellement pris part à ça, hein ?"
+ },
+ {
+  "n": 50,
+  "fr": "Comment avez-vous... ?"
+ },
+ {
+  "n": 51,
+  "fr": "J-Je veux dire, bien sûr que non ! HA HA HA ! \nPOURQUOI PENSERIEZ-VOUS CELA ?"
+ },
+ {
+  "n": 52,
+  "fr": "(Il pourrait pas faire plus suspect...)"
+ },
+ {
+  "n": 53,
+  "fr": "... Kevin. \nQue devrions-nous faire de lui ?"
+ },
+ {
+  "n": 54,
+  "fr": "Le désarmer et le ligoter ?"
+ },
+ {
+  "n": 55,
+  "fr": "Non... \nIl vaut pas la peine qu'on se casse la tête."
+ },
+ {
+  "n": 56,
+  "fr": "Il a pas l'air de savoir quoi que ce soit d'intéressant, \net il nous traînerait juste dans les pattes, franchement."
+ },
+ {
+  "n": 57,
+  "fr": "... Je suppose que cela est vrai."
+ },
+ {
+  "n": 58,
+  "fr": "Bien, ceci est tout ce que nous avions à voir avec vous."
+ },
+ {
+  "n": 59,
+  "fr": "Ayez la gentillesse de sortir de notre champ de vision."
+ },
+ {
+  "n": 60,
+  "fr": "Vous pensez que vous p-pouvez me faire passer pour \nun genre de bon à rien, n'est-ce pas ?"
+ },
+ {
+  "n": 61,
+  "fr": "E-Eh bien, vous le regretterez !"
+ },
+ {
+  "n": 62,
+  "fr": "Lorsque je trouverai un moyen de sortir de cet endroit, \nvous allez me supplier de le partager avec vous, mais \nJE NE LE FERAI PAS !"
+ },
+ {
+  "n": 63,
+  "fr": "Vous pouvez divaguer ici, perdus pour l'éternité \nentière, en ce qui me concerne !"
+ },
+ {
+  "n": 64,
+  "fr": "Euhh..."
+ },
+ {
+  "n": 65,
+  "fr": "Est-ce que vous êtes sûr qu'il va s'en sortir, tout seul ? \nJe ne sais pas..."
+ },
+ {
+  "n": 66,
+  "fr": "Les cafards, ça peut survivre à tout, ma petite Tita."
+ },
+ {
+  "n": 67,
+  "fr": "Et il FAIT techniquement partie d'Ouroboros. Je suis \nsûr qu'il peut se débrouiller."
+ },
+ {
+  "n": 68,
+  "fr": "Quel ennui..."
+ },
+ {
+  "n": 69,
+  "fr": "J'espère que le laisser seul ici n'ira pas nous causer \ndavantage de problèmes à terme."
+ },
+ {
+  "n": 70,
+  "fr": "Boh, ça va le faire."
+ },
+ {
+  "n": 71,
+  "fr": "Je suis sûr qu'il se débrouillera assez bien pour pas \nrester dans nos pattes."
+ },
+ {
+  "n": 72,
+  "fr": "Tu es sûr que ça va aller pour lui, tout seul ?"
+ },
+ {
+  "n": 73,
+  "fr": "Les démons dans le coin sont assez forts, et il est \naussi solide qu'une vieille éponge."
+ },
+ {
+  "n": 74,
+  "fr": "Boh, ça va le faire."
+ },
+ {
+  "n": 75,
+  "fr": "Il FAIT techniquement partie d'Ouroboros. Je suis \nsûr qu'il peut se débrouiller."
+ },
+ {
+  "n": 76,
+  "fr": "... Je ne peux m'empêcher de me sentir quelque peu \ninquiète."
+ },
+ {
+  "n": 77,
+  "fr": "J'espère qu'il ne finira pas par causer des problèmes \nune fois laissé seul..."
+ },
+ {
+  "n": 78,
+  "fr": "Boh, ça va le faire."
+ },
+ {
+  "n": 79,
+  "fr": "Il a l'air d'être un type qui pourrait se tirer de \nn'importe quelle situation dans laquelle on pourrait \nle mettre."
+ },
+ {
+  "n": 80,
+  "fr": "... Je pense que nous avons assez perdu de notre temps \navec lui."
+ },
+ {
+  "n": 81,
+  "fr": "Nous devrions continuer à explorer le château."
+ },
+ {
+  "n": 82,
+  "fr": "{color 5}Ouvrir la Porte ?{0x18}"
+ },
+ {
+  "n": 83,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 84,
+  "fr": "[Non]"
+ },
+ {
+  "n": 85,
+  "fr": "{color 5}#40WAmenez-moi le garçon aux yeux d'ambre et \nla princesse à la volonté indomptable.\n#500W \n#40WÀ ce moment seulement s'ouvrira la Porte...{color 0}"
+ }
+]

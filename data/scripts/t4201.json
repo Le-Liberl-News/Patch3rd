@@ -1,0 +1,658 @@
+[
+ {
+  "n": 1,
+  "fr": "{color 12}{0x18}Ce fut à ce moment que je pris une décision \nau fond de mon cœur :"
+ },
+ {
+  "n": 2,
+  "fr": "{color 12}{0x18}Je ferais tout ce que je pourrais pour \nsoutenir Son Altesse, la future reine de cette nation."
+ },
+ {
+  "n": 3,
+  "fr": "{color 12}{0x18}... Mais à cette fin, je me résolus aussi à \naccepter n'importe quelle promotion que je recevrais."
+ },
+ {
+  "n": 4,
+  "fr": "{color 12}{0x18}Aucun doute que plus je monterais dans \nla hiérarchie, plus mes chances de la rencontrer \ndiminueraient..."
+ },
+ {
+  "n": 5,
+  "fr": "{color 12}{0x18}... Mais même si nous ne pouvons nous \nrencontrer en personne, même si je dois le faire à \ndistance, je veux être en mesure de la soutenir."
+ },
+ {
+  "n": 6,
+  "fr": "{color 12}{0x18}Cette décision est peut-être égoïste, mais \nj'espère que vous pouvez me pardonner de l'avoir prise, \nVotre Altesse."
+ },
+ {
+  "n": 7,
+  "fr": "Je suis quelque peu réticente à l'idée de déranger Sa \nMajesté pendant qu'elle est occupée à travailler, mais..."
+ },
+ {
+  "n": 8,
+  "fr": "... Est-ce donc toi, Julia ?"
+ },
+ {
+  "n": 9,
+  "fr": "Cruii ! ☆"
+ },
+ {
+  "n": 10,
+  "fr": "V-Votre Altesse ?! Sieg ?!"
+ },
+ {
+  "n": 11,
+  "fr": "C-Comment cela se fait-il que vous soyez déjà de retour \nici ?"
+ },
+ {
+  "n": 12,
+  "fr": "Oh, pensais-tu que j'étais encore à la villa ?"
+ },
+ {
+  "n": 13,
+  "fr": "Hi hi. Je m'attendais à y être, moi aussi, mais il n'y \navait pas beaucoup de gens là-bas aujourd'hui, donc \nj'ai pu partir plus tôt que prévu."
+ },
+ {
+  "n": 14,
+  "fr": "Je vois..."
+ },
+ {
+  "n": 15,
+  "fr": "Je suis tout autant surprise de te voir ici, en fait. Je \ncroyais que l'on t'avait donné un jour de congé, \naujourd'hui ?"
+ },
+ {
+  "n": 16,
+  "fr": "O-Oui..."
+ },
+ {
+  "n": 17,
+  "fr": "Ha ha. Effectivement, c'était le cas."
+ },
+ {
+  "n": 18,
+  "fr": "J'ai fini par croiser une amie avec qui je n'ai pas \nbeaucoup d'opportunités de passer du temps..."
+ },
+ {
+  "n": 19,
+  "fr": "Le temps que nous avons passé ensemble a simplement \nfilé."
+ },
+ {
+  "n": 20,
+  "fr": "Je dois mes plus profonds remerciements à Sa Majesté \npour m'avoir donné cette opportunité."
+ },
+ {
+  "n": 21,
+  "fr": "Je suis contente de l'apprendre."
+ },
+ {
+  "n": 22,
+  "fr": "Mhh... Julia ?"
+ },
+ {
+  "n": 23,
+  "fr": "Je me rends compte que cela puisse paraître inopiné, \nmais je voulais te remercier de toujours me soutenir."
+ },
+ {
+  "n": 24,
+  "fr": "Oh... ?!"
+ },
+ {
+  "n": 25,
+  "fr": "Mais ceci est quelque chose que j'aurais dû faire il y \na bien longtemps. Je n'arrive pas à croire que j'aie \nmis autant de temps à énoncer cette évidence."
+ },
+ {
+  "n": 26,
+  "fr": "Tout ce que mes parents m'auraient autrement appris, \ntu as fini par le faire à leur place."
+ },
+ {
+  "n": 27,
+  "fr": "Comment me battre, comment me comporter, comment \npenser... c'est comme si je commençais seulement à \nréaliser combien ce qui fait partie de moi vient de toi."
+ },
+ {
+  "n": 28,
+  "fr": "J'ai l'impression d'avoir grandi en te voyant toujours \ncomme un modèle."
+ },
+ {
+  "n": 29,
+  "fr": "Je me souviens de Grand-mère riant de moi une fois, \nau sujet d'à quel point je te suis semblable, aussi."
+ },
+ {
+  "n": 30,
+  "fr": "Même dans les détails, comme la manière dont je \nmarche et bouge, elle dit que je suis juste comme toi."
+ },
+ {
+  "n": 31,
+  "fr": "......"
+ },
+ {
+  "n": 32,
+  "fr": "... Julia ?"
+ },
+ {
+  "n": 33,
+  "fr": "Quelque chose ne va pas ?"
+ },
+ {
+  "n": 34,
+  "fr": "Non..."
+ },
+ {
+  "n": 35,
+  "fr": "(Pendant tout ce temps, j'ai vraiment été juste à ses \ncôtés...)"
+ },
+ {
+  "n": 36,
+  "fr": "(J'ai passé tout ce temps à m'inquiéter car je ne pouvais \nla voir aux miens, mais en ce qui la concerne, j'étais \ntoujours là.)"
+ },
+ {
+  "n": 37,
+  "fr": "(Je suis vraiment irrécupérable...)"
+ },
+ {
+  "n": 38,
+  "fr": "... ???"
+ },
+ {
+  "n": 39,
+  "fr": "... Kloe."
+ },
+ {
+  "n": 40,
+  "fr": "Je ne crois pas que je serai en mesure de vous servir \ntel que je l'ai toujours fait plus longtemps."
+ },
+ {
+  "n": 41,
+  "fr": "Mais même maintenant, je souhaite faire tout ce que \nje peux pour vous protéger et vous soutenir."
+ },
+ {
+  "n": 42,
+  "fr": "Je souhaite continuer à vous servir, à être votre amie... \net votre sœur, également."
+ },
+ {
+  "n": 43,
+  "fr": "Alors... s'il vous plait, essayez de ne pas trop en faire \npendant mon absence."
+ },
+ {
+  "n": 44,
+  "fr": "Et même si je ne suis pas en mesure d'être près de vous \ntout le temps, je veux tout de même que vous sachiez \nque vous pouvez toujours faire appel à moi si besoin."
+ },
+ {
+  "n": 45,
+  "fr": "Oui..."
+ },
+ {
+  "n": 46,
+  "fr": "Hi hi. Bien entendu."
+ },
+ {
+  "n": 47,
+  "fr": "Cela dit, je ne peux promettre de ne pas \ninvolontairement profiter de ta gentillesse quand je \nle ferai."
+ },
+ {
+  "n": 48,
+  "fr": "Julia, je suis toujours heureuse de t'avoir sur qui \ncompter."
+ },
+ {
+  "n": 49,
+  "fr": "... Oui."
+ },
+ {
+  "n": 50,
+  "fr": "{color 0}#40WCette après-midi, elle purent profiter \nensemble de quelques tasses de thé relaxantes."
+ },
+ {
+  "n": 51,
+  "fr": "Malgré sa réticence initiale, le jour de congé de Julia se \nmontra bien plus appréciable que ce à quoi elle s'était \nattendue..."
+ },
+ {
+  "n": 52,
+  "fr": "... Et il semblait inévitable que le parfum du thé qu'elle \nbût ce jour-là resterait à jamais gravé dans sa mémoire."
+ },
+ {
+  "n": 53,
+  "fr": "{color 0}Épisode [Rencontre fortuite] terminé !"
+ },
+ {
+  "n": 54,
+  "fr": "{color 5}Reçu : {item item[725]}{color 5}."
+ },
+ {
+  "n": 55,
+  "fr": "{color 5}Reçus : {color 2}3000 miras{color 5}."
+ },
+ {
+  "n": 56,
+  "fr": "......"
+ },
+ {
+  "n": 57,
+  "fr": "Cruiii !"
+ },
+ {
+  "n": 58,
+  "fr": "Yo, mon pote."
+ },
+ {
+  "n": 59,
+  "fr": "Tu as pas du tout changé, hein ?"
+ },
+ {
+  "n": 60,
+  "fr": "Cruii cruii cruii."
+ },
+ {
+  "n": 61,
+  "fr": "Cruiiiiii. Cruii cruii."
+ },
+ {
+  "n": 62,
+  "fr": "Je vois... \nOn dirait qu'il s'est passé un tas de trucs, hein ?"
+ },
+ {
+  "n": 63,
+  "fr": "Mais ça fait plaisir de voir que vous allez bien, ta \nmaîtresse et toi."
+ },
+ {
+  "n": 64,
+  "fr": "Cruii. ♪"
+ },
+ {
+  "n": 65,
+  "fr": "... Lechter ?"
+ },
+ {
+  "n": 66,
+  "fr": "Tiens, tiens. Bonjour à vous, Votre Altesse."
+ },
+ {
+  "n": 67,
+  "fr": "J'espère ne pas causer de problèmes en faisant ainsi \nle tour du château."
+ },
+ {
+  "n": 68,
+  "fr": "La vue depuis cette terrasse est certainement très \nbelle, n'est-ce pas ?"
+ },
+ {
+  "n": 69,
+  "fr": "Que t'est-il arrivé, Lechter ?"
+ },
+ {
+  "n": 70,
+  "fr": "Comment as-tu fini par travailler pour le chancelier \nOsborne ?"
+ },
+ {
+  "n": 71,
+  "fr": "Mhh ? Je suis désolé. Je n'ai pas la moindre idée de \nce que vous voulez dire."
+ },
+ {
+  "n": 72,
+  "fr": "Me prendriez-vous par hasard pour quelqu'un d'autre ?"
+ },
+ {
+  "n": 73,
+  "fr": "Lechter Arundel..."
+ },
+ {
+  "n": 74,
+  "fr": "Tu étais le président du bureau des étudiants de \nl'académie royale Jenis, où tu étudiais avant de partir \nsoudainement il y a deux ans."
+ },
+ {
+  "n": 75,
+  "fr": "Alors non. Je ne te prends pas pour quelqu'un d'autre."
+ },
+ {
+  "n": 76,
+  "fr": "Ah, mais c'est là que vous vous trompez ! Car mon \nnom est en fait Lech Terarundel."
+ },
+ {
+  "n": 77,
+  "fr": "Je peux certainement voir comment nos noms \npourraient être confondus, cependant. Ils SONT si \nsimilaires, c'est effrayant."
+ },
+ {
+  "n": 78,
+  "fr": "Enfin, maintenant, vous le savez. S'il vous plait, \nappelez-moi simplement Lech."
+ },
+ {
+  "n": 79,
+  "fr": "N'essaie pas de te moquer de moi, Lechter !"
+ },
+ {
+  "n": 80,
+  "fr": "As-tu la moindre idée d'à quel point nous étions tous \ninquiets quand tu as simplement disparu sans un mot ?!"
+ },
+ {
+  "n": 81,
+  "fr": "Tu as remis ton formulaire de départ de l'académie, \npuis tu n'as plus jamais été revu !"
+ },
+ {
+  "n": 82,
+  "fr": "......"
+ },
+ {
+  "n": 83,
+  "fr": "Même Leo, qui est d'ordinaire calme, a laissé échapper \nun cri de colère quand il l'a appris !"
+ },
+ {
+  "n": 84,
+  "fr": "Et tout ce que Lucy pouvait faire était de sourire \ntristement et dire « c'est tout à fait lui », les larmes \naux yeux tout ce temps !"
+ },
+ {
+  "n": 85,
+  "fr": "Jill et Hans avaient le cœur brisé. Et moi aussi !"
+ },
+ {
+  "n": 86,
+  "fr": "Et pourtant, après tout cela..."
+ },
+ {
+  "n": 87,
+  "fr": "Après tout ce temps, tu te montres enfin, en sachant \ntrès bien que je suis ici, et CECI est la manière dont tu \nte comportes ? En prétendant être quelqu'un d'autre ?"
+ },
+ {
+  "n": 88,
+  "fr": "... Ha ha..."
+ },
+ {
+  "n": 89,
+  "fr": "Ha ha ha ha ha ha ha ha !#2S"
+ },
+ {
+  "n": 90,
+  "fr": "LECHTER !"
+ },
+ {
+  "n": 91,
+  "fr": "Désolé, désolé. Pas besoin de prendre un regard \neffrayant."
+ },
+ {
+  "n": 92,
+  "fr": "Tu prends toujours les choses beaucoup trop au sérieux."
+ },
+ {
+  "n": 93,
+  "fr": "On dirait qu'il va falloir plus que d'endosser le rôle de \nprincesse héritière pour changer cette part de toi."
+ },
+ {
+  "n": 94,
+  "fr": "Oh..."
+ },
+ {
+  "n": 95,
+  "fr": "Mais tu sais ? Te voir me fait un peu me sentir soulagé."
+ },
+ {
+  "n": 96,
+  "fr": "Je m'étais toujours dit que si quelqu'un comme toi \ndevenait princesse héritière, tu aurais pratiquement \naucune liberté de faire autre chose que de travailler."
+ },
+ {
+  "n": 97,
+  "fr": "Mais de tout ce que j'ai entendu, on dirait que tu \nt'en sors bien, en fait."
+ },
+ {
+  "n": 98,
+  "fr": "Et tu t'es même fait de nouveaux bons amis après que \nje sois parti de l'académie, hein ? Super !"
+ },
+ {
+  "n": 99,
+  "fr": "Hi hi..."
+ },
+ {
+  "n": 100,
+  "fr": "... Oui, en effet."
+ },
+ {
+  "n": 101,
+  "fr": "Néanmoins, c'est grâce à toi que j'ai pu changer. Tu \nas été le premier à m'orienter dans la bonne direction."
+ },
+ {
+  "n": 102,
+  "fr": "Je n'ai jamais eu la chance de te remercier comme il \nse devait après que tu sois parti..."
+ },
+ {
+  "n": 103,
+  "fr": "... Mais pendant tout ce temps, j'ai toujours été \nreconnaissante envers toi."
+ },
+ {
+  "n": 104,
+  "fr": "Eh bien, considère que j'en suis honoré."
+ },
+ {
+  "n": 105,
+  "fr": "J'ai droit à un bisou en échange ?"
+ },
+ {
+  "n": 106,
+  "fr": "Non."
+ },
+ {
+  "n": 107,
+  "fr": "Je ressens du respect envers toi, mais rien de \nromantique."
+ },
+ {
+  "n": 108,
+  "fr": "Aww. Dommage."
+ },
+ {
+  "n": 109,
+  "fr": "J'étais là, sous le charme d'à quel point tu étais \ndevenue jolie, me demandant si ça pouvait être le \ndébut de quelque chose de magique..."
+ },
+ {
+  "n": 110,
+  "fr": "... Et au lieu de ça ? Mes rêves de romance et de \nbisous sont réduits à néant avant même d'avoir pu \ncommencer."
+ },
+ {
+  "n": 111,
+  "fr": "Hi hi. Je sais que tu ne penses pas un mot de cela, \ntu sais."
+ },
+ {
+  "n": 112,
+  "fr": "Tu es toi-même très élégant, cela dit. C'est surprenant \nà voir."
+ },
+ {
+  "n": 113,
+  "fr": "Toutes les fois où je t'ai vu avant aujourd'hui, c'était \ndans cet uniforme tout froissé, porté de la manière \nla plus négligée imaginable."
+ },
+ {
+  "n": 114,
+  "fr": "Je te ferai dire que j'exprimais simplement mon \nstyle vestimentaire !"
+ },
+ {
+  "n": 115,
+  "fr": "C'était pas de la paresse ou de la négligence ! Tout \nétait soigneusement calculé et considéré pour avoir \nun maximum d'effet."
+ },
+ {
+  "n": 116,
+  "fr": "... Ce qui est effrayant, c'est que je te crois vraiment."
+ },
+ {
+  "n": 117,
+  "fr": "Tu as toujours semblé ne te soucier de rien d'autre que \nde t'amuser et de causer des problèmes, cependant, \nau fond, tu étais très mature pour ton âge. "
+ },
+ {
+  "n": 118,
+  "fr": "Et j'ai enfin vu une partie de la raison à cela \naujourd'hui."
+ },
+ {
+  "n": 119,
+  "fr": "......"
+ },
+ {
+  "n": 120,
+  "fr": "Je vais te le demander une nouvelle fois, Lechter..."
+ },
+ {
+  "n": 121,
+  "fr": "Comment t'es-tu retrouvé à travailler pour le \nchancelier Osborne ainsi ?"
+ },
+ {
+  "n": 122,
+  "fr": "Que t'est-il arrivé entre le moment où tu as remis \nton formulaire de départ de l'académie et maintenant ?"
+ },
+ {
+  "n": 123,
+  "fr": "Oups. Je crois que c'est probablement l'heure que \nl'aéronef arrive."
+ },
+ {
+  "n": 124,
+  "fr": "Je vais devoir t'arrêter là et y aller."
+ },
+ {
+  "n": 125,
+  "fr": "Qu... ?"
+ },
+ {
+  "n": 126,
+  "fr": "À plus, Sieg."
+ },
+ {
+  "n": 127,
+  "fr": "La prochaine fois que je te verrai, je te ramènerai du \nsalami érébonien en souvenir, OK ?"
+ },
+ {
+  "n": 128,
+  "fr": "Cruii. ♪"
+ },
+ {
+  "n": 129,
+  "fr": "A-Attendez !"
+ },
+ {
+  "n": 130,
+  "fr": "Comptes-tu simplement disparaître sans rien me dire \nune deuxième fois ?!"
+ },
+ {
+  "n": 131,
+  "fr": "Oh. J'ai une question importante pour toi."
+ },
+ {
+  "n": 132,
+  "fr": "Tu es tombée amoureuse de quelqu'un pendant que \nj'étais pas là ?"
+ },
+ {
+  "n": 133,
+  "fr": "Qu... ?"
+ },
+ {
+  "n": 134,
+  "fr": "Dans le mille, hein ?"
+ },
+ {
+  "n": 135,
+  "fr": "Aww ! C'est trop mignon ! Premier amour, hein ?"
+ },
+ {
+  "n": 136,
+  "fr": "Ça fait quoi ? Un moment le cœur s'emballe, un autre \nc'est la fin du monde ?"
+ },
+ {
+  "n": 137,
+  "fr": "Tu n'as pas intérêt à te mettre à te moquer de moi !"
+ },
+ {
+  "n": 138,
+  "fr": "......"
+ },
+ {
+  "n": 139,
+  "fr": "Mais tu as raison, cependant. Ceci est la vérité."
+ },
+ {
+  "n": 140,
+  "fr": "Il m'a rejetée exactement à cet endroit, il n'y a pas si \nlongtemps."
+ },
+ {
+  "n": 141,
+  "fr": "S-Sérieux ?"
+ },
+ {
+  "n": 142,
+  "fr": "C'est une coïncidence que j'avais PAS vue venir !"
+ },
+ {
+  "n": 143,
+  "fr": "Hi hi. Je n'en suis pas si sûre."
+ },
+ {
+  "n": 144,
+  "fr": "J'ai l'impression que tu sais tout, parfois."
+ },
+ {
+  "n": 145,
+  "fr": "Hé. Je suis pas un genre de divinité omnisciente."
+ },
+ {
+  "n": 146,
+  "fr": "C'est ce qui rend le monde si intéressant, à mes yeux."
+ },
+ {
+  "n": 147,
+  "fr": "Oh..."
+ },
+ {
+  "n": 148,
+  "fr": "... Je suis content pour toi, Kloe."
+ },
+ {
+  "n": 149,
+  "fr": "Connaître la douleur d'un amour perdu est ce qui fait \ns'épanouir une fille, à mon humble avis."
+ },
+ {
+  "n": 150,
+  "fr": "Est-ce que tu as l'impression que cette expérience \nt'a permis de te rapprocher de la personne que tu \nveux être ?"
+ },
+ {
+  "n": 151,
+  "fr": "... Eh bien..."
+ },
+ {
+  "n": 152,
+  "fr": "......"
+ },
+ {
+  "n": 153,
+  "fr": "Qu'en est-il de toi ?"
+ },
+ {
+  "n": 154,
+  "fr": "As-tu l'impression de te rapprocher de la personne \nque tu veux devenir ?"
+ },
+ {
+  "n": 155,
+  "fr": "En étant aux côtés du chancelier ?"
+ },
+ {
+  "n": 156,
+  "fr": "......"
+ },
+ {
+  "n": 157,
+  "fr": "C'est un peu dur de faire ça quand j'ai pas une \n« personne que je veux devenir », déjà."
+ },
+ {
+  "n": 158,
+  "fr": "Je reste juste avec lui parce qu'on dirait que ça va \nêtre marrant. C'est tout."
+ },
+ {
+  "n": 159,
+  "fr": "Je faisais déjà ça avant de rejoindre l'académie, en \nfait."
+ },
+ {
+  "n": 160,
+  "fr": "Qu... ?"
+ },
+ {
+  "n": 161,
+  "fr": "Ce prince se montre étonnamment capable, mais il \narrive toujours pas à la cheville du chancelier."
+ },
+ {
+  "n": 162,
+  "fr": "Dis-lui de surveiller ses arrières, hein ?"
+ },
+ {
+  "n": 163,
+  "fr": "Pour pas qu'il se fasse bouffer par ce monstre une \nfois qu'il en aura marre de danser."
+ },
+ {
+  "n": 164,
+  "fr": "... Au revoir, Lechter..."
+ }
+]

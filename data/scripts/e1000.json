@@ -1,0 +1,458 @@
+[
+ {
+  "n": 14,
+  "fr": "[Quitter]"
+ },
+ {
+  "n": 34,
+  "fr": "[Commencer]"
+ },
+ {
+  "n": 35,
+  "fr": "[Règles]"
+ },
+ {
+  "n": 36,
+  "fr": "[Quitter]"
+ },
+ {
+  "n": 40,
+  "fr": "{0x18}{color 5}Recommencer le mini-jeu ?"
+ },
+ {
+  "n": 47,
+  "fr": "{color 5}Recette apprise : [{color 2}{item item[486]}{color 5}]."
+ },
+ {
+  "n": 50,
+  "fr": "[Commencer]"
+ },
+ {
+  "n": 51,
+  "fr": "[Règles]"
+ },
+ {
+  "n": 52,
+  "fr": "[Quitter]"
+ },
+ {
+  "n": 56,
+  "fr": "{0x18}{color 5}Recommencer le mini-jeu ?"
+ },
+ {
+  "n": 62,
+  "fr": "{0x06}{color 5}Recette apprise : [{color 2}Sombre ragoût du chaos{color 5}]."
+ },
+ {
+  "n": 65,
+  "fr": "[Commencer]"
+ },
+ {
+  "n": 66,
+  "fr": "[Règles]"
+ },
+ {
+  "n": 67,
+  "fr": "[Quitter]"
+ },
+ {
+  "n": 71,
+  "fr": "{0x18}{color 5}Recommencer le mini-jeu ?"
+ },
+ {
+  "n": 78,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 79,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 80,
+  "fr": "[Commencer]"
+ },
+ {
+  "n": 81,
+  "fr": "[Règles]"
+ },
+ {
+  "n": 82,
+  "fr": "[Quitter]"
+ },
+ {
+  "n": 86,
+  "fr": "{0x18}{color 5}Recommencer le mini-jeu ?"
+ },
+ {
+  "n": 91,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 92,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 96,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 97,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 98,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 99,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 100,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 101,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 102,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 163,
+  "fr": "[Commencer]"
+ },
+ {
+  "n": 164,
+  "fr": "[Règles]"
+ },
+ {
+  "n": 165,
+  "fr": "[Quitter]"
+ },
+ {
+  "n": 176,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 177,
+  "fr": "[Non]"
+ },
+ {
+  "n": 178,
+  "fr": "{0x06}{color 5}Recette apprise : [{color 2}Tom yum goog drakéen{color 5}]."
+ },
+ {
+  "n": 179,
+  "fr": "Reçus : {color 2}5000 miras{color 0}."
+ },
+ {
+  "n": 196,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 197,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 201,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 203,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 204,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 207,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 209,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 210,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 212,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 215,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 216,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 217,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 218,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 220,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 221,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 223,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 224,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 225,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 226,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 227,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 228,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 229,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 231,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 232,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 235,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 236,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 237,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 238,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 239,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 240,
+  "fr": "[Commencer]"
+ },
+ {
+  "n": 241,
+  "fr": "[Règles]"
+ },
+ {
+  "n": 242,
+  "fr": "[Quitter]"
+ },
+ {
+  "n": 243,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 244,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 245,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 246,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 247,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 249,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 250,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 251,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 255,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 256,
+  "fr": "[Non]"
+ },
+ {
+  "n": 257,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 258,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 264,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 265,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 267,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 268,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 269,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 272,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 275,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 278,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 279,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 280,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 281,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 282,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 283,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 284,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 285,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 286,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 287,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 288,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 315,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 316,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 317,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 318,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 319,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 320,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 321,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 322,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 343,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 344,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 345,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 346,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 347,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 348,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ },
+ {
+  "n": 349,
+  "fr": "{color 5}Ries a remis le {item item[527]} à Kevin{color 5}."
+ }
+]

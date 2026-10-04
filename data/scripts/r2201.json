@@ -1,0 +1,182 @@
+[
+ {
+  "n": 1,
+  "fr": "{color 0}#15A～Chapitre final - Bataille à la baie d'Azelia～{0x05}"
+ },
+ {
+  "n": 2,
+  "fr": "{color 0}Le long du rivage de la côte Möwe, près de \nRuan...\n... le moment décisif que Norche avait prédit était enfin \nsur le point d'arriver.\nQue leur rencontre fût une coïncidence ou prédestinée \ndepuis le début, personne ne pouvait le dire...\nEstelle marchait nonchalamment le long du rivage sans \nraison particulière, quand tout à coup, un seul petit \nvoilier s'approcha de plus en plus près."
+ },
+ {
+  "n": 3,
+  "fr": "{color 0}Le voilier s'approcha aussi près du rivage qu'il \npût le faire en sécurité, et de son pont descendit un \nélégant homme.\nC'était un monsieur en costume, la mer s'étendant au \nloin derrière lui faisant un tout aussi élégant arrière-plan. \nDès qu'elle le vit, elle sut qu'il était le maître dont Norche \navait parlé.\nM. Fisher, détenteur du titre de Fervent pêcheur et connu \ncomme le Baron de la pêche."
+ },
+ {
+  "n": 4,
+  "fr": "!!!"
+ },
+ {
+  "n": 5,
+  "fr": "Ce leurre ! Cette CANNE !"
+ },
+ {
+  "n": 6,
+  "fr": "V-Vous êtes le président de la guilde des pêcheurs ? \nJe suis..."
+ },
+ {
+  "n": 7,
+  "fr": "Non ! Les mots ne sont pas nécessaires à présent."
+ },
+ {
+  "n": 8,
+  "fr": "J'ai attendu ce moment depuis bien plus longtemps \nque ce que vous puissiez possiblement imaginer !"
+ },
+ {
+  "n": 9,
+  "fr": "Je vous défie en un duel de pêcheurs en quinze \nmanches ! Immédiatement !"
+ },
+ {
+  "n": 10,
+  "fr": "Q-Quinze ?!"
+ },
+ {
+  "n": 11,
+  "fr": "On va y passer la journée, hein ?"
+ },
+ {
+  "n": 12,
+  "fr": "Que la bataille commence !"
+ },
+ {
+  "n": 13,
+  "fr": "[Commencer]"
+ },
+ {
+  "n": 14,
+  "fr": "[Règles]"
+ },
+ {
+  "n": 15,
+  "fr": "[Quitter]"
+ },
+ {
+  "n": 16,
+  "fr": "{color 5}#0W―――――――――――――――――――――――――――\n\nEstelle et M. Fisher vont s'affronter dans le duel en \nquinze manches du siècle.\nIls vont pêcher chacun leur tour, et celui qui aura le plus \nde points à la fin des quinze manches sera déclaré \nvainqueur.\n\nLorsque ce sera le tour d'Estelle, il vous sera demandé de \nchoisir une canne et un appât à utiliser. Certains appâts \npeuvent seulement être utilisés avec certaines cannes.\n\nAprès avoir choisi, le jeu commencera. Quand le signe ! \napparaîtra, appuyez rapidement sur confirmer pour \nattraper le poisson.\n\n―――――――――――――――――――――――――――#20W"
+ },
+ {
+  "n": 17,
+  "fr": "{color 5}#0W―――――――《 Explication des règles 》―――――――\n \n Les poissons attrapés dépendent du type d'appât, et certains\n poissons pêchés peuvent eux-mêmes servir d'appâts.\n \n Chaque poisson rapportant un certain nombre de points,\n celui qui cumule le plus de points à la fin remporte la victoire.\n \n Notez que les gros poissons peuvent parfois s'échapper,\n alors ne baissez pas les bras et réessayez.\n \n \n \n―――――――――――――――――――――――――――#20W"
+ },
+ {
+  "n": 18,
+  "fr": "J-J'ai perdu..."
+ },
+ {
+  "n": 19,
+  "fr": "Bah ha ha ! Je savais que j'étais le plus fort de tous \nles pêcheurs !"
+ },
+ {
+  "n": 20,
+  "fr": "Mais vous êtes la bienvenue si vous souhaitez me \ndéfier à nouveau quand vous penserez le moment \nopportun. J'accepte toutes les tentatives !"
+ },
+ {
+  "n": 21,
+  "fr": "{0x18}{color 5}Recommencer le mini-jeu ?"
+ },
+ {
+  "n": 22,
+  "fr": "[Recommencer]"
+ },
+ {
+  "n": 23,
+  "fr": "[Quitter la Porte]"
+ },
+ {
+  "n": 24,
+  "fr": "Incroyable... Je n'avais pas idée que vous vous \nmontreriez aussi compétente..."
+ },
+ {
+  "n": 25,
+  "fr": "L'époque pour les adultes d'ouvrir la marche est \nclairement dépassée."
+ },
+ {
+  "n": 26,
+  "fr": "Je vous demande d'accepter ceci."
+ },
+ {
+  "n": 27,
+  "fr": "{color 5}Fisher donna à Estelle une ligne de pêche aux \ncouleurs d'arc-en-ciel."
+ },
+ {
+  "n": 28,
+  "fr": "Ouah... C'est trop joli ! Merci beaucoup."
+ },
+ {
+  "n": 29,
+  "fr": "J'ai du mal à croire que le temps est enfin venu pour \nles trois fameux matériaux de pêche d'être réunis \ndans les mains d'une seule propriétaire."
+ },
+ {
+  "n": 30,
+  "fr": "Vous avez dit que votre nom était Estelle, n'est-ce \npas ?"
+ },
+ {
+  "n": 31,
+  "fr": "O-Ouais, mais..."
+ },
+ {
+  "n": 32,
+  "fr": "......"
+ },
+ {
+  "n": 33,
+  "fr": "... J'ai pris ma décision."
+ },
+ {
+  "n": 34,
+  "fr": "À partir d'aujourd'hui, vous serez la nouvelle cheffe \nde la guilde des pêcheurs !"
+ },
+ {
+  "n": 35,
+  "fr": "Hein... ?"
+ },
+ {
+  "n": 36,
+  "fr": "Q-Qu'est-ce que QUOI ?!"
+ },
+ {
+  "n": 37,
+  "fr": "Quant à moi... je suppose que j'endosserai le titre de \nprésident à titre honorifique à partir de ce jour."
+ },
+ {
+  "n": 38,
+  "fr": "Il est temps que des jeunes gens comme vous soient \nsur le devant de la scène."
+ },
+ {
+  "n": 39,
+  "fr": "J'espère que vous vous dévouerez autant que possible \nà la diffusion et à l'essort de la culture de la pêche."
+ },
+ {
+  "n": 40,
+  "fr": "A-Attendez un peu ! Vous pouvez pas juste refiler \ncette responsabilité à quelqu'un ! Je vais pas être \nla cheffe !"
+ },
+ {
+  "n": 41,
+  "fr": "{color 0}Après environ une heure de négociations \nininterrompues lors desquelles aucun ne voulait reculer...\nEstelle fut capable de convaincre M. Fisher que le fardeau \nd'être la cheffe était trop lourd pour elle, et une adhésion \nà titre honorifique à la guilde lui fut accordée à la place.\nMais bien que les duels d'Estelle fussent terminés, les \nnouvelles de ce qui s'était passé se répandirent comme \nune traînée de poudre parmi les pêcheurs, créant des \nlégendes qui persisteraient beaucoup plus longtemps.\nDorénavant, quand ils parlaient d'Estelle, ils parlaient \nd'elle en utilisant un nouveau surnom... "
+ },
+ {
+  "n": 42,
+  "fr": "{color 0}Un surnom approprié pour celle qui avait \ntriomphé de duels de pêche si difficiles...\n... Estelle, la Pêcheuse suprême."
+ },
+ {
+  "n": 43,
+  "fr": "{color 0}Épisode [Examen de la guilde des pêcheurs] terminé !"
+ },
+ {
+  "n": 44,
+  "fr": "{color 5}Reçu : {item item[300]}{color 5}."
+ },
+ {
+  "n": 45,
+  "fr": "Reçus : {color 2}5000 miras{color 0}."
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "n": 33,
+  "fr": "......"
+ },
+ {
+  "n": 36,
+  "fr": "Euhhh..."
+ },
+ {
+  "n": 38,
+  "fr": "......"
+ },
+ {
+  "n": 44,
+  "fr": "......"
+ },
+ {
+  "n": 51,
+  "fr": "{color 5}Trouvée : {item item[517]}{color 5}"
+ },
+ {
+  "n": 52,
+  "fr": "{color 5}Trouvée : {item item[517]}{color 5}.\n{color 5}Inventaire plein. Objet reposé{color 5}."
+ },
+ {
+  "n": 54,
+  "fr": "Trouvé : {item item[515]}{color 0}."
+ },
+ {
+  "n": 55,
+  "fr": "Trouvé : {item item[515]}{color 0}.\nInventaire plein. Objet reposé."
+ },
+ {
+  "n": 57,
+  "fr": "Trouvé : {item item[515]}{color 0}."
+ },
+ {
+  "n": 58,
+  "fr": "Trouvé : {item item[515]}{color 0}.\nInventaire plein. Objet reposé."
+ },
+ {
+  "n": 62,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 63,
+  "fr": "[Non]"
+ }
+]

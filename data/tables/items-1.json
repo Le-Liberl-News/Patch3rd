@@ -1,0 +1,5162 @@
+[
+ {
+  "cle": "100",
+  "type": "nom",
+  "fr": "Chaussures petits-pas"
+ },
+ {
+  "cle": "100",
+  "type": "description",
+  "fr": "[DÉF+50/DÉP+2]\nChaussures amortissantes conçues pour les activités physiques."
+ },
+ {
+  "cle": "101",
+  "type": "nom",
+  "fr": "Bottes grypes"
+ },
+ {
+  "cle": "101",
+  "type": "description",
+  "fr": "[DÉF+60/DÉP+2]\nBottes en cuir résistant protégeant parfaitement les tibias."
+ },
+ {
+  "cle": "102",
+  "type": "nom",
+  "fr": "Crampons royaux"
+ },
+ {
+  "cle": "102",
+  "type": "description",
+  "fr": "[DÉF+70/ESQ+10/DÉP+3]\r\nCrampons de combat aussi robustes que légers."
+ },
+ {
+  "cle": "103",
+  "type": "nom",
+  "fr": "Randonneuses armées"
+ },
+ {
+  "cle": "103",
+  "type": "description",
+  "fr": "[DÉF+80/DÉP+2]\nChaussures de randonnée faites pour braver tous types de terrains."
+ },
+ {
+  "cle": "104",
+  "type": "nom",
+  "fr": "Composites III"
+ },
+ {
+  "cle": "104",
+  "type": "description",
+  "fr": "[DÉF+90/DÉP+3]\nLa version définitive de ces chaussures de protection pour professionnels."
+ },
+ {
+  "cle": "105",
+  "type": "nom",
+  "fr": "Grèves Gaïa"
+ },
+ {
+  "cle": "105",
+  "type": "description",
+  "fr": "[DÉF+100/ESQ+15/DÉP+4]\nChaussures ornées d'innombrables pierres d'amberl."
+ },
+ {
+  "cle": "106",
+  "type": "nom",
+  "fr": "Tabis légers"
+ },
+ {
+  "cle": "106",
+  "type": "description",
+  "fr": "[DÉF+110/DÉP+3]\r\nFabriqué avec un tissu si fin que l'on croirait être pieds nus."
+ },
+ {
+  "cle": "107",
+  "type": "nom",
+  "fr": "Guêtres de force"
+ },
+ {
+  "cle": "107",
+  "type": "description",
+  "fr": "[DÉF+120/DÉP+4]\nProtège la totalité du pied. Utilisé principalement par l'armée."
+ },
+ {
+  "cle": "108",
+  "type": "nom",
+  "fr": "Strega-O"
+ },
+ {
+  "cle": "108",
+  "type": "description",
+  "fr": "[DÉF+130/ESQ+20/DÉP+5]\nLa paire de Strega originel de retour en édition limitée."
+ },
+ {
+  "cle": "109",
+  "type": "nom",
+  "fr": "Synchrotrons"
+ },
+ {
+  "cle": "109",
+  "type": "description",
+  "fr": "[DÉF+140/DÉP+4]\nDispositif accélérant les mouvements. Vestige des anciens."
+ },
+ {
+  "cle": "110",
+  "type": "nom",
+  "fr": "Mandaladragonnes"
+ },
+ {
+  "cle": "110",
+  "type": "description",
+  "fr": "[DÉF+150/DÉP+5]\nChaussures du Moyen Âge à l'effigie d'un dragon dansant dans les cieux."
+ },
+ {
+  "cle": "112",
+  "type": "nom",
+  "fr": "Tabis d'infiltration"
+ },
+ {
+  "cle": "112",
+  "type": "description",
+  "fr": "[DÉF+105/ESQ+100/VIT+10/DÉP+5]\nChaussures permettant de tout esquiver avec aisance."
+ },
+ {
+  "cle": "113",
+  "type": "nom",
+  "fr": "Protège-tibias de chevalier"
+ },
+ {
+  "cle": "113",
+  "type": "description",
+  "fr": "[DÉF+180/RÉS+30/ESQ-50/VIT-5/DÉP+3]\nJambières renforcées portées par les chevaliers d'antan."
+ },
+ {
+  "cle": "114",
+  "type": "nom",
+  "fr": "Sandales de sorcier"
+ },
+ {
+  "cle": "114",
+  "type": "description",
+  "fr": "[DÉF+95/ART+25/RÉS+100/DÉP+3]\nChaussures magiques avec isolant intégré dans le tissu."
+ },
+ {
+  "cle": "115",
+  "type": "nom",
+  "fr": "Chaussons potichat"
+ },
+ {
+  "cle": "115",
+  "type": "description",
+  "fr": "[DÉF+100/ESQ+10/VIT+10/DÉP+8]\nChaussons à semelles en caoutchouc ressemblant aux pattes d'un chaton."
+ },
+ {
+  "cle": "116",
+  "type": "nom",
+  "fr": "Bottes isothermes"
+ },
+ {
+  "cle": "116",
+  "type": "description",
+  "fr": "[DÉF+10/ESQ-20/VIT+15/DÉP+2]\nBottes réduisant de 75% les dégâts subis en marchant sur la lave."
+ },
+ {
+  "cle": "127",
+  "type": "nom",
+  "fr": "Bottes de cuir"
+ },
+ {
+  "cle": "127",
+  "type": "description",
+  "fr": "[DÉF+2]\nBottes en cuir tanné. Légères et souples."
+ },
+ {
+  "cle": "128",
+  "type": "nom",
+  "fr": "Bottes renforcées"
+ },
+ {
+  "cle": "128",
+  "type": "description",
+  "fr": "[DÉF+30/DÉP+1]\nBottes de cuir renforcées par une plaque de métal sur leur empeigne."
+ },
+ {
+  "cle": "170",
+  "type": "nom",
+  "fr": "Supérieures"
+ },
+ {
+  "cle": "170",
+  "type": "description",
+  "fr": "[DÉF+75/ART-5/RÉS-5/ESQ+5/VIT+5/DÉP+2/Pour hommes]\nBottes antiques permettant de surmonter l'adversité."
+ },
+ {
+  "cle": "171",
+  "type": "nom",
+  "fr": "Supérieures +1"
+ },
+ {
+  "cle": "171",
+  "type": "description",
+  "fr": "[DÉF+105/ART-15/RÉS-15/ESQ+15/VIT+10/DÉP+3/Pour hommes]\nBottes antiques permettant de surmonter l'adversité."
+ },
+ {
+  "cle": "172",
+  "type": "nom",
+  "fr": "Supérieures +2"
+ },
+ {
+  "cle": "172",
+  "type": "description",
+  "fr": "[DÉF+140/ART-25/RÉS-25/ESQ+25/VIT+15/DÉP+4/Pour hommes]\nBottes antiques permettant de surmonter l'adversité."
+ },
+ {
+  "cle": "173",
+  "type": "nom",
+  "fr": "Supérieures +3"
+ },
+ {
+  "cle": "173",
+  "type": "description",
+  "fr": "[DÉF+165/ART-35/RÉS-35/ESQ+35/VIT+20/DÉP+5/Pour hommes]\nBottes antiques permettant de surmonter l'adversité."
+ },
+ {
+  "cle": "174",
+  "type": "nom",
+  "fr": "Orteils de Titan"
+ },
+ {
+  "cle": "174",
+  "type": "description",
+  "fr": "[DEF+160/PRC+25/ESQ+25/VIT+5/DÉP+5/Pour hommes]\nSandales antiques donnant l'impression de glisser sur les veines de septium."
+ },
+ {
+  "cle": "190",
+  "type": "nom",
+  "fr": "Caoutchoutées de Péroz"
+ },
+ {
+  "cle": "190",
+  "type": "description",
+  "fr": "[DÉF+75/ART+10/RÉS+10/ESQ-5/DÉP+3/Pour femmes]\nBottes datant du Moyen-Âge conférant un pouvoir spirituel."
+ },
+ {
+  "cle": "191",
+  "type": "nom",
+  "fr": "Caoutchoutées de Péroz +1"
+ },
+ {
+  "cle": "191",
+  "type": "description",
+  "fr": "[DÉF+105/ART+25/RÉS+25/ESQ-10/DÉP+4/Pour femmes]\nBottes datant du Moyen-Âge conférant un pouvoir spirituel."
+ },
+ {
+  "cle": "192",
+  "type": "nom",
+  "fr": "Caoutchoutées de Péroz +2"
+ },
+ {
+  "cle": "192",
+  "type": "description",
+  "fr": "[DÉF+140/ART+50/RÉS+50/ESQ-15/DÉP+5/Pour femmes]\nBottes datant du Moyen-Âge conférant un pouvoir spirituel."
+ },
+ {
+  "cle": "193",
+  "type": "nom",
+  "fr": "Caoutchoutées de Péroz +3"
+ },
+ {
+  "cle": "193",
+  "type": "description",
+  "fr": "[DÉF+165/ART+75/RÉS+75/ESQ-20/DÉP+6/Pour femmes]\nBottes datant du Moyen-Âge conférant un pouvoir spirituel."
+ },
+ {
+  "cle": "194",
+  "type": "nom",
+  "fr": "Talons d'Artemis"
+ },
+ {
+  "cle": "194",
+  "type": "description",
+  "fr": "[DÉF+160/ART+30/RÉS+30/ESQ+15/DÉP+5/Pour femmes]\nChaussures décoratives antiques donnant l'impression de voler."
+ },
+ {
+  "cle": "210",
+  "type": "nom",
+  "fr": "Liberl News - Numéro 1"
+ },
+ {
+  "cle": "210",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "211",
+  "type": "nom",
+  "fr": "Liberl News - Numéro 2"
+ },
+ {
+  "cle": "211",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "212",
+  "type": "nom",
+  "fr": "Liberl News - Numéro 3"
+ },
+ {
+  "cle": "212",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "213",
+  "type": "nom",
+  "fr": "Liberl News - Numéro 4"
+ },
+ {
+  "cle": "213",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "214",
+  "type": "nom",
+  "fr": "Liberl News - Numéro 5"
+ },
+ {
+  "cle": "214",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "215",
+  "type": "nom",
+  "fr": "Liberl News - Numéro 6"
+ },
+ {
+  "cle": "215",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "216",
+  "type": "nom",
+  "fr": "Liberl News - Numéro 7"
+ },
+ {
+  "cle": "216",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "217",
+  "type": "nom",
+  "fr": "Liberl News - Numéro 8"
+ },
+ {
+  "cle": "217",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "218",
+  "type": "nom",
+  "fr": "Liberl News - Numéro 9"
+ },
+ {
+  "cle": "218",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "219",
+  "type": "nom",
+  "fr": "Liberl News - Édition spéciale"
+ },
+ {
+  "cle": "219",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "220",
+  "type": "nom",
+  "fr": "La guerre de Cent Jours"
+ },
+ {
+  "cle": "220",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "221",
+  "type": "nom",
+  "fr": "L'économie de Ruan - Vol.1"
+ },
+ {
+  "cle": "221",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "222",
+  "type": "nom",
+  "fr": "L'économie de Ruan - Vol.2"
+ },
+ {
+  "cle": "222",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "223",
+  "type": "nom",
+  "fr": "L'économie de Ruan - Vol.3"
+ },
+ {
+  "cle": "223",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "224",
+  "type": "nom",
+  "fr": "Annales d'optique septienne"
+ },
+ {
+  "cle": "224",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "225",
+  "type": "nom",
+  "fr": "Le langage des chats"
+ },
+ {
+  "cle": "225",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "226",
+  "type": "nom",
+  "fr": "Le pic d'Erbe"
+ },
+ {
+  "cle": "226",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "227",
+  "type": "nom",
+  "fr": "Le pic d'Erbe"
+ },
+ {
+  "cle": "227",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "228",
+  "type": "nom",
+  "fr": "Les aventures de Hertz II"
+ },
+ {
+  "cle": "228",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "229",
+  "type": "nom",
+  "fr": "Trente-et-un cyprès"
+ },
+ {
+  "cle": "229",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "230",
+  "type": "nom",
+  "fr": "Carnelia - Chapitre 1"
+ },
+ {
+  "cle": "230",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "231",
+  "type": "nom",
+  "fr": "Carnelia - Chapitre 2"
+ },
+ {
+  "cle": "231",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "232",
+  "type": "nom",
+  "fr": "Carnelia - Chapitre 3"
+ },
+ {
+  "cle": "232",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "233",
+  "type": "nom",
+  "fr": "Carnelia - Chapitre 4"
+ },
+ {
+  "cle": "233",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "234",
+  "type": "nom",
+  "fr": "Carnelia - Chapitre 5"
+ },
+ {
+  "cle": "234",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "235",
+  "type": "nom",
+  "fr": "Carnelia - Chapitre 6"
+ },
+ {
+  "cle": "235",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "236",
+  "type": "nom",
+  "fr": "Carnelia - Chapitre 7"
+ },
+ {
+  "cle": "236",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "237",
+  "type": "nom",
+  "fr": "Carnelia - Chapitre 8"
+ },
+ {
+  "cle": "237",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "238",
+  "type": "nom",
+  "fr": "Carnelia - Chapitre 9"
+ },
+ {
+  "cle": "238",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "239",
+  "type": "nom",
+  "fr": "Carnelia - Chapitre 10"
+ },
+ {
+  "cle": "239",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "240",
+  "type": "nom",
+  "fr": "Carnelia - Chapitre 11"
+ },
+ {
+  "cle": "240",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "241",
+  "type": "nom",
+  "fr": "Liberl News - Numéro 1"
+ },
+ {
+  "cle": "241",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "242",
+  "type": "nom",
+  "fr": "Liberl News - Numéro 2"
+ },
+ {
+  "cle": "242",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "243",
+  "type": "nom",
+  "fr": "Liberl News - Numéro 3"
+ },
+ {
+  "cle": "243",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "244",
+  "type": "nom",
+  "fr": "Liberl News - Numéro 4"
+ },
+ {
+  "cle": "244",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "245",
+  "type": "nom",
+  "fr": "Liberl News - Numéro 5"
+ },
+ {
+  "cle": "245",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "246",
+  "type": "nom",
+  "fr": "Liberl News - Numéro 6"
+ },
+ {
+  "cle": "246",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "247",
+  "type": "nom",
+  "fr": "Liberl News - Numéro 7"
+ },
+ {
+  "cle": "247",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "248",
+  "type": "nom",
+  "fr": "Liberl News - Édition spéciale"
+ },
+ {
+  "cle": "248",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "249",
+  "type": "nom",
+  "fr": "Liberl News - Numéro 8"
+ },
+ {
+  "cle": "249",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "250",
+  "type": "nom",
+  "fr": "Liberl News - Numéro 9"
+ },
+ {
+  "cle": "250",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "251",
+  "type": "nom",
+  "fr": "Liberl News - Numéro 10"
+ },
+ {
+  "cle": "251",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "252",
+  "type": "nom",
+  "fr": "Liberl News - Numéro 11"
+ },
+ {
+  "cle": "252",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "253",
+  "type": "nom",
+  "fr": "Jack, joueur invétéré - Vol.1"
+ },
+ {
+  "cle": "253",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "254",
+  "type": "nom",
+  "fr": "Jack, joueur invétéré - Vol.2"
+ },
+ {
+  "cle": "254",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "255",
+  "type": "nom",
+  "fr": "Jack, joueur invétéré - Vol.3"
+ },
+ {
+  "cle": "255",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "256",
+  "type": "nom",
+  "fr": "Jack, joueur invétéré - Vol.4"
+ },
+ {
+  "cle": "256",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "257",
+  "type": "nom",
+  "fr": "Jack, joueur invétéré - Vol.5"
+ },
+ {
+  "cle": "257",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "258",
+  "type": "nom",
+  "fr": "Jack, joueur invétéré - Vol.6"
+ },
+ {
+  "cle": "258",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "259",
+  "type": "nom",
+  "fr": "Jack, joueur invétéré - Vol.7"
+ },
+ {
+  "cle": "259",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "260",
+  "type": "nom",
+  "fr": "Jack, joueur invétéré - Vol.8"
+ },
+ {
+  "cle": "260",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "261",
+  "type": "nom",
+  "fr": "Jack, joueur invétéré - Vol.9"
+ },
+ {
+  "cle": "261",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "262",
+  "type": "nom",
+  "fr": "Jack, joueur invétéré - Vol.10"
+ },
+ {
+  "cle": "262",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "263",
+  "type": "nom",
+  "fr": "Jack, joueur invétéré - Vol.11"
+ },
+ {
+  "cle": "263",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "264",
+  "type": "nom",
+  "fr": "Jack, joueur invétéré - Vol.12"
+ },
+ {
+  "cle": "264",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "265",
+  "type": "nom",
+  "fr": "Jack, joueur invétéré - Vol.13"
+ },
+ {
+  "cle": "265",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "266",
+  "type": "nom",
+  "fr": "Jack, joueur invétéré - Vol.14"
+ },
+ {
+  "cle": "266",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "267",
+  "type": "nom",
+  "fr": "Le chevalier marionette - Vol.1"
+ },
+ {
+  "cle": "267",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "268",
+  "type": "nom",
+  "fr": "Le chevalier marionette - Vol.2"
+ },
+ {
+  "cle": "268",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "269",
+  "type": "nom",
+  "fr": "Le chevalier marionette - Vol.3"
+ },
+ {
+  "cle": "269",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "270",
+  "type": "nom",
+  "fr": "Le chevalier marionette - Vol.4"
+ },
+ {
+  "cle": "270",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "271",
+  "type": "nom",
+  "fr": "Le chevalier marionette - Vol.5"
+ },
+ {
+  "cle": "271",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "272",
+  "type": "nom",
+  "fr": "Le chevalier marionette - Vol.6"
+ },
+ {
+  "cle": "272",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "273",
+  "type": "nom",
+  "fr": "Le chevalier marionette - Vol.7"
+ },
+ {
+  "cle": "273",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "274",
+  "type": "nom",
+  "fr": "Le chevalier marionette - Vol.8"
+ },
+ {
+  "cle": "274",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "275",
+  "type": "nom",
+  "fr": "Le chevalier marionette - Vol.9"
+ },
+ {
+  "cle": "275",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "276",
+  "type": "nom",
+  "fr": "Le chevalier marionette - Vol.10"
+ },
+ {
+  "cle": "276",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "277",
+  "type": "nom",
+  "fr": "Le chevalier marionette - Vol.11"
+ },
+ {
+  "cle": "277",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "278",
+  "type": "nom",
+  "fr": "Le chevalier marionette - Vol.12"
+ },
+ {
+  "cle": "278",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "279",
+  "type": "nom",
+  "fr": "Le chevalier marionette - Vol.13"
+ },
+ {
+  "cle": "279",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "280",
+  "type": "nom",
+  "fr": "Le chevalier marionette - Vol.14"
+ },
+ {
+  "cle": "280",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "281",
+  "type": "nom",
+  "fr": "Le chevalier marionette - Vol.15"
+ },
+ {
+  "cle": "281",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "282",
+  "type": "nom",
+  "fr": "Le chevalier marionette - Vol.16"
+ },
+ {
+  "cle": "282",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "283",
+  "type": "nom",
+  "fr": "Le chevalier marionette - Vol.17"
+ },
+ {
+  "cle": "283",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "284",
+  "type": "nom",
+  "fr": "Le chevalier marionette - Vol.18"
+ },
+ {
+  "cle": "284",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "285",
+  "type": "nom",
+  "fr": "Le chevalier marionette - Vol.19"
+ },
+ {
+  "cle": "285",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "286",
+  "type": "nom",
+  "fr": "Le chevalier marionette - Vol.20"
+ },
+ {
+  "cle": "286",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "287",
+  "type": "nom",
+  "fr": "Le chevalier marionette - Vol.21"
+ },
+ {
+  "cle": "287",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "288",
+  "type": "nom",
+  "fr": "Le chevalier marionette - Vol. final"
+ },
+ {
+  "cle": "288",
+  "type": "description",
+  "fr": "Livre inobtenable."
+ },
+ {
+  "cle": "336",
+  "type": "nom",
+  "fr": "Lunettes nocturnes"
+ },
+ {
+  "cle": "336",
+  "type": "description",
+  "fr": "Lunettes permettant à celui qui les porte de voir dans l'obscurité.\nLes lentilles sont couvertes d'un revêtement spécial intensifiant la lumière."
+ },
+ {
+  "cle": "320",
+  "type": "nom",
+  "fr": "Poupée retournement"
+ },
+ {
+  "cle": "320",
+  "type": "description",
+  "fr": "[Protège une fois du K.O. et redonne alors tous les PV/PE/PT]\nRessuscite une fois le porteur à son meilleur état mais se brise après utilisation."
+ },
+ {
+  "cle": "325",
+  "type": "nom",
+  "fr": "Poupée de substitution"
+ },
+ {
+  "cle": "325",
+  "type": "description",
+  "fr": "[Protège du K.O.]\nRessuscite une fois le porteur mais se brise après utilisation."
+ },
+ {
+  "cle": "326",
+  "type": "nom",
+  "fr": "Bandeau de gladiateur"
+ },
+ {
+  "cle": "326",
+  "type": "description",
+  "fr": "[FOR+5/DÉF-5/Gain de PT +]\nBandeau amplifiant les capacités de combat du porteur."
+ },
+ {
+  "cle": "327",
+  "type": "nom",
+  "fr": "Ceinture de gladiateur"
+ },
+ {
+  "cle": "327",
+  "type": "description",
+  "fr": "[FOR+10/DÉF-10/Gain PT auto.]\nCeinture amplifiant les capacités de combat du porteur."
+ },
+ {
+  "cle": "328",
+  "type": "nom",
+  "fr": "Super bandeau de gladiateur"
+ },
+ {
+  "cle": "328",
+  "type": "description",
+  "fr": "[FOR+25/DÉF-25/Gain de PT+]\nSuper bandeau amplifiant les capacités de combat du porteur."
+ },
+ {
+  "cle": "329",
+  "type": "nom",
+  "fr": "Super ceinture de gladiateur"
+ },
+ {
+  "cle": "329",
+  "type": "description",
+  "fr": "[FOR+50/DÉF-50/Gain PT auto.]\nSuper ceinture amplifiant les capacités de combat du porteur."
+ },
+ {
+  "cle": "347",
+  "type": "nom",
+  "fr": "Sceau de la lune"
+ },
+ {
+  "cle": "347",
+  "type": "description",
+  "fr": "[FOR+5/DÉF-5/Gain de PT+]\nEmblème d'argent gravé d'un symbole lunaire."
+ },
+ {
+  "cle": "348",
+  "type": "nom",
+  "fr": "Sceau du soleil"
+ },
+ {
+  "cle": "348",
+  "type": "description",
+  "fr": "[FOR+10/DÉF-10/Gain PT auto.]\nEmblème d'or gravé d'un symbole solaire."
+ },
+ {
+  "cle": "330",
+  "type": "nom",
+  "fr": "Canon lisse"
+ },
+ {
+  "cle": "330",
+  "type": "description",
+  "fr": "[POR+2]\nAugmente la portée de tir des canons et pistolets orbaux."
+ },
+ {
+  "cle": "331",
+  "type": "nom",
+  "fr": "Canon lisse +"
+ },
+ {
+  "cle": "331",
+  "type": "description",
+  "fr": "[PRC+10/POR+2/VIT+3]\nAugmente la portée de tir des canons et pistolets orbaux."
+ },
+ {
+  "cle": "332",
+  "type": "nom",
+  "fr": "Canon lisse II"
+ },
+ {
+  "cle": "332",
+  "type": "description",
+  "fr": "[POR+3]\nAugmente la portée de tir des canons et pistolets orbaux."
+ },
+ {
+  "cle": "333",
+  "type": "nom",
+  "fr": "Canon lisse II +"
+ },
+ {
+  "cle": "333",
+  "type": "description",
+  "fr": "[PRC+20/POR+3/VIT+3]\nAugmente la portée de tir des canons et pistolets orbaux."
+ },
+ {
+  "cle": "334",
+  "type": "nom",
+  "fr": "Canon lisse III"
+ },
+ {
+  "cle": "334",
+  "type": "description",
+  "fr": "[POR+4]\nAugmente la portée de tir des canons et pistolets orbaux."
+ },
+ {
+  "cle": "335",
+  "type": "nom",
+  "fr": "Canon lisse III +"
+ },
+ {
+  "cle": "335",
+  "type": "description",
+  "fr": "[PRC+30/POR+4/VIT+3]\nAugmente la portée de tir des canons et pistolets orbaux."
+ },
+ {
+  "cle": "339",
+  "type": "nom",
+  "fr": "Canon lisse EX"
+ },
+ {
+  "cle": "339",
+  "type": "description",
+  "fr": "[POR+2/FOR+20/Réservé à Tita]\nAugmente la portée de tir des canons orbaux."
+ },
+ {
+  "cle": "349",
+  "type": "nom",
+  "fr": "Diadème d'Esmelas"
+ },
+ {
+  "cle": "349",
+  "type": "description",
+  "fr": "[Protège de tous les états anormaux/Caract.+] \nDiadème de septium jade octroyant une bénédiction céleste."
+ },
+ {
+  "cle": "350",
+  "type": "nom",
+  "fr": "Bijou argenté"
+ },
+ {
+  "cle": "350",
+  "type": "description",
+  "fr": "[Protège du poison] \nBoucle d'oreille en argent bénie par la Déesse Aidios."
+ },
+ {
+  "cle": "351",
+  "type": "nom",
+  "fr": "Bijou argenté +"
+ },
+ {
+  "cle": "351",
+  "type": "description",
+  "fr": "[DÉF+50/RÉS+600/Protège du poison] \nBoucle d'oreille en argent bénie par la Déesse Aidios."
+ },
+ {
+  "cle": "352",
+  "type": "nom",
+  "fr": "Briquet"
+ },
+ {
+  "cle": "352",
+  "type": "description",
+  "fr": "[Protège du gel]\nPrisé des bracers qui arpentent les zones froides."
+ },
+ {
+  "cle": "353",
+  "type": "nom",
+  "fr": "Briquet +"
+ },
+ {
+  "cle": "353",
+  "type": "description",
+  "fr": "[FOR+50/DÉP-1/Protège du gel]\nPrisé des bracers qui arpentent les zones froides."
+ },
+ {
+  "cle": "354",
+  "type": "nom",
+  "fr": "Bague mirage"
+ },
+ {
+  "cle": "354",
+  "type": "description",
+  "fr": "[Protège de la pétrification]\nMystérieuse bague incrustée d'un joyau arc-en-ciel."
+ },
+ {
+  "cle": "355",
+  "type": "nom",
+  "fr": "Bague mirage +"
+ },
+ {
+  "cle": "355",
+  "type": "description",
+  "fr": "[DÉF+50/RÉS+600/ESQ+10/Protège de la pétrification]\nMystérieuse bague incrustée d'un joyau arc-en-ciel."
+ },
+ {
+  "cle": "356",
+  "type": "nom",
+  "fr": "Bracelet noir"
+ },
+ {
+  "cle": "356",
+  "type": "description",
+  "fr": "[Protège du sommeil] \nUn bracelet en cuir qui stimule un point de pression."
+ },
+ {
+  "cle": "357",
+  "type": "nom",
+  "fr": "Bracelet noir +"
+ },
+ {
+  "cle": "357",
+  "type": "description",
+  "fr": "[PRC+100/ESQ+10/Protège du sommeil] \nUn bracelet en cuir qui stimule un point de pression."
+ },
+ {
+  "cle": "358",
+  "type": "nom",
+  "fr": "Choker glamour"
+ },
+ {
+  "cle": "358",
+  "type": "description",
+  "fr": "[Protège du silence] \nCollier qui dissipe les effets empêchant d'utiliser les arts."
+ },
+ {
+  "cle": "359",
+  "type": "nom",
+  "fr": "Choker glamour +"
+ },
+ {
+  "cle": "359",
+  "type": "description",
+  "fr": "[RÉS+600/VIT+5/Protège du silence] \nCollier qui dissipe les effets empêchant d'utiliser les arts."
+ },
+ {
+  "cle": "360",
+  "type": "nom",
+  "fr": "Bracelet blanc"
+ },
+ {
+  "cle": "360",
+  "type": "description",
+  "fr": "[Protège de la cécité] \nBracelet émettant une lumière empêchant l'aveuglement."
+ },
+ {
+  "cle": "361",
+  "type": "nom",
+  "fr": "Bracelet blanc +"
+ },
+ {
+  "cle": "361",
+  "type": "description",
+  "fr": "[ART+100/DÉP-1/Protège de la cécité] \nBracelet émettant une lumière empêchant l'aveuglement."
+ },
+ {
+  "cle": "362",
+  "type": "nom",
+  "fr": "Bijou nacré"
+ },
+ {
+  "cle": "362",
+  "type": "description",
+  "fr": "[Protège de l'entrave] \nBoucle d'oreille sertie d'une pierre précieuse orientale."
+ },
+ {
+  "cle": "363",
+  "type": "nom",
+  "fr": "Bijou nacré +"
+ },
+ {
+  "cle": "363",
+  "type": "description",
+  "fr": "[DÉF+50/ESQ+10/DÉP+1/Protège de l'entrave] \nBoucle d'oreille sertie d'une pierre précieuse orientale."
+ },
+ {
+  "cle": "364",
+  "type": "nom",
+  "fr": "Collier de lys"
+ },
+ {
+  "cle": "364",
+  "type": "description",
+  "fr": "[Protège de la confusion]\nCollier dont émane un parfum floral aux effets apaisants."
+ },
+ {
+  "cle": "365",
+  "type": "nom",
+  "fr": "Collier de lys +"
+ },
+ {
+  "cle": "365",
+  "type": "description",
+  "fr": "[FOR+50/RÉS+400/ESQ-5/Protège de la confusion]\nCollier dont émane un parfum floral aux effets apaisants."
+ },
+ {
+  "cle": "366",
+  "type": "nom",
+  "fr": "Broche de plume"
+ },
+ {
+  "cle": "366",
+  "type": "description",
+  "fr": "[Protège de l'étourdissement] \nBroche décorée d'une plume d'un bleu éclatant."
+ },
+ {
+  "cle": "367",
+  "type": "nom",
+  "fr": "Broche de plume +"
+ },
+ {
+  "cle": "367",
+  "type": "description",
+  "fr": "[Caract.+/Protège de l'étourdissement] \nBroche décorée d'une plume d'un bleu éclatant."
+ },
+ {
+  "cle": "368",
+  "type": "nom",
+  "fr": "Collier mortuaire"
+ },
+ {
+  "cle": "368",
+  "type": "description",
+  "fr": "[Protège de la mort subite]\nPendentif en os avec un crâne gravé sur sa surface."
+ },
+ {
+  "cle": "369",
+  "type": "nom",
+  "fr": "Collier mortuaire +"
+ },
+ {
+  "cle": "369",
+  "type": "description",
+  "fr": "[ART+50/VIT+5/Protège de la mort subite]\nPendentif en os avec un crâne gravé sur sa surface."
+ },
+ {
+  "cle": "370",
+  "type": "nom",
+  "fr": "Jambelet"
+ },
+ {
+  "cle": "370",
+  "type": "description",
+  "fr": "[Protège du gel et de la pétrification]\nChaîne de cheville empêchant d'être immobilisé."
+ },
+ {
+  "cle": "371",
+  "type": "nom",
+  "fr": "Jambelet +"
+ },
+ {
+  "cle": "371",
+  "type": "description",
+  "fr": "[Caract.+/Protège du gel et de la pétrification]\nChaîne de cheville empêchant d'être immobilisé."
+ },
+ {
+  "cle": "372",
+  "type": "nom",
+  "fr": "Amulette du croissant"
+ },
+ {
+  "cle": "372",
+  "type": "description",
+  "fr": "[Protège du sommeil et de l'étourdissement]\nAmulette en forme de croissant qui maintient son porteur en alerte."
+ },
+ {
+  "cle": "373",
+  "type": "nom",
+  "fr": "Amulette du croissant +"
+ },
+ {
+  "cle": "373",
+  "type": "description",
+  "fr": "[ART+50/RÉS+50/Protège du sommeil et de l'étourdissement]\nAmulette en forme de croissant qui maintient son porteur en alerte."
+ },
+ {
+  "cle": "374",
+  "type": "nom",
+  "fr": "Grains de maintien"
+ },
+ {
+  "cle": "374",
+  "type": "description",
+  "fr": "[Protège du sommeil et de la confusion]\nAccessoires cérémoniels d'usage très répandu dans l'est pour les prières."
+ },
+ {
+  "cle": "375",
+  "type": "nom",
+  "fr": "Grains de maintien +"
+ },
+ {
+  "cle": "375",
+  "type": "description",
+  "fr": "[ESQ+100/ESQ+10/Protège du sommeil et de la confusion]\nAccessoires cérémoniels d'usage très répandu dans l'est pour les prières."
+ },
+ {
+  "cle": "376",
+  "type": "nom",
+  "fr": "Éventail tornade"
+ },
+ {
+  "cle": "376",
+  "type": "description",
+  "fr": "[Protège de poison et du gel]\nPetit ventilateur très performant formant une barrière d'air autour de l'usager."
+ },
+ {
+  "cle": "377",
+  "type": "nom",
+  "fr": "Éventail tornade +"
+ },
+ {
+  "cle": "377",
+  "type": "description",
+  "fr": "[FOR+50/DÉF+50/Protège de poison et du gel]\nPetit ventilateur très performant formant une barrière d'air autour de l'usager."
+ },
+ {
+  "cle": "378",
+  "type": "nom",
+  "fr": "Lunettes lunaires"
+ },
+ {
+  "cle": "378",
+  "type": "description",
+  "fr": "[Protège du poison et de la cécité]\nLunettes protectrices récentes du CTZ faisant étonnamment office d'antidote."
+ },
+ {
+  "cle": "379",
+  "type": "nom",
+  "fr": "Lunettes lunaires +"
+ },
+ {
+  "cle": "379",
+  "type": "description",
+  "fr": "[ART+50/RÉS+50/Protège du poison et de la cécité]\nLunettes protectrices récentes du CTZ faisant étonnamment office d'antidote."
+ },
+ {
+  "cle": "380",
+  "type": "nom",
+  "fr": "Lebensborn"
+ },
+ {
+  "cle": "380",
+  "type": "description",
+  "fr": "[Protège de la pétrification et la mort subite]\nEau bénite d'Artéria contenue dans un flacon. Connue pour être porte-bonheur."
+ },
+ {
+  "cle": "381",
+  "type": "nom",
+  "fr": "Lebensborn +"
+ },
+ {
+  "cle": "381",
+  "type": "description",
+  "fr": "[Caract.+/Protège de la pétrification et la mort subite]\nEau bénite d'Artéria contenue dans un flacon. Connue pour être porte-bonheur."
+ },
+ {
+  "cle": "382",
+  "type": "nom",
+  "fr": "Vajra"
+ },
+ {
+  "cle": "382",
+  "type": "description",
+  "fr": "[DÉF+25/RÉS+400/ESQ+10/Protège de l'entrave et du silence]\nÉquipement en alliage de cuivre. Symbole oriental supposé de l'exorcisme."
+ },
+ {
+  "cle": "383",
+  "type": "nom",
+  "fr": "Vajra +"
+ },
+ {
+  "cle": "383",
+  "type": "description",
+  "fr": "[FOR+50/DÉF+50/RÉS+800/ESQ+10/Protège de l'entrave et du silence]\nÉquipement en alliage de cuivre. Symbole oriental supposé de l'exorcisme."
+ },
+ {
+  "cle": "384",
+  "type": "nom",
+  "fr": "Sphère brillante"
+ },
+ {
+  "cle": "384",
+  "type": "description",
+  "fr": "[FOR+20/Protège du sommeil, de la cécité et du gel]\nAccessoire monté d'une pierre précieuse prêtant force à son porteur."
+ },
+ {
+  "cle": "385",
+  "type": "nom",
+  "fr": "Sphère brillante +"
+ },
+ {
+  "cle": "385",
+  "type": "description",
+  "fr": "[Caract.+/Protège du sommeil, de la cécité et du gel]\nAccessoire monté d'une pierre précieuse prêtant force à son porteur."
+ },
+ {
+  "cle": "386",
+  "type": "nom",
+  "fr": "Médaillon du Graal"
+ },
+ {
+  "cle": "386",
+  "type": "description",
+  "fr": "[Protège de tous les états anormaux (excepté le K.O.)] \nOrnement inspiré d'un artéfact septien sacré."
+ },
+ {
+  "cle": "387",
+  "type": "nom",
+  "fr": "Emblème de radiance"
+ },
+ {
+  "cle": "387",
+  "type": "description",
+  "fr": "[Caract.+/Protège de tous les états anormaux (excepté le K.O.)] \nEmblème étrange fait d'un matériau brillant inconnu."
+ },
+ {
+  "cle": "388",
+  "type": "nom",
+  "fr": "Emblème de la Lame divine"
+ },
+ {
+  "cle": "388",
+  "type": "description",
+  "fr": "[Toutes caractéristiques améliorées (sauf POR)]\nEmblème cramoisie renfermant l'âme de la Lame divine."
+ },
+ {
+  "cle": "389",
+  "type": "nom",
+  "fr": "Emblème de la Lame impériale"
+ },
+ {
+  "cle": "389",
+  "type": "description",
+  "fr": "[Toutes caractéristiques améliorées (sauf POR)]\nEmblème cramoisie renfermant l'âme de la Lame impériale."
+ },
+ {
+  "cle": "390",
+  "type": "nom",
+  "fr": "Ruban Quinty"
+ },
+ {
+  "cle": "390",
+  "type": "description",
+  "fr": "[DÉF+50/ART+50/RÉS+400/VIT+10/ESQ+10/DÉP+1]\nRuban critique réservé à une personne spécifique♪"
+ },
+ {
+  "cle": "391",
+  "type": "nom",
+  "fr": "Ruban Quinty +"
+ },
+ {
+  "cle": "391",
+  "type": "description",
+  "fr": "[DÉF+50/ART+100/RÉS+800/VIT+20/ESQ+20/DÉP+1]\nRuban critique réservé à une personne spécifique♪"
+ },
+ {
+  "cle": "392",
+  "type": "nom",
+  "fr": "Cœur de tigre"
+ },
+ {
+  "cle": "392",
+  "type": "description",
+  "fr": "[FOR+50/DÉF+50/ART-50/RÉS-50/Protège de l'entrave]\nGemme fauve forçant son porteur à se focaliser sur l'ennemi le plus proche."
+ },
+ {
+  "cle": "394",
+  "type": "nom",
+  "fr": "Œil écarlate"
+ },
+ {
+  "cle": "394",
+  "type": "description",
+  "fr": "[ART+50/RÉS+50/DÉP-1/VIT-5/Protège du silence]\nGemme rougeoyante forçant son porteur à se focaliser sur son orbement."
+ },
+ {
+  "cle": "395",
+  "type": "nom",
+  "fr": "Emblème du Fou"
+ },
+ {
+  "cle": "395",
+  "type": "description",
+  "fr": "[Caract.+/Caract.-] \nEmblème rose décoré avec extravagance de toutes les couleurs."
+ },
+ {
+  "cle": "396",
+  "type": "nom",
+  "fr": "Anneau de Carnelia"
+ },
+ {
+  "cle": "396",
+  "type": "description",
+  "fr": "[Protège des malus de FOR/DÉF/RÉS] \nAnneau de septium écarlate octroyant une bénédiction céleste."
+ },
+ {
+  "cle": "397",
+  "type": "nom",
+  "fr": "Bracelet d'Amberl"
+ },
+ {
+  "cle": "397",
+  "type": "description",
+  "fr": "[Protège des malus de DÉP/VIT] \nBracelet de septium ambré octroyant une bénédiction céleste."
+ },
+ {
+  "cle": "398",
+  "type": "nom",
+  "fr": "Collier de Saphirl"
+ },
+ {
+  "cle": "398",
+  "type": "description",
+  "fr": "[Protège des malus de DÉP/VIT] \nBracelet de septium azuré octroyant une bénédiction céleste."
+ },
+ {
+  "cle": "399",
+  "type": "nom",
+  "fr": "Couronne étincellante"
+ },
+ {
+  "cle": "399",
+  "type": "description",
+  "fr": "[Protège de tous les états anormaux et malus/Caract.+]\nCouronne suprême sertie de tous les types de septium."
+ },
+ {
+  "cle": "300",
+  "type": "nom",
+  "fr": "Emblème du maître-pêcheur"
+ },
+ {
+  "cle": "300",
+  "type": "description",
+  "fr": "[FOR+50/POR+1/DÉP-3/Réservé à Estelle]\nCouronnement de carrière. Agrandit la zone d'attaque par sa concentration."
+ },
+ {
+  "cle": "301",
+  "type": "nom",
+  "fr": "Pierre de bonheur"
+ },
+ {
+  "cle": "301",
+  "type": "description",
+  "fr": "[VIT-20/Sepiths obtenus+]\nÉtrange pierre faisant tomber des sepiths des ennemis attaqués."
+ },
+ {
+  "cle": "302",
+  "type": "nom",
+  "fr": "Cape du voleur fantôme"
+ },
+ {
+  "cle": "302",
+  "type": "description",
+  "fr": "[ESQ+20/DÉP+3/Items obtenus+]\nCape de B, le Voleur fantôme. Augmente les gains d'objets."
+ },
+ {
+  "cle": "303",
+  "type": "nom",
+  "fr": "Carte de la destinée"
+ },
+ {
+  "cle": "303",
+  "type": "description",
+  "fr": "[Protège de la mort subite]\nAtout caché, dernière carte à qui l'on confie son sort."
+ },
+ {
+  "cle": "318",
+  "type": "nom",
+  "fr": "Queue de chat"
+ },
+ {
+  "cle": "318",
+  "type": "description",
+  "fr": "[DÉP+2]\nAccessoire en forme de queue de chat. Fais se sentir léger."
+ },
+ {
+  "cle": "401",
+  "type": "nom",
+  "fr": "▼"
+ },
+ {
+  "cle": "401",
+  "type": "description",
+  "fr": "▼"
+ },
+ {
+  "cle": "402",
+  "type": "nom",
+  "fr": "Castella Castel"
+ },
+ {
+  "cle": "402",
+  "type": "description",
+  "fr": "[5500PV/Soigne de la Pétrification]\nUne pâtisserie moelleuse aromatisée à l'alcool."
+ },
+ {
+  "cle": "403",
+  "type": "nom",
+  "fr": "Sandwich salade œuf"
+ },
+ {
+  "cle": "403",
+  "type": "description",
+  "fr": "[1500PV]\nSandwich simple fait avec un œuf à la coque et une salade fraîche."
+ },
+ {
+  "cle": "404",
+  "type": "nom",
+  "fr": "Assortiment anti-tanuki"
+ },
+ {
+  "cle": "404",
+  "type": "description",
+  "fr": "[4100PV/DÉF+10%]\nUn plat oriental autrefois utilisé pour chasser les mauvais esprits."
+ },
+ {
+  "cle": "405",
+  "type": "nom",
+  "fr": "■"
+ },
+ {
+  "cle": "406",
+  "type": "nom",
+  "fr": "Grappino-tourte"
+ },
+ {
+  "cle": "406",
+  "type": "description",
+  "fr": "[8000PV/Soigne de la Confusion]\nAttrapez-la entre vos dents pour améliorer votre acuité visuelle."
+ },
+ {
+  "cle": "407",
+  "type": "nom",
+  "fr": "■"
+ },
+ {
+  "cle": "408",
+  "type": "nom",
+  "fr": "Frites carnel-ketchup"
+ },
+ {
+  "cle": "408",
+  "type": "description",
+  "fr": "[2000PV/Soigne du Gel]\nDes frites à tremper dans une des sauces les plus épicées du continent."
+ },
+ {
+  "cle": "409",
+  "type": "nom",
+  "fr": "Swingdwich"
+ },
+ {
+  "cle": "409",
+  "type": "description",
+  "fr": "[3000PV/50PT]\nUn sandwich gros comme une batte. Agitez-le comme tel pour le style."
+ },
+ {
+  "cle": "410",
+  "type": "nom",
+  "fr": "Amar Spiritus"
+ },
+ {
+  "cle": "410",
+  "type": "description",
+  "fr": "[5500PV/Soigne du K.O.]\nFort alcool que les bracers utilisent comme stimulant dans les montagnes."
+ },
+ {
+  "cle": "411",
+  "type": "nom",
+  "fr": "Eau fraîche naturelle"
+ },
+ {
+  "cle": "411",
+  "type": "description",
+  "fr": "[2000PV/Soigne du K.O.]\nEau de source filtrée à l'aide de feuilles de thé."
+ },
+ {
+  "cle": "412",
+  "type": "nom",
+  "fr": "Rôti de cerveau"
+ },
+ {
+  "cle": "412",
+  "type": "description",
+  "fr": "[4000PV/Soigne du Sommeil]\nCafé efficace pour lutter contre le sommeil. Trop amer pour être populaire."
+ },
+ {
+  "cle": "413",
+  "type": "nom",
+  "fr": "Élixir du goûteur"
+ },
+ {
+  "cle": "413",
+  "type": "description",
+  "fr": "[12000PV/Soigne du K.O.]\nPlat médicinal pouvant facilement être utilisé comme un poison."
+ },
+ {
+  "cle": "414",
+  "type": "nom",
+  "fr": "■"
+ },
+ {
+  "cle": "415",
+  "type": "nom",
+  "fr": "■"
+ },
+ {
+  "cle": "416",
+  "type": "nom",
+  "fr": "■"
+ },
+ {
+  "cle": "417",
+  "type": "nom",
+  "fr": "■"
+ },
+ {
+  "cle": "418",
+  "type": "nom",
+  "fr": "Fragrance émotion"
+ },
+ {
+  "cle": "418",
+  "type": "description",
+  "fr": "[8000PV/FOR+20%/DÉF+20%]\nUn jus au parfum enivrant qui arrache toujours un soupir."
+ },
+ {
+  "cle": "419",
+  "type": "nom",
+  "fr": "Grill Vortex"
+ },
+ {
+  "cle": "419",
+  "type": "description",
+  "fr": "[8200PV/Soigne d'Étourdissement/Sommeil/Pétrification]\nUn plat atypique dont la croûte dorée est particulièrement délicieuse."
+ },
+ {
+  "cle": "420",
+  "type": "nom",
+  "fr": "Eden fruité perdu"
+ },
+ {
+  "cle": "420",
+  "type": "description",
+  "fr": "[12000PV/Soigne des altérations d'état]\nUn dessert tentant qui donne l’impression de rajeunir."
+ },
+ {
+  "cle": "421",
+  "type": "nom",
+  "fr": "▼"
+ },
+ {
+  "cle": "421",
+  "type": "description",
+  "fr": "▼"
+ },
+ {
+  "cle": "422",
+  "type": "nom",
+  "fr": "■"
+ },
+ {
+  "cle": "423",
+  "type": "nom",
+  "fr": "Sire Onsen Tamago"
+ },
+ {
+  "cle": "423",
+  "type": "description",
+  "fr": "[10000PV/Soigne de Poison/Cécité/Gel]\nUn œuf de source chaude de luxe accompagné de légumes frais."
+ },
+ {
+  "cle": "424",
+  "type": "nom",
+  "fr": "Osso bucco napalm"
+ },
+ {
+  "cle": "424",
+  "type": "description",
+  "fr": "[16000PV/DÉF+20%]\nUne viande grillée qui se mange jusqu'à l'os. Faites le plein de calcium. "
+ },
+ {
+  "cle": "425",
+  "type": "nom",
+  "fr": "Carapace gri-mi-bou"
+ },
+ {
+  "cle": "425",
+  "type": "description",
+  "fr": "[18000PV/DÉF+20%]\nPlat de luxe dont même le bouillon et le miso sont faits de crabe."
+ },
+ {
+  "cle": "426",
+  "type": "nom",
+  "fr": "■"
+ },
+ {
+  "cle": "427",
+  "type": "nom",
+  "fr": "Ronde des mets"
+ },
+ {
+  "cle": "427",
+  "type": "description",
+  "fr": "[10000PV/Soigne d'Étourdissement/Sommeil/Pétrification]\nUne spécialité de la mer qui met l'eau à la bouche instantanément."
+ },
+ {
+  "cle": "428",
+  "type": "nom",
+  "fr": "Phénix frit"
+ },
+ {
+  "cle": "428",
+  "type": "description",
+  "fr": "[4000PV/FOR+20%]\nDu poulet frit extrêmement épicé. Préparez-vous à avoir chaud."
+ },
+ {
+  "cle": "429",
+  "type": "nom",
+  "fr": "▼"
+ },
+ {
+  "cle": "429",
+  "type": "description",
+  "fr": "▼"
+ },
+ {
+  "cle": "430",
+  "type": "nom",
+  "fr": "■"
+ },
+ {
+  "cle": "431",
+  "type": "nom",
+  "fr": "■"
+ },
+ {
+  "cle": "432",
+  "type": "nom",
+  "fr": "■"
+ },
+ {
+  "cle": "433",
+  "type": "nom",
+  "fr": "■"
+ },
+ {
+  "cle": "434",
+  "type": "nom",
+  "fr": "■"
+ },
+ {
+  "cle": "435",
+  "type": "nom",
+  "fr": "■"
+ },
+ {
+  "cle": "436",
+  "type": "nom",
+  "fr": "Poisson effondu"
+ },
+ {
+  "cle": "436",
+  "type": "description",
+  "fr": "[5400PV/Soigne de l'Entrave]\nUn poisson mijoté avec une minutie exemplaire dans du miso."
+ },
+ {
+  "cle": "437",
+  "type": "nom",
+  "fr": "Finito de poisson"
+ },
+ {
+  "cle": "437",
+  "type": "description",
+  "fr": "[2500PV/Soigne d'Étourdissement/Sommeil/Pétrification]\nLa dernière destination d'un poisson qui a parcouru toutes les mers du monde."
+ },
+ {
+  "cle": "438",
+  "type": "nom",
+  "fr": "Brochette de rivière"
+ },
+ {
+  "cle": "438",
+  "type": "description",
+  "fr": "[14000PV/VIT+20%]\nBrochette de poisson grillé en plein air juste après avoir été pêché."
+ },
+ {
+  "cle": "439",
+  "type": "nom",
+  "fr": "■"
+ },
+ {
+  "cle": "440",
+  "type": "nom",
+  "fr": "Gelée de crudités"
+ },
+ {
+  "cle": "440",
+  "type": "description",
+  "fr": "[13000PV/Soigne d'Entrave/Silence/Confusion]\nPlat expérimental voyant des crudités incrustées dans de la gélatine."
+ },
+ {
+  "cle": "441",
+  "type": "nom",
+  "fr": "Fondue Rico"
+ },
+ {
+  "cle": "441",
+  "type": "description",
+  "fr": "[13000PV/Soigne de Poison/Cécité/Gel]\nUne sauce fondante à la tomate. À déguster avec du pain."
+ },
+ {
+  "cle": "442",
+  "type": "nom",
+  "fr": "■"
+ },
+ {
+  "cle": "443",
+  "type": "nom",
+  "fr": "■"
+ },
+ {
+  "cle": "444",
+  "type": "nom",
+  "fr": "Crêpe drapée"
+ },
+ {
+  "cle": "444",
+  "type": "description",
+  "fr": "[4300PV/DÉP+1/VIT+10%]\nUne crêpe si moelleuse et si sucrée qu’elle allège le corps et l’esprit."
+ },
+ {
+  "cle": "445",
+  "type": "nom",
+  "fr": "■"
+ },
+ {
+  "cle": "446",
+  "type": "nom",
+  "fr": "Trio de glaces"
+ },
+ {
+  "cle": "446",
+  "type": "description",
+  "fr": "[8200PV/20PT]\nUne glace mélangeant les trois saveurs les plus populaires."
+ },
+ {
+  "cle": "447",
+  "type": "nom",
+  "fr": "■"
+ },
+ {
+  "cle": "448",
+  "type": "nom",
+  "fr": "▼"
+ },
+ {
+  "cle": "448",
+  "type": "description",
+  "fr": "▼"
+ },
+ {
+  "cle": "449",
+  "type": "nom",
+  "fr": "▼"
+ },
+ {
+  "cle": "449",
+  "type": "description",
+  "fr": "▼"
+ },
+ {
+  "cle": "450",
+  "type": "nom",
+  "fr": "▼"
+ },
+ {
+  "cle": "450",
+  "type": "description",
+  "fr": "▼"
+ },
+ {
+  "cle": "451",
+  "type": "nom",
+  "fr": "■"
+ },
+ {
+  "cle": "452",
+  "type": "nom",
+  "fr": "Délice étincelant"
+ },
+ {
+  "cle": "452",
+  "type": "description",
+  "fr": "[14000PV/FOR+20%/DÉF+20%]\nUn jus exceptionnel qui mérite tous les compliments du monde."
+ },
+ {
+  "cle": "453",
+  "type": "nom",
+  "fr": "■"
+ },
+ {
+  "cle": "454",
+  "type": "nom",
+  "fr": "■"
+ },
+ {
+  "cle": "455",
+  "type": "nom",
+  "fr": "Ragoût purgatoire"
+ },
+ {
+  "cle": "455",
+  "type": "description",
+  "fr": "[12000PV/60PT]\nUn ragoût dont la saveur est proportionnelle à votre karma."
+ },
+ {
+  "cle": "456",
+  "type": "nom",
+  "fr": "Blob arc-en-ciel"
+ },
+ {
+  "cle": "456",
+  "type": "description",
+  "fr": "[24000PV/Soigne du K.O.]\nÉtrange plat qui semble être encore vivant. Quoi que ce soit."
+ },
+ {
+  "cle": "457",
+  "type": "nom",
+  "fr": "Extrait sanguin"
+ },
+ {
+  "cle": "457",
+  "type": "description",
+  "fr": "[100%PV/Soigne des altérations d'état]\nSang frais d'origine évidente. Pour les apprentis vampires."
+ },
+ {
+  "cle": "470",
+  "type": "nom",
+  "fr": "Patates croustille-braise"
+ },
+ {
+  "cle": "470",
+  "type": "description",
+  "fr": "[400PV/Soigne du Gel]\nFrites de tubercules frites. Extérieur croustillant, intérieur brûlant."
+ },
+ {
+  "cle": "471",
+  "type": "nom",
+  "fr": "Crêpe au sucre sucré"
+ },
+ {
+  "cle": "471",
+  "type": "description",
+  "fr": "[1300PV/DÉP+1/VIT+10%]\nUn dessert débordant de crème, mais le sucre n'est pas en reste."
+ },
+ {
+  "cle": "472",
+  "type": "nom",
+  "fr": "Milkshake content"
+ },
+ {
+  "cle": "472",
+  "type": "description",
+  "fr": "[1600PV/Soigne de Poison/Cécité/Gel]\nUn milk-shake dont la saveur particulièrement douce plaît à tout un chacun."
+ },
+ {
+  "cle": "473",
+  "type": "nom",
+  "fr": "Glace ultime"
+ },
+ {
+  "cle": "473",
+  "type": "description",
+  "fr": "[2200PV/20PT]\nLa glace idéale : l'harmonie entre ses trois parfums tient presque du miracle."
+ },
+ {
+  "cle": "474",
+  "type": "nom",
+  "fr": "Bouillon chaospiral"
+ },
+ {
+  "cle": "474",
+  "type": "description",
+  "fr": "[2300PV/Soigne d'Étourdissement/Sommeil/Pétrification]\nUn plat révolutionnaire exquis mélangeant fromage et miso."
+ },
+ {
+  "cle": "480",
+  "type": "nom",
+  "fr": "Cookie Sa Majesté"
+ },
+ {
+  "cle": "480",
+  "type": "description",
+  "fr": "[FOR : 1750 - Zone (S)]\nÀ l'effigie de la couronne de la reine repoussant ceux qui sont indignes."
+ },
+ {
+  "cle": "483",
+  "type": "nom",
+  "fr": "Goutte heptacolore"
+ },
+ {
+  "cle": "483",
+  "type": "description",
+  "fr": "[FOR : 1350 - Zone (P) - Inflige une altération d'état (50%)]\nBonbon rebondissant différemment selon la couleur."
+ },
+ {
+  "cle": "486",
+  "type": "nom",
+  "fr": "Balle de seption"
+ },
+ {
+  "cle": "486",
+  "type": "description",
+  "fr": "[FOR : 2850 - Zone (P) - Inflige une altération d'état (100%)]\nFausse balle de septium. Nourriture anti-monstre."
+ },
+ {
+  "cle": "489",
+  "type": "nom",
+  "fr": "Cookie proquo"
+ },
+ {
+  "cle": "489",
+  "type": "description",
+  "fr": "[FOR : 900 - Zone (P) - Inflige Sommeil (100%)]\nUn cookie à l'aura perturbante. Usez-en prudemment."
+ },
+ {
+  "cle": "492",
+  "type": "nom",
+  "fr": "Boulette glaçante"
+ },
+ {
+  "cle": "492",
+  "type": "description",
+  "fr": "[FOR : 2550 - Ligne]\nUne boulette de viande si mauvaise qu'elle glace le sang."
+ },
+ {
+  "cle": "495",
+  "type": "nom",
+  "fr": "Boulette saignante"
+ },
+ {
+  "cle": "495",
+  "type": "description",
+  "fr": "[FOR : 3150 - Ligne - Inflige Étourdissement (100%)]\nMets dangereux pouvant provoquer des conflits sanglants."
+ },
+ {
+  "cle": "496",
+  "type": "nom",
+  "fr": "Boulette coma"
+ },
+ {
+  "cle": "496",
+  "type": "description",
+  "fr": "[FOR : 900 - Ligne - Inflige Étourdissement (100%)]\nUne boule de viande pleine de piment. Incendie assuré dès la première bouchée."
+ },
+ {
+  "cle": "499",
+  "type": "nom",
+  "fr": "Remède Curia"
+ },
+ {
+  "cle": "499",
+  "type": "description",
+  "fr": "[Soigne de tous les statuts]\nBaume qui soigne tous les statuts mis à part K.O."
+ },
+ {
+  "cle": "501",
+  "type": "nom",
+  "fr": "Baume Lacrym"
+ },
+ {
+  "cle": "501",
+  "type": "description",
+  "fr": "[Restaure 2000PV]\nPréparation élaborée par l'Église septienne."
+ },
+ {
+  "cle": "502",
+  "type": "nom",
+  "fr": "Baume Lacryma"
+ },
+ {
+  "cle": "502",
+  "type": "description",
+  "fr": "[Restaure 5000PV]\nPréparation élaborée par l'Église septienne."
+ },
+ {
+  "cle": "514",
+  "type": "nom",
+  "fr": "Baume Lacrymal"
+ },
+ {
+  "cle": "514",
+  "type": "description",
+  "fr": "[Restaure 10000PV]\nPréparation élaborée par l'Église septienne."
+ },
+ {
+  "cle": "503",
+  "type": "nom",
+  "fr": "Baume Lacrymalia"
+ },
+ {
+  "cle": "503",
+  "type": "description",
+  "fr": "[Restaure tous les PV]\nPréparation élaborée par l'Église septienne."
+ },
+ {
+  "cle": "508",
+  "type": "nom",
+  "fr": "Baume Thelas"
+ },
+ {
+  "cle": "508",
+  "type": "description",
+  "fr": "[Ranime et restaure 1000PV]\nRétablit un allié tombé au combat."
+ },
+ {
+  "cle": "509",
+  "type": "nom",
+  "fr": "Baume Athelas"
+ },
+ {
+  "cle": "509",
+  "type": "description",
+  "fr": "[Ranime et restaure tous les PV]\nRétablit un allié tombé au combat."
+ },
+ {
+  "cle": "517",
+  "type": "nom",
+  "fr": "Poudre Zeram"
+ },
+ {
+  "cle": "517",
+  "type": "description",
+  "fr": "[Ranime, restaure tous les PV et 100PT]\nRétablit un allié tombé au combat."
+ },
+ {
+  "cle": "516",
+  "type": "nom",
+  "fr": "Capsule Zeram"
+ },
+ {
+  "cle": "516",
+  "type": "description",
+  "fr": "[Ranime, restaure tous les PV et 200PT]\nRétablit un allié tombé au combat."
+ },
+ {
+  "cle": "504",
+  "type": "nom",
+  "fr": "Baume purificateur"
+ },
+ {
+  "cle": "504",
+  "type": "description",
+  "fr": "[Soigne Poison/Entrave/Cécité]\nBaume préparé par l'Église septienne pour soigner certaines anomalies."
+ },
+ {
+  "cle": "505",
+  "type": "nom",
+  "fr": "Myorelaxant"
+ },
+ {
+  "cle": "505",
+  "type": "description",
+  "fr": "[Soigne Gel/Pétrification]\nBaume créé par l'Église septienne pour regagner sa mobilité."
+ },
+ {
+  "cle": "512",
+  "type": "nom",
+  "fr": "Stimulant"
+ },
+ {
+  "cle": "512",
+  "type": "description",
+  "fr": "[Soigne Confusion/Sommeil/Étourdissement]\nBaume de l'Église septienne qui stimule les sens."
+ },
+ {
+  "cle": "507",
+  "type": "nom",
+  "fr": "Remède Curia"
+ },
+ {
+  "cle": "507",
+  "type": "description",
+  "fr": "[Soigne de tous les statuts]\nBaume qui soigne tous les statuts mis à part K.O."
+ },
+ {
+  "cle": "518",
+  "type": "nom",
+  "fr": "Comprimé S"
+ },
+ {
+  "cle": "518",
+  "type": "description",
+  "fr": "[Soigne de toute baisse de caractéristique et restaure 500PV]\nComprimé restaurant toute caractéristique amoindrie à sa valeur initiale."
+ },
+ {
+  "cle": "506",
+  "type": "nom",
+  "fr": "Ruban isolant"
+ },
+ {
+  "cle": "506",
+  "type": "description",
+  "fr": "[Soigne du Silence]\nAdhésif à fixation rapide pour réparer un orbement hors service."
+ },
+ {
+  "cle": "510",
+  "type": "nom",
+  "fr": "Recharge PE I"
+ },
+ {
+  "cle": "510",
+  "type": "description",
+  "fr": "[Restaure 100PE]\nCapsule contenant de l'énergie orbale."
+ },
+ {
+  "cle": "511",
+  "type": "nom",
+  "fr": "Recharge PE II"
+ },
+ {
+  "cle": "511",
+  "type": "description",
+  "fr": "[Restaure 300PE]\nCapsule contenant de l'énergie orbale. "
+ },
+ {
+  "cle": "513",
+  "type": "nom",
+  "fr": "Recharge PE III"
+ },
+ {
+  "cle": "513",
+  "type": "description",
+  "fr": "[Restaure 500PE]\nCapsule contenant de l'énergie orbale. "
+ },
+ {
+  "cle": "515",
+  "type": "nom",
+  "fr": "Baume Lacrym"
+ },
+ {
+  "cle": "515",
+  "type": "description",
+  "fr": "[Restaure 200PV]\nPréparation élaborée par l'Église septienne."
+ },
+ {
+  "cle": "519",
+  "type": "nom",
+  "fr": "Baume Lacryma"
+ },
+ {
+  "cle": "519",
+  "type": "description",
+  "fr": "[Restaure 2000PV]\nPréparation élaborée par l'Église septienne."
+ },
+ {
+  "cle": "520",
+  "type": "nom",
+  "fr": "Carnet de bracer novice"
+ },
+ {
+  "cle": "520",
+  "type": "description",
+  "fr": "Remis à tous les bracers dans le cadre de leurs investigations.\nLes bracers sont tenus d'y consigner les détails de leurs missions."
+ },
+ {
+  "cle": "522",
+  "type": "nom",
+  "fr": "Carnet du Graal"
+ },
+ {
+  "cle": "522",
+  "type": "description",
+  "fr": "Carnet transmis aux gralsritters pour leurs compte-rendus."
+ },
+ {
+  "cle": "525",
+  "type": "nom",
+  "fr": "Livre de recettes"
+ },
+ {
+  "cle": "525",
+  "type": "description",
+  "fr": "Sert à consigner les recettes des plats consommés.\nVous devez avoir les ingrédients requis pour les préparer."
+ },
+ {
+  "cle": "526",
+  "type": "nom",
+  "fr": "Carnet de pêche"
+ },
+ {
+  "cle": "526",
+  "type": "description",
+  "fr": "Sert à consigner des informations sur les poissons capturés."
+ },
+ {
+  "cle": "527",
+  "type": "nom",
+  "fr": "Bestiaire"
+ },
+ {
+  "cle": "527",
+  "type": "description",
+  "fr": "Sert à consigner des informations sur les ennemis rencontrés."
+ },
+ {
+  "cle": "529",
+  "type": "nom",
+  "fr": "Cube"
+ },
+ {
+  "cle": "529",
+  "type": "description",
+  "fr": "Un artéfact au pouvoir mystérieux.\nPermets de retourner instantanément au jardin de l'ermite."
+ },
+ {
+  "cle": "590",
+  "type": "nom",
+  "fr": "Canne à pêche en bambou"
+ },
+ {
+  "cle": "590",
+  "type": "description",
+  "fr": "Canne à pêche basique en bambou. Utilisation de types d'appâts\nlimités mais permet tout de même d'attraper de gros poissons."
+ },
+ {
+  "cle": "591",
+  "type": "nom",
+  "fr": "Canne télescopique"
+ },
+ {
+  "cle": "591",
+  "type": "description",
+  "fr": "Canne à pêche standard utilisable dans une grande variété de situations.\nConsidérée comme la canne à pêche par défaut par la Guilde des pêcheurs."
+ },
+ {
+  "cle": "592",
+  "type": "nom",
+  "fr": "Piscis Cœur"
+ },
+ {
+  "cle": "592",
+  "type": "description",
+  "fr": "Canne à pêche poussant la finesse et la légèreté à leur paroxysme.\nSans aucun doute le matériel le plus adapté pour des prises petites ou moyennes."
+ },
+ {
+  "cle": "593",
+  "type": "nom",
+  "fr": "Seigneur des lacs II"
+ },
+ {
+  "cle": "593",
+  "type": "description",
+  "fr": "Canne à pêche conçue pour faire face aux grosses prises de Valeria.\nSon application est limitée mais pour pêcher des monstres, il n'y a pas mieux."
+ },
+ {
+  "cle": "594",
+  "type": "nom",
+  "fr": "Étoile marine"
+ },
+ {
+  "cle": "594",
+  "type": "description",
+  "fr": "Canne à pêche par défaut pour la pêche en eau salée.\nSi vous voulez sérieusement pêcher en mer, cette canne est faite pour vous."
+ },
+ {
+  "cle": "595",
+  "type": "nom",
+  "fr": "Canne robuste « Trident »"
+ },
+ {
+  "cle": "595",
+  "type": "description",
+  "fr": "Canne à pêche très solide destinée aux grosses prises (les petites l'ignoreront).\nL'équipement ultime pour attraper n'importe quel poisson géant."
+ },
+ {
+  "cle": "596",
+  "type": "nom",
+  "fr": "Aquamaster"
+ },
+ {
+  "cle": "596",
+  "type": "description",
+  "fr": "Canne à pêche miraculeuse supposée nous venir de la civilisation zémurienne.\nUn pêcheur digne de ce nom mettrait en jeu toute sa fortune pour l'obtenir."
+ },
+ {
+  "cle": "600",
+  "type": "nom",
+  "fr": "PV 1"
+ },
+ {
+  "cle": "600",
+  "type": "description",
+  "fr": "PVmax+3%"
+ },
+ {
+  "cle": "601",
+  "type": "nom",
+  "fr": "PV 2"
+ },
+ {
+  "cle": "601",
+  "type": "description",
+  "fr": "PVmax+6%"
+ },
+ {
+  "cle": "602",
+  "type": "nom",
+  "fr": "PV 3"
+ },
+ {
+  "cle": "602",
+  "type": "description",
+  "fr": "PVmax+9%"
+ },
+ {
+  "cle": "603",
+  "type": "nom",
+  "fr": "PE 1"
+ },
+ {
+  "cle": "603",
+  "type": "description",
+  "fr": "PEmax+3%"
+ },
+ {
+  "cle": "604",
+  "type": "nom",
+  "fr": "PE 2"
+ },
+ {
+  "cle": "604",
+  "type": "description",
+  "fr": "PEmax+6%"
+ },
+ {
+  "cle": "605",
+  "type": "nom",
+  "fr": "PE 3"
+ },
+ {
+  "cle": "605",
+  "type": "description",
+  "fr": "PEmax+9%"
+ },
+ {
+  "cle": "606",
+  "type": "nom",
+  "fr": "Attaque 1"
+ },
+ {
+  "cle": "606",
+  "type": "description",
+  "fr": "FOR+3%/DÉF-1%"
+ },
+ {
+  "cle": "607",
+  "type": "nom",
+  "fr": "Attaque 2"
+ },
+ {
+  "cle": "607",
+  "type": "description",
+  "fr": "FOR+6%/DÉF-3%"
+ },
+ {
+  "cle": "608",
+  "type": "nom",
+  "fr": "Attaque 3"
+ },
+ {
+  "cle": "608",
+  "type": "description",
+  "fr": "FOR+9%/DÉF-5%"
+ },
+ {
+  "cle": "609",
+  "type": "nom",
+  "fr": "Défense 1"
+ },
+ {
+  "cle": "609",
+  "type": "description",
+  "fr": "DÉF+3%/FOR-1%"
+ },
+ {
+  "cle": "610",
+  "type": "nom",
+  "fr": "Défense 2"
+ },
+ {
+  "cle": "610",
+  "type": "description",
+  "fr": "DÉF+6%/FOR-3%"
+ },
+ {
+  "cle": "611",
+  "type": "nom",
+  "fr": "Défense 3"
+ },
+ {
+  "cle": "611",
+  "type": "description",
+  "fr": "DÉF+9%/FOR-5%"
+ },
+ {
+  "cle": "612",
+  "type": "nom",
+  "fr": "Esprit 1"
+ },
+ {
+  "cle": "612",
+  "type": "description",
+  "fr": "ART+3%/RÉS-1"
+ },
+ {
+  "cle": "613",
+  "type": "nom",
+  "fr": "Esprit 2"
+ },
+ {
+  "cle": "613",
+  "type": "description",
+  "fr": "ART+5%/RÉS-2"
+ },
+ {
+  "cle": "614",
+  "type": "nom",
+  "fr": "Esprit 3"
+ },
+ {
+  "cle": "614",
+  "type": "description",
+  "fr": "ART+9%/RÉS-3"
+ },
+ {
+  "cle": "615",
+  "type": "nom",
+  "fr": "Résistance 1"
+ },
+ {
+  "cle": "615",
+  "type": "description",
+  "fr": "RÉS+30/ART-1%"
+ },
+ {
+  "cle": "616",
+  "type": "nom",
+  "fr": "Résistance 2"
+ },
+ {
+  "cle": "616",
+  "type": "description",
+  "fr": "RÉS+40/ART-3%"
+ },
+ {
+  "cle": "617",
+  "type": "nom",
+  "fr": "Résistance 3"
+ },
+ {
+  "cle": "617",
+  "type": "description",
+  "fr": "RÉS+50/ART-5%"
+ },
+ {
+  "cle": "618",
+  "type": "nom",
+  "fr": "Précision 1"
+ },
+ {
+  "cle": "618",
+  "type": "description",
+  "fr": "PRC+5/ESQ-1"
+ },
+ {
+  "cle": "619",
+  "type": "nom",
+  "fr": "Précision 2"
+ },
+ {
+  "cle": "619",
+  "type": "description",
+  "fr": "PRC+10/ESQ-2"
+ },
+ {
+  "cle": "620",
+  "type": "nom",
+  "fr": "Précision 3"
+ },
+ {
+  "cle": "620",
+  "type": "description",
+  "fr": "PRC+15/ESQ-3"
+ },
+ {
+  "cle": "621",
+  "type": "nom",
+  "fr": "Esquive 1"
+ },
+ {
+  "cle": "621",
+  "type": "description",
+  "fr": "ESQ+1"
+ },
+ {
+  "cle": "622",
+  "type": "nom",
+  "fr": "Esquive 2"
+ },
+ {
+  "cle": "622",
+  "type": "description",
+  "fr": "ESQ+2"
+ },
+ {
+  "cle": "623",
+  "type": "nom",
+  "fr": "Esquive 3"
+ },
+ {
+  "cle": "623",
+  "type": "description",
+  "fr": "ESQ+3"
+ },
+ {
+  "cle": "624",
+  "type": "nom",
+  "fr": "Mobilité 1"
+ },
+ {
+  "cle": "624",
+  "type": "description",
+  "fr": "DÉP+1"
+ },
+ {
+  "cle": "625",
+  "type": "nom",
+  "fr": "Mobilité 2"
+ },
+ {
+  "cle": "625",
+  "type": "description",
+  "fr": "DÉP+2"
+ },
+ {
+  "cle": "626",
+  "type": "nom",
+  "fr": "Mobilité 3"
+ },
+ {
+  "cle": "626",
+  "type": "description",
+  "fr": "DÉP+3"
+ },
+ {
+  "cle": "627",
+  "type": "nom",
+  "fr": "Action 1"
+ },
+ {
+  "cle": "627",
+  "type": "description",
+  "fr": "VIT+10%"
+ },
+ {
+  "cle": "628",
+  "type": "nom",
+  "fr": "Action 2"
+ },
+ {
+  "cle": "628",
+  "type": "description",
+  "fr": "VIT+20%"
+ },
+ {
+  "cle": "629",
+  "type": "nom",
+  "fr": "Action 3"
+ },
+ {
+  "cle": "629",
+  "type": "description",
+  "fr": "VIT+30%"
+ },
+ {
+  "cle": "630",
+  "type": "nom",
+  "fr": "Portée"
+ },
+ {
+  "cle": "630",
+  "type": "description",
+  "fr": "Zone d'effet des arts +1"
+ },
+ {
+  "cle": "631",
+  "type": "nom",
+  "fr": "Portée 2"
+ },
+ {
+  "cle": "631",
+  "type": "description",
+  "fr": "Zone d'effet des arts +2"
+ },
+ {
+  "cle": "637",
+  "type": "nom",
+  "fr": "L. Poison"
+ },
+ {
+  "cle": "637",
+  "type": "description",
+  "fr": "10% de chances d'empoisonner l'ennemi. [Lame]"
+ },
+ {
+  "cle": "638",
+  "type": "nom",
+  "fr": "L. Gel"
+ },
+ {
+  "cle": "638",
+  "type": "description",
+  "fr": "10% de chances de congeler l'ennemi. [Lame]"
+ },
+ {
+  "cle": "639",
+  "type": "nom",
+  "fr": "L. Pétrification"
+ },
+ {
+  "cle": "639",
+  "type": "description",
+  "fr": "10% de chances de pétrifier l'ennemi. [Lame]"
+ },
+ {
+  "cle": "640",
+  "type": "nom",
+  "fr": "L. Sommeil"
+ },
+ {
+  "cle": "640",
+  "type": "description",
+  "fr": "10% de chances d'endormir l'ennemi. [Lame]"
+ },
+ {
+  "cle": "641",
+  "type": "nom",
+  "fr": "L. Silence"
+ },
+ {
+  "cle": "641",
+  "type": "description",
+  "fr": "10% de chances d'empêcher l'utilisation d'arts. [Lame]"
+ },
+ {
+  "cle": "642",
+  "type": "nom",
+  "fr": "L. Cécité"
+ },
+ {
+  "cle": "642",
+  "type": "description",
+  "fr": "10% de chances d'aveugler l'ennemi. [Lame]"
+ },
+ {
+  "cle": "643",
+  "type": "nom",
+  "fr": "L. Entrave"
+ },
+ {
+  "cle": "643",
+  "type": "description",
+  "fr": "10% de chances d'entraver l'ennemi. [Lame]"
+ },
+ {
+  "cle": "644",
+  "type": "nom",
+  "fr": "L. Confusion"
+ },
+ {
+  "cle": "644",
+  "type": "description",
+  "fr": "10% de chances de désorienter l'ennemi. [Lame]"
+ },
+ {
+  "cle": "645",
+  "type": "nom",
+  "fr": "L. Coup critique"
+ },
+ {
+  "cle": "645",
+  "type": "description",
+  "fr": "10% de chances d'asséner un coup critique. [Lame]"
+ },
+ {
+  "cle": "646",
+  "type": "nom",
+  "fr": "L. Coup mortel 1"
+ },
+ {
+  "cle": "646",
+  "type": "description",
+  "fr": "10% de chances de tuer subitement l'ennemi. [Lame]"
+ },
+ {
+  "cle": "647",
+  "type": "nom",
+  "fr": "L. Coup mortel 2"
+ },
+ {
+  "cle": "647",
+  "type": "description",
+  "fr": "100% de chances de tuer les ennemis vulnérables. Utilisation unique. [Lame]"
+ },
+ {
+  "cle": "650",
+  "type": "nom",
+  "fr": "--"
+ },
+ {
+  "cle": "650",
+  "type": "description",
+  "fr": "--"
+ },
+ {
+  "cle": "651",
+  "type": "nom",
+  "fr": "--"
+ },
+ {
+  "cle": "651",
+  "type": "description",
+  "fr": "--"
+ },
+ {
+  "cle": "654",
+  "type": "nom",
+  "fr": "--"
+ },
+ {
+  "cle": "654",
+  "type": "description",
+  "fr": "--"
+ },
+ {
+  "cle": "655",
+  "type": "nom",
+  "fr": "--"
+ },
+ {
+  "cle": "655",
+  "type": "description",
+  "fr": "--"
+ },
+ {
+  "cle": "657",
+  "type": "nom",
+  "fr": "Information"
+ },
+ {
+  "cle": "657",
+  "type": "description",
+  "fr": "Permet de percevoir les forces et faiblesses d'un ennemi."
+ },
+ {
+  "cle": "658",
+  "type": "nom",
+  "fr": "Reflet divin"
+ },
+ {
+  "cle": "658",
+  "type": "description",
+  "fr": "Renvoie 50% des attaques physiques. HPmax-20%"
+ },
+ {
+  "cle": "659",
+  "type": "nom",
+  "fr": "Reflet occulte"
+ },
+ {
+  "cle": "659",
+  "type": "description",
+  "fr": "Renvoie 50% des attaques magiques. EPmax-30%"
+ },
+ {
+  "cle": "660",
+  "type": "nom",
+  "fr": "PV 4"
+ },
+ {
+  "cle": "660",
+  "type": "description",
+  "fr": "PVmax+12%"
+ },
+ {
+  "cle": "661",
+  "type": "nom",
+  "fr": "Gemme Aqua"
+ },
+ {
+  "cle": "661",
+  "type": "description",
+  "fr": "PVmax+15% (#90IPV 5)"
+ },
+ {
+  "cle": "662",
+  "type": "nom",
+  "fr": "PE 4"
+ },
+ {
+  "cle": "662",
+  "type": "description",
+  "fr": "PEmax+12%"
+ },
+ {
+  "cle": "663",
+  "type": "nom",
+  "fr": "Gemme Argem"
+ },
+ {
+  "cle": "663",
+  "type": "description",
+  "fr": "PEmax+15% (#95IPE 5)"
+ },
+ {
+  "cle": "664",
+  "type": "nom",
+  "fr": "Attaque 4"
+ },
+ {
+  "cle": "664",
+  "type": "description",
+  "fr": "FOR+12%/DÉF-7%"
+ },
+ {
+  "cle": "665",
+  "type": "nom",
+  "fr": "Gemme Carnelia"
+ },
+ {
+  "cle": "665",
+  "type": "description",
+  "fr": "FOR+15%/DÉF-9% (#91IAttaque 5)"
+ },
+ {
+  "cle": "666",
+  "type": "nom",
+  "fr": "Défense 4"
+ },
+ {
+  "cle": "666",
+  "type": "description",
+  "fr": "DÉF+12%/FOR-7%"
+ },
+ {
+  "cle": "667",
+  "type": "nom",
+  "fr": "Gemme Amberl"
+ },
+ {
+  "cle": "667",
+  "type": "description",
+  "fr": "DÉF+15%/FOR-9% (#89IDéfense 5)"
+ },
+ {
+  "cle": "668",
+  "type": "nom",
+  "fr": "Esprit 4"
+ },
+ {
+  "cle": "668",
+  "type": "description",
+  "fr": "ART+12%/RÉS-4"
+ },
+ {
+  "cle": "669",
+  "type": "nom",
+  "fr": "Gemme Saphirl"
+ },
+ {
+  "cle": "669",
+  "type": "description",
+  "fr": "ART+15%/RÉS-5 (#90IEsprit 5)"
+ },
+ {
+  "cle": "670",
+  "type": "nom",
+  "fr": "Résistance 4"
+ },
+ {
+  "cle": "670",
+  "type": "description",
+  "fr": "RÉS+75/ART-7%"
+ },
+ {
+  "cle": "671",
+  "type": "nom",
+  "fr": "Gemme Esmelas"
+ },
+ {
+  "cle": "671",
+  "type": "description",
+  "fr": "RÉS+150/ART-9% (#92IRésistance 5)"
+ },
+ {
+  "cle": "672",
+  "type": "nom",
+  "fr": "Précision 4"
+ },
+ {
+  "cle": "672",
+  "type": "description",
+  "fr": "PRC+20/ESQ-4"
+ },
+ {
+  "cle": "673",
+  "type": "nom",
+  "fr": "Gemme Illusio"
+ },
+ {
+  "cle": "673",
+  "type": "description",
+  "fr": "PRC+25/ESQ-5 (#95IPrécision 5)"
+ },
+ {
+  "cle": "674",
+  "type": "nom",
+  "fr": "Esquive 4"
+ },
+ {
+  "cle": "674",
+  "type": "description",
+  "fr": "ESQ+4"
+ },
+ {
+  "cle": "675",
+  "type": "nom",
+  "fr": "Gemme Ventus"
+ },
+ {
+  "cle": "675",
+  "type": "description",
+  "fr": "ESQ+5 (#92IEsquive 5)"
+ },
+ {
+  "cle": "678",
+  "type": "nom",
+  "fr": "Action 4"
+ },
+ {
+  "cle": "678",
+  "type": "description",
+  "fr": "VIT+40%/DÉP-1"
+ },
+ {
+  "cle": "679",
+  "type": "nom",
+  "fr": "Gemme Nohval"
+ },
+ {
+  "cle": "679",
+  "type": "description",
+  "fr": "VIT+50%/DÉP-2 (#93IAction 5)"
+ },
+ {
+  "cle": "680",
+  "type": "nom",
+  "fr": "--"
+ },
+ {
+  "cle": "680",
+  "type": "description",
+  "fr": "--"
+ },
+ {
+  "cle": "681",
+  "type": "nom",
+  "fr": "--"
+ },
+ {
+  "cle": "681",
+  "type": "description",
+  "fr": "--"
+ },
+ {
+  "cle": "682",
+  "type": "nom",
+  "fr": "--"
+ },
+ {
+  "cle": "682",
+  "type": "description",
+  "fr": "--"
+ },
+ {
+  "cle": "683",
+  "type": "nom",
+  "fr": "--"
+ },
+ {
+  "cle": "683",
+  "type": "description",
+  "fr": "--"
+ },
+ {
+  "cle": "684",
+  "type": "nom",
+  "fr": "--"
+ },
+ {
+  "cle": "684",
+  "type": "description",
+  "fr": "--"
+ },
+ {
+  "cle": "685",
+  "type": "nom",
+  "fr": "--"
+ },
+ {
+  "cle": "685",
+  "type": "description",
+  "fr": "--"
+ },
+ {
+  "cle": "686",
+  "type": "nom",
+  "fr": "--"
+ },
+ {
+  "cle": "686",
+  "type": "description",
+  "fr": "--"
+ },
+ {
+  "cle": "687",
+  "type": "nom",
+  "fr": "--"
+ },
+ {
+  "cle": "687",
+  "type": "description",
+  "fr": "--"
+ },
+ {
+  "cle": "688",
+  "type": "nom",
+  "fr": "--"
+ },
+ {
+  "cle": "688",
+  "type": "description",
+  "fr": "--"
+ },
+ {
+  "cle": "689",
+  "type": "nom",
+  "fr": "--"
+ },
+ {
+  "cle": "689",
+  "type": "description",
+  "fr": "--"
+ },
+ {
+  "cle": "690",
+  "type": "nom",
+  "fr": "--"
+ },
+ {
+  "cle": "690",
+  "type": "description",
+  "fr": "--"
+ },
+ {
+  "cle": "705",
+  "type": "nom",
+  "fr": "Interruption 1"
+ },
+ {
+  "cle": "705",
+  "type": "description",
+  "fr": "10% de chances d'interrompre arts et techniques."
+ },
+ {
+  "cle": "706",
+  "type": "nom",
+  "fr": "Interruption 2"
+ },
+ {
+  "cle": "706",
+  "type": "description",
+  "fr": "15% de chances de neutraliser arts et techniques."
+ },
+ {
+  "cle": "707",
+  "type": "nom",
+  "fr": "Interruption 3"
+ },
+ {
+  "cle": "707",
+  "type": "description",
+  "fr": "20% de chances de neutraliser arts et techniques."
+ },
+ {
+  "cle": "708",
+  "type": "nom",
+  "fr": "Interruption 4"
+ },
+ {
+  "cle": "708",
+  "type": "description",
+  "fr": "25% de chances de neutraliser arts et techniques."
+ },
+ {
+  "cle": "709",
+  "type": "nom",
+  "fr": "Gemme Silva"
+ },
+ {
+  "cle": "709",
+  "type": "description",
+  "fr": "30% de chances de neutraliser arts et techniques. (#92IInterruption 5)"
+ },
+ {
+  "cle": "710",
+  "type": "nom",
+  "fr": "Catalyse 1"
+ },
+ {
+  "cle": "710",
+  "type": "description",
+  "fr": "Réduit le temps d'exécution des arts."
+ },
+ {
+  "cle": "711",
+  "type": "nom",
+  "fr": "Catalyse 2"
+ },
+ {
+  "cle": "711",
+  "type": "description",
+  "fr": "Réduit drastiquement le temps d'exécution des arts."
+ },
+ {
+  "cle": "712",
+  "type": "nom",
+  "fr": "Réduc PE 1"
+ },
+ {
+  "cle": "712",
+  "type": "description",
+  "fr": "Diminue de 10% le coût des arts."
+ },
+ {
+  "cle": "713",
+  "type": "nom",
+  "fr": "Réduc PE 2"
+ },
+ {
+  "cle": "713",
+  "type": "description",
+  "fr": "Diminue de 20% le coût des arts."
+ },
+ {
+  "cle": "714",
+  "type": "nom",
+  "fr": "Réduc PE 3"
+ },
+ {
+  "cle": "714",
+  "type": "description",
+  "fr": "Diminue de 30% le coût des arts."
+ },
+ {
+  "cle": "715",
+  "type": "nom",
+  "fr": "Réduc PE 4"
+ },
+ {
+  "cle": "715",
+  "type": "description",
+  "fr": "Diminue de 40% le coût des arts."
+ },
+ {
+  "cle": "716",
+  "type": "nom",
+  "fr": "Gemme Goldia"
+ },
+ {
+  "cle": "716",
+  "type": "description",
+  "fr": "Diminue de 50% le coût des arts. (#94IRéduc PE 5)"
+ },
+ {
+  "cle": "717",
+  "type": "nom",
+  "fr": "Œil de faucon"
+ },
+ {
+  "cle": "717",
+  "type": "description",
+  "fr": "Affiche la position des ennemis sur la carte."
+ },
+ {
+  "cle": "718",
+  "type": "nom",
+  "fr": "Détection"
+ },
+ {
+  "cle": "718",
+  "type": "description",
+  "fr": "Affiche la position des coffres sur la carte."
+ },
+ {
+  "cle": "719",
+  "type": "nom",
+  "fr": "Souvenir"
+ },
+ {
+  "cle": "719",
+  "type": "description",
+  "fr": "Affiche la position des portes du souvenir sur la carte."
+ },
+ {
+  "cle": "720",
+  "type": "nom",
+  "fr": "Senteur"
+ },
+ {
+  "cle": "720",
+  "type": "description",
+  "fr": "Attire les ennemis."
+ },
+ {
+  "cle": "721",
+  "type": "nom",
+  "fr": "Œil de faucon"
+ },
+ {
+  "cle": "721",
+  "type": "description",
+  "fr": "Permet de voir les ennemis à distance."
+ },
+ {
+  "cle": "722",
+  "type": "nom",
+  "fr": "Furtivité"
+ },
+ {
+  "cle": "722",
+  "type": "description",
+  "fr": "Les ennemis ignorent votre présence."
+ },
+ {
+  "cle": "723",
+  "type": "nom",
+  "fr": "Camouflage"
+ },
+ {
+  "cle": "723",
+  "type": "description",
+  "fr": "Aucun combat, même au contact des ennemis."
+ },
+ {
+  "cle": "724",
+  "type": "nom",
+  "fr": "Guérison"
+ },
+ {
+  "cle": "724",
+  "type": "description",
+  "fr": "Restauration progressive des PV en marchant."
+ },
+ {
+  "cle": "725",
+  "type": "nom",
+  "fr": "Veine septienne"
+ },
+ {
+  "cle": "725",
+  "type": "description",
+  "fr": " + 1 ou 2 sepiths de chaque type relâché par les ennemis."
+ },
+ {
+  "cle": "726",
+  "type": "nom",
+  "fr": "Œil céleste"
+ },
+ {
+  "cle": "726",
+  "type": "description",
+  "fr": "Cumule les fonctions d'Œil de faucon et Information."
+ },
+ {
+  "cle": "727",
+  "type": "nom",
+  "fr": "Yin-Yang"
+ },
+ {
+  "cle": "727",
+  "type": "description",
+  "fr": "Cumule les fonctions de Furtivité et Guérison."
+ },
+ {
+  "cle": "728",
+  "type": "nom",
+  "fr": "Absorption"
+ },
+ {
+  "cle": "728",
+  "type": "description",
+  "fr": "Restaure 2% des PV max de l'utilisateur à chaque ennemi vaincu."
+ },
+ {
+  "cle": "729",
+  "type": "nom",
+  "fr": "Chance"
+ },
+ {
+  "cle": "729",
+  "type": "description",
+  "fr": "La probabilité qu'un ennemi vaincu laisse tomber un objet est augmentée de 30%."
+ },
+ {
+  "cle": "730",
+  "type": "nom",
+  "fr": "Ingéniosité"
+ },
+ {
+  "cle": "730",
+  "type": "description",
+  "fr": "Restauration progressive des PE en marchant."
+ },
+ {
+  "cle": "731",
+  "type": "nom",
+  "fr": "P. Poison"
+ },
+ {
+  "cle": "731",
+  "type": "description",
+  "fr": "20% de chances d'empoisonner l'ennemi. [Paradigme]"
+ },
+ {
+  "cle": "732",
+  "type": "nom",
+  "fr": "P. Gel"
+ },
+ {
+  "cle": "732",
+  "type": "description",
+  "fr": "20% de chances de congeler l'ennemi. [Paradigme]"
+ },
+ {
+  "cle": "733",
+  "type": "nom",
+  "fr": "P. Pétrification"
+ },
+ {
+  "cle": "733",
+  "type": "description",
+  "fr": "20% de chances de pétrifier l'ennemi. [Paradigme]"
+ },
+ {
+  "cle": "734",
+  "type": "nom",
+  "fr": "P. Sommeil"
+ },
+ {
+  "cle": "734",
+  "type": "description",
+  "fr": "20% de chances d'endormir l'ennemi. [Paradigme]"
+ },
+ {
+  "cle": "735",
+  "type": "nom",
+  "fr": "P. Silence"
+ },
+ {
+  "cle": "735",
+  "type": "description",
+  "fr": "20% de chances d'empêcher l'utilisation d'arts. [Paradigme]"
+ },
+ {
+  "cle": "736",
+  "type": "nom",
+  "fr": "P. Cécité"
+ },
+ {
+  "cle": "736",
+  "type": "description",
+  "fr": "20% de chances d'aveugler l'ennemi. [Paradigme]"
+ },
+ {
+  "cle": "737",
+  "type": "nom",
+  "fr": "P. Entrave"
+ },
+ {
+  "cle": "737",
+  "type": "description",
+  "fr": "20% de chances d'entraver l'ennemi. [Paradigme]"
+ },
+ {
+  "cle": "738",
+  "type": "nom",
+  "fr": "P. Confusion"
+ },
+ {
+  "cle": "738",
+  "type": "description",
+  "fr": "20% de chances de désorienter l'ennemi. [Paradigme]"
+ },
+ {
+  "cle": "739",
+  "type": "nom",
+  "fr": "P. Coup critique"
+ },
+ {
+  "cle": "739",
+  "type": "description",
+  "fr": "20% de chances d'asséner un coup critique. [Paradigme]"
+ },
+ {
+  "cle": "740",
+  "type": "nom",
+  "fr": "P. Coup mortel"
+ },
+ {
+  "cle": "740",
+  "type": "description",
+  "fr": "20% de chances de tuer subitement l'ennemi. [Paradigme]"
+ },
+ {
+  "cle": "741",
+  "type": "nom",
+  "fr": "P. Corpus"
+ },
+ {
+  "cle": "741",
+  "type": "description",
+  "fr": "Résiste aux dommages directs, faible aux dommages magiques. [Paradigme]"
+ },
+ {
+  "cle": "742",
+  "type": "nom",
+  "fr": "P. Spiritus"
+ },
+ {
+  "cle": "742",
+  "type": "description",
+  "fr": "Résiste aux dommages magiques, faible aux dommages directs. [Paradigme]"
+ },
+ {
+  "cle": "743",
+  "type": "nom",
+  "fr": "P. Anima"
+ },
+ {
+  "cle": "743",
+  "type": "description",
+  "fr": "Convertit petit à petit les PE en PT lors des combats. [Paradigme]"
+ },
+ {
+  "cle": "744",
+  "type": "nom",
+  "fr": "Néant"
+ },
+ {
+  "cle": "744",
+  "type": "description",
+  "fr": "100% d'infliger une altération d'état à l'ennemi."
+ },
+ {
+  "cle": "745",
+  "type": "nom",
+  "fr": "Célérité"
+ },
+ {
+  "cle": "745",
+  "type": "description",
+  "fr": "Attaques préventives accordées au début de chaque combat."
+ },
+ {
+  "cle": "746",
+  "type": "nom",
+  "fr": "Asura"
+ },
+ {
+  "cle": "746",
+  "type": "description",
+  "fr": "FOR+20%/DÉF-20%"
+ },
+ {
+  "cle": "747",
+  "type": "nom",
+  "fr": "Renseignement"
+ },
+ {
+  "cle": "747",
+  "type": "description",
+  "fr": "Cumule les fonctions d'Information et Furtivité."
+ },
+ {
+  "cle": "748",
+  "type": "nom",
+  "fr": "Ingéniosité 2"
+ },
+ {
+  "cle": "748",
+  "type": "description",
+  "fr": "Restauration progressive des PE en marchant et lors des combats."
+ },
+ {
+  "cle": "749",
+  "type": "nom",
+  "fr": "Œil divin"
+ },
+ {
+  "cle": "749",
+  "type": "description",
+  "fr": "Cumule Senteur, Œil de faucon, Information, Veine septienne et Chance."
+ },
+ {
+  "cle": "750",
+  "type": "nom",
+  "fr": "Gemme Tempus"
+ },
+ {
+  "cle": "750",
+  "type": "description",
+  "fr": "FOR-14%, DÉF-14%, ART-14% (#93ICatalyse 3)"
+ },
+ {
+  "cle": "805",
+  "type": "nom",
+  "fr": "Pass"
+ },
+ {
+  "cle": "805",
+  "type": "description",
+  "fr": "Un pass de niveau 1. Permets d’ouvrir le passage quelque part."
+ },
+ {
+  "cle": "806",
+  "type": "nom",
+  "fr": "Liberl News - Édition spéciale"
+ },
+ {
+  "cle": "806",
+  "type": "description",
+  "fr": "[La cité volante chute ! La menace est repoussée !]\nGloire aux bracers ayant sauvé le royaume !"
+ },
+ {
+  "cle": "807",
+  "type": "nom",
+  "fr": "Pass II"
+ },
+ {
+  "cle": "807",
+  "type": "description",
+  "fr": "Un pass de niveau 2. Permets d’ouvrir le passage quelque part."
+ },
+ {
+  "cle": "808",
+  "type": "nom",
+  "fr": "Cube"
+ },
+ {
+  "cle": "808",
+  "type": "description",
+  "fr": "Un artéfact récupéré dans le lac Valleria.\nSemble ne plus fonctionner."
+ },
+ {
+  "cle": "809",
+  "type": "nom",
+  "fr": "Clé du Lynx"
+ },
+ {
+  "cle": "809",
+  "type": "description",
+  "fr": "Clé du Lynx. Trouvée dans un entrepôt de Grancel."
+ },
+ {
+  "cle": "810",
+  "type": "nom",
+  "fr": "Clé du coffre"
+ },
+ {
+  "cle": "810",
+  "type": "description",
+  "fr": "La clé de la trésorerie du château. Trouvée à la terrasse du palais royal."
+ },
+ {
+  "cle": "811",
+  "type": "nom",
+  "fr": "Carte du Liberl"
+ },
+ {
+  "cle": "811",
+  "type": "description",
+  "fr": "Carte du royaume du Liberl. \nPermets de vérifier sa position actuelle."
+ },
+ {
+  "cle": "812",
+  "type": "nom",
+  "fr": "Carte de Le Locle"
+ },
+ {
+  "cle": "812",
+  "type": "description",
+  "fr": "Une carte incomplète de Le Locle.\nMontre la position de l'auberge et du canal."
+ },
+ {
+  "cle": "813",
+  "type": "nom",
+  "fr": "Carte de Le Locle"
+ },
+ {
+  "cle": "813",
+  "type": "description",
+  "fr": "Une carte incomplète de Le Locle.\nMontre la position de l'auberge, du canal et de la foret."
+ },
+ {
+  "cle": "814",
+  "type": "nom",
+  "fr": "Carte de Le Locle"
+ },
+ {
+  "cle": "814",
+  "type": "description",
+  "fr": "Une carte incomplète de Le Locle.\nMontre la position de l'auberge, du canal, de la foret et du fort."
+ },
+ {
+  "cle": "815",
+  "type": "nom",
+  "fr": "Carte de sécurité rouge"
+ },
+ {
+  "cle": "815",
+  "type": "description",
+  "fr": "Carte magnétique trouvée au laboratoire du lac.\nSe distingue par une ligne rouge sur sa surface."
+ },
+ {
+  "cle": "816",
+  "type": "nom",
+  "fr": "Carte de sécurité verte"
+ },
+ {
+  "cle": "816",
+  "type": "description",
+  "fr": "Carte magnétique trouvée au laboratoire du lac.\nSe distingue par une ligne verte sur sa surface."
+ },
+ {
+  "cle": "817",
+  "type": "nom",
+  "fr": "Carte de sécurité bleue"
+ },
+ {
+  "cle": "817",
+  "type": "description",
+  "fr": "Carte magnétique trouvée au laboratoire du lac.\nSe distingue par une ligne bleu sur sa surface."
+ },
+ {
+  "cle": "818",
+  "type": "nom",
+  "fr": "Clé de la caserne"
+ },
+ {
+  "cle": "818",
+  "type": "description",
+  "fr": "Clé confiée par le lieutenant-colonel Cid.\r\nPermet d'accéder à la caserne."
+ },
+ {
+  "cle": "819",
+  "type": "nom",
+  "fr": "Clé B-01"
+ },
+ {
+  "cle": "819",
+  "type": "description",
+  "fr": "Une clé ouvrant une porte de l'étage de la caserne."
+ },
+ {
+  "cle": "820",
+  "type": "nom",
+  "fr": "Clé des quartiers généraux"
+ },
+ {
+  "cle": "820",
+  "type": "description",
+  "fr": "Une clé confiée par Kanone Amalthea.\nOuvre la porte du quartier général."
+ },
+ {
+  "cle": "821",
+  "type": "nom",
+  "fr": "Clé C-01"
+ },
+ {
+  "cle": "821",
+  "type": "description",
+  "fr": "Une clé ouvrant une porte au rdc du quartier général."
+ },
+ {
+  "cle": "822",
+  "type": "nom",
+  "fr": "Clé C-02"
+ },
+ {
+  "cle": "822",
+  "type": "description",
+  "fr": "Une clé ouvrant une porte à l'étage du quartier général."
+ },
+ {
+  "cle": "823",
+  "type": "nom",
+  "fr": "Carte de sécurité"
+ },
+ {
+  "cle": "823",
+  "type": "description",
+  "fr": "Une carte de sécurité reçue de Gilbert.\r\nPermet de déverrouiller l’ascenseur menant au hangar."
+ },
+ {
+  "cle": "824",
+  "type": "nom",
+  "fr": "Clé de la chapelle"
+ },
+ {
+  "cle": "824",
+  "type": "description",
+  "fr": "Une clé qui se trouvait dans la poche de Ries.\nDéverrouille la porte de la chapelle."
+ },
+ {
+  "cle": "827",
+  "type": "nom",
+  "fr": "Minerai zémurien"
+ },
+ {
+  "cle": "827",
+  "type": "description",
+  "fr": "Un minéral au scintillement remarquable.\nSi dur qu'il n'existe encore aucun moyen de le traiter."
+ },
+ {
+  "cle": "828",
+  "type": "nom",
+  "fr": "Clé C-03"
+ },
+ {
+  "cle": "828",
+  "type": "description",
+  "fr": "Une clé ouvrant une porte au second étage du quartier général."
+ },
+ {
+  "cle": "829",
+  "type": "nom",
+  "fr": "Qualification secrète"
+ },
+ {
+  "cle": "829",
+  "type": "description",
+  "fr": "Droit de participation au Tournoi Secret des Arts martiaux.\nObligatoire pour les matchs de haut niveau."
+ },
+ {
+  "cle": "830",
+  "type": "nom",
+  "fr": "Cube"
+ },
+ {
+  "cle": "830",
+  "type": "description",
+  "fr": "Un artéfact récupéré dans le lac Valleria.\nÉmet une faible lueur."
+ },
+ {
+  "cle": "831",
+  "type": "nom",
+  "fr": "Certificat d'admission"
+ },
+ {
+  "cle": "831",
+  "type": "description",
+  "fr": "Lettre notifiant Kloe de son admission à l'académie royale de Jenis."
+ },
+ {
+  "cle": "850",
+  "type": "nom",
+  "fr": "Pierre-sceau"
+ },
+ {
+  "cle": "850",
+  "type": "description",
+  "fr": "Gemme émettant une lueur étrange, clignotant comme sous l'effet d'un pouls."
+ },
+ {
+  "cle": "851",
+  "type": "nom",
+  "fr": "Pierre-sceau"
+ },
+ {
+  "cle": "851",
+  "type": "description",
+  "fr": "Gemme émettant une lueur étrange, clignotant comme sous l'effet d'un pouls."
+ },
+ {
+  "cle": "852",
+  "type": "nom",
+  "fr": "Pierre-sceau"
+ },
+ {
+  "cle": "852",
+  "type": "description",
+  "fr": "Gemme émettant une lueur étrange, clignotant comme sous l'effet d'un pouls."
+ },
+ {
+  "cle": "853",
+  "type": "nom",
+  "fr": "Pierre-sceau"
+ },
+ {
+  "cle": "853",
+  "type": "description",
+  "fr": "Gemme émettant une lueur étrange, clignotant comme sous l'effet d'un pouls."
+ },
+ {
+  "cle": "854",
+  "type": "nom",
+  "fr": "Pierre-sceau"
+ },
+ {
+  "cle": "854",
+  "type": "description",
+  "fr": "Gemme émettant une lueur étrange, clignotant comme sous l'effet d'un pouls."
+ },
+ {
+  "cle": "855",
+  "type": "nom",
+  "fr": "Pierre-sceau"
+ },
+ {
+  "cle": "855",
+  "type": "description",
+  "fr": "Gemme émettant une lueur étrange, clignotant comme sous l'effet d'un pouls."
+ },
+ {
+  "cle": "856",
+  "type": "nom",
+  "fr": "Pierre-sceau"
+ },
+ {
+  "cle": "856",
+  "type": "description",
+  "fr": "Gemme émettant une lueur étrange, clignotant comme sous l'effet d'un pouls."
+ },
+ {
+  "cle": "857",
+  "type": "nom",
+  "fr": "Pierre-sceau"
+ },
+ {
+  "cle": "857",
+  "type": "description",
+  "fr": "Gemme émettant une lueur étrange, clignotant comme sous l'effet d'un pouls."
+ },
+ {
+  "cle": "858",
+  "type": "nom",
+  "fr": "Pierre-sceau"
+ },
+ {
+  "cle": "858",
+  "type": "description",
+  "fr": "Gemme émettant une lueur étrange, clignotant comme sous l'effet d'un pouls."
+ },
+ {
+  "cle": "859",
+  "type": "nom",
+  "fr": "Pierre-sceau"
+ },
+ {
+  "cle": "859",
+  "type": "description",
+  "fr": "Gemme émettant une lueur étrange, clignotant comme sous l'effet d'un pouls."
+ },
+ {
+  "cle": "860",
+  "type": "nom",
+  "fr": "Pierre-sceau"
+ },
+ {
+  "cle": "860",
+  "type": "description",
+  "fr": "Gemme émettant une lueur étrange, clignotant comme sous l'effet d'un pouls."
+ },
+ {
+  "cle": "861",
+  "type": "nom",
+  "fr": "Pierre-sceau"
+ },
+ {
+  "cle": "861",
+  "type": "description",
+  "fr": "Gemme émettant une lueur étrange, clignotant comme sous l'effet d'un pouls."
+ },
+ {
+  "cle": "862",
+  "type": "nom",
+  "fr": "Pierre-sceau"
+ },
+ {
+  "cle": "862",
+  "type": "description",
+  "fr": "Gemme émettant une lueur étrange, clignotant comme sous l'effet d'un pouls."
+ },
+ {
+  "cle": "863",
+  "type": "nom",
+  "fr": "Pierre-sceau"
+ },
+ {
+  "cle": "863",
+  "type": "description",
+  "fr": "Gemme émettant une lueur étrange, clignotant comme sous l'effet d'un pouls."
+ },
+ {
+  "cle": "864",
+  "type": "nom",
+  "fr": "Pierre-sceau"
+ },
+ {
+  "cle": "864",
+  "type": "description",
+  "fr": "Gemme émettant une lueur étrange, clignotant comme sous l'effet d'un pouls."
+ },
+ {
+  "cle": "865",
+  "type": "nom",
+  "fr": "Pierre-sceau"
+ },
+ {
+  "cle": "865",
+  "type": "description",
+  "fr": "Gemme émettant une lueur étrange, clignotant comme sous l'effet d'un pouls."
+ },
+ {
+  "cle": "866",
+  "type": "nom",
+  "fr": "Pierre-sceau"
+ },
+ {
+  "cle": "866",
+  "type": "description",
+  "fr": "Gemme émettant une lueur étrange, clignotant comme sous l'effet d'un pouls."
+ },
+ {
+  "cle": "900",
+  "type": "nom",
+  "fr": "Champignon luciole"
+ },
+ {
+  "cle": "900",
+  "type": "description",
+  "fr": "Champignon douteux qui émet une lueur verte inquiétante.\nOn raconte qu'il est délicieux s'il est cuisiné avec talent."
+ },
+ {
+  "cle": "901",
+  "type": "nom",
+  "fr": "Tomate amère"
+ },
+ {
+  "cle": "901",
+  "type": "description",
+  "fr": "Nouvelle variété née d'expérimentations scientifiques.\nUne amertume qui dépasse l'entendement."
+ },
+ {
+  "cle": "902",
+  "type": "nom",
+  "fr": "Griffe d'ours"
+ },
+ {
+  "cle": "902",
+  "type": "description",
+  "fr": "Plante médicinale dont les épines ressemblent à des griffes d'ours.\nHerbe aromatique utilisée dans la gastronomie et la médecine."
+ },
+ {
+  "cle": "903",
+  "type": "nom",
+  "fr": "Riz tricolore"
+ },
+ {
+  "cle": "903",
+  "type": "description",
+  "fr": "Mélange de 3 riz complets : rouge, jaune et noir.\nSouvent utilisé dans les plats du Liberl. Il a une bonne consistance."
+ },
+ {
+  "cle": "904",
+  "type": "nom",
+  "fr": "Miso affiné"
+ },
+ {
+  "cle": "904",
+  "type": "description",
+  "fr": "Assaisonnement oriental issu de la fermentation de céréales cuites à la vapeur.\nPossède un umami prononcé. Bon pour la santé."
+ },
+ {
+  "cle": "905",
+  "type": "nom",
+  "fr": "Cru centenaire"
+ },
+ {
+  "cle": "905",
+  "type": "description",
+  "fr": "Alcool maturé année après année.\nGardé précieusement dans les meilleures cuisines pour son arôme riche."
+ },
+ {
+  "cle": "906",
+  "type": "nom",
+  "fr": "Lait frais"
+ },
+ {
+  "cle": "906",
+  "type": "description",
+  "fr": "Lait fraîchement trait, livré tous les jours depuis la ferme.\nLe lait de Rolent est connu pour être particulièrement savoureux."
+ },
+ {
+  "cle": "907",
+  "type": "nom",
+  "fr": "Œuf frais"
+ },
+ {
+  "cle": "907",
+  "type": "description",
+  "fr": "Tout juste pondu par une poule élevée en plein air.\nIngrédient de base indispensable en cuisine."
+ },
+ {
+  "cle": "908",
+  "type": "nom",
+  "fr": "Fromage affiné"
+ },
+ {
+  "cle": "908",
+  "type": "description",
+  "fr": "Fromage fait à partir de lait fraîchement tiré."
+ },
+ {
+  "cle": "909",
+  "type": "nom",
+  "fr": "Orange passion"
+ },
+ {
+  "cle": "909",
+  "type": "description",
+  "fr": "Orange cultivée avec soin dans un village agricole.\nD'une couleur éclatante comme celle du soleil."
+ },
+ {
+  "cle": "910",
+  "type": "nom",
+  "fr": "Pomme mûre"
+ },
+ {
+  "cle": "910",
+  "type": "description",
+  "fr": "Pomme bien rouge récoltée après avoir atteint sa pleine maturité.\nProvient des vergers réputés de Ravennue, près de Bose."
+ },
+ {
+  "cle": "911",
+  "type": "nom",
+  "fr": "Fruit d'Azelia"
+ },
+ {
+  "cle": "911",
+  "type": "description",
+  "fr": "Fruit d'un arbre de la région de Ruan.\nSouvent consommé sous forme de jus à cause de sa peau dure."
+ },
+ {
+  "cle": "912",
+  "type": "nom",
+  "fr": "Farine moulue"
+ },
+ {
+  "cle": "912",
+  "type": "description",
+  "fr": "Le plus basique des ingrédients.\nNi les pâtes ni le pain ne peuvent être faits sans farine."
+ },
+ {
+  "cle": "913",
+  "type": "nom",
+  "fr": "Anchois salés"
+ },
+ {
+  "cle": "913",
+  "type": "description",
+  "fr": "Petit poisson frétillant mariné dans du saumure lors de sa conservation.\nCeux de Manoria sont réputés pour être de très bon goût."
+ },
+ {
+  "cle": "914",
+  "type": "nom",
+  "fr": "Filet mignon persillé"
+ },
+ {
+  "cle": "914",
+  "type": "description",
+  "fr": "Morceau de viande rouge mêlée d'une quantité de gras idéale.\nConsommé dans nombre de plats, du ragoût au simple steak."
+ },
+ {
+  "cle": "915",
+  "type": "nom",
+  "fr": "Patate moelleuse"
+ },
+ {
+  "cle": "915",
+  "type": "description",
+  "fr": "Patate plutôt petite mais bien hydratée.\nIdéale pour les plats mijotés car elle garde bien sa fermeté."
+ },
+ {
+  "cle": "916",
+  "type": "nom",
+  "fr": "Oignon croquant"
+ },
+ {
+  "cle": "916",
+  "type": "description",
+  "fr": "Gros oignon à la texture croquante et agréable.\nComme son goût est très doux, on peut le manger nature."
+ },
+ {
+  "cle": "917",
+  "type": "nom",
+  "fr": "Carotte terreuse"
+ },
+ {
+  "cle": "917",
+  "type": "description",
+  "fr": "Carotte sucrée, idéale pour la cuisson.\nGarder la terre dessus est une astuce pour la conserver fraîche."
+ },
+ {
+  "cle": "918",
+  "type": "nom",
+  "fr": "Sucre d'érable"
+ },
+ {
+  "cle": "918",
+  "type": "description",
+  "fr": "Édulcorant naturel fait à partir de sève d'arbre bouillie.\nSon léger arôme boisé peut apporter une bonne touche en cuisine."
+ },
+ {
+  "cle": "919",
+  "type": "nom",
+  "fr": "Gros sel"
+ },
+ {
+  "cle": "919",
+  "type": "description",
+  "fr": "Du sel gemme grossièrement moulu.\nRiche en minéraux, il possède un goût profond."
+ },
+ {
+  "cle": "920",
+  "type": "nom",
+  "fr": "Huile d'olive"
+ },
+ {
+  "cle": "920",
+  "type": "description",
+  "fr": "Huile extraite des fruits recouvrant les branches d'oliviers.\nIndispensable pour les touches finales des recettes."
+ },
+ {
+  "cle": "921",
+  "type": "nom",
+  "fr": "Herbe fraîche"
+ },
+ {
+  "cle": "921",
+  "type": "description",
+  "fr": "Herbe arômatique à la senteur rafraîchissante.\nAussi bien utilisée pour effacer les relents de la viande que pour le thé."
+ },
+ {
+  "cle": "922",
+  "type": "nom",
+  "fr": "Fèves du dragon"
+ },
+ {
+  "cle": "922",
+  "type": "description",
+  "fr": "Grains de café pleins des saveurs du Liberl.\nCes fèves sont utilisées comme condiment."
+ },
+ {
+  "cle": "923",
+  "type": "nom",
+  "fr": "Feuille royale"
+ },
+ {
+  "cle": "923",
+  "type": "description",
+  "fr": "Feuille d'arbre utilisée comme assaisonnement depuis les temps anciens.\nOn l'utilise aussi pour aromatiser des bonbons."
+ },
+ {
+  "cle": "924",
+  "type": "nom",
+  "fr": "Poivre noir"
+ },
+ {
+  "cle": "924",
+  "type": "description",
+  "fr": "Poivre noir en grains entiers.\nÉpice indispensable pour les plats à base de viande."
+ },
+ {
+  "cle": "925",
+  "type": "nom",
+  "fr": "Piment rouge"
+ },
+ {
+  "cle": "925",
+  "type": "description",
+  "fr": "Piment rouge feu qu'on devine piquant au premier regard.\nSouvent utilisé réduit en poudre après avoir été séché."
+ },
+ {
+  "cle": "926",
+  "type": "nom",
+  "fr": "Corne de monstre"
+ },
+ {
+  "cle": "926",
+  "type": "description",
+  "fr": "Aliment sain plein de minéraux.\nLe préparer demande de l'ingéniosité du fait de sa robustesse."
+ },
+ {
+  "cle": "927",
+  "type": "nom",
+  "fr": "Aile de monstre"
+ },
+ {
+  "cle": "927",
+  "type": "description",
+  "fr": "Aile membraneuse fine et semi-transparente.\nOn l'utilise le plus souvent pour relever le goût des plats."
+ },
+ {
+  "cle": "928",
+  "type": "nom",
+  "fr": "Queue de monstre"
+ },
+ {
+  "cle": "928",
+  "type": "description",
+  "fr": "Queue aux muscles très développés.\nBien qu'un peu pénible à préparer, elle a un excellent goût."
+ },
+ {
+  "cle": "929",
+  "type": "nom",
+  "fr": "Os de monstre"
+ },
+ {
+  "cle": "929",
+  "type": "description",
+  "fr": "Ingrédient essentiel pour les bouillons.\nUtilisé dans de nombreux plats."
+ },
+ {
+  "cle": "930",
+  "type": "nom",
+  "fr": "Œil de monstre"
+ },
+ {
+  "cle": "930",
+  "type": "description",
+  "fr": "Généreuse masse de viande gélatineuse.\nExcellent pour la santé. Beaucoup l'évitent à cause de son apparence."
+ },
+ {
+  "cle": "931",
+  "type": "nom",
+  "fr": "Croc de monstre"
+ },
+ {
+  "cle": "931",
+  "type": "description",
+  "fr": "Croc acéré, aux aspérités semblables à celles d'une scie.\nUne fois réduit en poudre, il est utilisé pour épicer des plats."
+ },
+ {
+  "cle": "932",
+  "type": "nom",
+  "fr": "Carapace de monstre"
+ },
+ {
+  "cle": "932",
+  "type": "description",
+  "fr": "On ne mange pas la carapace mais seulement sa viande.\nLa chair est maigre et a un goût léger."
+ },
+ {
+  "cle": "933",
+  "type": "nom",
+  "fr": "Viande de monstre"
+ },
+ {
+  "cle": "933",
+  "type": "description",
+  "fr": "Viande quelque peu odorante, loin d'être tendre.\nElle prend du goût au fur et à mesure qu'on la mâche."
+ },
+ {
+  "cle": "934",
+  "type": "nom",
+  "fr": "Chair de monstre"
+ },
+ {
+  "cle": "934",
+  "type": "description",
+  "fr": "Chair de monstre marin, légère et assez solide sous la dent.\nSa texture est presque indifférenciable de celle d'une viande terrestre."
+ },
+ {
+  "cle": "935",
+  "type": "nom",
+  "fr": "Volaille de monstre"
+ },
+ {
+  "cle": "935",
+  "type": "description",
+  "fr": "Cette viande n'a pas un goût aussi caractéristique que les autres.\nSa légèreté la rend très populaire auprès des jeunes femmes."
+ },
+ {
+  "cle": "936",
+  "type": "nom",
+  "fr": "Gélatine de monstre"
+ },
+ {
+  "cle": "936",
+  "type": "description",
+  "fr": "Fibre gélatineuse sans goût ni odeur.\nFond dans la bouche comme de la mousse."
+ },
+ {
+  "cle": "937",
+  "type": "nom",
+  "fr": "Œuf de monstre"
+ },
+ {
+  "cle": "937",
+  "type": "description",
+  "fr": "Œuf géant aussi gros que la tête d'un enfant.\nPrisé en Orient en tant qu'ingrédient énergisant."
+ },
+ {
+  "cle": "938",
+  "type": "nom",
+  "fr": "Caviar de monstre"
+ },
+ {
+  "cle": "938",
+  "type": "description",
+  "fr": "Petits œufs de monstre marin roulant sur la langue.\nIngrédient populaire dans la cuisine orientale."
+ },
+ {
+  "cle": "939",
+  "type": "nom",
+  "fr": "Graine de monstre"
+ },
+ {
+  "cle": "939",
+  "type": "description",
+  "fr": "Graine de monstre végétal recouverte de petites épines.\nLes faire sauter à la poêle fait ressortir leur goût."
+ },
+ {
+  "cle": "940",
+  "type": "nom",
+  "fr": "Filet tendre"
+ },
+ {
+  "cle": "940",
+  "type": "description",
+  "fr": "Chair rebondie d'un poisson blanc.\nSe consomme soit cuit, soit cru s'il est encore suffisamment frais."
+ },
+ {
+  "cle": "950",
+  "type": "nom",
+  "fr": "Pierroux"
+ },
+ {
+  "cle": "950",
+  "type": "description",
+  "fr": "[Appât : ×]\nPoisson très prudent aimant se cacher dans l'ombre des rochers. "
+ },
+ {
+  "cle": "951",
+  "type": "nom",
+  "fr": "Multalpe"
+ },
+ {
+  "cle": "951",
+  "type": "description",
+  "fr": "[Appât : ○]\nLe plus commun des poissons d'eau douce. Ses flancs sont tachetés de noir. "
+ },
+ {
+  "cle": "952",
+  "type": "nom",
+  "fr": "Truite arc-en-ciel"
+ },
+ {
+  "cle": "952",
+  "type": "description",
+  "fr": "[Appât : ×]\nPoisson aux flancs duquel brille une lueur arc-en-ciel. Adore les sepiths."
+ },
+ {
+  "cle": "953",
+  "type": "nom",
+  "fr": "Chevesne braise"
+ },
+ {
+  "cle": "953",
+  "type": "description",
+  "fr": "[Appât : ×]\nSous-espèce de la famille des pierroux à l'abdomen orange de toute beauté."
+ },
+ {
+  "cle": "954",
+  "type": "nom",
+  "fr": "Perlucée"
+ },
+ {
+  "cle": "954",
+  "type": "description",
+  "fr": "[Appât : ×]\nUn grand poisson d'eau douce à la robe argentée et au tempérament calme. "
+ },
+ {
+  "cle": "955",
+  "type": "nom",
+  "fr": "Éperlan argenté"
+ },
+ {
+  "cle": "955",
+  "type": "description",
+  "fr": "[Appât : ○]\nUn petit poisson du Liberl. Très adaptable, il prolifère dans tout le pays."
+ },
+ {
+  "cle": "956",
+  "type": "nom",
+  "fr": "Truite"
+ },
+ {
+  "cle": "956",
+  "type": "description",
+  "fr": "[Appât : ○]\nSous-espèce continentale de saumon, au corps d'une couleur d'acier prononcée. "
+ },
+ {
+  "cle": "957",
+  "type": "nom",
+  "fr": "Bar de Valleria"
+ },
+ {
+  "cle": "957",
+  "type": "description",
+  "fr": "[Appât : ×]\nPoisson habitant lacs et marais. Mange tout ce qui lui passe sous la dent."
+ },
+ {
+  "cle": "958",
+  "type": "nom",
+  "fr": "Tête-de-serpent"
+ },
+ {
+  "cle": "958",
+  "type": "description",
+  "fr": "[Appât : ×]\nPoisson grand et féroce des eaux stagnantes. Sa nage rappelle celle du serpent."
+ },
+ {
+  "cle": "959",
+  "type": "nom",
+  "fr": "Garvelze"
+ },
+ {
+  "cle": "959",
+  "type": "description",
+  "fr": "[Appât : ×]\nGrand poisson des fonds vaseux. Surnommé « canaille des bas-fonds. »"
+ },
+ {
+  "cle": "960",
+  "type": "nom",
+  "fr": "Carassin du Liberl"
+ },
+ {
+  "cle": "960",
+  "type": "description",
+  "fr": "[Appât : ×]\nPoisson à la barbe iconique. Présent presque partout où l'eau est douce."
+ },
+ {
+  "cle": "961",
+  "type": "nom",
+  "fr": "Anguille"
+ },
+ {
+  "cle": "961",
+  "type": "description",
+  "fr": "[Appât : ○]\nPoisson rare apprécié en Orient pour ses propriétés vivifiantes."
+ },
+ {
+  "cle": "962",
+  "type": "nom",
+  "fr": "Carpe"
+ },
+ {
+  "cle": "962",
+  "type": "description",
+  "fr": "[Appât : ○]\nPoisson très vivace. Sa longévité moyenne est de 15 à 20 ans."
+ },
+ {
+  "cle": "963",
+  "type": "nom",
+  "fr": "Saumon"
+ },
+ {
+  "cle": "963",
+  "type": "description",
+  "fr": "[Appât : ○]\nPoisson remontant les cours d'eau lors de sa période de ponte."
+ },
+ {
+  "cle": "964",
+  "type": "nom",
+  "fr": "Grannagriffe"
+ },
+ {
+  "cle": "964",
+  "type": "description",
+  "fr": "[Appât : ×]\nÉnorme crabe dont la taille atteint les 2 arges lorsque ses pattes sont écartées."
+ },
+ {
+  "cle": "965",
+  "type": "nom",
+  "fr": "Soleillant"
+ },
+ {
+  "cle": "965",
+  "type": "description",
+  "fr": "[Appât : ×]\nPetit poisson de la baie d'Azelia d'une couleur dorée étincellante."
+ },
+ {
+  "cle": "966",
+  "type": "nom",
+  "fr": "Octo"
+ },
+ {
+  "cle": "966",
+  "type": "description",
+  "fr": "[Appât : ×]\nMollusque d'apparence monstrueuse sévissant dans une part de la baie d'Azelia."
+ },
+ {
+  "cle": "967",
+  "type": "nom",
+  "fr": "Coryphénère"
+ },
+ {
+  "cle": "967",
+  "type": "description",
+  "fr": "[Appât : ×]\nUn poisson de taille et d'apparence monstrueuses : il mesure plus de 1,5 arge."
+ },
+ {
+  "cle": "968",
+  "type": "nom",
+  "fr": "Sauvar"
+ },
+ {
+  "cle": "968",
+  "type": "description",
+  "fr": "[Appât : ○]\nPoisson-promotion : Salva, puis Sauvar, et enfin Sauvictor, selon son statut."
+ },
+ {
+  "cle": "969",
+  "type": "nom",
+  "fr": "Marlin bleu"
+ },
+ {
+  "cle": "969",
+  "type": "description",
+  "fr": "[Appât : ×]\nLe Noble Bleu. Son corps bleu marine est aussi beau qu'un joyau."
+ },
+ {
+  "cle": "970",
+  "type": "nom",
+  "fr": "Serbaste marbré"
+ },
+ {
+  "cle": "970",
+  "type": "description",
+  "fr": "[Appât : ○]\nPoisson nichant dans les failles de reliefs accidentés, comme le pied des rochers."
+ },
+ {
+  "cle": "971",
+  "type": "nom",
+  "fr": "Rouffe salvatrice"
+ },
+ {
+  "cle": "971",
+  "type": "description",
+  "fr": "[Appât : ×]\nPoisson inséparable des parties de pêche en mer. Tout le monde le connait."
+ },
+ {
+  "cle": "972",
+  "type": "nom",
+  "fr": "Chrabe"
+ },
+ {
+  "cle": "972",
+  "type": "description",
+  "fr": "[Appât : ○]\nCrustacé vivant dans les rochers littoraux. Peut appâter de grosses prises."
+ },
+ {
+  "cle": "973",
+  "type": "nom",
+  "fr": "Claudine"
+ },
+ {
+  "cle": "973",
+  "type": "description",
+  "fr": "[Appât : ×]\nGrand poisson hermaphrodite aux belles écailles sombres. "
+ },
+ {
+  "cle": "974",
+  "type": "nom",
+  "fr": "Gigangora"
+ },
+ {
+  "cle": "974",
+  "type": "description",
+  "fr": "[Appât : ×]\nUn énorme poisson d'apparence grotesque des abysses de la baie d'Azelia."
+ },
+ {
+  "cle": "975",
+  "type": "nom",
+  "fr": "Dynatruite"
+ },
+ {
+  "cle": "975",
+  "type": "description",
+  "fr": "[Appât : ×]\nGardien du lac Valleria. Nombreux s'y sont frotté, tous ont échoué à l'attraper."
+ },
+ {
+  "cle": "980",
+  "type": "nom",
+  "fr": "Ver de terre"
+ },
+ {
+  "cle": "980",
+  "type": "description",
+  "fr": "Principalement utilisé dans les lacs et les rivières.\nNombreux sont ceux dégoutés par leur aspect, mais les poissons les adorent."
+ },
+ {
+  "cle": "981",
+  "type": "nom",
+  "fr": "Larve riveraine"
+ },
+ {
+  "cle": "981",
+  "type": "description",
+  "fr": "Principalement utilisée dans les lacs et les rivières.\nVit entre autres sous les rochers des rivières. Devient insecte ailé à sa maturité."
+ },
+ {
+  "cle": "982",
+  "type": "nom",
+  "fr": "Boulette"
+ },
+ {
+  "cle": "982",
+  "type": "description",
+  "fr": "Utilisée dans les lacs et les rivières.\nBoule faite d'une poudre à base de légumes appréciés des poissons."
+ },
+ {
+  "cle": "983",
+  "type": "nom",
+  "fr": "Œuf de poisson"
+ },
+ {
+  "cle": "983",
+  "type": "description",
+  "fr": "Utilisé dans les lacs et les rivières.\nŒuf de saumon. Nourriture très prisée dans la cuisine orientale."
+ },
+ {
+  "cle": "984",
+  "type": "nom",
+  "fr": "Escargot d'eau douce"
+ },
+ {
+  "cle": "984",
+  "type": "description",
+  "fr": "Utilisé dans les lacs et les rivières.\nRace de gastéropode considérée comme nuisible dans le domaine agricole."
+ },
+ {
+  "cle": "985",
+  "type": "nom",
+  "fr": "Grenouille"
+ },
+ {
+  "cle": "985",
+  "type": "description",
+  "fr": "Utilisée dans les lacs et les rivières.\nTrès appréciée des poissons féroces, mais elle laisse les autres indifférents."
+ },
+ {
+  "cle": "986",
+  "type": "nom",
+  "fr": "Insecte rouge"
+ },
+ {
+  "cle": "986",
+  "type": "description",
+  "fr": "Utilisé dans les lacs et les rivières.\nLarve recouverte d'une rouge tape à l'œil. Très appréciée des petits poissons."
+ },
+ {
+  "cle": "987",
+  "type": "nom",
+  "fr": "Polychète"
+ },
+ {
+  "cle": "987",
+  "type": "description",
+  "fr": "Utilisé en mer.\nÊtre primitif vivant dans le sable des littoraux. De taille très variable."
+ },
+ {
+  "cle": "988",
+  "type": "nom",
+  "fr": "Crevettine"
+ },
+ {
+  "cle": "988",
+  "type": "description",
+  "fr": "Principalement utilisée en mer.\nTrès pratique à utiliser, elle connaît le succès chez un grand nombre d'espèces."
+ },
+ {
+  "cle": "990",
+  "type": "nom",
+  "fr": "--"
+ },
+ {
+  "cle": "991",
+  "type": "nom",
+  "fr": "--"
+ },
+ {
+  "cle": "992",
+  "type": "nom",
+  "fr": "--"
+ },
+ {
+  "cle": "993",
+  "type": "nom",
+  "fr": "--"
+ },
+ {
+  "cle": "994",
+  "type": "nom",
+  "fr": "--"
+ },
+ {
+  "cle": "995",
+  "type": "nom",
+  "fr": "--"
+ },
+ {
+  "cle": "996",
+  "type": "nom",
+  "fr": "--"
+ },
+ {
+  "cle": "997",
+  "type": "nom",
+  "fr": "--"
+ }
+]

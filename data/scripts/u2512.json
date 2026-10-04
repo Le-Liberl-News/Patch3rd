@@ -1,0 +1,26 @@
+[
+ {
+  "n": 7,
+  "fr": "{color 5}Ouvrir la Porte ?{0x18}"
+ },
+ {
+  "n": 8,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 9,
+  "fr": "[Non]"
+ },
+ {
+  "n": 10,
+  "fr": "{color 5}#40WLa voie a déjà été ouverte...\n#500W \n#40WOuvrez la Porte, et entrez à l'intérieur.{color 0}"
+ },
+ {
+  "n": 13,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 14,
+  "fr": "[Non]"
+ }
+]

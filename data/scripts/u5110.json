@@ -1,0 +1,54 @@
+[
+ {
+  "n": 11,
+  "fr": "{color 5}Une recette est écrite sur un papier à l'intérieur du coffre."
+ },
+ {
+  "n": 14,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 15,
+  "fr": "Restaurer les PV/PE"
+ },
+ {
+  "n": 16,
+  "fr": "Acheter"
+ },
+ {
+  "n": 17,
+  "fr": "Synthétiser des quartz"
+ },
+ {
+  "n": 18,
+  "fr": "Terminer"
+ },
+ {
+  "n": 19,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 20,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 21,
+  "fr": "{color 5}La porte est fermée à clé."
+ },
+ {
+  "n": 25,
+  "fr": "Ahhhhhhhh !"
+ },
+ {
+  "n": 30,
+  "fr": "{color 5}Ouvrir la Porte ?{0x18}"
+ },
+ {
+  "n": 31,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 32,
+  "fr": "[Non]"
+ }
+]

@@ -1,0 +1,2326 @@
+[
+ {
+  "n": 1,
+  "fr": "{color 12}#30WVous êtes bien à l'Église de la ville \nd'Emerose. Comment puis-je vous aider ?"
+ },
+ {
+  "n": 2,
+  "fr": "{color 12}#30WOh...\r\nBonjour, Kevin."
+ },
+ {
+  "n": 3,
+  "fr": "Je ne pensais pas que tu serais déjà là, donc je\r\nm'apprêtais à laisser un message au prêtre."
+ },
+ {
+  "n": 4,
+  "fr": "{color 12}#30WOh. Salut, Rufina."
+ },
+ {
+  "n": 5,
+  "fr": "Ouais, je suis arrivé ici en fin de matinée."
+ },
+ {
+  "n": 6,
+  "fr": "Et toi ? Tu penses que tu seras là quand ?"
+ },
+ {
+  "n": 7,
+  "fr": "{color 12}#30WEn fait... Il semblerait que le train ait\r\neu un accident ou quelque chose du genre, il aura\r\ndu retard."
+ },
+ {
+  "n": 8,
+  "fr": "Je suppose que je n'arriverai que dans\r\nla soirée."
+ },
+ {
+  "n": 9,
+  "fr": "{color 12}#30WÇa marche. J'attendrai ici jusqu'à ce que \ntu arrives."
+ },
+ {
+  "n": 10,
+  "fr": "Je crois que Ries et les enfants s'en remettraient pas si \nje me pointais sans toi."
+ },
+ {
+  "n": 11,
+  "fr": "{color 12}#30WHi hi hi, je ne vois pas comment cela\r\npourrait arriver."
+ },
+ {
+  "n": 12,
+  "fr": "Cela dit...\r\nEn parlant de Ries, est-ce que tu as réfléchi à \r\nla manière dont tu vas lui remonter le moral ?"
+ },
+ {
+  "n": 13,
+  "fr": "{color 12}#30WHa ha, j'ai tout prévu."
+ },
+ {
+  "n": 14,
+  "fr": "J'ai ramené des souvenirs de chaque mission que j'ai \neffectuée."
+ },
+ {
+  "n": 15,
+  "fr": "Ça devrait suffire à la sortir de sa torpeur."
+ },
+ {
+  "n": 16,
+  "fr": "{color 12}#30WMhh... Je n'en serais pas si sûre, à vrai\r\ndire."
+ },
+ {
+  "n": 17,
+  "fr": "Les filles de son âge sont plus complexes que tu ne le \npenses."
+ },
+ {
+  "n": 18,
+  "fr": "{color 12}#30WAh ouais ?"
+ },
+ {
+  "n": 19,
+  "fr": "C'est vrai, elle a treize ans, après tout."
+ },
+ {
+  "n": 20,
+  "fr": "Au fait, c'est pas l'âge que tu avais quand on s'est\r\nrencontrés pour la première fois ?"
+ },
+ {
+  "n": 21,
+  "fr": "{color 12}#30WHi hi, maintenant que tu le dis, c'est vrai. "
+ },
+ {
+  "n": 22,
+  "fr": "{color 12}#30WDésolée... Il semblerait que le train\r\nest sur le point de partir."
+ },
+ {
+  "n": 23,
+  "fr": "Nous nous verrons tout à l'heure, d'accord ?"
+ },
+ {
+  "n": 24,
+  "fr": "Si tu en as assez d'attendre, tu peux rentrer à la maison \navant moi, bien sûr."
+ },
+ {
+  "n": 25,
+  "fr": "{color 12}#30WÇa marche. À tout à l'heure."
+ },
+ {
+  "n": 26,
+  "fr": "{color 12}#30WAh ouais...\r\nÇa fait déjà neuf ans depuis."
+ },
+ {
+  "n": 27,
+  "fr": "Et ça fait deux ans que je suis pas rentré..."
+ },
+ {
+  "n": 28,
+  "fr": "*soupir* J'espère que Ries ne fera pas TROP la gueule \nquand on arrivera enfin là-bas."
+ },
+ {
+  "n": 29,
+  "fr": "{color 12}#30WK-Kevin !"
+ },
+ {
+  "n": 30,
+  "fr": "{color 12}#30WC'est vous, mon Père..."
+ },
+ {
+  "n": 31,
+  "fr": "Il s'est passé quelque chose de grave ?\r\nVous en faites, une de ces têtes."
+ },
+ {
+  "n": 32,
+  "fr": "{color 12}#30WE-Eh bien..."
+ },
+ {
+  "n": 33,
+  "fr": "On vient de me transmettre que quelqu'un a aperçu un \ngroupe d'hommes habillés tout en noir à la lisière de la \nville."
+ },
+ {
+  "n": 34,
+  "fr": "Apparemment, ils se dirigeraient vers le sentier\r\nmontagneux..."
+ },
+ {
+  "n": 35,
+  "fr": "{color 12}#30W... ?!"
+ },
+ {
+  "n": 36,
+  "fr": "V-Vous pensez pas... ?"
+ },
+ {
+  "n": 37,
+  "fr": "{color 12}#30WSi...\r\nIls en ont probablement après la « Maison Aster »."
+ },
+ {
+  "n": 38,
+  "fr": "Avez-vous la moindre idée de ce qui pourrait se passer ?"
+ },
+ {
+  "n": 39,
+  "fr": "{color 12}#30WNon, hélas... Mais j'ai pas l'impression\r\nque ça ait un rapport avec les Gralsritter."
+ },
+ {
+  "n": 40,
+  "fr": "Bref...\r\nIl faut que j'aille y jeter un œil."
+ },
+ {
+  "n": 41,
+  "fr": "{color 12}#30WJe vous en prie."
+ },
+ {
+  "n": 42,
+  "fr": "Oh... Savez-vous quand Rufina va-t-elle arriver, au fait ?"
+ },
+ {
+  "n": 43,
+  "fr": "{color 12}#30WCe soir, apparemment. Elle a dit que son \ntrain avait été retardé."
+ },
+ {
+  "n": 44,
+  "fr": "Vous lui expliquerez tout quand elle sera arrivée."
+ },
+ {
+  "n": 45,
+  "fr": "{color 12}#30WCâlisse... des mercenaires.\r\nNon, on dirait plutôt des jaegers."
+ },
+ {
+  "n": 46,
+  "fr": "On dirait qu'il y en a entre cinq et dix..."
+ },
+ {
+  "n": 47,
+  "fr": "Mais je vois pas pourquoi ils en auraient après\r\nun centre religieux au milieu de nulle part..."
+ },
+ {
+  "n": 48,
+  "fr": "......"
+ },
+ {
+  "n": 49,
+  "fr": "{color 12}#30W... Plus je traîne ici, \r\nplus Ries et les enfants seront en danger."
+ },
+ {
+  "n": 50,
+  "fr": "Tant pis. Je vais devoir essayer de gérer ça tout seul,\r\non dirait."
+ },
+ {
+  "n": 51,
+  "fr": "{color 12}#40WC'est le moment de faire bon usage de \r\nmes techniques de combat et de Thaumaturgie !{color 0}"
+ },
+ {
+  "n": 52,
+  "fr": "Celeste..."
+ },
+ {
+  "n": 53,
+  "fr": "A-Attendez, c'était pas... ?"
+ },
+ {
+  "n": 54,
+  "fr": "Si. C'est bien elle, la dirigeante du \r\ngroupe des anciens ayant scellé l'Auréole. "
+ },
+ {
+  "n": 55,
+  "fr": "Elle était aussi la fondatrice de la\r\nfamille royale actuelle du Liberl."
+ },
+ {
+  "n": 56,
+  "fr": "{color 12}#1616F#11PHi hi..."
+ },
+ {
+  "n": 57,
+  "fr": "Je suis ravie de constater que les\r\ninformations que j'ai laissées derrière\r\nmoi ont fini par être utiles.{color 0}"
+ },
+ {
+  "n": 58,
+  "fr": "E-Elles l'ont vraiment été, on peut\r\nle dire..."
+ },
+ {
+  "n": 59,
+  "fr": "Ainsi, vous êtes la fondatrice du Liberl..."
+ },
+ {
+  "n": 60,
+  "fr": "{color 12}#1616F#11PHi hi... Techniquement, non."
+ },
+ {
+  "n": 61,
+  "fr": "Je ne suis que l'ombre de la véritable\r\nCeleste."
+ },
+ {
+  "n": 62,
+  "fr": "Ou plutôt, une copie partielle que sa\r\npersonnalité a créée dans le but\r\nd'influencer Phantasma de l'intérieur.{color 0}"
+ },
+ {
+  "n": 63,
+  "fr": "U-Une copie de sa personnalité... ?"
+ },
+ {
+  "n": 64,
+  "fr": "... Il semblerait que la situation est plus\r\ncompliquée que ce que nous pensions."
+ },
+ {
+  "n": 65,
+  "fr": "Cependant, vous ne semblez pas\r\nvraiment être un esprit, ai-je raison ?"
+ },
+ {
+  "n": 66,
+  "fr": "{color 12}#1615F#11POui, c'est exact."
+ },
+ {
+  "n": 67,
+  "fr": "Mais avant de parler de moi...\r\nJe suppose que je devrais d'abord parler\r\nde la situation dans son ensemble."
+ },
+ {
+  "n": 68,
+  "fr": "... À commencer par vous expliquer en\r\ndétail ce qu'est ce monde.{color 0}"
+ },
+ {
+  "n": 69,
+  "fr": "V-Vraiment ?!"
+ },
+ {
+  "n": 70,
+  "fr": "Hi hi hi... Cela promet d'être intéressant."
+ },
+ {
+  "n": 71,
+  "fr": "{color 12}#1615FComme vous le savez, cette terre sur \r\nlaquelle vous vous trouvez est appelée Phantasma."
+ },
+ {
+  "n": 72,
+  "fr": "Il s'agit d'un monde appartenant à un plan astral \nsupérieur d'existence, créé il y a plusieurs milliers \nd'années par l'Auréole."
+ },
+ {
+  "n": 73,
+  "fr": "Sa raison d'être était de faire office de sous-système \npour l'Auréole, dans le but d'intégrer et de traiter la \nvolonté de la population de l'arche Liber."
+ },
+ {
+  "n": 74,
+  "fr": "On pourrait appeler cela un monde autogéré, conçu \npour réaliser d'innombrables autres mondes \npossibles au besoin.{color 0}"
+ },
+ {
+  "n": 75,
+  "fr": "{color 0}#1444FEuh... Pardon ?"
+ },
+ {
+  "n": 76,
+  "fr": "{color 0}#1019FA-Attendez un peu... !"
+ },
+ {
+  "n": 77,
+  "fr": "{color 0}#1317FO-Oui... Y a pas une manière plus \nsimple d'expliquer ça ?"
+ },
+ {
+  "n": 78,
+  "fr": "{color 12}#1615FMhh..."
+ },
+ {
+  "n": 79,
+  "fr": "Eh bien, même si cela est techniquement incorrect, \nvous pourriez peut-être voir la chose ainsi."
+ },
+ {
+  "n": 80,
+  "fr": "Phantasma est comme une dimension fictive, créée par \nl'Auréole afin de satisfaire tous les vœux et désirs de \nl'humanité.{color 0}"
+ },
+ {
+  "n": 81,
+  "fr": "{color 0}#1016FC-Comment ça... ?"
+ },
+ {
+  "n": 82,
+  "fr": "{color 0}#172F« Un monde fictif »... ?"
+ },
+ {
+  "n": 83,
+  "fr": "Permettez-moi d'en douter. Tout ceci m'a l'air bien\r\ntrop réel pour que ce monde puisse relever du\r\nmensonge."
+ },
+ {
+  "n": 84,
+  "fr": "{color 12}#1610FIl est vrai que j'ai parlé de\r\n« monde fictif », mais cela ne veut pas dire pour\r\nautant qu'il s'agit d'un « mensonge »."
+ },
+ {
+  "n": 85,
+  "fr": "Il s'agit davantage d'une ombroscopie suivant ses\r\npropres principes, qui reflète le monde réel mais\r\npeut changer à la manière d'un kaléidoscope."
+ },
+ {
+  "n": 86,
+  "fr": "En l'interprétant de cette manière, le concept devrait\r\nêtre plus facile à comprendre.{color 0}"
+ },
+ {
+  "n": 87,
+  "fr": "{color 0}#170FEn effet..."
+ },
+ {
+  "n": 88,
+  "fr": "{color 0}#278FD'où le nom « Phantasma »..."
+ },
+ {
+  "n": 89,
+  "fr": "{color 12}#1610F#11PComme je l'ai dit, Phantasma est\r\nun sous-système chargé d'assister\r\nl'Auréole dans ses tâches."
+ },
+ {
+  "n": 90,
+  "fr": "Ce sont deux entités séparées, mais\r\ndans les faits, les deux faces d'une\r\nmême médaille."
+ },
+ {
+  "n": 91,
+  "fr": "Cette relation nous a interpellés alors\r\nque nous étions en train de concevoir\r\nle mécanisme de scellement.{color 0}"
+ },
+ {
+  "n": 92,
+  "fr": "Vous voulez dire, le mécanisme utilisé\r\npour sceller l'Auréole ?"
+ },
+ {
+  "n": 93,
+  "fr": "Ceci figurait également dans les cristaux\r\nde données que nous avions trouvé."
+ },
+ {
+  "n": 94,
+  "fr": "{color 12}#1615F#11PExactement."
+ },
+ {
+  "n": 95,
+  "fr": "Au premier abord, nous pensions que\r\nnotre plan serait impossible à mettre\r\nen œuvre."
+ },
+ {
+  "n": 96,
+  "fr": "Après tout, l'Auréole avait un contrôle\r\nabsolu sur l'espace même et était capable\r\nd'influencer chaque action de l'humanité."
+ },
+ {
+  "n": 97,
+  "fr": "Nous devions l'envoyer dans une\r\ndimension alternative où le temps est\r\nfigé, et le restreindre avec une barrière de gravité."
+ },
+ {
+  "n": 98,
+  "fr": "Mais même en développant cette \r\nméthode de double scellement, il était\r\nimpossible de mettre notre plan à exécution..."
+ },
+ {
+  "n": 99,
+  "fr": "Nous étions de fait complètement perdus.{color 0}"
+ },
+ {
+  "n": 100,
+  "fr": "Vous connaissiez les points faibles de\r\nvotre ennemi, mais vous n'aviez aucun\r\nmoyen d'en tirer avantage."
+ },
+ {
+  "n": 101,
+  "fr": "Voilà qui devait être frustrant."
+ },
+ {
+  "n": 102,
+  "fr": "{color 12}#1616F#11PEn effet..."
+ },
+ {
+  "n": 103,
+  "fr": "Mais nous avons trouvé un moyen de\r\nsurmonter ce problème en développant\r\nle « Cube de l'Ermite ».{color 0}"
+ },
+ {
+  "n": 104,
+  "fr": "... J'imagine que vous faites référence\r\nà ceci."
+ },
+ {
+  "n": 105,
+  "fr": "{color 12}#1610F#11POui. Il s'agit du seul objet existant\r\ncapable d'interagir avec Phantasma\r\nsans utiliser l'Auréole comme intermédiaire."
+ },
+ {
+  "n": 106,
+  "fr": "Celeste l'a utilisé pour créer une copie\r\npartielle de sa personnalité — c'est-à-dire, moi —\r\nà l'intérieur de Phantasma."
+ },
+ {
+  "n": 107,
+  "fr": "Et une fois à l'intérieur, j'ai commencé à œuvrer \npour saboter la fonctionnalité de Phantasma, en \nutilisant ce jardin comme ma base d'opérations."
+ },
+ {
+  "n": 108,
+  "fr": "Ainsi, la capacité de traitement de l'Auréole\r\nfut diminuée juste assez longtemps pour \r\nque le plan puisse être exécuté.{color 0} "
+ },
+ {
+  "n": 109,
+  "fr": "Hmm... D'accord."
+ },
+ {
+  "n": 110,
+  "fr": "Celui qui prend son ennemi par surprise\r\nemporte le combat.{wait}\r\n#070FLe même principe s'applique aux arts martiaux."
+ },
+ {
+  "n": 111,
+  "fr": "V-Vous avez beaucoup réfléchi en\r\nélaborant votre plan..."
+ },
+ {
+  "n": 112,
+  "fr": "{color 12}#1611F#11PHi hi...\r\nLa chance a joué un grand rôle, cependant."
+ },
+ {
+  "n": 113,
+  "fr": "Après cela...\r\nL'Auréole fut scellée, et je plongeai\r\ndans un profond sommeil."
+ },
+ {
+  "n": 114,
+  "fr": "Ainsi, le jour où l'Auréole serait descellée, \r\nje pourrais être en mesure de fournir mon \r\naide aux générations futures."
+ },
+ {
+  "n": 115,
+  "fr": "Cependant, il semblerait que mon\r\naide n'aura pas été nécessaire.{color 0}"
+ },
+ {
+  "n": 116,
+  "fr": "H-Ha ha ha..."
+ },
+ {
+  "n": 117,
+  "fr": "La chance a joué un grand rôle pour\r\nnous aussi, vous savez."
+ },
+ {
+  "n": 118,
+  "fr": "On n'est même pas sûrs d'où se trouve\r\nl'Auréole maintenant."
+ },
+ {
+  "n": 119,
+  "fr": "Que l'on sache, elle a disparu pendant\r\ntout ce qui s'est passé à l'arche Liber."
+ },
+ {
+  "n": 120,
+  "fr": "{color 12}#1613F#11PC'est ce que je pensais..."
+ },
+ {
+  "n": 121,
+  "fr": "J'ai également pu confirmer d'ici que\r\nl'Auréole avait disparu."
+ },
+ {
+  "n": 122,
+  "fr": "Je pensais ma mission terminée..."
+ },
+ {
+  "n": 123,
+  "fr": "... Tout ce qui nous restait à faire, à Phantasma\r\net à moi, était d'accueillir une lente et\r\npaisible destruction."
+ },
+ {
+  "n": 124,
+  "fr": "Mais il n'en était pas ainsi."
+ },
+ {
+  "n": 125,
+  "fr": "Rapidement, le Maître de Phantasma est apparu.{color 0}"
+ },
+ {
+  "n": 126,
+  "fr": "Ah..."
+ },
+ {
+  "n": 127,
+  "fr": "... Je vois."
+ },
+ {
+  "n": 128,
+  "fr": "Hi hi hi...\r\nVoilà ce qu'il s'est passé."
+ },
+ {
+  "n": 129,
+  "fr": "{color 12}#1615F#11PLe Maître de Phantasma a surgi\r\nde nulle part, dérobant tout mon pouvoir\r\nalors que je dormais dans le Jardin."
+ },
+ {
+  "n": 130,
+  "fr": "Après avoir fait cela, cet individu s'est\r\nmis à remodeler Phantasma selon ses\r\npropres plans."
+ },
+ {
+  "n": 131,
+  "fr": "La structure actuelle de ce monde, tout comme les \nplans astraux qui le constituent..."
+ },
+ {
+  "n": 132,
+  "fr": "... sont tous la création du Maître de Phantasma."
+ },
+ {
+  "n": 133,
+  "fr": "Il semble que votre théorie fût correcte, Renne."
+ },
+ {
+  "n": 134,
+  "fr": "Cependant, cela donne l'impression que..."
+ },
+ {
+  "n": 135,
+  "fr": "O-Ouais..."
+ },
+ {
+  "n": 136,
+  "fr": "Vous savez pas qui est cet enfoiré masqué, vous \nnon plus, du coup ?"
+ },
+ {
+  "n": 137,
+  "fr": "{color 12}#1615F#11PJ'ai bien peur que non."
+ },
+ {
+  "n": 138,
+  "fr": "Chacune de ses actions jusqu'ici a été un mystère."
+ },
+ {
+  "n": 139,
+  "fr": "Normalement, il n'aurait pas dû être capable \nd'obtenir l'accès à ce monde, pour commencer."
+ },
+ {
+  "n": 140,
+  "fr": "... Et j'ai peur de n'avoir aucune idée de ce qu'il essaie \nd'accomplir en vous amenant tous ici et en vous \nmettant à l'épreuve.{color 0}"
+ },
+ {
+  "n": 141,
+  "fr": "Eh bien, c'est dommage..."
+ },
+ {
+  "n": 142,
+  "fr": "Ouais... c'est le truc qu'on veut le plus savoir."
+ },
+ {
+  "n": 143,
+  "fr": "{color 12}#1615F#11PJ'aimerais tant pouvoir être d'une \nplus grande aide."
+ },
+ {
+  "n": 144,
+  "fr": "La seule autre chose que je puisse dire à son sujet \nest que je soupçonne le Maître de Phantasma de se \ntrouver actuellement dans le septième plan astral.{color 0}"
+ },
+ {
+  "n": 145,
+  "fr": "Y en a-t-il un septième ?"
+ },
+ {
+  "n": 146,
+  "fr": "C-C'est quoi qui vous fait penser ça ?"
+ },
+ {
+  "n": 147,
+  "fr": "{color 12}#1612F#11PIl s'agit du premier plan astral que le \nMaître ait créé après être apparu dans ce monde."
+ },
+ {
+  "n": 148,
+  "fr": "Quel genre d'endroit exactement est ce plan astral, \nje l'ignore..."
+ },
+ {
+  "n": 149,
+  "fr": "... Mais je peux sentir des pensées sombres et \ninhumaines en émaner, et elles s'étendent sur tout \nPhantasma.{color 0}"
+ },
+ {
+  "n": 150,
+  "fr": "Ça pue..."
+ },
+ {
+  "n": 151,
+  "fr": "Du coup, on verra le Maître après le plan astral \nsuivant, n'est-ce pas ?"
+ },
+ {
+  "n": 152,
+  "fr": "Oui. On venait juste de finir le cinquième quand on \nest revenus ici."
+ },
+ {
+  "n": 153,
+  "fr": "En supposant qu'il nous attende au septième, le \nmoment de l'affronter en face à face n'est peut-être \nplus si lointain."
+ },
+ {
+  "n": 154,
+  "fr": "Mh. Je commençais à en avoir marre d'attendre."
+ },
+ {
+  "n": 155,
+  "fr": "Ha, moi de même. Il semble que la fin puisse enfin \nse trouver à portée de vue."
+ },
+ {
+  "n": 156,
+  "fr": "Bien, si seulement nous avions une vague idée de \nce que le Maître de Phantasma essaie d'accomplir..."
+ },
+ {
+  "n": 157,
+  "fr": "En fait, j'en ai peut-être une."
+ },
+ {
+  "n": 158,
+  "fr": "Kevin ?"
+ },
+ {
+  "n": 159,
+  "fr": "Kevin !"
+ },
+ {
+  "n": 160,
+  "fr": "Il est bon de vous revoir, Père."
+ },
+ {
+  "n": 161,
+  "fr": "Vous aussi. Je m'attendais pas à ce que VOUS \nobteniez une invitation ici."
+ },
+ {
+  "n": 162,
+  "fr": "Et à ce sujet, toi non plus, Mademoiselle."
+ },
+ {
+  "n": 163,
+  "fr": "... Renne n'en doute pas."
+ },
+ {
+  "n": 164,
+  "fr": "Renne a une question à vous poser..."
+ },
+ {
+  "n": 165,
+  "fr": "... Mais elle suppose que cela peut attendre."
+ },
+ {
+  "n": 166,
+  "fr": "Ha ha. Ça marche."
+ },
+ {
+  "n": 167,
+  "fr": "Es... es-tu sûr de te sentir bien ?"
+ },
+ {
+  "n": 168,
+  "fr": "Je pète la forme ! Je me sens très bien. Tout ce \nsommeil a dû me faire beaucoup de bien."
+ },
+ {
+  "n": 169,
+  "fr": "Et je vois que vous avez beaucoup progressé pendant \nque j'étais hors-service, aussi."
+ },
+ {
+  "n": 170,
+  "fr": "Oui..."
+ },
+ {
+  "n": 171,
+  "fr": "Bonjour. Je suis Kevin Graham."
+ },
+ {
+  "n": 172,
+  "fr": "Ou peut-être que j'ai pas besoin de me présenter, \npuisque vous semblez savoir deux trois trucs sur \ntout le monde venu ici jusque là."
+ },
+ {
+  "n": 173,
+  "fr": "{color 12}#1616F#11PCela est vrai. J'ai été en mesure \nde deviner ce qui se passait sur l'arche Liber depuis \nle jardin."
+ },
+ {
+  "n": 174,
+  "fr": "Et de toutes les personnes ici, vous êtes celui qui est \nle plus proche de la vérité sur ce qui se passe... Ai-je \ntort ?{color 0}"
+ },
+ {
+  "n": 175,
+  "fr": "... Quoi ?"
+ },
+ {
+  "n": 176,
+  "fr": "Non, je pense pas que vous ayez tort."
+ },
+ {
+  "n": 177,
+  "fr": "Je peux pas prétendre être un expert sur ce que \nPhantasma est en lui-même..."
+ },
+ {
+  "n": 178,
+  "fr": "Mais j'ai une plutôt bonne idée de la personne qui \nest responsable de tout ça."
+ },
+ {
+  "n": 179,
+  "fr": "Je peux seulement penser à une personne assez tordue \npour nous faire traverser tout ça."
+ },
+ {
+  "n": 180,
+  "fr": "......"
+ },
+ {
+  "n": 181,
+  "fr": "Attends ! C'est quelqu'un que tu connais ?!"
+ },
+ {
+  "n": 182,
+  "fr": "Ha ha... On pourrait dire ça, ouais."
+ },
+ {
+  "n": 183,
+  "fr": "Pour la faire courte : cette personne en tient vraiment \nune couche."
+ },
+ {
+  "n": 184,
+  "fr": "Un enfoiré rusé, arrogant et sans-cœur, qui ne voit \nmême pas les gens comme des personnes."
+ },
+ {
+  "n": 185,
+  "fr": "Ça résume à peu près à qui on a affaire."
+ },
+ {
+  "n": 186,
+  "fr": "Ç-Ça a l'air d'être quelqu'un d'horrible..."
+ },
+ {
+  "n": 187,
+  "fr": "Mhh... Et de qui, si je puis demander, parles-tu ?"
+ },
+ {
+  "n": 188,
+  "fr": "Eh bien, à ce propos..."
+ },
+ {
+  "n": 189,
+  "fr": "Tu voudrais bien attendre juste un peu plus longtemps \npour avoir la réponse à cette question ?"
+ },
+ {
+  "n": 190,
+  "fr": "Je suis plutôt sûr d'avoir raison, mais il me manque \nencore un dernier truc pour en être complètement \ncertain."
+ },
+ {
+  "n": 191,
+  "fr": "Et je pense qu'on va découvrir exactement ce que \nc'est dans le sixième plan astral."
+ },
+ {
+  "n": 192,
+  "fr": "Ha ha... Et dire que je pensais que nous allions enfin \nobtenir une réponse."
+ },
+ {
+  "n": 193,
+  "fr": "Y a-t-il une raison pour laquelle vous ne pouvez pas \npartager votre théorie telle quelle ?"
+ },
+ {
+  "n": 194,
+  "fr": "Ouais... Je me rends compte que je vous en demande \nbeaucoup, après qu'on soit arrivés aussi loin."
+ },
+ {
+  "n": 195,
+  "fr": "Mais je promets que dès que j'en serai certain, je \nvous le dirai."
+ },
+ {
+  "n": 196,
+  "fr": "Je le jure sur la tête de la Déesse et sur l'emblème \nde l'Église."
+ },
+ {
+  "n": 197,
+  "fr": "Mhh..."
+ },
+ {
+  "n": 198,
+  "fr": "Eh bien, je vois aucune raison de refuser."
+ },
+ {
+  "n": 199,
+  "fr": "De même. Il a clairement ses raisons."
+ },
+ {
+  "n": 200,
+  "fr": "C'est pas souvent que tu nous demandes des faveurs, \ndonc je peux laisser passer ça."
+ },
+ {
+  "n": 201,
+  "fr": "Pas de problème de mon côté."
+ },
+ {
+  "n": 202,
+  "fr": "Ha ha ha... S'il dit d'attendre, j'attendrai."
+ },
+ {
+  "n": 203,
+  "fr": "J'ai l'impression qu'on peut faire confiance à ta \ncapacité de discernement, donc je n'ai pas d'objection \nnon plus."
+ },
+ {
+  "n": 204,
+  "fr": "M-Moi non plus !"
+ },
+ {
+  "n": 205,
+  "fr": "Tant qu'elle peut s'amuser, Renne n'en a pas grand \nchose à faire."
+ },
+ {
+  "n": 206,
+  "fr": "Hi hi. Je crois que nous sommes tous d'accord, dans \nce cas ?"
+ },
+ {
+  "n": 207,
+  "fr": "Oui. Marché conclu."
+ },
+ {
+  "n": 208,
+  "fr": "Tout le monde..."
+ },
+ {
+  "n": 209,
+  "fr": "... Merci, les gars."
+ },
+ {
+  "n": 210,
+  "fr": "Bon, maintenant que je suis debout, je suis d'attaque \npour reprendre les rênes."
+ },
+ {
+  "n": 211,
+  "fr": "Et j'apprécierais que vous me souteniez."
+ },
+ {
+  "n": 212,
+  "fr": "Pas de problème."
+ },
+ {
+  "n": 213,
+  "fr": "{color 12}#1616F#11PIl semble que vous soyez tous prêts \nà avancer.{color 0}"
+ },
+ {
+  "n": 214,
+  "fr": "{color 12}#1610F#11PPendant que vous progresserez dans \nle sixième plan astral, je ferai tout ce que je pourrai \nde mon côté pour en découvrir plus sur le septième."
+ },
+ {
+  "n": 215,
+  "fr": "Bien sûr, si vous avez besoin de mon soutien, je \nserai heureuse de vous aider via le Cube et les \nmonuments, comme je l'ai toujours fait.{color 0}"
+ },
+ {
+  "n": 216,
+  "fr": "Maintenant que vous le dites, on vous a pas vraiment \nremerciée pour toute l'aide que vous nous avez \napportée depuis qu'on est arrivés là, hein ?"
+ },
+ {
+  "n": 217,
+  "fr": "Merci, Celeste. On aurait pas pu faire ça sans vous."
+ },
+ {
+  "n": 218,
+  "fr": "Nous vous devons vraiment beaucoup."
+ },
+ {
+  "n": 219,
+  "fr": "{color 12}#1616FJe vous en prie, ce n'est rien."
+ },
+ {
+  "n": 220,
+  "fr": "Je ne suis qu'un fantôme, placé ici avec une mission \nà accomplir."
+ },
+ {
+  "n": 221,
+  "fr": "Je crois que vous aider fait partie de cette mission."
+ },
+ {
+  "n": 222,
+  "fr": "Si je le peux, permettez-moi de vous aider d'une \nquelconque manière.{color 0}"
+ },
+ {
+  "n": 223,
+  "fr": "Ça marche."
+ },
+ {
+  "n": 224,
+  "fr": "Désolé de t'avoir inquiétée aussi, Ries."
+ },
+ {
+  "n": 225,
+  "fr": "Mais je vais bien, maintenant."
+ },
+ {
+  "n": 226,
+  "fr": "Alors s'il te plaît, laisse-moi juste tout gérer. Je t'en \nprie."
+ },
+ {
+  "n": 227,
+  "fr": "......"
+ },
+ {
+  "n": 228,
+  "fr": "Seulement si tu me promets une chose."
+ },
+ {
+  "n": 229,
+  "fr": "D-de quoi ?"
+ },
+ {
+  "n": 230,
+  "fr": "Je ne vais pas te demander de me promettre de ne \npas te mettre en danger, ou de ne pas en faire trop..."
+ },
+ {
+  "n": 231,
+  "fr": "... Mais ne fais rien qui rendrait Rufina triste."
+ },
+ {
+  "n": 232,
+  "fr": "......"
+ },
+ {
+  "n": 233,
+  "fr": "Rahhh... Tu sais vraiment taper là où ça fait mal, \nhein ?"
+ },
+ {
+  "n": 234,
+  "fr": "... Bien ? Le promettras-tu ?"
+ },
+ {
+  "n": 235,
+  "fr": "......"
+ },
+ {
+  "n": 236,
+  "fr": "Ouais. Je le promets."
+ },
+ {
+  "n": 237,
+  "fr": "Je le jure sur sa tête, je ferai rien qui la rendrait \ntriste."
+ },
+ {
+  "n": 238,
+  "fr": "Bonjour, tout le monde. Celeste m'a gentiment \nexpliqué la situation pendant que vous étiez absents."
+ },
+ {
+  "n": 239,
+  "fr": "Vous avez besoin de mon aide pour pouvoir continuer \nà avancer, n'est-ce pas ?"
+ },
+ {
+  "n": 240,
+  "fr": "Oh, tu sais déjà tout ? Super ! Ça nous fait gagner \ndu temps."
+ },
+ {
+  "n": 241,
+  "fr": "Je suis prête à partir dès que vous l'êtes."
+ },
+ {
+  "n": 242,
+  "fr": "Faites-moi juste signe lorsque vous serez prêts à \npartir."
+ },
+ {
+  "n": 243,
+  "fr": "Ça marche."
+ },
+ {
+  "n": 244,
+  "fr": "On partira dès qu'on aura fini de se préparer, dans \nce cas."
+ },
+ {
+  "n": 245,
+  "fr": "{color 5}Kevin expliqua à Anelace qu'ils pensaient qu'elle \nétait la personne requise par l'inscription sur le \nmonument amberl."
+ },
+ {
+  "n": 246,
+  "fr": "Moi ? La « dame maniant l'épée » ?"
+ },
+ {
+  "n": 247,
+  "fr": "Je sais paaas... Je veux dire, ça sonne bien comme \ntitre et tout ça, mais est-ce que ça me correspond \nvraiment ?"
+ },
+ {
+  "n": 248,
+  "fr": "Ouais, si tu veux mon avis. Mais hé, même si t'es \npas sûre, ça vaut la peine d'essayer, hein ?"
+ },
+ {
+  "n": 249,
+  "fr": "Tu veux bien venir avec nous et tenter ?"
+ },
+ {
+  "n": 250,
+  "fr": "Ça marche."
+ },
+ {
+  "n": 251,
+  "fr": "C'est parti, alors !"
+ },
+ {
+  "n": 252,
+  "fr": "{color 5}Kevin expliqua à Richard qu'ils pensaient qu'il \nétait la personne requise par l'inscription sur le \nmonument carnelia."
+ },
+ {
+  "n": 253,
+  "fr": "Moi ? Le « successeur de la Lame divine » ?"
+ },
+ {
+  "n": 254,
+  "fr": "M-Mais..."
+ },
+ {
+  "n": 255,
+  "fr": "... Je suppose qu'il est inutile de débattre sur le fait \nque je sois à la hauteur d'être appelé son successeur. \nPersonne d'autre ne semble correspondre à cela."
+ },
+ {
+  "n": 256,
+  "fr": "Je serais heureux de vous accompagner lorsque \nvous retournerez à ce monument."
+ },
+ {
+  "n": 257,
+  "fr": "Merci."
+ },
+ {
+  "n": 258,
+  "fr": "{color 5}Kevin expliqua à Joshua qu'ils pensaient qu'il \nétait la personne requise par l'inscription sur le \nmonument nohval."
+ },
+ {
+  "n": 259,
+  "fr": "......"
+ },
+ {
+  "n": 260,
+  "fr": "On dirait que la zone finale est l'endroit où ce \nSchwarzritter nous attend, dans ce cas."
+ },
+ {
+  "n": 261,
+  "fr": "Je me demande pourquoi il voudrait que j'y aille, \npar contre..."
+ },
+ {
+  "n": 262,
+  "fr": "Tout ce qu'on sait, c'est qu'il le veut."
+ },
+ {
+  "n": 263,
+  "fr": "C'est quoi le verdict ? Tu es d'attaque ?"
+ },
+ {
+  "n": 264,
+  "fr": "Naturellement, je vais accepter son invitation."
+ },
+ {
+  "n": 265,
+  "fr": "On devrait y retourner dès qu'on aura fini les \npréparatifs. Faites-moi juste savoir quand vous \nserez prêts."
+ },
+ {
+  "n": 266,
+  "fr": "Joshua..."
+ },
+ {
+  "n": 267,
+  "fr": "E-Euhh..."
+ },
+ {
+  "n": 268,
+  "fr": "Joshua..."
+ },
+ {
+  "n": 269,
+  "fr": "J-Joshua..."
+ },
+ {
+  "n": 270,
+  "fr": "En es-tu sûr ?"
+ },
+ {
+  "n": 271,
+  "fr": "... Je le suis. Peu importe ce qui se passera, ça ira."
+ },
+ {
+  "n": 272,
+  "fr": "Tout ce qu'on peut faire pour l'instant est de continuer \nà avancer, et je n'ai pas l'intention de m'opposer à ça."
+ },
+ {
+  "n": 273,
+  "fr": "{color 0}Cela résume à peu près tout."
+ },
+ {
+  "n": 274,
+  "fr": "{color 0}..."
+ },
+ {
+  "n": 275,
+  "fr": "En d'autres termes, tout cela — tout ce qu'il s'est \npassé — est de ma faute."
+ },
+ {
+  "n": 276,
+  "fr": "Vous tous êtes des victimes qui ont eu la malchance \nde me connaître et d'être entraînés là-dedans."
+ },
+ {
+  "n": 277,
+  "fr": "Il n'existe pas d'excuses assez sincères, mais je suis \ndésolé de tout ce que l'on vous a fait traverser."
+ },
+ {
+  "n": 278,
+  "fr": "Je suis pas..."
+ },
+ {
+  "n": 279,
+  "fr": "Pourquoi ? J'ai entendu tout ce que tu as dit, mais je \npense pas que tu aies la moindre raison d'être \nAUTANT désolé."
+ },
+ {
+  "n": 280,
+  "fr": "Pardon, Estelle ?"
+ },
+ {
+  "n": 281,
+  "fr": "En se basant sur ce que nous avons appris, le choix \nd'un nouveau Maître par Phantasma était inévitable, \net il l'aurait fait que vous fussiez là ou non."
+ },
+ {
+  "n": 282,
+  "fr": "De ce fait, après qu'il ait perdu l'Auréole, quelque \nchose comme cela serait arrivé, peu importe \nles circonstances."
+ },
+ {
+  "n": 283,
+  "fr": "Ha, je partage cet avis."
+ },
+ {
+  "n": 284,
+  "fr": "Phantasma aurait simplement jeté son dévolu sur \nquelqu'un d'autre, et créé un monde différent basé \nsur les traumatismes gisant en son intérieur."
+ },
+ {
+  "n": 285,
+  "fr": "... Penser que tu aurais pu être choisi est tout à \nfait terrifiant, également."
+ },
+ {
+  "n": 286,
+  "fr": "Tout ce qui nous est arrivé ici jusque là n'est rien \nà côté de ce que nous aurions enduré si cela s'était \npassé ainsi."
+ },
+ {
+  "n": 287,
+  "fr": "Oh, Mueller ! Tes mots sont comme le plus doux des \nbaisers devenu glacial en partant. As-tu si peu foi \nen moi, ton seul et unique ? "
+ },
+ {
+  "n": 288,
+  "fr": "Peut-être que tout le monde ici aurait été attiré vers \nle plus vorace des festins que le monde ait jamais \nconnu, mais rien de plus que cela."
+ },
+ {
+  "n": 289,
+  "fr": "......"
+ },
+ {
+  "n": 290,
+  "fr": "J-J'ai peur..."
+ },
+ {
+  "n": 291,
+  "fr": "Je suis juste dégoûté."
+ },
+ {
+  "n": 292,
+  "fr": "T'es vraiment un détraqué, tu le sais, ça ?"
+ },
+ {
+  "n": 293,
+  "fr": "J-Je veux pas participer à un quelconque « festin » \nqui sorte de ton cerveau !"
+ },
+ {
+  "n": 294,
+  "fr": "*soupir* Ne compte pas sur moi pour cela..."
+ },
+ {
+  "n": 295,
+  "fr": "Mhh... Je peux pas m'empêcher de penser que vous \nêtes un peu en train de passer à côté du sujet..."
+ },
+ {
+  "n": 296,
+  "fr": "Eh bien, ne croyez pas que Renne essaie de vous \ndéfendre, ou quoi que ce soit..."
+ },
+ {
+  "n": 297,
+  "fr": "... Mais dans un sens, il a peut-être été une bonne \nchose que vous ayez été choisi plutôt que qui que \nce soit d'autre."
+ },
+ {
+  "n": 298,
+  "fr": "Pourquoi ça ?"
+ },
+ {
+  "n": 299,
+  "fr": "Je suis perdue, moi aussi..."
+ },
+ {
+  "n": 300,
+  "fr": "Votre Stigma est évidemment très puissant, et il \nest capable d'exercer beaucoup de contrôle sur \nles choses."
+ },
+ {
+  "n": 301,
+  "fr": "À tel point que Phantasma tel qu'il l'est à présent \nexiste dans un état ordonné."
+ },
+ {
+  "n": 302,
+  "fr": "Mais s'il avait choisi quelqu'un d'autre ? Le monde \naurait-il été capable de maintenir l'ordre ainsi ?"
+ },
+ {
+  "n": 303,
+  "fr": "Mhh..."
+ },
+ {
+  "n": 304,
+  "fr": "C'est possible que Phantasma aurait été incapable \nde contenir le chaos qui s'en serait suivi et aurait \nété hors de contrôle sous les ordres d'un autre..."
+ },
+ {
+  "n": 305,
+  "fr": "... C'est essentiellement là où tu veux en venir, \nn'est-ce pas ?"
+ },
+ {
+  "n": 306,
+  "fr": "Hi hi. Renne savait que tu comprendrais, Joshua."
+ },
+ {
+  "n": 307,
+  "fr": "Si cela était arrivé, bien davantage de gens auraient \npu être entraînés là-dedans."
+ },
+ {
+  "n": 308,
+  "fr": "Pas que Renne ait un problème avec le fait d'avoir un \ngrand nombre d'invités à une cérémonie du thé. \nPlus on est de fous, plus on rit ! ♪"
+ },
+ {
+  "n": 309,
+  "fr": "R-Renne..."
+ },
+ {
+  "n": 310,
+  "fr": "Je crois que tu es la seule qui s'amuserait..."
+ },
+ {
+  "n": 311,
+  "fr": "Ha ha..."
+ },
+ {
+  "n": 312,
+  "fr": "Elle a raison. Je ne crois pas que tu aies la moindre \nraison de te fustiger à ce sujet."
+ },
+ {
+  "n": 313,
+  "fr": "Nous sommes tous des individus très différents, \nvenant d'horizons différentes..."
+ },
+ {
+  "n": 314,
+  "fr": "... Mais à cet instant, nous sommes tous ici, à partager \nune destinée commune."
+ },
+ {
+  "n": 315,
+  "fr": "Oui. Dans des moments comme ça, on doit s'entraider, \nhein ?"
+ },
+ {
+  "n": 316,
+  "fr": "De plus, cet endroit est lié à l'Auréole, qui est le \nproblème du Liberl."
+ },
+ {
+  "n": 317,
+  "fr": "De mon point de vue, vous êtes une victime."
+ },
+ {
+  "n": 318,
+  "fr": "Je ne pourrais pas être plus en accord."
+ },
+ {
+  "n": 319,
+  "fr": "De ce fait, Kevin, nous apprécierions que vous \ncontinuiez à nous guider comme vous l'avez fait \njusqu'ici."
+ },
+ {
+  "n": 320,
+  "fr": "Il est temps de véritablement mettre fin à ce qui \na été commencé il y a six mois."
+ },
+ {
+  "n": 321,
+  "fr": "Tout le monde..."
+ },
+ {
+  "n": 322,
+  "fr": "Ha ha..."
+ },
+ {
+  "n": 323,
+  "fr": "D'abord, je suis stupide, puis Ries fait le truc le plus \nidiot que j'aie jamais vu... et maintenant vous. Ça doit \nêtre le plus grand groupe d'idiots de tout Zémuria."
+ },
+ {
+  "n": 324,
+  "fr": "Je vous jure, vous trouveriez pas un groupe plus \ncrédule et naïf où que ce soit sur le continent..."
+ },
+ {
+  "n": 325,
+  "fr": "J'étais ravi de me servir de chacun d'entre vous \npour mes propres intérêts, jusqu'à la toute fin..."
+ },
+ {
+  "n": 326,
+  "fr": "... Alors comment vous pouvez être si... si... ?"
+ },
+ {
+  "n": 327,
+  "fr": "Kevin..."
+ },
+ {
+  "n": 328,
+  "fr": "Kevin..."
+ },
+ {
+  "n": 329,
+  "fr": "Ha ha ha. Parfois, tu dois juste savoir quand lâcher \nl'affaire."
+ },
+ {
+  "n": 330,
+  "fr": "... Et tu en es rendu à ce point maintenant. Tu es \ntombé en panne de chance dès que tu t'es retrouvé \ncoincé avec nous."
+ },
+ {
+  "n": 331,
+  "fr": "Hi hi. Coincé avec TOI, tu veux dire."
+ },
+ {
+  "n": 332,
+  "fr": "Passer trop de temps avec une bonne samaritaine \nforceuse et curieuse qui sait pas quand s'arrêter \ncomme toi, c'est mauvais pour n'importe qui."
+ },
+ {
+  "n": 333,
+  "fr": "R-Répète un peu pour voir ?"
+ },
+ {
+  "n": 334,
+  "fr": "... Ha ha."
+ },
+ {
+  "n": 335,
+  "fr": "Eh bien, cette description te va comme un gant, \nc'est vrai."
+ },
+ {
+  "n": 336,
+  "fr": "*soupir* Assurément."
+ },
+ {
+  "n": 337,
+  "fr": "Euhh... Je..."
+ },
+ {
+  "n": 338,
+  "fr": "Je pense que ce sont tes qualités, par contre..."
+ },
+ {
+  "n": 339,
+  "fr": "Oui ! Moi aussi !"
+ },
+ {
+  "n": 340,
+  "fr": "Je pense qu'Estelle nous a tous déteint dessus \nmaintenant... Et c'est pas une mauvaise chose !"
+ },
+ {
+  "n": 341,
+  "fr": "M-Merci, les filles... ?"
+ },
+ {
+  "n": 342,
+  "fr": "Un groupe d'idiots, ouais."
+ },
+ {
+  "n": 343,
+  "fr": "On est paumés ici en plein dans une situation \nmerdique, mais on le saurait pas en nous regardant."
+ },
+ {
+  "n": 344,
+  "fr": "Ha, avec une équipe aussi spectaculaire, \nqu'avons-nous à craindre ?"
+ },
+ {
+  "n": 345,
+  "fr": "Il y a des chances que nous puissions même \nrenverser le gouvernement érébonien si nous \nle décidions."
+ },
+ {
+  "n": 346,
+  "fr": "Ai-je besoin de te rappeler que ce n'est pas quelque \nchose qu'un prince érébonien devrait dire à voix \nhaute ?"
+ },
+ {
+  "n": 347,
+  "fr": "Ha ha... D'accord, d'accord ! Je m'avoue vaincu."
+ },
+ {
+  "n": 348,
+  "fr": "On est dans ce pétrin. Tous ensemble."
+ },
+ {
+  "n": 349,
+  "fr": "Et cette fois, je le pense vraiment."
+ },
+ {
+  "n": 350,
+  "fr": "Ouais !"
+ },
+ {
+  "n": 351,
+  "fr": "On est contents de t'avoir avec nous."
+ },
+ {
+  "n": 352,
+  "fr": "Bon... au moins maintenant, on sait exactement ce \nqu'on doit faire ici."
+ },
+ {
+  "n": 353,
+  "fr": "On doit vaincre Rufina, le Maître de Phantasma. \nY a pas moyen de faire autrement."
+ },
+ {
+  "n": 354,
+  "fr": "... Malheureusement non."
+ },
+ {
+  "n": 355,
+  "fr": "En effet..."
+ },
+ {
+  "n": 356,
+  "fr": "Ceci étant dit... où se trouve-t-elle, au juste ?"
+ },
+ {
+  "n": 357,
+  "fr": "Vous ne l'avez pas croisée à Géhenne, si ?"
+ },
+ {
+  "n": 358,
+  "fr": "Elle a disparu juste après que vous deux soyez \ntombés là-dedans."
+ },
+ {
+  "n": 359,
+  "fr": "Elle a disparu juste après que vous deux soyez \ntombés là-dedans."
+ },
+ {
+  "n": 360,
+  "fr": "Elle a disparu juste après que vous deux soyez \ntombés là-dedans."
+ },
+ {
+  "n": 361,
+  "fr": "Elle a disparu juste après que vous deux soyez \ntombés là-dedans."
+ },
+ {
+  "n": 362,
+  "fr": "Elle a disparu juste après que vous deux soyez \ntombés là-dedans."
+ },
+ {
+  "n": 363,
+  "fr": "Elle a disparu juste après que vous deux soyez \ntombés là-dedans."
+ },
+ {
+  "n": 364,
+  "fr": "Elle a disparu juste après que vous deux soyez \ntombés là-dedans."
+ },
+ {
+  "n": 365,
+  "fr": "Elle a disparu juste après que vous deux soyez \ntombés là-dedans."
+ },
+ {
+  "n": 366,
+  "fr": "Elle a juste disparu après que vous deux ayez \ndégringolé là-dedans."
+ },
+ {
+  "n": 367,
+  "fr": "Elle a disparu juste après que vous deux soyez \ntombés là-dedans."
+ },
+ {
+  "n": 368,
+  "fr": "Elle a disparu immédiatement après que vous deux \nsoyez tombés là-dedans."
+ },
+ {
+  "n": 369,
+  "fr": "Elle a disparu immédiatement après que vous deux \nsoyez tombés là-dedans."
+ },
+ {
+  "n": 370,
+  "fr": "Elle a disparu immédiatement après que vous deux \nsoyez tombés là-dedans."
+ },
+ {
+  "n": 371,
+  "fr": "C'est une bonne question..."
+ },
+ {
+  "n": 372,
+  "fr": "Je pense que l'on peut assurément dire qu'elle \nn'était pas à Géhenne avec nous."
+ },
+ {
+  "n": 373,
+  "fr": "Si elle l'avait été, elle se serait montrée, à un \nmoment."
+ },
+ {
+  "n": 374,
+  "fr": "Ouais..."
+ },
+ {
+  "n": 375,
+  "fr": "Mais alors, elle est OÙ ?"
+ },
+ {
+  "n": 376,
+  "fr": "{color 12}Je pense pouvoir répondre à cela.{color 0}"
+ },
+ {
+  "n": 377,
+  "fr": "Celeste ?"
+ },
+ {
+  "n": 378,
+  "fr": "Je m'étais pas rendu compte que vous étiez là."
+ },
+ {
+  "n": 379,
+  "fr": "Je peux pas vous remercier assez d'avoir sauvé \nnotre peau tout à l'heure."
+ },
+ {
+  "n": 380,
+  "fr": "Vraiment, je doute que nous aurions été capables \nde nous en sortir indemnes sans votre aide."
+ },
+ {
+  "n": 381,
+  "fr": "Nous sommes tous les deux reconnaissants au-delà \nde ce que les mots puissent exprimer."
+ },
+ {
+  "n": 382,
+  "fr": "{color 12}#1616F#5PHi hi. J'étais plus que ravie de vous \nvenir en aide."
+ },
+ {
+  "n": 383,
+  "fr": "Nous tous ici sommes dans la même situation, y \ncompris moi-même."
+ },
+ {
+  "n": 384,
+  "fr": "Vous pouvez même me considérer comme une autre \nde vos acolytes, si vous le souhaitez.{color 0}"
+ },
+ {
+  "n": 385,
+  "fr": "Ha ha... Naturellement."
+ },
+ {
+  "n": 386,
+  "fr": "Quel genre de réponse vous pensez pouvoir nous \napporter ?"
+ },
+ {
+  "n": 387,
+  "fr": "{color 12}#1615F#5PAhh, oui..."
+ },
+ {
+  "n": 388,
+  "fr": "Cela a pris du temps, mais j'ai pu déterminer sa \nposition actuelle.{color 0}"
+ },
+ {
+  "n": 389,
+  "fr": "Quoi... ?"
+ },
+ {
+  "n": 390,
+  "fr": "V-Vraiment ?!"
+ },
+ {
+  "n": 391,
+  "fr": "Est-ce ce sur quoi vous avez travaillé pendant tout \nce temps ?"
+ },
+ {
+  "n": 392,
+  "fr": "{color 12}#1616F#5POui."
+ },
+ {
+  "n": 393,
+  "fr": "Lors de mon investigation du septième plan astral, \nj'ai pu obtenir une compréhension de la disposition \net du contenu de Phantasma dans son intégralité."
+ },
+ {
+  "n": 394,
+  "fr": "J'ai également découvert que le Maître de Phantasma \nn'était dans aucun des plans astraux. Elle est plutôt \nà l'extérieur de ceux-ci.{color 0}"
+ },
+ {
+  "n": 395,
+  "fr": "Phantasma consiste-t-il en davantage que juste \nles plans astraux ?"
+ },
+ {
+  "n": 396,
+  "fr": "C-Comment est-ce que c'est, à l'extérieur ?"
+ },
+ {
+  "n": 397,
+  "fr": "{color 12}#1612F#5PVoyez les plans astraux que vous avez \nexplorés comme une structure immense et à plusieurs \nniveaux, au centre de Phantasma."
+ },
+ {
+  "n": 398,
+  "fr": "Ils sont tout ce que vous avez connu jusqu'ici, mais \nce monde consiste en davantage que ceux-ci."
+ },
+ {
+  "n": 399,
+  "fr": "Cela dit, le reste de Phantasma est juste une vaste \nétendue déserte maintenant, abandonnée et \ndépourvue de vie.{color 0}"
+ },
+ {
+  "n": 400,
+  "fr": "C'est dur à imaginer sans le voir par moi-même..."
+ },
+ {
+  "n": 401,
+  "fr": "Vous savez où elle est dans cette grande étendue \ndéserte abandonnée ?"
+ },
+ {
+  "n": 402,
+  "fr": "Parce que si c'est aussi vaste, savoir juste qu'elle est \nlà va pas beaucoup nous aider."
+ },
+ {
+  "n": 403,
+  "fr": "{color 12}#1615F#5PJ'ai une relativement bonne idée d'où \nelle se trouve là-dedans, heureusement."
+ },
+ {
+  "n": 404,
+  "fr": "Bien que cela ne résolve pas le problème principal..."
+ },
+ {
+  "n": 405,
+  "fr": "J'ai peur que le mot « vaste » ne soit pas représentatif \nde l'échelle de l'étendue déserte."
+ },
+ {
+  "n": 406,
+  "fr": "Je crois que cela équivaut approximativement à la \ntaille du continent sur lequel vous vivez.{color 0}"
+ },
+ {
+  "n": 407,
+  "fr": "Ça fait la taille de la ZÉMURIA ?!"
+ },
+ {
+  "n": 408,
+  "fr": "Ça, ça VA poser un problème..."
+ },
+ {
+  "n": 409,
+  "fr": "Traverser une zone aussi massive à pied prendrait \ndes mois. Peut-être même encore plus longtemps..."
+ },
+ {
+  "n": 410,
+  "fr": "N'avons-nous aucun autre moyen de transport que \nnous pourrions utiliser ?"
+ },
+ {
+  "n": 411,
+  "fr": "{color 12}#1615F#5PMhh..."
+ },
+ {
+  "n": 412,
+  "fr": "Je ne suis pas sûre que mon pouvoir vous serait \nd'une quelconque utilité, ici."
+ },
+ {
+  "n": 413,
+  "fr": "Je ne peux pas placer de monuments trop loin de \nce jardin, d'une...{color 0}"
+ },
+ {
+  "n": 414,
+  "fr": "Même si on se motivait pour traverser le truc entier \nà pied, sans le pouvoir du Cube, on pourrait pas \nrevenir et se réapprovisionner."
+ },
+ {
+  "n": 415,
+  "fr": "Essayer d'emporter l'équivalent de plusieurs mois \nde nourriture semble difficilement réaliste..."
+ },
+ {
+  "n": 416,
+  "fr": "Eh bien, ce n'est pas simple..."
+ },
+ {
+  "n": 417,
+  "fr": "Attendre ici qu'elle vienne à nous, je ne vois que ça."
+ },
+ {
+  "n": 418,
+  "fr": "Il t'arrive quoi, crevette ?#12P\nY a un truc qui te travaille ?"
+ },
+ {
+  "n": 419,
+  "fr": "Eh bien... j'étais juste en train de penser..."
+ },
+ {
+  "n": 420,
+  "fr": "Pourquoi ne pas utiliser l'Arseille ?"
+ },
+ {
+  "n": 421,
+  "fr": "Euhh, quoi ?"
+ },
+ {
+  "n": 422,
+  "fr": "La réplique que nous avons croisée dans le premier \nplan astral ?"
+ },
+ {
+  "n": 423,
+  "fr": "O-Oui."
+ },
+ {
+  "n": 424,
+  "fr": "Ce monde est censé réagir aux désirs des gens qui \nsont à l'intérieur, non ?"
+ },
+ {
+  "n": 425,
+  "fr": "Alors même si l'Arseille n'est peut-être pas le vrai, \nil en a tout l'air."
+ },
+ {
+  "n": 426,
+  "fr": "Tout le monde ici connaît plutôt bien le vrai et ce à \nquoi il ressemble, donc ça semble être un vaisseau \nqu'on pourrait tous facilement imaginer voler."
+ },
+ {
+  "n": 427,
+  "fr": "Peut-être que si on priait tous ensemble pour qu'il \nvole, ça marcherait..."
+ },
+ {
+  "n": 428,
+  "fr": "D-Désolée ! Ha ha... ha... Je suis bête, n'est-ce pas ? "
+ },
+ {
+  "n": 429,
+  "fr": "Je ne sais pas ce qui m'a pris... Ce n'est pas quelque \nchose qu'une ingénieure devrait dire..."
+ },
+ {
+  "n": 430,
+  "fr": "Renne ne pense pas du tout que tu sois bête, Tita."
+ },
+ {
+  "n": 431,
+  "fr": "En fait, elle pense que c'est une idée fantastique."
+ },
+ {
+  "n": 432,
+  "fr": "C'est vrai ?!"
+ },
+ {
+  "n": 433,
+  "fr": "On dirait que plus quelque chose est facile à imaginer, \nplus c'est facile à réaliser dans Phantasma."
+ },
+ {
+  "n": 434,
+  "fr": "Et toi comme Julia connaissez bien la structure \nexacte de l'Arseille, et la plupart d'entre nous \nl'avons vu et sommes montés à bord."
+ },
+ {
+  "n": 435,
+  "fr": "... Ça pourrait effectivement marcher."
+ },
+ {
+  "n": 436,
+  "fr": "Il n'y a clairement pas de règle disant que les \naéronefs ne puissent pas exister ici, non plus, étant \ndonné qu'on est déjà montés sur l'Arche noire."
+ },
+ {
+  "n": 437,
+  "fr": "Eh bien, Celeste ? Vous pensez que ça pourrait \nmarcher ?"
+ },
+ {
+  "n": 438,
+  "fr": "{color 12}#1615F#5P..."
+ },
+ {
+  "n": 439,
+  "fr": "L'Arseille est le vaisseau que vous avez utilisé afin \nd'atteindre l'arche Liber, je crois ?"
+ },
+ {
+  "n": 440,
+  "fr": "Ainsi, si j'injectais l'image de celui-ci en train de \nvoler à ce moment-là dans le système...{color 0}"
+ },
+ {
+  "n": 441,
+  "fr": "{color 12}#1616F#5P... Je pense que cela pourrait \neffectivement être possible."
+ },
+ {
+  "n": 442,
+  "fr": "Si vous êtes tous d'accord, les ailes blanches fendront \nune fois de plus le ciel.{color}"
+ },
+ {
+  "n": 443,
+  "fr": "On peut vraiment y arriver ?!"
+ },
+ {
+  "n": 444,
+  "fr": "J-Je n'arrive pas à le croire..."
+ },
+ {
+  "n": 445,
+  "fr": "Hi hi. Bien joué, Tita."
+ },
+ {
+  "n": 446,
+  "fr": "Carrément ! Tu t'es vraiment surpassée, cette fois-ci."
+ },
+ {
+  "n": 447,
+  "fr": "A-Attendez une seconde..."
+ },
+ {
+  "n": 448,
+  "fr": "Ça veut dire qu'on pourrait peut-être faire voler le \nLynx ? Il y en a une copie ici, aussi !"
+ },
+ {
+  "n": 449,
+  "fr": "Oh, tu as raison."
+ },
+ {
+  "n": 450,
+  "fr": "{color 12}#1615F#5PMhh..."
+ },
+ {
+  "n": 451,
+  "fr": "Combien d'entre vous le connaissez bien ?{color 0}"
+ },
+ {
+  "n": 452,
+  "fr": "Merde... J'avais oublié ça."
+ },
+ {
+  "n": 453,
+  "fr": "Je crois que Josette et moi sommes les seuls à \navoir effectivement volé à son bord."
+ },
+ {
+  "n": 454,
+  "fr": "Schera, Olivier et moi, on est techniquement montés \ndedans, mais on était juste des passagers \nclandestins..."
+ },
+ {
+  "n": 455,
+  "fr": "Oui. Cela remonte à quand nous étions en train \nd'investiguer le détournement de cet aéronef."
+ },
+ {
+  "n": 456,
+  "fr": "Ha. Quel doux souvenir a constitué cette escapade, \nmaintenant que j'y repense."
+ },
+ {
+  "n": 457,
+  "fr": "{color 12}#1613F#5PJe ne suis pas sûre de quelles seraient \nles chances de réussites, dans ce cas... Cela est un \nnombre de personnes assez restreint."
+ },
+ {
+  "n": 458,
+  "fr": "Je pense qu'il serait sage de se focaliser sur la \nreprise de l'Arseille, pour commencer.{color 0}"
+ },
+ {
+  "n": 459,
+  "fr": "Ohh... OK."
+ },
+ {
+  "n": 460,
+  "fr": "Cela semble toujours être un meilleur plan que \nd'essayer de marcher jusqu'à là-bas à pied."
+ },
+ {
+  "n": 461,
+  "fr": "Nous devrions nous préparer au départ tout de suite, \npuis nous diriger vers l'Arseille !"
+ },
+ {
+  "n": 462,
+  "fr": "Pas besoin de me le dire deux fois."
+ },
+ {
+  "n": 463,
+  "fr": "Beaucoup de choses nous attendront si nous sommes \ncapables d'y arriver."
+ },
+ {
+  "n": 464,
+  "fr": "{color 12}#1615F#5PCependant, je devrais tous vous prévenir \nd'une chose :"
+ },
+ {
+  "n": 465,
+  "fr": "Une fois que vous aurez fait voler l'Arseille jusqu'à \nl'endroit où attend le Maître de Phantasma, ce sera \nla fin."
+ },
+ {
+  "n": 466,
+  "fr": "Vous ne serez jamais plus en mesure de revenir dans \nce jardin. S'il vous plaît, ayez-en conscience.{color 0} "
+ },
+ {
+  "n": 467,
+  "fr": "Jamais ? Pas même une fois ?"
+ },
+ {
+  "n": 468,
+  "fr": "Car nous ne pourrons plus utiliser la capacité de \ntéléportation du Cube ?"
+ },
+ {
+  "n": 469,
+  "fr": "{color 12}#1612F#5PExact. L'utiliser pour vous téléporter \nest seulement possible lorsque vous êtes à une \ncertaine proximité du jardin ; si vous allez au-delà, \nce n'est plus possible."
+ },
+ {
+  "n": 470,
+  "fr": "Alors avant que vous ne partiez, je vous demanderais \nde vous assurer d'avoir tout le nécessaire et d'être \nprêts pour ce que vous pourriez trouver là-bas.{color 0}"
+ },
+ {
+  "n": 471,
+  "fr": "C'est bon à savoir..."
+ },
+ {
+  "n": 472,
+  "fr": "Ça ne nous ferait pas de mal de nous entraîner un \npeu plus, dans ce cas. Je ne doute pas qu'on va tous \ndevoir jouer notre rôle dans ce qui va se passer."
+ },
+ {
+  "n": 473,
+  "fr": "O-Oui, tu as raison."
+ },
+ {
+  "n": 474,
+  "fr": "Ça me dérangerait pas de m'exercer un peu, moi \nnon plus. Je voudrais pas finir par être celle qui \nralentirait le groupe !"
+ },
+ {
+  "n": 475,
+  "fr": "Ceci sera notre dernière opportunité d'ouvrir les \nPortes dispersées dans les plans astraux et de \nprendre tout ce que nous pourrons trouver, également."
+ },
+ {
+  "n": 476,
+  "fr": "C'est probablement mieux que je me retire de mon \nrôle de meneur pour l'instant, dans ce cas. Si vous \nallez juste à la chasse aux Portes ou que vous \nessayez de vous entraîner, je ferais que vous gêner."
+ },
+ {
+  "n": 477,
+  "fr": "Si quelqu'un d'autre veut apprendre comment utiliser \nle Cube ou remplir mon carnet, je serais ravi de vous \ninstruire. Faites-le-moi juste savoir."
+ },
+ {
+  "n": 478,
+  "fr": "Soyons juste sûrs que quand le moment arrivera, \non partira sans regrets !"
+ },
+ {
+  "n": 479,
+  "fr": "{color 0}#5SOui !"
+ },
+ {
+  "n": 480,
+  "fr": "Oh !"
+ },
+ {
+  "n": 481,
+  "fr": "O-On dirait... !"
+ },
+ {
+  "n": 482,
+  "fr": "Hé. Alors même lui s'est retrouvé ici."
+ },
+ {
+  "n": 483,
+  "fr": "Ainsi, l'une des têtes d'affiche fait enfin sa grande \napparition."
+ },
+ {
+  "n": 484,
+  "fr": "Est-ce quelqu'un que tu connais, aussi ?"
+ },
+ {
+  "n": 485,
+  "fr": "Ha ha. « Connaître » est un euphémisme."
+ },
+ {
+  "n": 486,
+  "fr": "Il est le prince aux cheveux noirs favori de tout \nle monde."
+ },
+ {
+  "n": 487,
+  "fr": "???"
+ },
+ {
+  "n": 488,
+  "fr": "Ugh..."
+ },
+ {
+  "n": 489,
+  "fr": "Estelle, à terre ! "
+ },
+ {
+  "n": 490,
+  "fr": "... Quoi ?!"
+ },
+ {
+  "n": 491,
+  "fr": "J-Joshua !"
+ },
+ {
+  "n": 492,
+  "fr": "Joshuaaa !"
+ },
+ {
+  "n": 493,
+  "fr": "Josette ? Tita ?"
+ },
+ {
+  "n": 494,
+  "fr": "Est-ce que c'est un rêve ? Ou une sorte de tactique \nillusoire censée me désorienter ?"
+ },
+ {
+  "n": 495,
+  "fr": "On peut compter sur toi pour te mettre directement \nà faire des théories."
+ },
+ {
+  "n": 496,
+  "fr": "Désolé, mais c'est pas un rêve. Ni une illusion, \nd'ailleurs."
+ },
+ {
+  "n": 497,
+  "fr": "Je suis surpris de voir qu'autant de vous soyez ici."
+ },
+ {
+  "n": 498,
+  "fr": "Est-ce que ça vous dérangerait de me dire exactement \nquelle est la situation dans laquelle nous nous \ntrouvons ?"
+ },
+ {
+  "n": 499,
+  "fr": "......"
+ },
+ {
+  "n": 500,
+  "fr": "Euuh..."
+ },
+ {
+  "n": 501,
+  "fr": "J'imagine que c'était pas assez pour te convaincre \nque tout ça est vraiment en train de se passer, hein ?"
+ },
+ {
+  "n": 502,
+  "fr": "Oh, pas du tout. Considère que je suis convaincu."
+ },
+ {
+  "n": 503,
+  "fr": "Bien que l'idée que ce soit une illusion semblait au \ndépart plausible, l'existence de ton acolyte juste ici \na rendu ça assez improbable."
+ },
+ {
+  "n": 504,
+  "fr": "Moi ?"
+ },
+ {
+  "n": 505,
+  "fr": "Oui."
+ },
+ {
+  "n": 506,
+  "fr": "Ai-je raison de supposer que vous êtes une membre \ndes Gralsritters ?"
+ },
+ {
+  "n": 507,
+  "fr": "Cela se voit-il ?"
+ },
+ {
+  "n": 508,
+  "fr": "Eh bien, vous êtes avec Kevin et vous utilisez une \népée des Templiers pour vous battre. Ce n'est pas \nune supposition très risquée de ma part."
+ },
+ {
+  "n": 509,
+  "fr": "Mon nom est Joshua, à ce propos. Joshua Bright."
+ },
+ {
+  "n": 510,
+  "fr": "Ries Argent. Je suis une écuyère."
+ },
+ {
+  "n": 511,
+  "fr": "Puisque nous parlons de cela, je suis curieuse de la \nmanière dont vous avez fini par bien nous connaître, \nainsi que notre organisation."
+ },
+ {
+  "n": 512,
+  "fr": "A-Attends une seconde, Joshua !"
+ },
+ {
+  "n": 513,
+  "fr": "Pourquoi le fait qu'ELLE soit là prouve que c'est \npas une illusion ?"
+ },
+ {
+  "n": 514,
+  "fr": "Que moi je sois là, c'est pas une preuve suffisante \npour toi ?"
+ },
+ {
+  "n": 515,
+  "fr": "Oh, tu sais, je ne crois pas t'avoir déjà vue avec \ncette visière, si ?"
+ },
+ {
+  "n": 516,
+  "fr": "Est-ce que ça a un rapport avec l'entreprise de \nlivraison que tu as mentionnée diriger il y a un \nmoment ? Ça te va bien."
+ },
+ {
+  "n": 517,
+  "fr": "Ouais, c'est ça. On s'en sort super bien ces jours-ci, \nd'ailleurs !"
+ },
+ {
+  "n": 518,
+  "fr": "... Mais t'as pas répondu à ma question !\n#214FTu peux sûrement deviner rien qu'en me \nregardant que je suis la vraie ?"
+ },
+ {
+  "n": 519,
+  "fr": "Généralement, lorsque l'on est dans une illusion, \nles autres personnes qui y apparaissent sont des \ngens que l'on connaît bien."
+ },
+ {
+  "n": 520,
+  "fr": "La raison étant que l'illusion s'inspire et se sert des \nconnaissances qu'a la victime afin de créer le \nmonde."
+ },
+ {
+  "n": 521,
+  "fr": "Je vous ai tous rencontrés, mais Ries est une \nparfaite inconnue."
+ },
+ {
+  "n": 522,
+  "fr": "Et pas n'importe quelle parfaite inconnue ; une \ninconnue inhabituelle, également."
+ },
+ {
+  "n": 523,
+  "fr": "Donc elle ne prouve pas avec certitude que ça ne \nsoit pas une illusion, mais elle rend ça assez \nimprobable."
+ },
+ {
+  "n": 524,
+  "fr": "Je... je crois que je comprends ce que tu dis... \npeut-être..."
+ },
+ {
+  "n": 525,
+  "fr": "Pour résumer, la raison pour laquelle je prouve pas \nque ça soit pas une illusion, c'est parce qu'on est \naussi proches ?"
+ },
+ {
+  "n": 526,
+  "fr": "Eh bien, on pourrait dire ça comme ça, j'imagine..."
+ },
+ {
+  "n": 527,
+  "fr": "Ha ha... D'accord ! Ça me va !"
+ },
+ {
+  "n": 528,
+  "fr": "Hi hi..."
+ },
+ {
+  "n": 529,
+  "fr": "Enfin, c'est trop bien de te revoir, Joshua !"
+ },
+ {
+  "n": 530,
+  "fr": "Je suis content de voir que tu as l'air en forme, \ntoi aussi."
+ },
+ {
+  "n": 531,
+  "fr": "Tu as grandi un peu ces six derniers mois, n'est-ce \npas ?"
+ },
+ {
+  "n": 532,
+  "fr": "Aww. Tu as remarqué !"
+ },
+ {
+  "n": 533,
+  "fr": "Je suis surpris de voir que tu t'es retrouvée prise \nlà-dedans, par contre..."
+ },
+ {
+  "n": 534,
+  "fr": "Ça a dû être une vraie surprise de te trouver ici, \nsoudainement."
+ },
+ {
+  "n": 535,
+  "fr": "Oui... Ça n'a toujours pas l'air complètement réel \npour moi, même après tout ce temps, pour être \nhonnête."
+ },
+ {
+  "n": 536,
+  "fr": "Oh, d'ailleurs..."
+ },
+ {
+  "n": 537,
+  "fr": "Euhh... Tu ne saurais pas où Estelle pourrait être, si ?"
+ },
+ {
+  "n": 538,
+  "fr": "... J'aimerais le savoir."
+ },
+ {
+  "n": 539,
+  "fr": "Cela dit, je suis sûre qu'elle était submergée par la \nmême lumière blanche que moi."
+ },
+ {
+  "n": 540,
+  "fr": "Je dirais qu'il y a d'assez grandes chances qu'elle \nsoit quelque part dans Phantasma comme nous."
+ },
+ {
+  "n": 541,
+  "fr": "O-Oh..."
+ },
+ {
+  "n": 542,
+  "fr": "En fait... où est-ce que vous étiez avant d'arriver \nici, de toute façon ?"
+ },
+ {
+  "n": 543,
+  "fr": "Votre dernière lettre disait que vous étiez en \nÉrébonia. Est-ce que vous étiez toujours là-bas ?"
+ },
+ {
+  "n": 544,
+  "fr": "Oh, non. Plus maintenant."
+ },
+ {
+  "n": 545,
+  "fr": "On est à Crossbell, en ce moment... Enfin, on y était, \navec la situation telle qu'elle est maintenant."
+ },
+ {
+  "n": 546,
+  "fr": "Sérieux ?!"
+ },
+ {
+  "n": 547,
+  "fr": "On était en train de voler au dessus de Crossbell \navant que j'arrive ici, nous aussi !"
+ },
+ {
+  "n": 548,
+  "fr": "Vraiment ?"
+ },
+ {
+  "n": 549,
+  "fr": "Mhh... Je me demande si ça signifie quelque chose."
+ },
+ {
+  "n": 550,
+  "fr": "C'est relativement proche du Liberl, donc cela a \npeut-être un rapport."
+ },
+ {
+  "n": 551,
+  "fr": "J'étais moi-même en Érébonia, mais je me trouvais \ndans la ville la plus proche de la frontière avec le \nLiberl..."
+ },
+ {
+  "n": 552,
+  "fr": "Oh, je vois..."
+ },
+ {
+  "n": 553,
+  "fr": "... J'ai une question pour vous, Père Graham."
+ },
+ {
+  "n": 554,
+  "fr": "En supposant que tout cela ait été causé par un \nartéfact incroyablement puissant..."
+ },
+ {
+  "n": 555,
+  "fr": "... pensez-vous qu'une telle chose puisse être \ncapable d'exercer son influence aussi loin que \nCrossbell ou Parm ?"
+ },
+ {
+  "n": 556,
+  "fr": "J'en doute vraiment, vraiment sérieusement."
+ },
+ {
+  "n": 557,
+  "fr": "La seule chose à laquelle je puisse penser qui \nétait capable d'affecter une zone aussi vaste \nest le phénomène d'interruption orbale de l'Auréole."
+ },
+ {
+  "n": 558,
+  "fr": "Ça a VRAIMENT atteint la lisière sud de l'Érébonia."
+ },
+ {
+  "n": 559,
+  "fr": "Je vois..."
+ },
+ {
+  "n": 560,
+  "fr": "Ainsi, il faudrait vraiment que cela soit quelque \nchose d'aussi puissant que l'un des Sept-Terrions, \ndans ce cas."
+ },
+ {
+  "n": 561,
+  "fr": "Bien que, puisque nous en parlons... l'Auréole \nelle-même est-elle toujours introuvable ?"
+ },
+ {
+  "n": 562,
+  "fr": "V-Vous ne voulez pas dire que c'est l'œuvre de \nl'Auréole ?!"
+ },
+ {
+  "n": 563,
+  "fr": "Je pense pas qu'on devrait écarter la possibilité, \nTita."
+ },
+ {
+  "n": 564,
+  "fr": "Mais même si on suppose que l'Auréole est impliquée \nd'une certaine manière, ça répondrait pas à la \nplupart des questions auxquelles on veut des réponses."
+ },
+ {
+  "n": 565,
+  "fr": "En effet... Telles que qui sont nos ennemis, ou \ncomment Grancel s'est retrouvée remplie de démons \net de barrières magiques."
+ },
+ {
+  "n": 566,
+  "fr": "Ou comment nous avons fini par affronter de \nvéritables incarnations des démons des textes sacrés \nde l'Église, ou la présence des éléments supérieurs..."
+ },
+ {
+  "n": 567,
+  "fr": "Tant que nous n'aurons pas une théorie qui puisse \nexpliquer tous ces mystères, nous devrions \nnous abstenir de tirer des conclusions hâtives."
+ },
+ {
+  "n": 568,
+  "fr": "Je suis d'accord."
+ },
+ {
+  "n": 569,
+  "fr": "Cependant, à ce sujet..."
+ },
+ {
+  "n": 570,
+  "fr": "... j'aimerais proposer que l'on se concentre sur \nla découverte de ce qui est arrivé à Grancel, avant \ntout autre chose."
+ },
+ {
+  "n": 571,
+  "fr": "Je pense pareil."
+ },
+ {
+  "n": 572,
+  "fr": "Je sais que tu es probablement inquiet au sujet \nd'Estelle là maintenant, mais tu serais d'attaque \npour nous aider ?"
+ },
+ {
+  "n": 573,
+  "fr": "C'était mon intention depuis le début."
+ },
+ {
+  "n": 574,
+  "fr": "Je ne peux pas vraiment tourner le dos à des amis \ndans le besoin, d'une."
+ },
+ {
+  "n": 575,
+  "fr": "De l'autre, je pense que je la trouverai beaucoup \nplus vite en aidant qu'en étant assis ici à m'inquiéter."
+ },
+ {
+  "n": 576,
+  "fr": "Je l'espère."
+ },
+ {
+  "n": 577,
+  "fr": "*soupir* Bon, je serai contente de t'avoir avec nous, \nau moins."
+ },
+ {
+  "n": 578,
+  "fr": "C'est ça que je voulais entendre ! Merci, mec."
+ },
+ {
+  "n": 579,
+  "fr": "Bien, dès que nous serons prêts, nous devrions \nretourner à la capitale."
+ },
+ {
+  "n": 580,
+  "fr": "Je m'attends à ce que quelque chose ait changé \nlà-bas suite au fait que nous ayons libéré Joshua \nde sa pierre."
+ },
+ {
+  "n": 581,
+  "fr": "D'accord."
+ }
+]

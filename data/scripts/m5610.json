@@ -1,0 +1,106 @@
+[
+ {
+  "n": 26,
+  "fr": "Qu... ?"
+ },
+ {
+  "n": 58,
+  "fr": "D'accord !"
+ },
+ {
+  "n": 71,
+  "fr": "Qu... ?!"
+ },
+ {
+  "n": 85,
+  "fr": "Oh..."
+ },
+ {
+  "n": 112,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 113,
+  "fr": "Restaurer les PV/PE"
+ },
+ {
+  "n": 114,
+  "fr": "Acheter"
+ },
+ {
+  "n": 115,
+  "fr": "Synthétiser des quartz"
+ },
+ {
+  "n": 116,
+  "fr": "Terminer"
+ },
+ {
+  "n": 117,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 118,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 119,
+  "fr": "[Actionner le levier]"
+ },
+ {
+  "n": 120,
+  "fr": "[Ne rien faire]"
+ },
+ {
+  "n": 121,
+  "fr": "[Actionner le levier]"
+ },
+ {
+  "n": 122,
+  "fr": "[Ne rien faire]"
+ },
+ {
+  "n": 124,
+  "fr": "{color 5}La porte est fermée à clé."
+ },
+ {
+  "n": 125,
+  "fr": "{color 5}La porte est fermée à clé."
+ },
+ {
+  "n": 126,
+  "fr": "{color 5}La porte est fermée à clé."
+ },
+ {
+  "n": 127,
+  "fr": "{color 5}La porte est fermée à clé."
+ },
+ {
+  "n": 129,
+  "fr": "[Ne rien faire]"
+ },
+ {
+  "n": 132,
+  "fr": "[Ne rien faire]"
+ },
+ {
+  "n": 136,
+  "fr": "[Ne rien faire]"
+ },
+ {
+  "n": 137,
+  "fr": "{color 5}Ouvrir la Porte ?{0x18}"
+ },
+ {
+  "n": 138,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 139,
+  "fr": "[Non]"
+ },
+ {
+  "n": 140,
+  "fr": "{color 5}#40WLa voie a déjà été ouverte...\n#500W \n#40WOuvrez la Porte, et entrez à l'intérieur.{color 0}"
+ }
+]

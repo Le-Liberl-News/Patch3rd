@@ -1,0 +1,22 @@
+[
+ {
+  "n": 1,
+  "fr": "Trouvée : {item item[411]}{color 0}."
+ },
+ {
+  "n": 2,
+  "fr": "Trouvée : {item item[411]}{color 0}.\nInventaire plein. Objet reposé."
+ },
+ {
+  "n": 3,
+  "fr": "{color 5}Un coffre vide ? Pourquoi ne pas le remplir à \nnouveau au marché de Bose ? – Maybelle{color 0}"
+ },
+ {
+  "n": 4,
+  "fr": "{color 0}Trouvés :\n{color 2}#56I 50 Sepiths de terre\n{color 2}#57I 50 Sepiths d'eau\n{color 2}#58I 50 Sepiths de feu\n{color 2}#59I 50 Sepiths de vent{color 0}"
+ },
+ {
+  "n": 5,
+  "fr": "{color 5}J'ai entendu dire qu'Olivier faisait porter toutes \nses affaires à Mueller."
+ }
+]

@@ -1,0 +1,186 @@
+[
+ {
+  "n": 1,
+  "fr": "... Où sommes-nous, à présent ?"
+ },
+ {
+  "n": 2,
+  "fr": "Je suis sûr à 100 % qu'il s'agit de la grande arène."
+ },
+ {
+  "n": 3,
+  "fr": "Elle est utilisée pour toutes sortes d'évènements au \nLiberl, comme des tournois d'arts martiaux et d'autres \ntrucs."
+ },
+ {
+  "n": 4,
+  "fr": "En effet... Zin, Estelle, Olivier et Joshua ont gagné \ncelui de l'an dernier."
+ },
+ {
+  "n": 5,
+  "fr": "Il n'y en a pas encore eu un cette année, cela dit, \npour plusieurs raisons."
+ },
+ {
+  "n": 6,
+  "fr": "Oh, sérieux ?"
+ },
+ {
+  "n": 7,
+  "fr": "Le fait qu'Olivier s'y soit vraiment présenté me \ndésespère encore."
+ },
+ {
+  "n": 8,
+  "fr": "Si j'avais su ce qu'il allait faire, j'aurais pu l'arrêter, \nmais au moment où j'ai entendu parler de ce qui \nse passait, ils avaient déjà gagné."
+ },
+ {
+  "n": 9,
+  "fr": "Ha ha... Vous êtes pas habitué à ses surprises, à \nforce ?"
+ },
+ {
+  "n": 10,
+  "fr": "L'équipe d'Estelle a gagné le gros tournoi qui s'est \ntenu l'année dernière, en fait."
+ },
+ {
+  "n": 11,
+  "fr": "Agate était plutôt déçu quand il l'a appris. Il voulait \nparticiper, lui aussi."
+ },
+ {
+  "n": 12,
+  "fr": "Ha ha. J'en doute pas."
+ },
+ {
+  "n": 13,
+  "fr": "Oh, c'est vrai. Tes frères et toi, vous avez participé \nà ce tournoi, vous aussi, hein, Josie ?"
+ },
+ {
+  "n": 14,
+  "fr": "Estelle et Joshua l'ont mentionné y a un moment."
+ },
+ {
+  "n": 15,
+  "fr": "... Ouais."
+ },
+ {
+  "n": 16,
+  "fr": "Je peux pas dire que ça ait été super marrant. On a \njuste été traînés dans l'arène comme des criminels, \nen fait."
+ },
+ {
+  "n": 17,
+  "fr": "... Attends, ça sort d'où, ce Josie ?"
+ },
+ {
+  "n": 18,
+  "fr": "Pourquoi je suis la seule à me retrouver avec un \nsurnom bizarre ?"
+ },
+ {
+  "n": 19,
+  "fr": "Ah ? T'es pas fan ?"
+ },
+ {
+  "n": 20,
+  "fr": "Ça m'est juste venu à l'esprit et je me suis dit que \nça avait l'air mignon."
+ },
+ {
+  "n": 21,
+  "fr": "Ça te va parfaitement bien, aussi, mais si ça te gêne \ntant, j'imagine que je pourrais trouver autre chose... \nJo ?"
+ },
+ {
+  "n": 22,
+  "fr": "Appelle-moi juste Josette comme tout le monde !"
+ },
+ {
+  "n": 23,
+  "fr": "......"
+ },
+ {
+  "n": 24,
+  "fr": "... Néanmoins, on dirait que quelque chose nous \nattend ici."
+ },
+ {
+  "n": 25,
+  "fr": "Nous devrions avancer avec prudence."
+ },
+ {
+  "n": 26,
+  "fr": "Ouais."
+ },
+ {
+  "n": 27,
+  "fr": "{color 5}Les portes sont fermées à clé."
+ },
+ {
+  "n": 28,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 29,
+  "fr": "Restaurer les PV/PE"
+ },
+ {
+  "n": 30,
+  "fr": "Acheter"
+ },
+ {
+  "n": 31,
+  "fr": "Synthétiser des quartz"
+ },
+ {
+  "n": 32,
+  "fr": "Terminer"
+ },
+ {
+  "n": 33,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 34,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 35,
+  "fr": "{color 5}Ouvrir la Porte ?{0x18}"
+ },
+ {
+  "n": 36,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 37,
+  "fr": "[Non]"
+ },
+ {
+  "n": 38,
+  "fr": "La {item item[829]}{color 0} présentée, la Porte \ns'ouvrira.{0x18}"
+ },
+ {
+  "n": 39,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 40,
+  "fr": "[Non]"
+ },
+ {
+  "n": 41,
+  "fr": "{color 5}#40WLa voie a déjà été ouverte...\n#500W \n#40WOuvrez la Porte et entrez, la preuve de votre droit \nd'affronter les épreuves à l'intérieur à la main.{color 0}"
+ },
+ {
+  "n": 42,
+  "fr": "{color 5}#40WLa voie a déjà été ouverte...\n#500W \n#40WOuvrez la Porte, et entrez à l'intérieur.{color 0}"
+ },
+ {
+  "n": 43,
+  "fr": "{color 5}#40WLa voie a déjà été ouverte...\n#500W \n#40WOuvrez la Porte et entrez, la preuve de votre droit \nd'affronter les épreuves à l'intérieur à la main.{color 0}"
+ },
+ {
+  "n": 44,
+  "fr": "{color 5}#40WLa voie a déjà été ouverte...\n#500W \n#40WOuvrez la Porte, et entrez à l'intérieur.{color 0}"
+ },
+ {
+  "n": 45,
+  "fr": "{color 5}#40WAmenez-moi les poings d'acier que rien dans\nce monde ne puisse faire bouger.\n#500W \n#40WÀ ce moment seulement s'ouvrira la Porte...{color 0}"
+ },
+ {
+  "n": 46,
+  "fr": "{color 5}Les portes sont fermées à clé."
+ }
+]

@@ -1,0 +1,2227 @@
+[
+ {
+  "cle": "2",
+  "type": "nom",
+  "fr": "Déplacement"
+ },
+ {
+  "cle": "4",
+  "type": "nom",
+  "fr": "Reserved"
+ },
+ {
+  "cle": "4",
+  "type": "description",
+  "fr": "Reserved"
+ },
+ {
+  "cle": "5",
+  "type": "nom",
+  "fr": "Utiliser un objet"
+ },
+ {
+  "cle": "6",
+  "type": "nom",
+  "fr": "Fuite"
+ },
+ {
+  "cle": "6",
+  "type": "description",
+  "fr": "Description 4."
+ },
+ {
+  "cle": "7",
+  "type": "nom",
+  "fr": "Reserved"
+ },
+ {
+  "cle": "7",
+  "type": "description",
+  "fr": "Reserved"
+ },
+ {
+  "cle": "12",
+  "type": "nom",
+  "fr": "Marteau Rocheux"
+ },
+ {
+  "cle": "12",
+  "type": "description",
+  "fr": "Cible unique - Attaque\nLargue un rocher sur un ennemi."
+ },
+ {
+  "cle": "13",
+  "type": "nom",
+  "fr": "Lance Terrestre"
+ },
+ {
+  "cle": "13",
+  "type": "description",
+  "fr": "Cible unique - Attaque\nFait jaillir du sol une lame acérée."
+ },
+ {
+  "cle": "14",
+  "type": "nom",
+  "fr": "Souffle Pétrifiant"
+ },
+ {
+  "cle": "14",
+  "type": "description",
+  "fr": "Cible unique - Attaque\nSouffle un gaz pétrifiant sur un ennemi. [Pétrification 20%] "
+ },
+ {
+  "cle": "15",
+  "type": "nom",
+  "fr": "Impact Rocheux"
+ },
+ {
+  "cle": "15",
+  "type": "description",
+  "fr": "Zone (M) - Attaque\nLargue un énorme rocher sur les ennemis."
+ },
+ {
+  "cle": "16",
+  "type": "nom",
+  "fr": "Nuage Pétrifiant"
+ },
+ {
+  "cle": "16",
+  "type": "description",
+  "fr": "Zone (M) - Attaque\nSouffle un gaz pétrifiant dans une zone étendue. [Pétrification 20%]"
+ },
+ {
+  "cle": "17",
+  "type": "nom",
+  "fr": "Marteau d'Atlas"
+ },
+ {
+  "cle": "17",
+  "type": "description",
+  "fr": "Zone (M) - Attaque\nAssomme les ennemis avec un amas de rochers trouvés à proximité."
+ },
+ {
+  "cle": "18",
+  "type": "nom",
+  "fr": "Grondement Titanesque"
+ },
+ {
+  "cle": "18",
+  "type": "description",
+  "fr": "Tous - Attaque\nCrée un puissant séisme localisé."
+ },
+ {
+  "cle": "19",
+  "type": "nom",
+  "fr": "Géo-catastrophe"
+ },
+ {
+  "cle": "19",
+  "type": "description",
+  "fr": "Tous - Attaque\nProvoque un grand séisme local à l'aide de l'énergie du magma souterrain."
+ },
+ {
+  "cle": "22",
+  "type": "nom",
+  "fr": "Jet Aqueux"
+ },
+ {
+  "cle": "22",
+  "type": "description",
+  "fr": "Cible unique - Attaque\nFrappe l'ennemi d'une lourde masse d'eau."
+ },
+ {
+  "cle": "23",
+  "type": "nom",
+  "fr": "Pression Azure"
+ },
+ {
+  "cle": "23",
+  "type": "description",
+  "fr": "Cible unique - Attaque\nFrappe l'ennemi d'une colonne d'eau sous pression."
+ },
+ {
+  "cle": "24",
+  "type": "nom",
+  "fr": "Jaillissement Azur"
+ },
+ {
+  "cle": "24",
+  "type": "description",
+  "fr": "Cible unique - Attaque\nCompresse une poche d'eau pour la faire exploser en fracas sur l'ennemi."
+ },
+ {
+  "cle": "25",
+  "type": "nom",
+  "fr": "Poussière de Diamant"
+ },
+ {
+  "cle": "25",
+  "type": "description",
+  "fr": "Zone (P) - Attaque (Placement)\nGénère un froid intense. [Gel 20%]"
+ },
+ {
+  "cle": "26",
+  "type": "nom",
+  "fr": "Cocytus"
+ },
+ {
+  "cle": "26",
+  "type": "description",
+  "fr": "Tous - Attaque\nInvoque un énorme pilier de glace. [Gel 20%]"
+ },
+ {
+  "cle": "32",
+  "type": "nom",
+  "fr": "Boule de Feu"
+ },
+ {
+  "cle": "32",
+  "type": "description",
+  "fr": "Cible unique - Attaque\nLance une boule de feu sur l'ennemi."
+ },
+ {
+  "cle": "33",
+  "type": "nom",
+  "fr": "Flèche Calcinée"
+ },
+ {
+  "cle": "33",
+  "type": "description",
+  "fr": "Cible unique - Attaque\nInvoque un projectile enflammé au-dessus de l'ennemi."
+ },
+ {
+  "cle": "34",
+  "type": "nom",
+  "fr": "Rejet de Napalm"
+ },
+ {
+  "cle": "34",
+  "type": "description",
+  "fr": "Cible unique - Attaque\nÉruption de flammes écarlates."
+ },
+ {
+  "cle": "36",
+  "type": "nom",
+  "fr": "Cyclone de Napalm"
+ },
+ {
+  "cle": "36",
+  "type": "description",
+  "fr": "Cible unique - Attaque\nBrûle l'ennemi par un tourbillon de flammes écarlates."
+ },
+ {
+  "cle": "37",
+  "type": "nom",
+  "fr": "Boule de Feu EX"
+ },
+ {
+  "cle": "37",
+  "type": "description",
+  "fr": "Zone (M) - Attaque\nLance une volée de boules de feu."
+ },
+ {
+  "cle": "38",
+  "type": "nom",
+  "fr": "Pluie Calcinante"
+ },
+ {
+  "cle": "38",
+  "type": "description",
+  "fr": "Zone (M) - Attaque\nUne rafale chaotique de flèches brûlantes."
+ },
+ {
+  "cle": "39",
+  "type": "nom",
+  "fr": "Furie Volcanique"
+ },
+ {
+  "cle": "39",
+  "type": "description",
+  "fr": "Zone (M) - Attaque\nCause une explosion d'énergie concentrée."
+ },
+ {
+  "cle": "41",
+  "type": "nom",
+  "fr": "Chute Météorique"
+ },
+ {
+  "cle": "41",
+  "type": "description",
+  "fr": "Zone (G) - Attaque\nInvoque à l'horizon des météorites qui partent s'écraser sur les ennemis."
+ },
+ {
+  "cle": "42",
+  "type": "nom",
+  "fr": "Éruption Solaire"
+ },
+ {
+  "cle": "42",
+  "type": "description",
+  "fr": "Tous - Attaque\nIncinère tous les ennemis par l'explosion d'une dense masse de flammes."
+ },
+ {
+  "cle": "51",
+  "type": "nom",
+  "fr": "Magie ultime (Temp)"
+ },
+ {
+  "cle": "51",
+  "type": "description",
+  "fr": "Tous - Attaque\nMagie ultime combinant tous les éléments"
+ },
+ {
+  "cle": "52",
+  "type": "nom",
+  "fr": "Brise Frappante"
+ },
+ {
+  "cle": "52",
+  "type": "description",
+  "fr": "Cible unique - Attaque\nDéchiquette un ennemi avec de l'air comprimé."
+ },
+ {
+  "cle": "53",
+  "type": "nom",
+  "fr": "Aeria"
+ },
+ {
+  "cle": "53",
+  "type": "description",
+  "fr": "Zone (M) - Attaque (Placement)\nUne puissante tornade avec des débris tourbillonnants."
+ },
+ {
+  "cle": "54",
+  "type": "nom",
+  "fr": "Aéro-tempête"
+ },
+ {
+  "cle": "54",
+  "type": "description",
+  "fr": "Zone (G) - Attaque (Placement)\nCrée un vortex massif de lames de vent tranchantes."
+ },
+ {
+  "cle": "55",
+  "type": "nom",
+  "fr": "Rafale Torrentielle"
+ },
+ {
+  "cle": "55",
+  "type": "description",
+  "fr": "Tous - Attaque\nFait déferler sur les ennemis un vent puissant qui les lacère et les meurtrit."
+ },
+ {
+  "cle": "56",
+  "type": "nom",
+  "fr": "Foudroiement"
+ },
+ {
+  "cle": "56",
+  "type": "description",
+  "fr": "Ligne - Attaque (Placement)\nGénère un arc électrique. [Entrave 20%]"
+ },
+ {
+  "cle": "57",
+  "type": "nom",
+  "fr": "Onde Plasmique"
+ },
+ {
+  "cle": "57",
+  "type": "description",
+  "fr": "Ligne - Attaque (Placement)\nFrappe avec des éclairs. [Entrave 20%]"
+ },
+ {
+  "cle": "59",
+  "type": "nom",
+  "fr": "Déflagration Ragna"
+ },
+ {
+  "cle": "59",
+  "type": "description",
+  "fr": "Ligne - Attaque (Placement)\nFais s'abattre la foudre de la justice. [Entrave 20%]"
+ },
+ {
+  "cle": "60",
+  "type": "nom",
+  "fr": "Lance-rafale"
+ },
+ {
+  "cle": "60",
+  "type": "description",
+  "fr": "Ligne - Attaque repoussante (Placement)\nEnvoie des bourrasques orientées frappant et éloignant les ennemis."
+ },
+ {
+  "cle": "62",
+  "type": "nom",
+  "fr": "Lance Obscure"
+ },
+ {
+  "cle": "62",
+  "type": "description",
+  "fr": "Cible unique - Attaque\nUne lame qui fauche la vie de l'ennemi. [Coup Mortel 20%]"
+ },
+ {
+  "cle": "63",
+  "type": "nom",
+  "fr": "Cri Funeste"
+ },
+ {
+  "cle": "63",
+  "type": "description",
+  "fr": "Tous - Attaque\nUn cri attirant ses victimes vers le royaume des morts. [Coup Mortel 20%]"
+ },
+ {
+  "cle": "64",
+  "type": "nom",
+  "fr": "Porte des Enfers"
+ },
+ {
+  "cle": "64",
+  "type": "description",
+  "fr": "Zone (P) - Attaque\nInterrompt l'activité psychique des ennemis. [Évanouissement 20%]"
+ },
+ {
+  "cle": "65",
+  "type": "nom",
+  "fr": "Géhenne Blanche"
+ },
+ {
+  "cle": "65",
+  "type": "description",
+  "fr": "Zone (M) - Attaque (Placement)\nPerturbe le continuum espace-temps. [Évanouissement 20%]"
+ },
+ {
+  "cle": "66",
+  "type": "nom",
+  "fr": "Irruption des Abysses"
+ },
+ {
+  "cle": "66",
+  "type": "description",
+  "fr": "Zone (G) - Attaque\nInvoque un émissaire de l'au-delà. [Évanouissement 20%]"
+ },
+ {
+  "cle": "67",
+  "type": "nom",
+  "fr": "Disques Animiques"
+ },
+ {
+  "cle": "67",
+  "type": "description",
+  "fr": "Cible unique - Attaque\nÉmet une pulsation qui fait trembler l'espace-temps. [Évanouissement 20%]"
+ },
+ {
+  "cle": "68",
+  "type": "nom",
+  "fr": "Absorption E"
+ },
+ {
+  "cle": "68",
+  "type": "description",
+  "fr": "Cible unique - Absorption\nRéduit la vie de la cible en fragments temporels et les substitue."
+ },
+ {
+  "cle": "69",
+  "type": "nom",
+  "fr": "Déflagration Calamiteuse"
+ },
+ {
+  "cle": "69",
+  "type": "description",
+  "fr": "Tous - Attaque\nFissure l'espace-temps pour frapper d'un courant irréversible. [RÉS-20%]"
+ },
+ {
+  "cle": "72",
+  "type": "nom",
+  "fr": "Matière Noire"
+ },
+ {
+  "cle": "72",
+  "type": "description",
+  "fr": "Cible unique - Attaque\nÉcrase le corps de l'ennemi en comprimant l'espace autour de lui."
+ },
+ {
+  "cle": "73",
+  "type": "nom",
+  "fr": "Mœbius Perdu"
+ },
+ {
+  "cle": "73",
+  "type": "description",
+  "fr": "Zone (M) - Attaque (Placement)\nTord les corps des ennemis en déformant l'espace qui les entoure."
+ },
+ {
+  "cle": "74",
+  "type": "nom",
+  "fr": "Matière Noire EX"
+ },
+ {
+  "cle": "74",
+  "type": "description",
+  "fr": "Zone (M) - Attaque aspirante\nÉcrase les ennemis en les comprimant vers un point donné. [DÉP-2]"
+ },
+ {
+  "cle": "75",
+  "type": "nom",
+  "fr": "Météore Ouragan"
+ },
+ {
+  "cle": "75",
+  "type": "description",
+  "fr": "Tous - Attaque\nArt perdu comprimant l'espace en un noyau terriblement destructeur."
+ },
+ {
+  "cle": "77",
+  "type": "nom",
+  "fr": "Garde Terrestre"
+ },
+ {
+  "cle": "77",
+  "type": "description",
+  "fr": "Cible unique - Soutien\nCrée un bouclier rocheux permettant de bloquer une attaque. [Immunité]"
+ },
+ {
+  "cle": "78",
+  "type": "nom",
+  "fr": "Mur Terrestre"
+ },
+ {
+  "cle": "78",
+  "type": "description",
+  "fr": "Zone (P) - Soutien\nCrée dans une zone un bouclier rocheux qui bloque une attaque. [Immunité]"
+ },
+ {
+  "cle": "79",
+  "type": "nom",
+  "fr": "Bouclier de Gaïa"
+ },
+ {
+  "cle": "79",
+  "type": "description",
+  "fr": "Tous - Soutien\nDonne à tous les alliés un bouclier rocheux bloquant une attaque. [Immunité]"
+ },
+ {
+  "cle": "80",
+  "type": "nom",
+  "fr": "Barrière Génésiaque"
+ },
+ {
+  "cle": "80",
+  "type": "description",
+  "fr": "Tous - Soutien\nCouvre tous les alliés d'une protection contre les arts. [Barrière]"
+ },
+ {
+  "cle": "82",
+  "type": "nom",
+  "fr": "Garde Sylphéenne"
+ },
+ {
+  "cle": "82",
+  "type": "description",
+  "fr": "Cible unique - Soutien\nCrée une brise protectrice temporaire. [ESQ+50%]"
+ },
+ {
+  "cle": "83",
+  "type": "nom",
+  "fr": "Aile Sylphéenne"
+ },
+ {
+  "cle": "83",
+  "type": "description",
+  "fr": "Cible unique - Soutien\nAttribue une bénédiction éolienne temporaire. [DÉP+1]"
+ },
+ {
+  "cle": "84",
+  "type": "nom",
+  "fr": "Sylpharion"
+ },
+ {
+  "cle": "84",
+  "type": "description",
+  "fr": "Zone (P) - Soutien\nAttribue une bénédiction féérique temporaire. [DÉP+2]"
+ },
+ {
+  "cle": "88",
+  "type": "nom",
+  "fr": "Crest"
+ },
+ {
+  "cle": "88",
+  "type": "description",
+  "fr": "Cible unique - Soutien\nAttribue une bénédiction terrestre temporaire. [DÉF+25%]"
+ },
+ {
+  "cle": "89",
+  "type": "nom",
+  "fr": "Forte"
+ },
+ {
+  "cle": "89",
+  "type": "description",
+  "fr": "Cible unique - Soutien\nAttribue une bénédiction ardente temporaire. [FOR+25%]"
+ },
+ {
+  "cle": "90",
+  "type": "nom",
+  "fr": "Puissance Divine"
+ },
+ {
+  "cle": "90",
+  "type": "description",
+  "fr": "Cible unique - Soutien\nAugmente temporairement les statistiques d'un allié. [FOR&DÉF+25%]"
+ },
+ {
+  "cle": "91",
+  "type": "nom",
+  "fr": "Zodiaque"
+ },
+ {
+  "cle": "91",
+  "type": "description",
+  "fr": "Tous - Soutien\nAugmente temporairement les statistiques des alliés. [FOR&DÉF+25%]"
+ },
+ {
+  "cle": "92",
+  "type": "nom",
+  "fr": "Crest-A"
+ },
+ {
+  "cle": "92",
+  "type": "description",
+  "fr": "Zone (M) - Soutien\nAugmente temporairement la résistance aux arts des alliés ciblés. [RÉS+30%]"
+ },
+ {
+  "cle": "93",
+  "type": "nom",
+  "fr": "Alcrest"
+ },
+ {
+  "cle": "93",
+  "type": "description",
+  "fr": "Zone (M) - Soutien\nAttribue une bénédiction terrestre temportaire aux alliés ciblés. [DÉF+25%]"
+ },
+ {
+  "cle": "94",
+  "type": "nom",
+  "fr": "Alforte"
+ },
+ {
+  "cle": "94",
+  "type": "description",
+  "fr": "Zone (M) - Soutien\nAttribue une bénédiction ardente temportaire aux alliés ciblés. [FOR+25%]"
+ },
+ {
+  "cle": "95",
+  "type": "nom",
+  "fr": "Défaut"
+ },
+ {
+  "cle": "95",
+  "type": "description",
+  "fr": "Zone (M) - Affaiblissement\nAffaiblit les ennemis d'une zone. [DÉF-25%]"
+ },
+ {
+  "cle": "96",
+  "type": "nom",
+  "fr": "Ascension"
+ },
+ {
+  "cle": "96",
+  "type": "description",
+  "fr": "Cible unique - Attaque\nForme un champ limitant les capacités cognitives. [Entrave 20%]"
+ },
+ {
+  "cle": "97",
+  "type": "nom",
+  "fr": "Accélération"
+ },
+ {
+  "cle": "97",
+  "type": "description",
+  "fr": "Cible unique - Soutien\nAccélère l'écoulement du temps pendant quelques tours. [VIT+25%]"
+ },
+ {
+  "cle": "98",
+  "type": "nom",
+  "fr": "Accélération EX"
+ },
+ {
+  "cle": "98",
+  "type": "description",
+  "fr": "Cible unique - Soutien\nAccélère significativement l'écoulement du temps. [VIT+50%]"
+ },
+ {
+  "cle": "101",
+  "type": "nom",
+  "fr": "Pétrosphère"
+ },
+ {
+  "cle": "101",
+  "type": "description",
+  "fr": "Zone (P) - Affaiblissement\nEmpêtre les membres des ennemis par force terrestre. [DÉP+4]"
+ },
+ {
+  "cle": "102",
+  "type": "nom",
+  "fr": "Marque du Chaos"
+ },
+ {
+  "cle": "102",
+  "type": "description",
+  "fr": "Cible unique - Affaiblissement\nPerturbe les capacités cognitives d'un ennemi. [Confusion]"
+ },
+ {
+  "cle": "103",
+  "type": "nom",
+  "fr": "Croix du Silence"
+ },
+ {
+  "cle": "103",
+  "type": "description",
+  "fr": "Tous - Affaiblissement\nBrouillard dissipant tout entrain. Interrompt les préparations d'arts et techs."
+ },
+ {
+  "cle": "104",
+  "type": "nom",
+  "fr": "Absorption Séculaire"
+ },
+ {
+  "cle": "104",
+  "type": "description",
+  "fr": "Tous - Absorption de PE\nTranfère des PE au lanceur de l'art. Affecte tous les ennemis actifs."
+ },
+ {
+  "cle": "105",
+  "type": "nom",
+  "fr": "Épines d'Argent"
+ },
+ {
+  "cle": "105",
+  "type": "description",
+  "fr": "Zone (M) - Attaque (Placement)\nUne pluie de lames argentées qui induisent la folie. [Confusion 90%]"
+ },
+ {
+  "cle": "106",
+  "type": "nom",
+  "fr": "Douleur Fantôme"
+ },
+ {
+  "cle": "106",
+  "type": "description",
+  "fr": "Zone (M) - Affaiblissement (Placement)\nIllusionne l'ennemi et le prive temporairement de combativité. [FOR-15%]"
+ },
+ {
+  "cle": "107",
+  "type": "nom",
+  "fr": "Anti-Sept"
+ },
+ {
+  "cle": "107",
+  "type": "description",
+  "fr": "Cible unique - Affaiblissement\nEmpêche temporairement l'utilisation d'arts. [Silence]"
+ },
+ {
+  "cle": "108",
+  "type": "nom",
+  "fr": "Anti-Septal"
+ },
+ {
+  "cle": "108",
+  "type": "description",
+  "fr": "Zone (M) - Affaiblissement (Placement)\nEmpêche temporairement l'utilisation d'arts. [Silence]"
+ },
+ {
+  "cle": "109",
+  "type": "nom",
+  "fr": "Désorbement"
+ },
+ {
+  "cle": "109",
+  "type": "description",
+  "fr": "Tous - Affaiblissement\nScelle les arts des ennemis et les rend temporairement vulnérables. [RÉS-30%]"
+ },
+ {
+  "cle": "110",
+  "type": "nom",
+  "fr": "Décélération"
+ },
+ {
+  "cle": "110",
+  "type": "description",
+  "fr": "Zone - Affaiblissement\nRalentit le cours du temps des ennemis pendant quelques tours. [VIT-50%]"
+ },
+ {
+  "cle": "112",
+  "type": "nom",
+  "fr": "Lacrym"
+ },
+ {
+  "cle": "112",
+  "type": "description",
+  "fr": "Cible unique - Soin\nSoigne 1 000 PV à un allié."
+ },
+ {
+  "cle": "113",
+  "type": "nom",
+  "fr": "Lacryma"
+ },
+ {
+  "cle": "113",
+  "type": "description",
+  "fr": "Cible unique - Soin\nSoigne 3 000 PV à un allié."
+ },
+ {
+  "cle": "114",
+  "type": "nom",
+  "fr": "Lacrymal"
+ },
+ {
+  "cle": "114",
+  "type": "description",
+  "fr": "Cible unique - Soin\nSoigne 6 500 PV à un allié."
+ },
+ {
+  "cle": "115",
+  "type": "nom",
+  "fr": "Lacrymalia"
+ },
+ {
+  "cle": "115",
+  "type": "description",
+  "fr": "Cible unique - Soin\nSoigne tous les PV d'un allié."
+ },
+ {
+  "cle": "116",
+  "type": "nom",
+  "fr": "Alacrym"
+ },
+ {
+  "cle": "116",
+  "type": "description",
+  "fr": "Zone (P) - Soin\nSoigne 1 000 PV aux alliés présents dans la zone."
+ },
+ {
+  "cle": "117",
+  "type": "nom",
+  "fr": "Alacryma"
+ },
+ {
+  "cle": "117",
+  "type": "description",
+  "fr": "Zone (M) - Soin\nSoigne 3 000 PV aux alliés présents dans la zone."
+ },
+ {
+  "cle": "118",
+  "type": "nom",
+  "fr": "Alacrymal"
+ },
+ {
+  "cle": "118",
+  "type": "description",
+  "fr": "Zone (G) - Soin\nSoigne 6 500 PV aux alliés présents dans la zone."
+ },
+ {
+  "cle": "119",
+  "type": "nom",
+  "fr": "Alacrymalia"
+ },
+ {
+  "cle": "119",
+  "type": "description",
+  "fr": "Zone (G) - Soin\nSoigne tous les PV des alliés présents dans la zone."
+ },
+ {
+  "cle": "120",
+  "type": "nom",
+  "fr": "Curia"
+ },
+ {
+  "cle": "120",
+  "type": "description",
+  "fr": "Cible unique - Soin\nSoigne tous les statuts mis à part le K.O."
+ },
+ {
+  "cle": "121",
+  "type": "nom",
+  "fr": "Alcuria"
+ },
+ {
+  "cle": "121",
+  "type": "description",
+  "fr": "Zone (G) - Soin\nSoigne les statuts de tous les alliés mis à part le K.O."
+ },
+ {
+  "cle": "122",
+  "type": "nom",
+  "fr": "Thelas"
+ },
+ {
+  "cle": "122",
+  "type": "description",
+  "fr": "Cible unique - Soin\nSoigne du K.O. un allié et lui redonne 800 PV."
+ },
+ {
+  "cle": "123",
+  "type": "nom",
+  "fr": "Athelas"
+ },
+ {
+  "cle": "123",
+  "type": "description",
+  "fr": "Cible unique - Soin\nSoigne du K.O. un allié et lui redonne tous ses PV."
+ },
+ {
+  "cle": "132",
+  "type": "nom",
+  "fr": "Lacryma"
+ },
+ {
+  "cle": "132",
+  "type": "description",
+  "fr": "Cible unique - Soin\nSoigne 3 000 PV à un allié."
+ },
+ {
+  "cle": "133",
+  "type": "nom",
+  "fr": "Lacrymal"
+ },
+ {
+  "cle": "133",
+  "type": "description",
+  "fr": "Cible unique - Soin\nSoigne 6 500 PV à un allié."
+ },
+ {
+  "cle": "142",
+  "type": "nom",
+  "fr": "Enchaînement 1"
+ },
+ {
+  "cle": "142",
+  "type": "description",
+  "fr": "Attaque combinée de 2 alliés - Zone (P)\nTous les participants foncent en même temps pour attaquer."
+ },
+ {
+  "cle": "143",
+  "type": "nom",
+  "fr": "Enchaînement 2"
+ },
+ {
+  "cle": "143",
+  "type": "description",
+  "fr": "Attaque combinée de 3 alliés - Zone (M)\nTous les participants foncent en même temps pour attaquer."
+ },
+ {
+  "cle": "144",
+  "type": "nom",
+  "fr": "Enchaînement 3"
+ },
+ {
+  "cle": "144",
+  "type": "description",
+  "fr": "Attaque combinée de 4 alliés - Zone (G)\nTous les participants foncent en même temps pour attaquer."
+ },
+ {
+  "cle": "152",
+  "type": "nom",
+  "fr": "Encouragement"
+ },
+ {
+  "cle": "152",
+  "type": "description",
+  "fr": "Technique - Zone (M) - Soutien\nCri galvanisant les alliés. [FOR+20%]"
+ },
+ {
+  "cle": "153",
+  "type": "nom",
+  "fr": "Comète Sup."
+ },
+ {
+  "cle": "153",
+  "type": "description",
+  "fr": "Technique - Ligne - Attaque\nLance une fulgurante vague d'énergie."
+ },
+ {
+  "cle": "154",
+  "type": "nom",
+  "fr": "Frappe Adamantine Sup."
+ },
+ {
+  "cle": "154",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque [Interruption]\nEmpêche l'exécution des arts et des techniques."
+ },
+ {
+  "cle": "155",
+  "type": "nom",
+  "fr": "Tourbillon Sup."
+ },
+ {
+  "cle": "155",
+  "type": "description",
+  "fr": "Technique - Zone (M) - Attaque placée\nVirevolte et percute les ennemis dans la zone."
+ },
+ {
+  "cle": "156",
+  "type": "nom",
+  "fr": "Provocation"
+ },
+ {
+  "cle": "156",
+  "type": "description",
+  "fr": "Technique - Zone (M) - Affaiblissement [Rage]\nAttire temporairement l'attention de l'ennemi sur soi."
+ },
+ {
+  "cle": "158",
+  "type": "nom",
+  "fr": "Comète Ult."
+ },
+ {
+  "cle": "158",
+  "type": "description",
+  "fr": "Technique - Ligne - Attaque\nLance une fulgurante vague d'énergie. Puissance augmentée."
+ },
+ {
+  "cle": "159",
+  "type": "nom",
+  "fr": "Frappe Adamantine Ult."
+ },
+ {
+  "cle": "159",
+  "type": "description",
+  "fr": "Technique - Zone (M) - Attaque [Interruption]\nInterrompt les arts et techniques de plusieurs ennemis."
+ },
+ {
+  "cle": "160",
+  "type": "nom",
+  "fr": "Tourbillon Ult."
+ },
+ {
+  "cle": "160",
+  "type": "description",
+  "fr": "Technique - Zone (M) - Attaque placée\nTourbillon augmenté touchant encore plus d'ennemis."
+ },
+ {
+  "cle": "162",
+  "type": "nom",
+  "fr": "Double Taillade Sup."
+ },
+ {
+  "cle": "162",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque [2 coups]\nAssène deux coups à l'aide de doubles lames."
+ },
+ {
+  "cle": "163",
+  "type": "nom",
+  "fr": "Ombre Mortelle Sup."
+ },
+ {
+  "cle": "163",
+  "type": "description",
+  "fr": "Technique - Ligne - Attaque [TA↓]\nPénètre les défenses et perturbe les sens."
+ },
+ {
+  "cle": "164",
+  "type": "nom",
+  "fr": "Coupe-gorge Sup."
+ },
+ {
+  "cle": "164",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque [Mort subite 20%]\nVise les point vitaux d'un ennemi."
+ },
+ {
+  "cle": "165",
+  "type": "nom",
+  "fr": "Œil Démoniaque EX"
+ },
+ {
+  "cle": "165",
+  "type": "description",
+  "fr": "Technique - Zone (M) - Attaque [TA ↓]\nRegard doré et malsain qui tétanise les ennemis."
+ },
+ {
+  "cle": "166",
+  "type": "nom",
+  "fr": "Provocation"
+ },
+ {
+  "cle": "166",
+  "type": "description",
+  "fr": "Technique - Zone (M) - Affaiblissement [Rage]\nAttire temporairement l'attention de l'ennemi sur soi."
+ },
+ {
+  "cle": "167",
+  "type": "nom",
+  "fr": "Double Taillade Ult."
+ },
+ {
+  "cle": "167",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque [2 coups]\nDouble taillade augmentée. Les coups peuvent trancher même l'éther."
+ },
+ {
+  "cle": "168",
+  "type": "nom",
+  "fr": "Ombre Mortelle Ult."
+ },
+ {
+  "cle": "168",
+  "type": "description",
+  "fr": "Technique - Ligne - Attaque [TA↓]\nOmbre Mortelle de puissance augmentée. Retarde grandement le tour."
+ },
+ {
+  "cle": "169",
+  "type": "nom",
+  "fr": "Coupe-gorge Ult."
+ },
+ {
+  "cle": "169",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque [Mort subite 20%]\nCoup défouraillé en un geste peaufiné."
+ },
+ {
+  "cle": "170",
+  "type": "nom",
+  "fr": "Œil Démoniaque Ult."
+ },
+ {
+  "cle": "170",
+  "type": "description",
+  "fr": "Technique - Zone (M) - Attaque [TA ↓]\nRegard doré rendu encore plus froid et incisif."
+ },
+ {
+  "cle": "172",
+  "type": "nom",
+  "fr": "Fouet SylphéenⅡ"
+ },
+ {
+  "cle": "172",
+  "type": "description",
+  "fr": "Technique - Zone (M) - Attaque\nLa vitesse accrue du fouet crée une lame d'air acéré."
+ },
+ {
+  "cle": "173",
+  "type": "nom",
+  "fr": "Fouet ConstricteurⅡ"
+ },
+ {
+  "cle": "173",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque [Interruption]\nUn coup désormais plus puissant, plus lourd."
+ },
+ {
+  "cle": "174",
+  "type": "nom",
+  "fr": "Baiser du Ciel"
+ },
+ {
+  "cle": "174",
+  "type": "description",
+  "fr": "Technique - Zone (M) - Soutien [TA ↑]\nUn brin d'autorité... pour exalter les alliés."
+ },
+ {
+  "cle": "175",
+  "type": "nom",
+  "fr": "Queue du Renard"
+ },
+ {
+  "cle": "175",
+  "type": "description",
+  "fr": "Technique - Cible unique - Vol\nAttaque parfois suivie d'un vol d'item, si l'ennemi est distrait."
+ },
+ {
+  "cle": "177",
+  "type": "nom",
+  "fr": "Fouet SylphéenⅢ"
+ },
+ {
+  "cle": "178",
+  "type": "nom",
+  "fr": "Fouet ConstricteurⅢ"
+ },
+ {
+  "cle": "180",
+  "type": "nom",
+  "fr": "Fouet Sylphéen"
+ },
+ {
+  "cle": "180",
+  "type": "description",
+  "fr": "Technique - Zone (M) - Attaque\nCoup de fouet qui génère un vent tranchant."
+ },
+ {
+  "cle": "181",
+  "type": "nom",
+  "fr": "Fouet Constricteur"
+ },
+ {
+  "cle": "181",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque [Interruption]\nVise un point faible pour stopper arts et techniques."
+ },
+ {
+  "cle": "182",
+  "type": "nom",
+  "fr": "Tir RapideⅡ"
+ },
+ {
+  "cle": "182",
+  "type": "description",
+  "fr": "Technique - Zone (M) - Attaque placée\nUn tir rapide amélioré ciblant plus d'ennemis."
+ },
+ {
+  "cle": "183",
+  "type": "nom",
+  "fr": "Tir d'ÉliteⅡ"
+ },
+ {
+  "cle": "183",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque [Interruption]\nTir silencieux à la puissance augmentée."
+ },
+ {
+  "cle": "184",
+  "type": "nom",
+  "fr": "Gâchette de l'AmourⅡ"
+ },
+ {
+  "cle": "184",
+  "type": "description",
+  "fr": "Technique - Zone (M) - Soin\nTechnique transmettant l'amour déconcertant d'Oliver. Restaure 2500PV."
+ },
+ {
+  "cle": "188",
+  "type": "nom",
+  "fr": "Tir d'ÉliteⅢ"
+ },
+ {
+  "cle": "189",
+  "type": "nom",
+  "fr": "Gâchette de l'AmourⅢ"
+ },
+ {
+  "cle": "189",
+  "type": "description",
+  "fr": "Technique - Zone (M) - Soin\nTechnique de l'amour toujours si déconcertant d'Oliver. Restaure 5500PV."
+ },
+ {
+  "cle": "192",
+  "type": "nom",
+  "fr": "KaempferⅡ"
+ },
+ {
+  "cle": "192",
+  "type": "description",
+  "fr": "Technique - Cible unique - Handicap [FOR-10/DÉF-15%]\nAttaque surprise aérienne."
+ },
+ {
+  "cle": "193",
+  "type": "nom",
+  "fr": "SturmⅡ"
+ },
+ {
+  "cle": "193",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque [Interruption]\nSuite de coups visant un point faible, stoppant arts et techniques."
+ },
+ {
+  "cle": "198",
+  "type": "nom",
+  "fr": "SturmⅢ"
+ },
+ {
+  "cle": "198",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque [Interruption]\nSuite de coups d'une grâce inouïe, stoppant arts et techniques."
+ },
+ {
+  "cle": "202",
+  "type": "nom",
+  "fr": "Rage SauvageⅡ"
+ },
+ {
+  "cle": "202",
+  "type": "description",
+  "fr": "Technique - Soi-même - Soutien [PT+50, PV-30%]\nRugissement qui octroie 50PT en échange de PV."
+ },
+ {
+  "cle": "203",
+  "type": "nom",
+  "fr": "Impact EnflamméⅡ"
+ },
+ {
+  "cle": "203",
+  "type": "description",
+  "fr": "Technique - Zone (P) - Attaque\nPuissante attaque qui dégage des flammes et fait reculer les cibles."
+ },
+ {
+  "cle": "204",
+  "type": "nom",
+  "fr": "Tranchant DragunaⅡ"
+ },
+ {
+  "cle": "204",
+  "type": "description",
+  "fr": "Technique - Ligne - Attaque [Interruption]\nEnvoie une onde de choc embrasée. Stoppe arts et techniques."
+ },
+ {
+  "cle": "205",
+  "type": "nom",
+  "fr": "Spirale TranchanteⅡ"
+ },
+ {
+  "cle": "205",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque [TA ↓]\nAssène une attaque latérale et ralentit l'ennemi."
+ },
+ {
+  "cle": "208",
+  "type": "nom",
+  "fr": "Impact EnflamméⅢ"
+ },
+ {
+  "cle": "208",
+  "type": "description",
+  "fr": "Technique - Zone (P) - Attaque\nAttaque démente dègageant un brasier et faisant reculer les cibles."
+ },
+ {
+  "cle": "209",
+  "type": "nom",
+  "fr": "Tranchant DragunaⅢ"
+ },
+ {
+  "cle": "209",
+  "type": "description",
+  "fr": "Technique - Ligne - Attaque [Interruption]\nEnvoie une onde de choc calcinée. Stoppe arts et techniques."
+ },
+ {
+  "cle": "210",
+  "type": "nom",
+  "fr": "Spirale TranchanteⅢ"
+ },
+ {
+  "cle": "210",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque [TA ↓]\nAttaque tournoyante épurée au possible, ralentissant l'ennemi."
+ },
+ {
+  "cle": "212",
+  "type": "nom",
+  "fr": "Canon FumigèneⅡ"
+ },
+ {
+  "cle": "212",
+  "type": "description",
+  "fr": "Technique - Zone (M) - Attaque placée [Cécité]\nAveugle les ennemis avec un écran de fumée."
+ },
+ {
+  "cle": "213",
+  "type": "nom",
+  "fr": "Canon VitalⅡ"
+ },
+ {
+  "cle": "213",
+  "type": "description",
+  "fr": "Technique - Zone (M) - Soin placé\nTire une cartouche de soins qui restaure les alliés de 1500PV."
+ },
+ {
+  "cle": "214",
+  "type": "nom",
+  "fr": "Orbal Gear"
+ },
+ {
+  "cle": "215",
+  "type": "nom",
+  "fr": "Retour"
+ },
+ {
+  "cle": "218",
+  "type": "nom",
+  "fr": "Canon VitalⅡ"
+ },
+ {
+  "cle": "218",
+  "type": "description",
+  "fr": "Technique - Zone (M) - Guéris les alterations d'état - Soin placé\nCartouche omnithérapeutique restaurant les alliés de 3500PV."
+ },
+ {
+  "cle": "222",
+  "type": "nom",
+  "fr": "Provocation"
+ },
+ {
+  "cle": "222",
+  "type": "description",
+  "fr": "Technique - Tous - Affaiblissement [Rage]\nAttire temporairement l'attention des ennemis sur soi."
+ },
+ {
+  "cle": "223",
+  "type": "nom",
+  "fr": "Élévation du Dragon Sup."
+ },
+ {
+  "cle": "223",
+  "type": "description",
+  "fr": "Technique - Soi-même - Soutien [FOR&DÉF+30%]\nTechnique de respiration qui booste les capacités."
+ },
+ {
+  "cle": "224",
+  "type": "nom",
+  "fr": "Force Intérieure Sup."
+ },
+ {
+  "cle": "224",
+  "type": "description",
+  "fr": "Technique - Cible unique - Soin\nGuérit de tout état anormal et restaure 800 PV."
+ },
+ {
+  "cle": "225",
+  "type": "nom",
+  "fr": "Paume Clair de Lune Sup."
+ },
+ {
+  "cle": "225",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque [Confusion 50%]\nAssaut puissant qui utilise l'élan d'une course formidable."
+ },
+ {
+  "cle": "226",
+  "type": "nom",
+  "fr": "Pied du Dieu-tonnerre"
+ },
+ {
+  "cle": "226",
+  "type": "description",
+  "fr": "Technique - Zone (M) - Attaque\nCoups de pieds pareils à la foudre, à la suite d'un bond prodigieux."
+ },
+ {
+  "cle": "229",
+  "type": "nom",
+  "fr": "Force Intérieure Ult."
+ },
+ {
+  "cle": "229",
+  "type": "description",
+  "fr": "Technique - Cible unique - Soin\nGuérit de tout état anormal et restaure 3100 PV."
+ },
+ {
+  "cle": "230",
+  "type": "nom",
+  "fr": "Paume Clair de Lune Ult."
+ },
+ {
+  "cle": "230",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque [Confusion 50%]\nPaume Clair de Lune d'impact amélioré."
+ },
+ {
+  "cle": "231",
+  "type": "nom",
+  "fr": "Pied du Dieu-tonnerre Ult."
+ },
+ {
+  "cle": "231",
+  "type": "description",
+  "fr": "Technique - Zone (M) - Attaque\nCoups de pieds pareils à des éclairs, à la suite d'un bond prodigieux."
+ },
+ {
+  "cle": "232",
+  "type": "nom",
+  "fr": "Bâtonnade Sup."
+ },
+ {
+  "cle": "232",
+  "type": "description",
+  "fr": "S-Technique - Cible unique - Attaque\nLongue volée de coups de bâton sur un ennemi."
+ },
+ {
+  "cle": "233",
+  "type": "nom",
+  "fr": "Rafale Élégante Sup."
+ },
+ {
+  "cle": "233",
+  "type": "description",
+  "fr": "S-Technique - Cible unique - Attaque\nVersion plus puissante et plus verticale de Bâtonnade."
+ },
+ {
+  "cle": "234",
+  "type": "nom",
+  "fr": "Cycle Taiji"
+ },
+ {
+  "cle": "234",
+  "type": "description",
+  "fr": "S-Technique - Cible unique - Attaque\nTechnique suprême s'abattant sur l'ennemi avec l'énergie d'un vortex."
+ },
+ {
+  "cle": "235",
+  "type": "nom",
+  "fr": "Cycle Taiji Absolu"
+ },
+ {
+  "cle": "237",
+  "type": "nom",
+  "fr": "Lames Incisives Sup."
+ },
+ {
+  "cle": "237",
+  "type": "description",
+  "fr": "S-Technique - Cible unique - Attaque\nLames Incisives révisé pour un résultat plus destructeur."
+ },
+ {
+  "cle": "238",
+  "type": "nom",
+  "fr": "Croc Noir Sup."
+ },
+ {
+  "cle": "238",
+  "type": "description",
+  "fr": "S-Technique - Tous - Attaque\nCroc Noir perfectionné. Capable de soumettre jusqu'au plus grand géant."
+ },
+ {
+  "cle": "239",
+  "type": "nom",
+  "fr": "Assaut Illusoire"
+ },
+ {
+  "cle": "239",
+  "type": "description",
+  "fr": "S-Technique - Tous - Attaque\nTechnique secrète fulgurante combinant l'action de doubles rémanents."
+ },
+ {
+  "cle": "240",
+  "type": "nom",
+  "fr": "Assaut Illusoire Sup."
+ },
+ {
+  "cle": "242",
+  "type": "nom",
+  "fr": "Flagellation SadiqueⅡ"
+ },
+ {
+  "cle": "242",
+  "type": "description",
+  "fr": "S-Technique - Cible unique - Attaque\nPluie de coups de fouet sur un ennemi."
+ },
+ {
+  "cle": "243",
+  "type": "nom",
+  "fr": "LE JUGEMENT"
+ },
+ {
+  "cle": "243",
+  "type": "description",
+  "fr": "S-Technique - Zone (M) - Attaque - ???\nCarte fatidique rendant jugement. Provoque un statut aléatoire parmi quatre."
+ },
+ {
+  "cle": "244",
+  "type": "nom",
+  "fr": "Flagellation Sadique"
+ },
+ {
+  "cle": "246",
+  "type": "nom",
+  "fr": "LE JUGEMENTⅡ"
+ },
+ {
+  "cle": "247",
+  "type": "nom",
+  "fr": "Balle Hurlante"
+ },
+ {
+  "cle": "247",
+  "type": "description",
+  "fr": "S-Technique - Zone (M) - Attaque\nTir d'énergie explosive. Sans commune mesure."
+ },
+ {
+  "cle": "248",
+  "type": "nom",
+  "fr": "Requiem Doloris"
+ },
+ {
+  "cle": "248",
+  "type": "description",
+  "fr": "S-Technique - Zone (M) - Attaque\nUne déferlante de balles déchirant le silence."
+ },
+ {
+  "cle": "251",
+  "type": "nom",
+  "fr": "Requiem DolorisⅡ"
+ },
+ {
+  "cle": "251",
+  "type": "description",
+  "fr": "S-Technique - Zone (M) - Attaque\nTir d'énergie de densité accrue grâce à un meilleur contrôle du recul."
+ },
+ {
+  "cle": "252",
+  "type": "nom",
+  "fr": "LichtkreisⅡ"
+ },
+ {
+  "cle": "252",
+  "type": "description",
+  "fr": "S-Technique - Zone (L) - Soin [DÉF+50% si 200PT]\nPrière à la Déesse. Ranime et restaure 3500PV."
+ },
+ {
+  "cle": "253",
+  "type": "nom",
+  "fr": "Sanctus Nova"
+ },
+ {
+  "cle": "253",
+  "type": "description",
+  "fr": "S-Technique - Zone (M) - Attaque\nPrière à corps perdu à la Déesse ceignant les ennemis de lumière."
+ },
+ {
+  "cle": "255",
+  "type": "nom",
+  "fr": "LichtkreisⅢ"
+ },
+ {
+  "cle": "255",
+  "type": "description",
+  "fr": "S-Technique - Zone (L) - Soin [DÉF+50% si 200PT]\nPrière pleine de miséricorde. Ranime et restaure 12000PV."
+ },
+ {
+  "cle": "257",
+  "type": "nom",
+  "fr": "Rafale ImpitoyableⅡ"
+ },
+ {
+  "cle": "257",
+  "type": "description",
+  "fr": "S-Technique - Cible unique - Attaque\nSérie de coups d'épée suivis d'un coup violent."
+ },
+ {
+  "cle": "258",
+  "type": "nom",
+  "fr": "Impact FinalⅡ"
+ },
+ {
+  "cle": "258",
+  "type": "description",
+  "fr": "S-Technique - Zone (M) - Attaque\nDéflagration amplifiée par un impact tout simplement plus ravageur."
+ },
+ {
+  "cle": "259",
+  "type": "nom",
+  "fr": "Plongeon Draconique"
+ },
+ {
+  "cle": "259",
+  "type": "description",
+  "fr": "S-Technique - Tous - Attaque\nAttaque plongée cernée de flammes après un saut surhumain."
+ },
+ {
+  "cle": "260",
+  "type": "nom",
+  "fr": "Rafale ImpitoyableⅡ"
+ },
+ {
+  "cle": "260",
+  "type": "description",
+  "fr": "S-Technique - Cible unique - Attaque\nSérie de coups à l'épée lourde, devenue plus cinglante encore."
+ },
+ {
+  "cle": "262",
+  "type": "nom",
+  "fr": "Rafale de CanonⅡ"
+ },
+ {
+  "cle": "262",
+  "type": "description",
+  "fr": "S-Technique - Zone (M) - Attaque\nSalve d'une Gatling développée par l'Empire."
+ },
+ {
+  "cle": "263",
+  "type": "nom",
+  "fr": "Rayon Satellite"
+ },
+ {
+  "cle": "263",
+  "type": "description",
+  "fr": "S-Technique - Zone (L) - Attaque\nViolent rayon envoyé par un satellite lancé à très haute altitude."
+ },
+ {
+  "cle": "266",
+  "type": "nom",
+  "fr": "Rayon SatelliteⅡ"
+ },
+ {
+  "cle": "266",
+  "type": "description",
+  "fr": "S-Technique - Zone (M) - Attaque\nPuissance de feu grandement améliorée par customisation."
+ },
+ {
+  "cle": "267",
+  "type": "nom",
+  "fr": "Pied Vif du Dragon Sup."
+ },
+ {
+  "cle": "267",
+  "type": "description",
+  "fr": "S-Technique - Cible unique - Attaque\nProdigieuse attaque en plusieurs phases."
+ },
+ {
+  "cle": "268",
+  "type": "nom",
+  "fr": "Fulgurosphère Sup."
+ },
+ {
+  "cle": "268",
+  "type": "description",
+  "fr": "S-Technique - Zone (M) - Attaque\nFulgurosphère à l'impact explosif."
+ },
+ {
+  "cle": "269",
+  "type": "nom",
+  "fr": "Rage de Taishan-Genbu"
+ },
+ {
+  "cle": "269",
+  "type": "description",
+  "fr": "S-Technique - Zone (M) - Attaque\nCharge extrême pour défouler son énergie terrestre et oblitérer les ennemis."
+ },
+ {
+  "cle": "270",
+  "type": "nom",
+  "fr": "Rage de Taishan-Genbu Abs."
+ },
+ {
+  "cle": "270",
+  "type": "description",
+  "fr": "S-Technique - Cible unique - Attaque\nTechnique améliorée. Tous les coups sont devenus plus destructeurs."
+ },
+ {
+  "cle": "272",
+  "type": "nom",
+  "fr": "Graalsphère"
+ },
+ {
+  "cle": "272",
+  "type": "description",
+  "fr": "S-Technique - Zone (L) - Soutien\nPrière au nom du Graal. Confère immunité contre une attaque (2x à 200CP)."
+ },
+ {
+  "cle": "273",
+  "type": "nom",
+  "fr": "Lance Maudite Loa"
+ },
+ {
+  "cle": "274",
+  "type": "nom",
+  "fr": "Lance Bénite Ur"
+ },
+ {
+  "cle": "275",
+  "type": "nom",
+  "fr": "Ravage Radieux Sup."
+ },
+ {
+  "cle": "275",
+  "type": "description",
+  "fr": "S-Technique - Zone (M) - Attaque\nEnvoie deux croix de lumière après une intense concentration."
+ },
+ {
+  "cle": "276",
+  "type": "nom",
+  "fr": "Ravage Radieux Abs."
+ },
+ {
+  "cle": "277",
+  "type": "nom",
+  "fr": "Lynx"
+ },
+ {
+  "cle": "277",
+  "type": "description",
+  "fr": "S-Technique - Tous - Attaque\nFraternité ! Envoie une fusée de détresse appelant le Lynx."
+ },
+ {
+  "cle": "278",
+  "type": "nom",
+  "fr": "LynxⅡ"
+ },
+ {
+  "cle": "278",
+  "type": "description",
+  "fr": "S-Technique - Tous - Attaque\nFratrie soudée ! Envoie une fusée de détresse appelant le Lynx."
+ },
+ {
+  "cle": "279",
+  "type": "nom",
+  "fr": "Lame Destructrice Rémanente"
+ },
+ {
+  "cle": "280",
+  "type": "nom",
+  "fr": "Lune Florale Survivante"
+ },
+ {
+  "cle": "281",
+  "type": "nom",
+  "fr": "Jugement Karmique"
+ },
+ {
+  "cle": "281",
+  "type": "description",
+  "fr": "S-Technique - Zone (L) - Attaque\nCoup d'épée zélé réduisant les ennemis au néant."
+ },
+ {
+  "cle": "282",
+  "type": "nom",
+  "fr": "Jugement Karmique Sup."
+ },
+ {
+  "cle": "283",
+  "type": "nom",
+  "fr": "Trinität Kleis"
+ },
+ {
+  "cle": "283",
+  "type": "description",
+  "fr": "S-Technique - Zone (M) - Attaque\nTriangle tracé à bout de lame frappant les ennemis d'une colonne de lumière."
+ },
+ {
+  "cle": "284",
+  "type": "nom",
+  "fr": "Pentakyklov Kleis"
+ },
+ {
+  "cle": "284",
+  "type": "description",
+  "fr": "S-Technique - Zone (G) - Attaque\nPentacle tracé à bout de lame frappant les ennemis d'une colonne de lumière."
+ },
+ {
+  "cle": "285",
+  "type": "nom",
+  "fr": "Frappe Céleste"
+ },
+ {
+  "cle": "286",
+  "type": "nom",
+  "fr": "Sphère Céleste"
+ },
+ {
+  "cle": "287",
+  "type": "nom",
+  "fr": "Rendéroutrépas"
+ },
+ {
+  "cle": "288",
+  "type": "nom",
+  "fr": "Pater-Mater"
+ },
+ {
+  "cle": "306",
+  "type": "nom",
+  "fr": "Division"
+ },
+ {
+  "cle": "306",
+  "type": "description",
+  "fr": "Division en deux avec moitié de PV."
+ },
+ {
+  "cle": "310",
+  "type": "nom",
+  "fr": "Appel de renfort"
+ },
+ {
+  "cle": "312",
+  "type": "nom",
+  "fr": "Fureur Croisée"
+ },
+ {
+  "cle": "312",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque\nAttaque enchaînant rapidement un coup de dague et un tir d'arbalète."
+ },
+ {
+  "cle": "313",
+  "type": "nom",
+  "fr": "Souffle Sacré"
+ },
+ {
+  "cle": "313",
+  "type": "description",
+  "fr": "Technique - Zone (G) - Guérit les altérations d'état - Soin\nPrière redonnant souffle. Restaure 2500PV aux alliés dans la zone."
+ },
+ {
+  "cle": "314",
+  "type": "nom",
+  "fr": "Carreau Sacrificiel"
+ },
+ {
+  "cle": "314",
+  "type": "description",
+  "fr": "Technique - Zone (M) - Soutien\nSacrifie 40CP pour restaurer d'autant ceux d'un allié à portée."
+ },
+ {
+  "cle": "315",
+  "type": "nom",
+  "fr": "Carreau Gorgone"
+ },
+ {
+  "cle": "316",
+  "type": "nom",
+  "fr": "Châtiment Mortel"
+ },
+ {
+  "cle": "317",
+  "type": "nom",
+  "fr": "Fureur CroiséeⅡ"
+ },
+ {
+  "cle": "318",
+  "type": "nom",
+  "fr": "Souffle SacréⅡ"
+ },
+ {
+  "cle": "318",
+  "type": "description",
+  "fr": "Technique - Zone (G) - Guérit les altérations d'état - Soin\nPrière redonnant souffle. Restaure 5500PV aux alliés dans la zone."
+ },
+ {
+  "cle": "321",
+  "type": "nom",
+  "fr": "Châtiment MortelⅡ"
+ },
+ {
+  "cle": "322",
+  "type": "nom",
+  "fr": "Huit-feuilles - Lame Fulgurante"
+ },
+ {
+  "cle": "322",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque\nFrappe frénétiquement l'ennemi de coups impétueux."
+ },
+ {
+  "cle": "323",
+  "type": "nom",
+  "fr": "Rafale Vive"
+ },
+ {
+  "cle": "323",
+  "type": "description",
+  "fr": "Technique - Zone (M) - Attaque\nCoups d'épée si vifs qu'ils engendrent des lames d'air."
+ },
+ {
+  "cle": "324",
+  "type": "nom",
+  "fr": "Feuilles Mortes"
+ },
+ {
+  "cle": "324",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque [TA ↓]\nÉjecte du pied l'ennemi dans les airs puis l'abat au sol."
+ },
+ {
+  "cle": "325",
+  "type": "nom",
+  "fr": "Chorégraphie Florale"
+ },
+ {
+  "cle": "325",
+  "type": "description",
+  "fr": "Technique - Soi-même - Soutien [FOR+50%/DÉF-30%]\nTechnique misant le tout pour le tout en sacrifiant la défense pour l'attaque."
+ },
+ {
+  "cle": "326",
+  "type": "nom",
+  "fr": "Danse Toupie"
+ },
+ {
+  "cle": "327",
+  "type": "nom",
+  "fr": "Lame Fulgurante Sup."
+ },
+ {
+  "cle": "328",
+  "type": "nom",
+  "fr": "Rafale Vive Sup."
+ },
+ {
+  "cle": "332",
+  "type": "nom",
+  "fr": "Déroute"
+ },
+ {
+  "cle": "332",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque [DÉF-30]\nTire une série de balles en visant les points faibles."
+ },
+ {
+  "cle": "333",
+  "type": "nom",
+  "fr": "Fléau d'Ancre"
+ },
+ {
+  "cle": "333",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque [Évanouissement]\nLance une ancre d'acier."
+ },
+ {
+  "cle": "335",
+  "type": "nom",
+  "fr": "Main Baladeuse"
+ },
+ {
+  "cle": "336",
+  "type": "nom",
+  "fr": "Bombe Orbale"
+ },
+ {
+  "cle": "342",
+  "type": "nom",
+  "fr": "Tranchant de l'Ogre Radieux"
+ },
+ {
+  "cle": "343",
+  "type": "nom",
+  "fr": "Cycle Radieux"
+ },
+ {
+  "cle": "344",
+  "type": "nom",
+  "fr": "Enchaînement Radieux"
+ },
+ {
+  "cle": "347",
+  "type": "nom",
+  "fr": "Tranchant de l'Ogre Radieux Sup."
+ },
+ {
+  "cle": "348",
+  "type": "nom",
+  "fr": "Cycle Radieux Sup."
+ },
+ {
+  "cle": "349",
+  "type": "nom",
+  "fr": "Enchaînement Radieux Sup."
+ },
+ {
+  "cle": "352",
+  "type": "nom",
+  "fr": "Prise Ragna"
+ },
+ {
+  "cle": "352",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque [Évanouissement 50%]\nAttire un ennemi à sa portée et l'exténue grâce à l'énergie de sa lame."
+ },
+ {
+  "cle": "353",
+  "type": "nom",
+  "fr": "Rafale Déferlante"
+ },
+ {
+  "cle": "353",
+  "type": "description",
+  "fr": "Technique - Zone (P) - Attaque\nTaillade les rangs ennemis avec un habile jeu de jambes."
+ },
+ {
+  "cle": "354",
+  "type": "nom",
+  "fr": "Danse du Fer"
+ },
+ {
+  "cle": "354",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque [Confusion 20%]\nHypnotise et écrase l'ennemi par des mouvements d'épée envoutants."
+ },
+ {
+  "cle": "355",
+  "type": "nom",
+  "fr": "Tranchant Mirage"
+ },
+ {
+  "cle": "355",
+  "type": "description",
+  "fr": "Technique - Cible unique - Affaiblissement [Silence/Interruption]\nLance un couteau scellant les arts et interrompant arts et techniques."
+ },
+ {
+  "cle": "358",
+  "type": "nom",
+  "fr": "Rafale Déferlante II"
+ },
+ {
+  "cle": "358",
+  "type": "description",
+  "fr": "Technique - Zone (M) - Attaque\nTaillade les ennemis sur une plus grande zone avec un habile jeu de jambes."
+ },
+ {
+  "cle": "359",
+  "type": "nom",
+  "fr": "Danse du Fer II"
+ },
+ {
+  "cle": "359",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque [Confusion 20%]\nDanse du Fer plus rapide et plus puissante."
+ },
+ {
+  "cle": "362",
+  "type": "nom",
+  "fr": "Lanzenreiter"
+ },
+ {
+  "cle": "362",
+  "type": "description",
+  "fr": "Technique - Cible unique - Attaque [Interruption]\nAttaque irréprochable en quatre coups. Interrompt arts et techniques."
+ },
+ {
+  "cle": "363",
+  "type": "nom",
+  "fr": "Mirageberg"
+ },
+ {
+  "cle": "363",
+  "type": "description",
+  "fr": "Technique - Soi-même - Soutien\nEnrobe d'un rempart chimérique permettant de bloquer une attaque."
+ },
+ {
+  "cle": "364",
+  "type": "nom",
+  "fr": "Commandement"
+ },
+ {
+  "cle": "364",
+  "type": "description",
+  "fr": "Technique - Tous - Soutien [FOR+20%]\nExalte la soif de combat des alliés."
+ },
+ {
+  "cle": "367",
+  "type": "nom",
+  "fr": "LanzenreiterⅡ"
+ },
+ {
+  "cle": "368",
+  "type": "nom",
+  "fr": "MiragebergⅡ"
+ },
+ {
+  "cle": "372",
+  "type": "nom",
+  "fr": "Curvescrime"
+ },
+ {
+  "cle": "373",
+  "type": "nom",
+  "fr": "Mille-passereaux"
+ },
+ {
+  "cle": "374",
+  "type": "nom",
+  "fr": "Bénédiction divine"
+ },
+ {
+  "cle": "377",
+  "type": "nom",
+  "fr": "CurvescrimeⅡ"
+ },
+ {
+  "cle": "378",
+  "type": "nom",
+  "fr": "Myriades-de-passereaux"
+ },
+ {
+  "cle": "382",
+  "type": "nom",
+  "fr": "Lancer de Calamité"
+ },
+ {
+  "cle": "383",
+  "type": "nom",
+  "fr": "Cercle Sanglant"
+ },
+ {
+  "cle": "387",
+  "type": "nom",
+  "fr": "Lancer de CalamitéⅡ"
+ },
+ {
+  "cle": "388",
+  "type": "nom",
+  "fr": "Cercle SanglantⅡ"
+ },
+ {
+  "cle": "392",
+  "type": "nom",
+  "fr": "Sermon Spirituel"
+ },
+ {
+  "cle": "393",
+  "type": "nom",
+  "fr": "Sermon Motivant"
+ },
+ {
+  "cle": "394",
+  "type": "nom",
+  "fr": "Sermon Encourageant"
+ },
+ {
+  "cle": "395",
+  "type": "nom",
+  "fr": "Menace tranchante"
+ },
+ {
+  "cle": "396",
+  "type": "nom",
+  "fr": "Attaque enragée"
+ },
+ {
+  "cle": "397",
+  "type": "nom",
+  "fr": "Sermon Spirituel"
+ },
+ {
+  "cle": "398",
+  "type": "nom",
+  "fr": "Sermon Motivant"
+ },
+ {
+  "cle": "399",
+  "type": "nom",
+  "fr": "Sermon Encourageant"
+ },
+ {
+  "cle": "400",
+  "type": "nom",
+  "fr": "Menace tranchante"
+ },
+ {
+  "cle": "401",
+  "type": "nom",
+  "fr": "Attaque enragée"
+ },
+ {
+  "cle": "402",
+  "type": "nom",
+  "fr": "Sermon Spirituel"
+ },
+ {
+  "cle": "403",
+  "type": "nom",
+  "fr": "Sermon Motivant"
+ },
+ {
+  "cle": "404",
+  "type": "nom",
+  "fr": "Sermon Encourageant"
+ },
+ {
+  "cle": "405",
+  "type": "nom",
+  "fr": "Menace tranchante"
+ },
+ {
+  "cle": "406",
+  "type": "nom",
+  "fr": "Attaque enragée"
+ }
+]

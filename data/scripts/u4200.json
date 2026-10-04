@@ -1,0 +1,82 @@
+[
+ {
+  "n": 1,
+  "fr": "{color 5}Un grand soldat blindé bloque le passage pour \naccéder au château."
+ },
+ {
+  "n": 2,
+  "fr": "{color 5}Tenter de le vaincre ?"
+ },
+ {
+  "n": 3,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 4,
+  "fr": "[Non]"
+ },
+ {
+  "n": 5,
+  "fr": "... Ceci est..."
+ },
+ {
+  "n": 6,
+  "fr": "Q-Que représente ce symbole magique ?"
+ },
+ {
+  "n": 7,
+  "fr": "Je crois que cela est verrouillé par une sorte de \npouvoir spirituel."
+ },
+ {
+  "n": 8,
+  "fr": "Nous avons peu de chances de réussir à forcer le \npassage tant qu'il reste actif, j'en ai peur."
+ },
+ {
+  "n": 9,
+  "fr": "Cela en a certainement l'air."
+ },
+ {
+  "n": 10,
+  "fr": "Ce qui veut dire que nous allons devoir trouver une \nquelconque manière de l'enlever, sinon nous ne \npourrons pas entrer à l'intérieur."
+ },
+ {
+  "n": 11,
+  "fr": "C'est le plus probable, ouais."
+ },
+ {
+  "n": 12,
+  "fr": "Vous êtes d'accord pour qu'on s'occupe du château \nplus tard, du coup ?"
+ },
+ {
+  "n": 13,
+  "fr": "J'ai peur que nous n'ayons pas vraiment le choix... Je \npeux seulement espérer qu'Aidios garde tout le monde \nen sécurité à l'intérieur jusqu'à ce que nous revenions."
+ },
+ {
+  "n": 14,
+  "fr": "Devrions-nous reprendre notre investigation de la \nville en attendant ?"
+ },
+ {
+  "n": 15,
+  "fr": "Ça marche."
+ },
+ {
+  "n": 16,
+  "fr": "Avec un peu de chance, on pourra trouver une \nmanière d'entrer à l'intérieur pendant qu'on fera \nnotre ronde."
+ },
+ {
+  "n": 17,
+  "fr": "{color 5}Ouvrir la Porte ?{0x18}"
+ },
+ {
+  "n": 18,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 19,
+  "fr": "[Non]"
+ },
+ {
+  "n": 20,
+  "fr": "{color 5}#40WAmenez-moi la gardienne de la famille \nroyale et la lame qui sert la maison impériale.\n#500W \n#40WÀ ce moment seulement s'ouvrira la Porte...{color 0}"
+ }
+]

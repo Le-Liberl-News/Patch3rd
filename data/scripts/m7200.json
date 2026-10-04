@@ -1,0 +1,58 @@
+[
+ {
+  "n": 22,
+  "fr": "En effet..."
+ },
+ {
+  "n": 24,
+  "fr": "Hein ?"
+ },
+ {
+  "n": 25,
+  "fr": "Qu... ?!"
+ },
+ {
+  "n": 98,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 99,
+  "fr": "Restaurer les PV/PE"
+ },
+ {
+  "n": 100,
+  "fr": "Acheter"
+ },
+ {
+  "n": 101,
+  "fr": "Synthétiser des quartz"
+ },
+ {
+  "n": 102,
+  "fr": "Terminer"
+ },
+ {
+  "n": 103,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 104,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 105,
+  "fr": "{color 5}Ouvrir la Porte ?{0x18}"
+ },
+ {
+  "n": 106,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 107,
+  "fr": "[Non]"
+ },
+ {
+  "n": 108,
+  "fr": "{color 5}#40WLa voie a déjà été ouverte...\n#500W \n#40WOuvrez la Porte, et entrez à l'intérieur.{color 0}"
+ }
+]

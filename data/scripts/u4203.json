@@ -1,0 +1,114 @@
+[
+ {
+  "n": 1,
+  "fr": "C-C'est incroyable..."
+ },
+ {
+  "n": 2,
+  "fr": "*déglutit*"
+ },
+ {
+  "n": 3,
+  "fr": "Ha... ha... Y en a qui savent vraiment filer la frousse \naux gens."
+ },
+ {
+  "n": 4,
+  "fr": "Cela semble être un assez vieux château, donc \ncela correspond certainement à ce genre de chose..."
+ },
+ {
+  "n": 5,
+  "fr": "Personnellement, j'enlèverais des points pour \nl'excès de théâtralité, cependant."
+ },
+ {
+  "n": 6,
+  "fr": "Ugh... Je ne peux supporter de rester ici à l'extérieur \nun instant de plus !"
+ },
+ {
+  "n": 7,
+  "fr": "Nous devrions entrer à l'intérieur immédiatement !"
+ },
+ {
+  "n": 8,
+  "fr": "Ouais, on devrait."
+ },
+ {
+  "n": 9,
+  "fr": "Bon... On y va !"
+ },
+ {
+  "n": 10,
+  "fr": "Que devrions-nous faire, Père ? Devrions-nous \nentrer à l'intérieur immédiatement ?"
+ },
+ {
+  "n": 11,
+  "fr": "On pourrait, mais seulement après qu'on soit allés \nchercher Julia."
+ },
+ {
+  "n": 12,
+  "fr": "Elle est celle qui se soucie le plus des gens dans le \nchâteau... Et elle connaît sa disposition mieux que \nn'importe qui d'entre nous, aussi."
+ },
+ {
+  "n": 13,
+  "fr": "Très bien."
+ },
+ {
+  "n": 14,
+  "fr": "Que devrait-on faire ? Est-ce qu'on devrait entrer \nà l'intérieur tout de suite ?"
+ },
+ {
+  "n": 15,
+  "fr": "On pourrait, mais seulement après qu'on soit allés \nchercher Julia."
+ },
+ {
+  "n": 16,
+  "fr": "Elle est celle qui se soucie le plus des gens dans le \nchâteau... Et elle connaît sa disposition mieux que \nn'importe qui d'entre nous, aussi."
+ },
+ {
+  "n": 17,
+  "fr": "Oh, c'est vrai."
+ },
+ {
+  "n": 18,
+  "fr": "Est-ce qu'on devrait aller à l'intérieur tout de suite ?"
+ },
+ {
+  "n": 19,
+  "fr": "On pourrait, mais seulement après qu'on soit allés \nchercher Julia."
+ },
+ {
+  "n": 20,
+  "fr": "Elle est celle qui se soucie le plus des gens dans le \nchâteau... Et elle connaît sa disposition mieux que \nn'importe qui d'entre nous, aussi."
+ },
+ {
+  "n": 21,
+  "fr": "C'est une bonne idée ! Je suis d'accord."
+ },
+ {
+  "n": 22,
+  "fr": "Retournons au jardin pour l'instant, dans ce cas."
+ },
+ {
+  "n": 23,
+  "fr": "(On devrait faire demi-tour et aller chercher Julia \navant d'entrer à l'intérieur.)"
+ },
+ {
+  "n": 24,
+  "fr": "(Elle est celle qui se soucie le plus des gens à \nl'intérieur, et elle connaît probablement la disposition \ndu château mieux que n'importe qui d'entre nous.)"
+ },
+ {
+  "n": 25,
+  "fr": "{color 5}Ouvrir la Porte ?{0x18}"
+ },
+ {
+  "n": 26,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 27,
+  "fr": "[Non]"
+ },
+ {
+  "n": 28,
+  "fr": "{color 5}#40WAmenez-moi la gardienne de la famille \nroyale et la lame qui sert la maison impériale.\n#500W \n#40WÀ ce moment seulement s'ouvrira la Porte...{color 0}"
+ }
+]

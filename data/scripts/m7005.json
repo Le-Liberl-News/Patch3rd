@@ -1,0 +1,334 @@
+[
+ {
+  "n": 1,
+  "fr": "Quelque chose ne va pas..."
+ },
+ {
+  "n": 2,
+  "fr": "Tu l'as remarqué aussi, hein ?"
+ },
+ {
+  "n": 3,
+  "fr": "R-Remarqué quoi ?"
+ },
+ {
+  "n": 4,
+  "fr": "Percevez-vous des monstres ? Je ne peux rien sentir \nde la sorte..."
+ },
+ {
+  "n": 5,
+  "fr": "C'est normal. Je doute que qui que ce soit qui fasse \npas partie de l'Église reconnaîtrait ce qui est en train \nde se passer."
+ },
+ {
+  "n": 6,
+  "fr": "C'est un genre particulier d'odeur de décomposition... \nL'odeur des enfers."
+ },
+ {
+  "n": 7,
+  "fr": "C'est faible, mais c'est là, et ça vient de la zone \nsituée plus loin."
+ },
+ {
+  "n": 8,
+  "fr": "Peu importe ce qui nous attend, cela va être différent \nde tous les autres démons que nous ayons combattus \njusqu'ici."
+ },
+ {
+  "n": 9,
+  "fr": "Nous allons devoir être exceptionnellement prudents."
+ },
+ {
+  "n": 10,
+  "fr": "Oh-oh..."
+ },
+ {
+  "n": 11,
+  "fr": "Je vois..."
+ },
+ {
+  "n": 12,
+  "fr": "Cependant, si nous avons l'intention de poursuivre \nnotre investigation, nous n'avons pas d'autre choix \nque d'avancer, peu importe ce qui nous barre la route."
+ },
+ {
+  "n": 13,
+  "fr": "... Le voilà !"
+ },
+ {
+  "n": 14,
+  "fr": "Suffisait de le dire !"
+ },
+ {
+  "n": 15,
+  "fr": "Je n'ai jamais rien vu de tel avant !"
+ },
+ {
+  "n": 16,
+  "fr": "P-Par Aidios, qu'est-ce donc ?!"
+ },
+ {
+  "n": 17,
+  "fr": "Un des soixante-dix-sept diables qui apparaissent \ndans les Testaments. Le cercueil spirituel qui guide \nles âmes des morts et sert de passeur à Hadès..."
+ },
+ {
+  "n": 18,
+  "fr": "Bennu, le Cercueil du chagrin !"
+ },
+ {
+  "n": 19,
+  "fr": "Qui aurait cru que le jour viendrait où je me \nretrouverais face à face avec un véritable diable ?"
+ },
+ {
+  "n": 20,
+  "fr": "Envoie ! Laisse-moi te montrer ce qu'un serviteur de \nla Déesse peut faire !"
+ },
+ {
+  "n": 21,
+  "fr": "{color 5}Ries a appris la S-Tech\n{color 2}[Frappe Céleste]{color 5}."
+ },
+ {
+  "n": 22,
+  "fr": "{color 5}Définir {color 2}[Frappe Céleste]{color 5} comme \nle S-Break de Ries ?{0x18}"
+ },
+ {
+  "n": 23,
+  "fr": "[Oui]"
+ },
+ {
+  "n": 24,
+  "fr": "[Non]"
+ },
+ {
+  "n": 25,
+  "fr": "Ugh... haa... haa..."
+ },
+ {
+  "n": 26,
+  "fr": "Ceci était... un vrai diable..."
+ },
+ {
+  "n": 27,
+  "fr": "C-C'était terrifiant..."
+ },
+ {
+  "n": 28,
+  "fr": "L'idée que de tels démons existent est...\nJe ne sais que dire..."
+ },
+ {
+  "n": 29,
+  "fr": "Quel est cet endroit, au juste ?"
+ },
+ {
+  "n": 30,
+  "fr": "{color 5}#1PHa ha... S'il s'agit du mieux que vous puissiez \nfaire, votre futur a effectivement l'air sinistre.{color 0}"
+ },
+ {
+  "n": 31,
+  "fr": "!!"
+ },
+ {
+  "n": 32,
+  "fr": "C'est cet homme !"
+ },
+ {
+  "n": 33,
+  "fr": "Est-il celui que vous disiez avoir vu lorsque vous \navez été envoyés ici au début ?"
+ },
+ {
+  "n": 34,
+  "fr": "Qui êtes-vous ?! Donnez votre nom !"
+ },
+ {
+  "n": 35,
+  "fr": "{color 5}#1591FHa..."
+ },
+ {
+  "n": 36,
+  "fr": "Je pense que les bonnes manières dictent que l'on \nénonce son propre nom avant de demander celui \nd'un autre, n'est-ce pas ?"
+ },
+ {
+  "n": 37,
+  "fr": "Ou peut-être aviez vous conscience du fait que je \nconnais déjà le vôtre, Capitaine Julia Schwarz ?{color 0}"
+ },
+ {
+  "n": 38,
+  "fr": "......"
+ },
+ {
+  "n": 39,
+  "fr": "Qui que vous soyez, vous avez fait vos recherches."
+ },
+ {
+  "n": 40,
+  "fr": "Vous nous voulez quoi ? Ce diable qu'on vient juste \nde combattre, c'était de votre fait ?"
+ },
+ {
+  "n": 41,
+  "fr": "Est-ce que TOUT ça, c'est de votre fait ?!"
+ },
+ {
+  "n": 42,
+  "fr": "{color 5}#1591FHé hé hé... Calmez-vous, Kevin Graham."
+ },
+ {
+  "n": 43,
+  "fr": "Votre souffrance commence à peine."
+ },
+ {
+  "n": 44,
+  "fr": "Il est beaucoup trop tôt pour que vous vous perdiez \ndans le désespoir.{color 0}"
+ },
+ {
+  "n": 45,
+  "fr": "Quoi... ?!"
+ },
+ {
+  "n": 46,
+  "fr": "......"
+ },
+ {
+  "n": 47,
+  "fr": "Gah..."
+ },
+ {
+  "n": 48,
+  "fr": "C'est pas le moment d'être téméraire là, Ries !"
+ },
+ {
+  "n": 49,
+  "fr": "{color 5}#1591F#5PUne épée des Templiers de l'Église \nseptienne, je vois."
+ },
+ {
+  "n": 50,
+  "fr": "Vos compétences ne sont pas mauvaises, mais elles \nn'arrivent toujours pas à la cheville de celles de votre \nsœur.{color 0}"
+ },
+ {
+  "n": 51,
+  "fr": "Vous la connaissez ?!"
+ },
+ {
+  "n": 52,
+  "fr": "Comment... ?"
+ },
+ {
+  "n": 53,
+  "fr": "{color 5}#1591F#5PTout sera révélé en temps voulu."
+ },
+ {
+  "n": 54,
+  "fr": "Le banquet du désespoir dans cette belle terre de \nPhantasma ne fait que commencer."
+ },
+ {
+  "n": 55,
+  "fr": "Mon maître souhaite vous voir souffrir — vous tordre \nd'agonie, réclamer en vain que votre souffrance \ncesse... Faites ce que l'on attend de vous, d'accord ?{color 0}"
+ },
+ {
+  "n": 56,
+  "fr": "A-Attendez... !"
+ },
+ {
+  "n": 57,
+  "fr": "Avez-vous l'intention de nous fuir ?!"
+ },
+ {
+  "n": 58,
+  "fr": "{color 5}#1590F#5P... Je vous dirai une chose avant de \npartir."
+ },
+ {
+  "n": 59,
+  "fr": "Mon nom est Schwarzritter.{color 0}"
+ },
+ {
+  "n": 60,
+  "fr": "{color 5}#1591F#5PJe suis un gardien de Phantasma et \nun loyal serviteur de son grand maître."
+ },
+ {
+  "n": 61,
+  "fr": "Et sur ce, je vous dis adieu.{color 0}"
+ },
+ {
+  "n": 62,
+  "fr": "Bah..."
+ },
+ {
+  "n": 63,
+  "fr": "Il a disparu..."
+ },
+ {
+  "n": 64,
+  "fr": "......"
+ },
+ {
+  "n": 65,
+  "fr": "Nous n'avons peut-être pas appris beaucoup sur lui \nlors de cette rencontre, mais une chose semble claire \ncomme de l'eau de roche."
+ },
+ {
+  "n": 66,
+  "fr": "Nous avons des ennemis dans cet endroit... Et ce ne \nsont pas juste les démons."
+ },
+ {
+  "n": 67,
+  "fr": "... Ouais, apparemment."
+ },
+ {
+  "n": 68,
+  "fr": "Et en plus, on dirait qu'ils vont être une galère à \ngérer."
+ },
+ {
+  "n": 69,
+  "fr": "[Sauvegarder]"
+ },
+ {
+  "n": 70,
+  "fr": "[Chapitre suivant]"
+ },
+ {
+  "n": 71,
+  "fr": "Ceci est la sortie que vous aviez remarquée plus tôt, \nn'est-ce pas, Père ? Ou l'entrée, peut-être."
+ },
+ {
+  "n": 72,
+  "fr": "C'est exactement comme ce cercle magique à la base."
+ },
+ {
+  "n": 73,
+  "fr": "......"
+ },
+ {
+  "n": 74,
+  "fr": "Crois-tu que ceci nous emmènera dans un endroit \ncomplètement nouveau ?"
+ },
+ {
+  "n": 75,
+  "fr": "Fort possible."
+ },
+ {
+  "n": 76,
+  "fr": "C'est la seule autre route que j'aie vue, alors il va \njuste falloir qu'on voie où ça va nous emmener."
+ },
+ {
+  "n": 77,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 78,
+  "fr": "Restaurer les PV/PE"
+ },
+ {
+  "n": 79,
+  "fr": "Acheter"
+ },
+ {
+  "n": 80,
+  "fr": "Synthétiser des quartz"
+ },
+ {
+  "n": 81,
+  "fr": "Terminer"
+ },
+ {
+  "n": 82,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ },
+ {
+  "n": 83,
+  "fr": "{color 5}Sélectionner une option{0x18}"
+ }
+]
