@@ -50,7 +50,9 @@ jobs:
           PLATFORM_URL: ${{ vars.PLATFORM_URL || 'https://leliberlnews.fr' }}
         run: |
           mkdir -p job
-          curl -fsS --compressed --retry 3 -H "Authorization: Bearer $PLATFORM_TOKEN" \
+          PLATFORM_TOKEN="$(printf '%s' "$PLATFORM_TOKEN" | tr -d '\r\n ')"
+          # X-Platform-Token too: some hostings drop Authorization before PHP.
+          curl -fsS --compressed --retry 3 -H "Authorization: Bearer $PLATFORM_TOKEN" -H "X-Platform-Token: $PLATFORM_TOKEN" \
             "$PLATFORM_URL/api/v1/compilation-export?project=sky-3rd" -o job/export.json
           gzip -c job/export.json > job/compilation-export.json.gz
 
