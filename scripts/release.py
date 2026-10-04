@@ -58,6 +58,40 @@ def window(source: Path) -> int:
     return max(64 << 20, (source.stat().st_size + (1 << 20)) // (1 << 20) * (1 << 20))
 
 
+def videos(xdelta: str, bundle: Path, work: Path) -> list[dict]:
+    """French videos committed in videos/ (game file name, or .partNN pieces).
+
+    A re-encoded video shares nothing with the English one: its delta is built
+    without the original (not in the repository), and decodes the same when
+    the installer passes the English file as source.
+    """
+    folder = ROOT / "videos"
+    originals = json.loads((folder / "originaux.json").read_text(encoding="utf-8"))
+    entries = []
+    for name, original_sha in originals.items():
+        parts = sorted(folder.glob(f"{name}.part*"))
+        sources = [folder / name] if (folder / name).is_file() else parts
+        if not sources:
+            continue
+        video = work / name
+        with video.open("wb") as target:
+            for part in sources:
+                with part.open("rb") as source:
+                    shutil.copyfileobj(source, target, 1 << 20)
+        delta = bundle / "deltas" / f"{name}.xdelta"
+        subprocess.run([xdelta, "-e", "-1", "-S", "djw", "-f", str(video), str(delta)], check=True)
+        check = work / f"check_{name}"
+        subprocess.run([xdelta, "-d", "-f", str(delta), str(check)], check=True)
+        if digest(check) != digest(video):
+            raise SystemExit(f"Delta de la vidéo {name} : relecture différente")
+        entries.append({"file": name, "original_sha256": original_sha, "patched_sha256": digest(video),
+                        "delta": f"deltas/{name}.xdelta", "size": video.stat().st_size})
+        print(f"{name} : vidéo française ({video.stat().st_size / 1e6:.1f} Mo)")
+        check.unlink()
+        video.unlink()
+    return entries
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--patch", required=True, type=Path)
@@ -106,6 +140,8 @@ def main() -> int:
             target.unlink()
             if source.parent == work:
                 source.unlink()
+
+        files.extend(videos(arguments.xdelta, bundle, work))
 
     (bundle / "patch.json").write_text(json.dumps({"game": "sky-3rd", "version": arguments.tag, "files": files},
                                                   indent=1), encoding="utf-8")
