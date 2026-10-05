@@ -86,7 +86,8 @@ def main() -> int:
         if source is None:
             problems.append(f"{key} : texte inconnu des pointeurs relevés")
             continue
-        if not french.strip() or french == source["en"]:
+        # The platform's text as is (empty = empty).
+        if french == source["en"]:
             continue
         if not fields_compatible(french, source["en"]):
             problems.append(

@@ -39,7 +39,8 @@ def main() -> int:
     french: dict[str, dict[tuple[int, int], str]] = {}
     for row in document.get("books", []):
         text = str(row.get("translation_fr") or "")
-        if text.strip() and text != str(row.get("source_en") or ""):
+        # The platform's text as is (empty = empty page).
+        if text != str(row.get("source_en") or ""):
             french.setdefault(str(row["file_code"]), {})[(int(row["book_index"]), int(row["page_index"]))] = text
 
     problems = []

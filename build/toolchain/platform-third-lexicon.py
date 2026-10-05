@@ -41,8 +41,8 @@ def section_map(document: dict) -> dict[str, list[dict]]:
 
 
 def translated(entry: dict) -> str:
-    french = str(entry.get("translation_fr") or "")
-    return french if french.strip() else str(entry.get("source_en") or "")
+    # Exactly the platform's text, empty included: what the game shows.
+    return str(entry.get("translation_fr") or "")
 
 
 def source_digest(values: list[str]) -> str:

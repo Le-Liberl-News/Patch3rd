@@ -39,7 +39,8 @@ def main() -> int:
     problems = []
     for entry in (section or {}).get("entries", []):
         french = str(entry.get("translation_fr") or "")
-        if french.strip() and french != str(entry.get("source_en") or ""):
+        # The platform's text as is (empty = empty).
+        if french != str(entry.get("source_en") or ""):
             try:
                 translations[str(entry["external_key"])] = core.encode_game_text(french)
             except Exception as error:  # noqa: BLE001 - reported with the text

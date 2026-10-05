@@ -45,7 +45,9 @@ def main() -> int:
         key = str(entry.get("external_key") or "")
         french = str(entry.get("translation_fr") or "")
         english = str(entry.get("source_en") or "")
-        if not french.strip() or french == english:
+        # The platform's text as is (empty = empty); only the English text itself
+        # keeps the original bytes.
+        if french == english:
             continue
         name, _, place = key.partition(":")
         try:

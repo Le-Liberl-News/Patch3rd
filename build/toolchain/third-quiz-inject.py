@@ -39,10 +39,11 @@ def main() -> int:
     for entry in (section or {}).get("entries", []):
         french = str(entry.get("translation_fr") or "")
         english = str(entry.get("source_en") or "")
-        if not french.strip() or french == english:
+        # The platform's text as is (empty = empty).
+        if french == english:
             continue
         name, question, field = str(entry["external_key"]).split(":")
-        if third_quiz.CONTROL.findall(french) != third_quiz.CONTROL.findall(english):
+        if french and third_quiz.CONTROL.findall(french) != third_quiz.CONTROL.findall(english):
             problems.append(f"« {english[:40]} » : les codes {{x..}} doivent rester les mêmes, dans le même ordre")
             continue
         try:

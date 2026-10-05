@@ -221,8 +221,12 @@ class Instruction:
     operands: tuple[Operand, ...]
 
 
-def _sizes(data: bytes, address: int) -> tuple[tuple[int, ...], tuple[int, ...]]:
+def _sizes(data: bytes, address: int, list_lines: int | None = None) -> tuple[tuple[int, ...], tuple[int, ...]]:
     opcode = data[address]
+    if opcode == 0x30 and list_lines is not None:
+        # A rebuilt list read with its known number of lines: an empty line
+        # (written as the platform holds it) is a line, not the end.
+        return (1,) + (STRING,) * list_lines + (1,), ()
     if opcode == 0x30:
         # char_say_random: how many lines may be drawn, then the lines, ended by
         # an empty string (as04050 announces 6 lines and holds 2). Where the list
@@ -250,8 +254,8 @@ def _sizes(data: bytes, address: int) -> tuple[tuple[int, ...], tuple[int, ...]]
     return TABLE[opcode]
 
 
-def _decode_one(data: bytes, address: int) -> Instruction:
-    sizes, addresses = _sizes(data, address)
+def _decode_one(data: bytes, address: int, list_lines: int | None = None) -> Instruction:
+    sizes, addresses = _sizes(data, address, list_lines)
     cursor = address + 1
     operands = []
     for index, size in enumerate(sizes):
@@ -278,8 +282,12 @@ def craft_table(data: bytes) -> tuple[int, int, list[int]]:
     return start, end, [value for (value,) in struct.iter_unpack("<H", data[start:end])]
 
 
-def decode(data: bytes) -> dict[int, Instruction]:
-    """Every instruction reachable from the craft table, by address."""
+def decode(data: bytes, list_lines: dict[int, int] | None = None) -> dict[int, Instruction]:
+    """Every instruction reachable from the craft table, by address.
+
+    `list_lines` gives the number of lines of 0x30 lists by address (a rebuilt
+    file, whose lists may hold empty lines)."""
+    list_lines = list_lines or {}
     _, table_end, entries = craft_table(data)
     # Entries pointing into the header (before the end of the table) are not code.
     pending = [entry for entry in entries if table_end <= entry < len(data)]
@@ -289,7 +297,7 @@ def decode(data: bytes) -> dict[int, Instruction]:
         while address not in decoded:
             if address >= len(data):
                 raise AsError(f"code hors du fichier à 0x{address:X}")
-            item = _decode_one(data, address)
+            item = _decode_one(data, address, list_lines.get(address))
             decoded[address] = item
             for operand in item.operands:
                 if operand.kind == "address":
@@ -312,7 +320,7 @@ def decode(data: bytes) -> dict[int, Instruction]:
         cursor, found = left, {}
         try:
             while cursor < right:
-                item = _decode_one(data, cursor)
+                item = _decode_one(data, cursor, list_lines.get(cursor))
                 found[cursor] = item
                 cursor = item.end
         except AsError:
@@ -419,7 +427,8 @@ def rebuild(data: bytes, replacements: dict[str, bytes]) -> bytes:
     result = bytes(output)
 
     # Check: same instructions, same non-text operands, addresses moved alike.
-    again = decode(result)
+    again = decode(result, {moved[address]: len(item.operands) - 2
+                            for address, item in decoded.items() if item.opcode == 0x30})
     if len(again) != len(decoded):
         raise AsError("nombre d'instructions différent après reconstruction")
     for address, item in decoded.items():
