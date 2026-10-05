@@ -125,7 +125,8 @@ def scan_slots(core, lines: list[str]):
         content = lines[start:cursor]
         if not content:
             continue
-        content_indent = re.match(r"^\s*", content[0]).group(0)
+        # Indentation of the first non-blank line: a page may start with a blank one.
+        content_indent = re.match(r"^\s*", next((line for line in content if line.strip()), content[0])).group(0)
         raw = "\n".join(value.rstrip("\r\n")[len(content_indent):] for value in content)
         english = core.clean_dialogue(raw)
         if english:

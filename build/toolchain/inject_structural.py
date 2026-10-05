@@ -105,7 +105,8 @@ def scan_slots(lines: list[str], include_empty: bool = False) -> list[Slot]:
                     content = lines[page_start:cursor]
                     if not content:
                         raise ValueError(f"Empty dialogue page at line {index + 1}")
-                    content_indent = re.match(r"^\s*", content[0]).group(0)
+                    # Indentation of the first non-blank line: a page may start with a blank one.
+                    content_indent = re.match(r"^\s*", next((line for line in content if line.strip()), content[0])).group(0)
                     raw = "\n".join(
                         line.rstrip("\r\n")[len(content_indent):] for line in content
                     )
