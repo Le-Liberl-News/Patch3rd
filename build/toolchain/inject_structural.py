@@ -10,18 +10,23 @@ from pathlib import Path
 from openpyxl import load_workbook
 
 
-TEXT_INSTRUCTION = re.compile(r"^(?P<indent>\s*)(?:TextTalk|TextTalkNamed|TextMessage)\b.*\{\s*$")
+TEXT_INSTRUCTION = re.compile(
+    r"^(?P<indent>\s*)(?:TextTalk|TextTalkNamed|TextMessage|ScMenuSetTitle)\b.*\{\s*$"
+)
 MENU_INSTRUCTION = re.compile(r"^(?P<indent>\s*)Menu\b")
 MENU_ITEM = re.compile(r'^(?P<prefix>\s*)"(?P<text>(?:\\.|[^"\\])*)"(?P<suffix>\s*//.*)?$')
 MENU_ADD = re.compile(
     r'^(?P<prefix>\s*ED6MenuAdd\s+\S+\s+")(?P<text>(?:\\.|[^"\\])*)(?P<suffix>".*)$'
 )
-LEADING_TAGS = re.compile(r"^(?:(?:#[0-9]+(?:[A-Z]|v))|(?:\{(?:color|0x)[^}]*\}))*")
-# Engine tags #<n><letter>, plus the Evolution voice tags #<id>v.
-HIDDEN_TAG = re.compile(r"#[0-9]+(?:[A-Z]|v)")
-HIDDEN_TAG_FOR_COMPARE = re.compile(r"#[0-9]+(?:[A-Z]|v|\|)")
+HASH_CONTROL_SUFFIX = r"(?:[A-Z]|v|\|)"
+LEADING_TAGS = re.compile(
+    r"^(?:(?:#[0-9]+" + HASH_CONTROL_SUFFIX + r")|(?:\{(?:color|0x)[^}]*\}))*"
+)
+HIDDEN_TAG = re.compile(r"#[0-9]+" + HASH_CONTROL_SUFFIX)
+# Evolution voice tags (#<id>v): never shown nor translated.
 VOICE_TAG = re.compile(r"#[0-9]+v")
-ENGINE_CONTROL = re.compile(r"#[0-9]+(?:[A-Z]|v)|\{[^{}\r\n]+\}")
+HIDDEN_TAG_FOR_COMPARE = re.compile(r"#[0-9]+" + HASH_CONTROL_SUFFIX)
+ENGINE_CONTROL = re.compile(r"#[0-9]+" + HASH_CONTROL_SUFFIX + r"|\{[^{}\r\n]+\}")
 WAIT_MARKER = "***wait***"
 CHARACTER_NAME = re.compile(r'^(?P<prefix>\s+name\s+")(?P<name>(?:\\.|[^"\\])*)(?P<suffix>"\s*)$')
 SET_NAME = re.compile(r'^(?P<prefix>\s*TextSetName\s+")(?P<name>(?:\\.|[^"\\])*)(?P<suffix>".*)$')
@@ -36,7 +41,8 @@ FRENCH_GLYPH_ENCODING = str.maketrans({
     "ë": "ｸ", "î": "ｹ", "ï": "ｺ", "ô": "ｻ", "ö": "ﾉ", "ù": "ｼ",
     "û": "ｽ", "ü": "ｾ", "ÿ": "ｿ", "œ": "ﾁ", "°": "ﾄ", "«": "ﾅ",
     "»": "ﾆ", "\N{NO-BREAK SPACE}": "ﾈ", "\N{NARROW NO-BREAK SPACE}": "ﾈ",
-    "…": "...", "\N{HAIR SPACE}": "ﾋ", "’": "'", "♡": "㈱", "–": "-", "—": "-",
+    "…": "...", "\N{HAIR SPACE}": "ﾋ", "’": "'", "♡": "㈱", "♥": "㈱",
+    "❤": "㈱", "–": "-", "—": "-",
 })
 
 
@@ -52,13 +58,26 @@ class Slot:
     raw: str = ""
 
 
+@dataclass(frozen=True)
+class NameRow:
+    row: int
+    english: str
+    translation: str
+
+
+@dataclass(frozen=True)
+class WorkbookNames:
+    characters: tuple[NameRow, ...]
+    punctual: dict[str, str]
+
+
 def clean_dialogue(raw: str) -> str:
     value = raw
     # Voices are never shown or translated; injection puts them back at the
     # start of the matching French page.
     value = VOICE_TAG.sub("", value)
-    while re.match(r"^#[0-9]+[A-Z]", value):
-        value = re.sub(r"^#[0-9]+[A-Z]", "", value, count=1)
+    while re.match(r"^#[0-9]+" + HASH_CONTROL_SUFFIX, value):
+        value = re.sub(r"^#[0-9]+" + HASH_CONTROL_SUFFIX, "", value, count=1)
     return value.replace("{wait}", "").rstrip("\n")
 
 
@@ -70,7 +89,7 @@ def escape_quoted(value: str) -> str:
     return value.replace("\\", r"\\").replace('"', r'\"')
 
 
-def scan_slots(lines: list[str]) -> list[Slot]:
+def scan_slots(lines: list[str], include_empty: bool = False) -> list[Slot]:
     slots: list[Slot] = []
     index = 0
     while index < len(lines):
@@ -150,7 +169,7 @@ def scan_slots(lines: list[str]) -> list[Slot]:
     # The sheet writer and the historical injector ignore empty English
     # operands (for example a page containing only {wait}). They must not
     # consume a translated worksheet row.
-    return [slot for slot in slots if slot.english != ""]
+    return slots if include_empty else [slot for slot in slots if slot.english != ""]
 
 
 def workbook_rows(path: Path) -> list[tuple[int, str, str]]:
@@ -171,19 +190,145 @@ def workbook_rows(path: Path) -> list[tuple[int, str, str]]:
     return rows
 
 
-def workbook_names(path: Path) -> dict[str, str]:
+def workbook_names(path: Path) -> WorkbookNames:
     workbook = load_workbook(path, data_only=True, read_only=True)
     sheet = workbook.active
-    names = {}
-    for japanese, english, translation in sheet.iter_rows(
+    characters = []
+    punctual = {}
+    in_punctual = False
+    for row, (japanese, english, translation) in enumerate(sheet.iter_rows(
         min_row=6, min_col=3, max_col=5, values_only=True
-    ):
+    ), 6):
         if japanese == "ORIGINAL":
             break
-        if english not in (None, "") and translation not in (None, ""):
-            names[str(english)] = str(translation)
+        if japanese == "Noms ponctuels":
+            in_punctual = True
+            continue
+        if in_punctual:
+            if english in (None, ""):
+                continue
+            entry = NameRow(row, str(english), "" if translation is None else str(translation))
+            previous = punctual.get(entry.english)
+            if previous is not None and previous != entry.translation:
+                raise ValueError(
+                    f"{path.name}: traductions ponctuelles contradictoires pour {entry.english!r}"
+                )
+            punctual[entry.english] = entry.translation
+        else:
+            # Every row between the fixed name-table header and the next
+            # section represents one npc slot, including deliberately
+            # anonymous characters whose JP/EN/FR cells are all empty.
+            entry = NameRow(
+                row,
+                "" if english is None else str(english),
+                "" if translation is None else str(translation),
+            )
+            characters.append(entry)
     workbook.close()
-    return names
+    return WorkbookNames(tuple(characters), punctual)
+
+
+def apply_workbook_names(lines: list[str], names: WorkbookNames, label: str) -> int:
+    character_slots = []
+    inside_npc = False
+    for index, line in enumerate(lines):
+        bare = line.rstrip("\r\n")
+        if re.match(r"^npc char\[\d+\]:\s*$", bare):
+            inside_npc = True
+            continue
+        if inside_npc and bare and not bare[0].isspace():
+            inside_npc = False
+        if inside_npc:
+            match = CHARACTER_NAME.match(bare)
+            if match:
+                character_slots.append((index, match))
+
+    # Included scripts (_1, _2, ...) inherit the parent's runtime character
+    # table and therefore legitimately repeat its XLSX rows without declaring
+    # local npc blocks. Their names are injected once in the owning CLM.
+    aligned_slots = []
+    if character_slots:
+        # An anonymous slot (empty or blank name) has nothing to translate and
+        # may legitimately be absent from the workbook's name table.
+        named_slots = [
+            (index, match)
+            for index, match in character_slots
+            if unescape_quoted(match.group("name")).strip()
+        ]
+        if not names.characters and named_slots:
+            raise ValueError(
+                f"{label}: 0 noms de personnages XLSX mais "
+                f"{len(named_slots)} slots CLM"
+            )
+        slot_names = [unescape_quoted(match.group("name")) for _, match in character_slots]
+
+        forward = []
+        cursor = 0
+        for entry in names.characters:
+            while cursor < len(slot_names) and slot_names[cursor] != entry.english:
+                cursor += 1
+            if cursor == len(slot_names):
+                raise ValueError(
+                    f"{label}: impossible d'aligner le nom XLSX ligne {entry.row} "
+                    f"{entry.english!r} sur les slots CLM"
+                )
+            forward.append(cursor)
+            cursor += 1
+
+        backward = []
+        cursor = len(slot_names) - 1
+        for entry in reversed(names.characters):
+            while cursor >= 0 and slot_names[cursor] != entry.english:
+                cursor -= 1
+            if cursor < 0:
+                raise ValueError(
+                    f"{label}: impossible d'aligner le nom XLSX ligne {entry.row} "
+                    f"{entry.english!r} sur les slots CLM"
+                )
+            backward.append(cursor)
+            cursor -= 1
+        backward.reverse()
+
+        if forward != backward:
+            first = next(i for i, pair in enumerate(zip(forward, backward)) if pair[0] != pair[1])
+            entry = names.characters[first]
+            raise ValueError(
+                f"{label}: alignement ambigu du nom XLSX ligne {entry.row} "
+                f"{entry.english!r} (slots CLM {forward[first] + 1} ou {backward[first] + 1})"
+            )
+        aligned_slots = [character_slots[index] for index in forward]
+
+    changed = 0
+    for entry, (index, match) in zip(names.characters, aligned_slots):
+        original = unescape_quoted(match.group("name"))
+        if original != entry.english:
+            raise ValueError(
+                f"{label}: nom ligne {entry.row} ne correspond pas au slot CLM: "
+                f"{entry.english!r} != {original!r}"
+            )
+        if entry.translation and entry.translation != original:
+            newline = "\r\n" if lines[index].endswith("\r\n") else "\n"
+            replacement = encode_french_glyphs(entry.translation)
+            lines[index] = (
+                match.group("prefix") + escape_quoted(replacement) + match.group("suffix") + newline
+            )
+            changed += 1
+
+    for index, line in enumerate(lines):
+        bare = line.rstrip("\r\n")
+        match = SET_NAME.match(bare) or NAMED_TALK.match(bare)
+        if not match:
+            continue
+        original = unescape_quoted(match.group("name"))
+        replacement = names.punctual.get(original, "")
+        if replacement and replacement != original:
+            newline = "\r\n" if line.endswith("\r\n") else "\n"
+            replacement = encode_french_glyphs(replacement)
+            lines[index] = (
+                match.group("prefix") + escape_quoted(replacement) + match.group("suffix") + newline
+            )
+            changed += 1
+    return changed
 
 
 def normalized(value: str) -> str:
@@ -221,7 +366,7 @@ def _hidden_control_indexes(source: str, displayed_english: str) -> set[int]:
 
 
 def _control_family(token: str) -> str:
-    match = re.fullmatch(r"#[0-9]+([A-Z])", token)
+    match = re.fullmatch(r"#[0-9]+([A-Z]|v)", token)
     return match.group(1) if match else token
 
 
@@ -255,6 +400,7 @@ def _insert_after_wait(value: str, ordinal: int, controls: str, next_line: bool 
 
 def restore_hidden_controls(
     raw: str, displayed_english: str, translation: str, dropped: list[str] | None = None,
+    relocate_ambiguous_line_controls: bool = False,
 ) -> str:
     """Restore only controls proven to have been hidden by the XLSX writer.
 
@@ -316,7 +462,16 @@ def restore_hidden_controls(
     if line_controls:
         lines = translated.split("\n")
         source_lines = source.split("\n")
-        if len(lines) != len(source_lines):
+        if len(lines) != len(source_lines) and relocate_ambiguous_line_controls:
+            # PatchSC: controls of a reflowed page open the French page.
+            relocated = [
+                token
+                for _, tokens in sorted(line_controls.items())
+                for token in tokens
+                if not _translation_supplies(token, translated)
+            ]
+            translated = "".join(relocated) + translated
+        elif len(lines) != len(source_lines):
             unresolved.extend(
                 f"{''.join(tokens)} at start of source line {line + 1}"
                 for line, tokens in sorted(line_controls.items())
@@ -340,7 +495,7 @@ def restore_hidden_controls(
 
 def replace_slot(
     lines: list[str], slot: Slot, displayed_english: str, translation: str,
-    dropped: list[str] | None = None,
+    dropped: list[str] | None = None, relocate_ambiguous_line_controls: bool = False,
 ) -> None:
     translation = encode_french_glyphs(translation)
     newline = "\r\n" if lines[slot.start].endswith("\r\n") else "\n"
@@ -348,7 +503,7 @@ def replace_slot(
         lines[slot.start:slot.end] = [slot.prefix + escape_quoted(translation) + slot.suffix + newline]
         return
     translated_lines = restore_hidden_controls(
-        slot.raw, displayed_english, translation, dropped
+        slot.raw, displayed_english, translation, dropped, relocate_ambiguous_line_controls
     ).split("\n")
     lines[slot.start:slot.end] = [slot.indent + value + newline for value in translated_lines]
 
@@ -373,23 +528,7 @@ def inject_file(workbook: Path, base: Path, output: Path) -> dict[str, object]:
         if translation and normalized(translation) != normalized(english):
             replace_slot(lines, slot, english, translation)
             changed += 1
-    translated_names = workbook_names(workbook)
-    names_changed = 0
-    if translated_names:
-        for index, line in enumerate(lines):
-            newline = "\r\n" if line.endswith("\r\n") else "\n"
-            bare = line.rstrip("\r\n")
-            match = CHARACTER_NAME.match(bare) or SET_NAME.match(bare) or NAMED_TALK.match(bare)
-            if not match:
-                continue
-            original = unescape_quoted(match.group("name"))
-            replacement = translated_names.get(original)
-            if replacement and replacement != original:
-                replacement = encode_french_glyphs(replacement)
-                lines[index] = (
-                    match.group("prefix") + escape_quoted(replacement) + match.group("suffix") + newline
-                )
-                names_changed += 1
+    names_changed = apply_workbook_names(lines, workbook_names(workbook), workbook.name)
     output.write_text("".join(lines), encoding="utf-8", newline="")
     return {
         "file": workbook.name,

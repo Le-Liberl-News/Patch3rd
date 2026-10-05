@@ -260,55 +260,6 @@ def replace_slot(core, lines: list[str], slot, displayed_english: str, translati
     ]
 
 
-def restore_line_aligned_waits(core, slot, displayed_english: str, translation: str) -> str:
-    """Restore hidden waits only when their translated position is exact.
-
-    A wait at the end of source line N can safely be put at the end of
-    translated line N when both operands have the same line count. No fuzzy
-    text alignment or proportional positioning is involved.
-    """
-    source = slot.raw.replace("\r\n", "\n")
-    translated = translation.replace("\r\n", "\n")
-    occurrences = core._control_occurrences(source)
-    hidden = core._hidden_control_indexes(
-        source, displayed_english.replace(core.WAIT_MARKER, "{wait}")
-    )
-    line_indexes: list[int] = []
-    for index, match in enumerate(occurrences):
-        if index not in hidden or match.group(0) != "{wait}":
-            continue
-        if source[match.end():].startswith("\n"):
-            line_indexes.append(source[:match.start()].count("\n"))
-    if not line_indexes:
-        return translation
-    source_lines = source.split("\n")
-    translated_lines = translated.split("\n")
-    if len(source_lines) == len(translated_lines):
-        for line_index in line_indexes:
-            if not translated_lines[line_index].endswith("{wait}"):
-                translated_lines[line_index] += "{wait}"
-        return "\n".join(translated_lines)
-
-    # Translators commonly reflow long narration while retaining one line per
-    # page, or separate pages with a blank line. Both forms carry an exact page
-    # count, so no linguistic/fuzzy alignment is needed.
-    wait_count = sum(
-        1 for match in occurrences if match.group(0) == "{wait}"
-    )
-    if wait_count > 1 and len(translated_lines) == wait_count:
-        return "\n".join(
-            line if line.endswith("{wait}") else line + "{wait}"
-            for line in translated_lines
-        )
-    paragraphs = re.split(r"\n\s*\n", translated)
-    if wait_count > 1 and len(paragraphs) == wait_count:
-        return "\n".join(
-            paragraph if paragraph.endswith("{wait}") else paragraph + "{wait}"
-            for paragraph in paragraphs
-        )
-    return translation
-
-
 def unencodable(text: str) -> list[str]:
     """Characters left that the game font encoding (CP932) cannot represent.
 
@@ -359,9 +310,9 @@ def inject_script(
             continue
         if normalized(core, desired) != normalized(core, slot.english):
             try:
-                desired = restore_line_aligned_waits(core, slot, slot.english, desired)
                 # Internal pauses the translator left out cannot be placed
-                # without guessing; they are omitted and left to review.
+                # without guessing (PatchSC adds none either): they are
+                # omitted and left to review.
                 dropped: list[str] = []
                 replace_slot(core, lines, slot, slot.english, desired, dropped)
                 if dropped:
@@ -393,12 +344,36 @@ def inject_script(
         kind = "voix sans page FR correspondante, omises" if VOICE_TAG.search(message) else "codes absents du FR, omis"
         print(f"AVERTISSEMENT {kind} : {message}")
 
+    names_changed = 0
+    if any(character.get("kind") for character in characters):
+        # PatchSC's names: one per npc slot in order, and punctual names.
+        names = core.WorkbookNames(
+            tuple(
+                core.NameRow(int(character["ordinal"]), str(character.get("source_en") or ""),
+                             str(character.get("translation_fr") or ""))
+                for character in sorted(characters, key=lambda item: int(item["ordinal"]))
+                if character.get("kind") == "npc"
+            ),
+            {
+                str(character["source_en"]): str(character.get("translation_fr") or "")
+                for character in characters
+                if character.get("kind") == "punctual" and character.get("source_en")
+            },
+        )
+        for character in characters:
+            missing = unencodable(core.encode_french_glyphs(str(character.get("translation_fr") or "")))
+            if missing:
+                raise ValueError(
+                    f"{script['code']} nom {character.get('source_en')!r} : caractère(s) sans équivalent "
+                    f"dans l'encodage du jeu : {', '.join(missing)}"
+                )
+        names_changed = core.apply_workbook_names(lines, names, script["code"])
+        characters = []
     translated_names = {
         str(character.get("source_en", "")): str(character.get("translation_fr", ""))
         for character in characters
         if character.get("source_en") and character.get("translation_fr")
     }
-    names_changed = 0
     if translated_names:
         for index, line in enumerate(lines):
             newline = "\r\n" if line.endswith("\r\n") else "\n"
