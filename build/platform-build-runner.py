@@ -293,11 +293,10 @@ def inject_script(
     for entry, slot in reversed(list(zip(entries, slots))):
         translation = str(entry.get("translation_fr", ""))
         english = str(entry.get("source_en", ""))
-        # The platform source columns are editorial references, not fallback
-        # patches. When French is empty (or deliberately identical to English),
-        # preserve the canonical CLM operand byte-for-byte, including its page
-        # breaks and hidden controls.
-        if not translation or normalized(core, translation) == normalized(core, english):
+        # The game shows exactly the platform's text: an empty translation is an
+        # empty bubble. Only a translation equal to the English keeps the CLM
+        # operand as it is (same text, with its page breaks and hidden controls).
+        if normalized(core, translation) == normalized(core, english):
             continue
         desired = translation
         missing = unencodable(core.encode_french_glyphs(desired))
