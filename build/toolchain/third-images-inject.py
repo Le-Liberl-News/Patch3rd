@@ -129,6 +129,14 @@ def encode(rows: list[bytearray], fmt: str) -> bytes:
     return bytes(out)
 
 
+# map012 was once misdetected as ARGB4444, which turns it pink in game. Keep
+# this known exception independent from regenerated catalogues.
+FORMAT_OVERRIDES = {
+    ("ED6_DT24/map012", "h_map012._ch"): "1555",
+    ("ED6_DT24/map012", "c_map012._ch"): "1555",
+}
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--export", required=True, type=Path)
@@ -156,7 +164,8 @@ def main() -> int:
         for variant in item["variants"]:
             size = (variant["width"], variant["height"])
             pixels = rows if size == (width, height) else reduce(rows, width, height, *size)
-            data = encode(pixels, variant["format"])
+            pixel_format = FORMAT_OVERRIDES.get((key, variant["name"]), variant["format"])
+            data = encode(pixels, pixel_format)
             if "dds_header" in variant:
                 # DDS (.ds): the original header, then the pixels in its format.
                 data = base64.b64decode(variant["dds_header"]) + data
