@@ -1,6 +1,16 @@
 ﻿Patch français de Trails in the Sky the 3rd - Liberl News
 ==========================================================
 
+PROJET EN COURS : ce patch est une version de test. La traduction est
+incomplète et n'a pas encore été relue : vous croiserez des passages en
+anglais, des coquilles et des erreurs. Signalez-les sur le Discord du
+Liberl News !
+
+Si le patch refuse de s'installer en disant que votre jeu est plus récent,
+c'est que votre version (Steam ou GOG) est plus récente que celle sur
+laquelle le patch est construit : rien n'a été modifié dans votre jeu, et
+le patch sera mis à jour pour la dernière version.
+
 Installer ou mettre à jour
   1. Décompressez ce dossier où vous voulez (par exemple dans le dossier du jeu).
   2. Double-cliquez sur appliquer.bat.

@@ -14,9 +14,11 @@ Writes release/Patch3rd-<tag>.zip.
 from __future__ import annotations
 
 import argparse
+import datetime
 import hashlib
 import json
 import shutil
+import struct
 import subprocess
 import tempfile
 import zipfile
@@ -92,6 +94,18 @@ def videos(xdelta: str, bundle: Path, work: Path) -> list[dict]:
     return entries
 
 
+def base_version(toolchain: Path) -> dict:
+    """The English version the patch is built on: the build date of its
+    executable (PE header), which the installer compares with the player's."""
+    path = toolchain / "base_exe" / "ed6_win3.exe"
+    if not path.is_file():
+        return {}
+    data = path.read_bytes()
+    header = struct.unpack_from("<I", data, 0x3C)[0]
+    built = datetime.datetime.fromtimestamp(struct.unpack_from("<I", data, header + 8)[0], datetime.timezone.utc)
+    return {"exe": "ed6_win3.exe", "built": built.strftime("%Y-%m-%d"), "timestamp": int(built.timestamp())}
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--patch", required=True, type=Path)
@@ -143,7 +157,8 @@ def main() -> int:
 
         files.extend(videos(arguments.xdelta, bundle, work))
 
-    (bundle / "patch.json").write_text(json.dumps({"game": "sky-3rd", "version": arguments.tag, "files": files},
+    (bundle / "patch.json").write_text(json.dumps({"game": "sky-3rd", "version": arguments.tag,
+                                                   "base": base_version(arguments.toolchain), "files": files},
                                                   indent=1), encoding="utf-8")
     for item in (ROOT / "patch").iterdir():
         shutil.copyfile(item, bundle / item.name)
