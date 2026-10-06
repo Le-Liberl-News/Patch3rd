@@ -1,5 +1,6 @@
 """Converts the translated game images (PNG uploaded on the platform) to the
-game's pictures in the format of the original (.ch: raw ARGB1555 or ARGB4444;
+game's pictures in the format of the original (.ch: raw ARGB1555, ARGB4444,
+or the exceptional ABGR4444 map012 atlas;
 .ds: uncompressed DDS, ARGB8888/4444/1555, header of the original kept), for
 every variant of the family: the largest from the upload, the others reduced
 from it by averaging (exact when the ratio is a whole number).
@@ -123,16 +124,19 @@ def encode(rows: list[bytearray], fmt: str) -> bytes:
             r, g, b, a = row[x:x + 4]
             if fmt == "1555":
                 word = (0x8000 if a >= 128 else 0) | ((r * 31 + 127) // 255) << 10 | ((g * 31 + 127) // 255) << 5 | (b * 31 + 127) // 255
+            elif fmt == "abgr4444":
+                word = ((a + 8) // 17) << 12 | ((b + 8) // 17) << 8 | ((g + 8) // 17) << 4 | (r + 8) // 17
             else:
                 word = ((a + 8) // 17) << 12 | ((r + 8) // 17) << 8 | ((g + 8) // 17) << 4 | (b + 8) // 17
             out += struct.pack("<H", word)
     return bytes(out)
 
 
-# map012 was once misdetected as ARGB4444, which turns it pink in game. Keep
-# this known exception independent from regenerated catalogues.
+# map012's large atlas is ABGR4444 (unlike the small ARGB1555 variant).
+# Treating it as the usual ARGB4444 turns it pink; treating it as ARGB1555
+# makes most of it transparent.
 FORMAT_OVERRIDES = {
-    ("ED6_DT24/map012", "h_map012._ch"): "1555",
+    ("ED6_DT24/map012", "h_map012._ch"): "abgr4444",
     ("ED6_DT24/map012", "c_map012._ch"): "1555",
 }
 
