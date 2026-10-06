@@ -375,11 +375,23 @@ def _operand_positions(raw: bytes, item: Instruction) -> list[tuple[int, int]]:
     return positions
 
 
-def rebuild(data: bytes, replacements: dict[str, bytes]) -> bytes:
-    """The file with some strings replaced (keys as given by texts())."""
+def say_text(text: bytes) -> bytes:
+    """Encode the standard battle-script SayText used after a VoiceOut."""
+    if 0 in text:
+        raise AsError("SayText to insert contains a NUL byte")
+    return b"\x28\xFF" + text + b"\0" + struct.pack("<I", 1000)
+
+
+def rebuild(
+    data: bytes,
+    replacements: dict[str, bytes],
+    insertions: dict[int, bytes] | None = None,
+) -> bytes:
+    """Replace strings and optionally insert a SayText after VoiceOut addresses."""
     decoded = decode(data)
     start, end, entries = craft_table(data)
-    if replacements and undecoded(data, decoded):
+    insertions = insertions or {}
+    if (replacements or insertions) and undecoded(data, decoded):
         # Code we cannot read may hold addresses that would not be moved.
         raise AsError("fichier dont une partie du code n'est pas décodable : textes non modifiables")
     new_bytes: dict[int, bytes] = {}
@@ -396,13 +408,22 @@ def rebuild(data: bytes, replacements: dict[str, bytes]) -> bytes:
         raw[offset:offset + size] = value + b"\0"
         new_bytes[address] = bytes(raw)
 
+    for address, value in insertions.items():
+        item = decoded.get(address)
+        if item is None or item.opcode != 0x88:
+            raise AsError(f"VoiceOut 0x{address:X} not found")
+        say_text(value)
+
     # Segments: decoded instructions (maybe rewritten) and the bytes between them.
     cuts = sorted(set(decoded) | {item.end for item in decoded.values()} | {0, len(data)})
     moved: dict[int, int] = {}
     output = bytearray()
     for left, right in zip(cuts, cuts[1:]):
         moved[left] = len(output)
-        output += new_bytes.get(left, data[left:right])
+        raw = new_bytes.get(left, data[left:right])
+        output += raw
+        if left in insertions:
+            output += say_text(insertions[left])
     moved[len(data)] = len(output)
     if len(output) > 0x10000:
         raise AsError(f"fichier trop grand après traduction ({len(output)} octets)")
@@ -429,7 +450,7 @@ def rebuild(data: bytes, replacements: dict[str, bytes]) -> bytes:
     # Check: same instructions, same non-text operands, addresses moved alike.
     again = decode(result, {moved[address]: len(item.operands) - 2
                             for address, item in decoded.items() if item.opcode == 0x30})
-    if len(again) != len(decoded):
+    if len(again) != len(decoded) + len(insertions):
         raise AsError("nombre d'instructions différent après reconstruction")
     for address, item in decoded.items():
         other = again.get(moved[address])
@@ -443,4 +464,14 @@ def rebuild(data: bytes, replacements: dict[str, bytes]) -> bytes:
                     raise AsError(f"adresse mal déplacée dans 0x{address:X}")
             elif before.kind == "int" and old != new:
                 raise AsError(f"opérande modifié dans 0x{address:X}")
+    for address, value in insertions.items():
+        raw = new_bytes.get(address, data[address:decoded[address].end])
+        inserted_address = moved[address] + len(raw)
+        inserted = again.get(inserted_address)
+        if inserted is None or inserted.opcode != 0x28:
+            raise AsError(f"SayText missing after VoiceOut 0x{address:X}")
+        operand = inserted.operands[1]
+        actual = result[inserted.address + operand.offset:inserted.address + operand.offset + operand.size - 1]
+        if actual != value:
+            raise AsError(f"incorrect SayText after VoiceOut 0x{address:X}")
     return result

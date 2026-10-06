@@ -39,36 +39,45 @@ def main() -> int:
         document = json.load(stream)
     section = next((item for item in document.get("lexicon_sections", []) if item.get("stable_key") == "as"), None)
 
-    by_file: dict[str, dict[str, bytes]] = {}
+    by_file: dict[str, dict[str, dict]] = {}
     problems = []
     for entry in (section or {}).get("entries", []):
         key = str(entry.get("external_key") or "")
         french = str(entry.get("translation_fr") or "")
         english = str(entry.get("source_en") or "")
-        # The platform's text as is (empty = empty); only the English text itself
-        # keeps the original bytes.
-        if french == english:
-            continue
         name, _, place = key.partition(":")
+        if not french.strip() or (french == english and not place.startswith("voice@")):
+            continue
         try:
-            by_file.setdefault(name, {})[place] = core.encode_game_text(french)
+            encoded = core.encode_game_text(french)
+            targets = by_file.setdefault(name, {"replacements": {}, "insertions": {}})
+            if place.startswith("voice@"):
+                targets["insertions"][int(place[6:], 16)] = encoded
+            else:
+                targets["replacements"][place] = encoded
         except Exception as error:  # noqa: BLE001 - reported with the line
             problems.append(f"{key} « {english[:40]} » : {error}")
 
     arguments.output.mkdir(parents=True, exist_ok=True)
-    for name, replacements in sorted(by_file.items()):
+    for name, targets in sorted(by_file.items()):
         source = arguments.base / f"{name}._dt"
         if not source.is_file():
             problems.append(f"{name} : fichier absent de l'archive de base")
             continue
         try:
-            (arguments.output / source.name).write_bytes(third_as.rebuild(source.read_bytes(), replacements))
+            (arguments.output / source.name).write_bytes(third_as.rebuild(
+                source.read_bytes(), targets["replacements"], targets["insertions"]
+            ))
         except third_as.AsError as error:
             problems.append(f"{name} : {error}")
     if problems:
         print("ERREUR: Répliques de combat refusées :\n- " + "\n- ".join(problems), file=sys.stderr)
         return 1
-    print(json.dumps({"files": len(by_file), "lines": sum(len(item) for item in by_file.values())}))
+    print(json.dumps({
+        "files": len(by_file),
+        "lines": sum(len(item["replacements"]) + len(item["insertions"]) for item in by_file.values()),
+        "inserted_saytexts": sum(len(item["insertions"]) for item in by_file.values()),
+    }))
     return 0
 
 
