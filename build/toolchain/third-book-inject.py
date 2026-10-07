@@ -1,8 +1,8 @@
-"""Rebuilds The 3rd's book files (t_book01-16._dt) that have French titles or
-pages on the platform; an untranslated title or page stays English.
+"""Rebuild The 3rd's books from the platform's complete page lists.
 
-Each translated file is read back: same books, same number of pages, and every
-page decodes to the text that was written.
+Book indices refer to the base file's books; page 0 is the title. Body pages
+are rebuilt in contiguous page_index order, so inserted/deleted pages are
+reflected in the game. The platform's French is used exactly, empty included.
 """
 from __future__ import annotations
 
@@ -25,53 +25,67 @@ def load_core(path: Path):
     return module
 
 
+def rebuild_books(core, name: str, base: bytes, rows: list[dict]) -> bytes:
+    if name not in third_book.FILES:
+        raise ValueError(f"{name} : fichier de livres inconnu")
+    original = third_book.read(core, base)
+    pages: dict[int, dict[int, str]] = {}
+    for row in rows:
+        book = int(row["book_index"])
+        page = int(row["page_index"])
+        if not 0 <= book < len(original) or page < 0:
+            raise ValueError(f"{name} : indice de livre/page invalide ({book}, {page})")
+        target = pages.setdefault(book, {})
+        if page in target:
+            raise ValueError(f"{name} livre {book + 1} : page {page} dupliquée")
+        target[page] = str(row.get("translation_fr") or "")
+    rebuilt = []
+    for book in range(len(original)):
+        texts = pages.get(book)
+        if texts is None:
+            raise ValueError(f"{name} livre {book + 1} : absent de la plateforme")
+        if sorted(texts) != list(range(len(texts))) or len(texts) < 2:
+            raise ValueError(f"{name} livre {book + 1} : titre/pages manquants ou non contigus")
+        rebuilt.append({"title": texts[0], "pages": [texts[page] for page in range(1, len(texts))]})
+    output = third_book.write(core, rebuilt)
+    expected = [{"title": core.decode_game_text(core.encode_game_text(book["title"])),
+                 "pages": [third_book.decode_page(core, third_book.encode_page(core, page))
+                           for page in book["pages"]]} for book in rebuilt]
+    if third_book.read(core, output) != expected:
+        raise ValueError(f"{name} : livres différents après relecture")
+    return output
+
+
 def main() -> int:
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--export", required=True, type=Path)
     parser.add_argument("--base", required=True, type=Path)
     parser.add_argument("--output", required=True, type=Path)
     parser.add_argument("--core", required=True, type=Path)
     arguments = parser.parse_args()
-
     core = load_core(arguments.core)
     with gzip.open(arguments.export, "rt", encoding="utf-8") as stream:
         document = json.load(stream)
-    french: dict[str, dict[tuple[int, int], str]] = {}
+    by_file: dict[str, list[dict]] = {}
     for row in document.get("books", []):
-        text = str(row.get("translation_fr") or "")
-        # The platform's text as is (empty = empty page).
-        if text != str(row.get("source_en") or ""):
-            french.setdefault(str(row["file_code"]), {})[(int(row["book_index"]), int(row["page_index"]))] = text
-
+        by_file.setdefault(str(row["file_code"]), []).append(row)
     problems = []
-    arguments.output.mkdir(parents=True, exist_ok=True)
-    for name, changes in sorted(french.items()):
-        if name not in third_book.FILES:
-            problems.append(f"{name} : fichier de livres inconnu")
-            continue
-        books = third_book.read(core, (arguments.base / f"{name}._dt").read_bytes())
-        for (book, page), text in changes.items():
-            if book >= len(books) or page > len(books[book]["pages"]):
-                problems.append(f"{name} livre {book + 1} page {page} : n'existe pas dans le jeu")
-                continue
-            if page == 0:
-                books[book]["title"] = text
-            else:
-                books[book]["pages"][page - 1] = text
+    staged = {}
+    for name, rows in sorted(by_file.items()):
         try:
-            data = third_book.write(core, books)
-            again = third_book.read(core, data)
-        except (third_book.BookError, Exception) as error:  # noqa: BLE001 - reported with the file
+            # Validate the name before resolving it against the base folder.
+            if name not in third_book.FILES:
+                raise ValueError(f"{name} : fichier de livres inconnu")
+            staged[name] = rebuild_books(core, name, (arguments.base / f"{name}._dt").read_bytes(), rows)
+        except Exception as error:  # report all files, publish no partial result
             problems.append(f"{name} : {error}")
-            continue
-        if [len(book["pages"]) for book in again] != [len(book["pages"]) for book in books]:
-            problems.append(f"{name} : nombre de pages différent à la relecture")
-            continue
-        (arguments.output / f"{name}._dt").write_bytes(data)
     if problems:
         print("ERREUR: Livres refusés :\n- " + "\n- ".join(problems), file=sys.stderr)
         return 1
-    print(json.dumps({"files": len(french), "pages": sum(len(item) for item in french.values())}))
+    arguments.output.mkdir(parents=True, exist_ok=True)
+    for name, data in staged.items():
+        (arguments.output / f"{name}._dt").write_bytes(data)
+    print(json.dumps({"files": len(staged), "pages": sum(len(rows) for rows in by_file.values())}))
     return 0
 
 

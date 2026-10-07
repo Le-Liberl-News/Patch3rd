@@ -89,21 +89,26 @@ def decode_page(core, raw: bytes) -> str:
 def encode_page(core, text: str) -> bytes:
     output = bytearray()
     cursor = 0
+
+    def append_text(value: str) -> None:
+        encoded = core.encode_game_text(value)
+        if 0 in encoded or 3 in encoded:
+            raise BookError("octet NUL ou changement de page dans le texte d’une page")
+        output.extend(encoded)
+
     for match in TOKEN.finditer(text):
-        output += core.encode_game_text(text[cursor:match.start()])
+        append_text(text[cursor:match.start()])
         if match.group(1) is not None:
             output += bytes((0x07, int(match.group(1))))
         elif match.group(2) is not None:
             output += b"\x1f" + struct.pack("<H", int(match.group(2)))
         else:
             value = int(match.group(3), 16)
-            if value in (0x00, 0x01, 0x03) or value >= 0x20:
+            if value in (0x00, 0x01, 0x03, 0x07, 0x1F) or value >= 0x20:
                 raise BookError(f"code {{x{match.group(3)}}} interdit dans une page")
             output.append(value)
         cursor = match.end()
-    output += core.encode_game_text(text[cursor:])
-    if 0 in output or 3 in output:
-        raise BookError("octet NUL ou changement de page dans le texte d'une page")
+    append_text(text[cursor:])
     return bytes(output)
 
 

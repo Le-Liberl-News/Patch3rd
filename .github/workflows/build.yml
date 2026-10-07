@@ -28,6 +28,9 @@ jobs:
       - name: Dépôt
         uses: actions/checkout@v4
 
+      - name: Vérifier la pagination des livres
+        run: python3 -B scripts/test_book_injection.py
+
       - name: Outils
         run: |
           sudo apt-get update -q
