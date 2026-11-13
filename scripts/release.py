@@ -157,9 +157,14 @@ def main() -> int:
 
         files.extend(videos(arguments.xdelta, bundle, work))
 
+    # As for SC and FC: a client can download only the deltas of the files that
+    # changed (their sizes here) and the kit (the applier, xdelta3), each a release asset.
+    for item in files:
+        item["delta_size"] = (bundle / item["delta"]).stat().st_size
+    kit = sorted(item.name for item in (ROOT / "patch").iterdir() if item.is_file())
     (bundle / "patch.json").write_text(json.dumps({"game": "sky-3rd", "version": arguments.tag,
-                                                   "base": base_version(arguments.toolchain), "files": files},
-                                                  indent=1), encoding="utf-8")
+                                                   "base": base_version(arguments.toolchain), "files": files,
+                                                   "kit": kit}, indent=1), encoding="utf-8")
     for item in (ROOT / "patch").iterdir():
         shutil.copyfile(item, bundle / item.name)
     archive = arguments.out / f"Patch3rd-{arguments.tag}.zip"
