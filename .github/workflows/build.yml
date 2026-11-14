@@ -31,6 +31,9 @@ jobs:
       - name: Vérifier la pagination des livres
         run: python3 -B scripts/test_book_injection.py
 
+      - name: Exemples de changements de release
+        run: python3 scripts/test_release_examples.py
+
       - name: Outils
         run: |
           sudo apt-get update -q
@@ -100,13 +103,17 @@ jobs:
               sed 's/^/- /' laisses-en-anglais.txt
             fi
           } > notes.md
+          PREVIOUS="$(gh release list --limit 100 --json tagName,createdAt --jq '[.[] | select(.tagName | startswith("v"))] | sort_by(.createdAt) | reverse | .[0].tagName // ""')"
+          python3 scripts/release_examples.py --previous "$PREVIOUS" --out job/release-changes.json
+          shopt -s nullglob
+          EXAMPLES=(job/release-changes.json job/change-previews/*.png)
           # Besides the zip, each file of it as an asset, as for SC and FC: the
           # platform's patch API hands out patch.json, the kit and single deltas.
           mkdir -p release/parts
           unzip -q "release/Patch3rd-$TAG.zip" -d release/parts
           KIT=$(python3 -c "import json; print(' '.join('release/parts/' + n for n in json.load(open('release/parts/patch.json'))['kit']))")
           gh release create "v$TAG" "release/Patch3rd-$TAG.zip" release/parts/patch.json $KIT release/parts/deltas/*.xdelta \
-            --prerelease --title "Patch FR The 3rd — $TAG" --notes-file notes.md
+            --prerelease --target "$(git rev-parse HEAD)" --title "Patch FR The 3rd — $TAG" --notes-file notes.md "${EXAMPLES[@]}"
           # Only the 5 latest test versions (pre-releases) are kept: the platform's designated releases stay.
           gh release list --limit 100 --json tagName,createdAt,isPrerelease --jq '[.[] | select(.isPrerelease)] | sort_by(.createdAt) | reverse | .[5:] | .[].tagName' \
             | xargs -r -I{} gh release delete {} --yes --cleanup-tag
