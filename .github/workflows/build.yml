@@ -27,6 +27,8 @@ jobs:
     steps:
       - name: Dépôt
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Release examples compare data/ with the previous release tag.
 
       - name: Vérifier la pagination des livres
         run: python3 -B scripts/test_book_injection.py

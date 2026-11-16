@@ -7,9 +7,18 @@ import argparse,difflib,json,re,shutil,subprocess
 def segments(before,after):
  a=re.findall(r'\s+|[^\s]+',before);b=re.findall(r'\s+|[^\s]+',after)
  result=[];removed=[]
- for op,i,j,k,l in difflib.SequenceMatcher(None,a,b,autojunk=False).get_opcodes():
+ ops=difflib.SequenceMatcher(None,a,b,autojunk=False).get_opcodes()
+ for index,(op,i,j,k,l) in enumerate(ops):
   if op in ('delete','replace'):removed.append(''.join(a[i:j]))
-  if op!='delete':result.append({'text':''.join(b[k:l]),'changed':op!='equal'})
+  if op=='delete':continue
+  text=''.join(b[k:l])
+  if op=='equal' and len(text)>200:
+   # Keep context beside each change, including pure deletions. Never let an
+   # unchanged page opening consume Discord's limit before the changed words.
+   left=text[:80] if index>0 else ''
+   right=text[-80:] if index<len(ops)-1 else ''
+   text=left+' … '+right
+  result.append({'text':text,'changed':op!='equal'})
  return result,removed
 
 def identity(row):
@@ -21,9 +30,9 @@ def example(before,after):
   was=str(old.get(key,{}).get('fr') or '');now=str(row.get('fr') or '')
   if was!=now:
    diff,removed=segments(was,now)
-   return {'key':row.get('n',row.get('cle',row.get('page'))),'before':was,'after':now,'segments':diff,'removed':removed}
+   return {'key':(f"livre {int(row['livre'])+1}, page {row['page']}" if 'livre' in row else row.get('n',row.get('cle',row.get('page')))),'before':was,'after':now,'segments':diff,'removed':removed}
  for key,row in old.items():
-  if key not in new:return {'key':row.get('n',row.get('cle',row.get('page'))),'before':row['fr'],'after':'','segments':[],'removed':[row['fr']]}
+  if key not in new:return {'key':(f"livre {int(row['livre'])+1}, page {row['page']}" if 'livre' in row else row.get('n',row.get('cle',row.get('page')))),'before':row['fr'],'after':'','segments':[],'removed':[row['fr']]}
  return None
 
 def collect(root,previous,out):
