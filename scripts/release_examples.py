@@ -1,4 +1,4 @@
-"""One representative French change per file, compared with the previous release.
+"""French changes grouped by file, compared with the previous release.
 No Japanese/English game text is included. PNG previews are separate assets.
 """
 from pathlib import Path
@@ -24,16 +24,28 @@ def segments(before,after):
 def identity(row):
  return (row.get('n'),row.get('cle'),row.get('type'),row.get('fichier'),row.get('livre'),row.get('page'))
 
-def example(before,after):
- old={identity(row):row for row in before};new={identity(row):row for row in after}
+def examples(before,after):
+ old={identity(row):row for row in before};new={identity(row):row for row in after};result=[]
  for key,row in new.items():
   was=str(old.get(key,{}).get('fr') or '');now=str(row.get('fr') or '')
   if was!=now:
    diff,removed=segments(was,now)
-   return {'key':(f"livre {int(row['livre'])+1}, page {row['page']}" if 'livre' in row else row.get('n',row.get('cle',row.get('page')))),'before':was,'after':now,'segments':diff,'removed':removed}
+   result.append({'key':(f"livre {int(row['livre'])+1}, page {row['page']}" if 'livre' in row else row.get('n',row.get('cle',row.get('page')))), 'segments':diff,'removed':removed})
  for key,row in old.items():
-  if key not in new:return {'key':(f"livre {int(row['livre'])+1}, page {row['page']}" if 'livre' in row else row.get('n',row.get('cle',row.get('page')))),'before':row['fr'],'after':'','segments':[],'removed':[row['fr']]}
- return None
+  if key not in new:
+   result.append({'key':(f"livre {int(row['livre'])+1}, page {row['page']}" if 'livre' in row else row.get('n',row.get('cle',row.get('page')))), 'segments':[],'removed':[row['fr']]})
+ return result
+
+def example(before,after):
+ # Compatibility for older callers: the website uses all changes.
+ found=examples(before,after)
+ if not found:return None
+ result=found[0]
+ old={identity(row):row for row in before}
+ for row in after:
+  if str(old.get(identity(row),{}).get('fr') or '')!=str(row.get('fr') or ''):
+   return dict(result,before=str(old.get(identity(row),{}).get('fr') or ''),after=str(row.get('fr') or ''))
+ return dict(result,before=result['removed'][0],after='')
 
 def collect(root,previous,out):
  out.mkdir(parents=True,exist_ok=True);changes=[]
@@ -53,11 +65,10 @@ def collect(root,previous,out):
   if not isinstance(prior,list) or not isinstance(latest,list):continue
   if path=='data/livres.json':
    for filename in sorted({r['fichier'] for r in prior+latest}):
-    change=example([r for r in prior if r['fichier']==filename],[r for r in latest if r['fichier']==filename])
-    if change:changes.append({'kind':'text','file':'livres/'+filename,**change})
+    for change in examples([r for r in prior if r['fichier']==filename],[r for r in latest if r['fichier']==filename]):
+     changes.append({'kind':'text','file':'livres/'+filename,**change})
    continue
-  change=example(prior,latest)
-  if change:changes.append({'kind':'text','file':path[len('data/'):],**change})
+  for change in examples(prior,latest):changes.append({'kind':'text','file':path[len('data/'):],**change})
  return {'schema':1,'previous':previous,'changes':changes}
 
 if __name__=='__main__':

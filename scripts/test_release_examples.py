@@ -11,6 +11,25 @@ class ExamplesTest(unittest.TestCase):
   self.assertEqual(result['segments'],[{'text':'Bonjour ','changed':False},{'text':'ami','changed':True}])
   self.assertEqual(result['removed'],['monde'])
   self.assertEqual(module.segments('Texte','   Texte')[0][0],{'text':'   ','changed':True})
+ def test_long_book_context_keeps_all_changes_and_deletions(self):
+  prefix='Un passage ancien sans modification. '*40
+  middle='Une longue transition identique. '*40
+  suffix='Fin de page inchangée. '*40
+  result=module.example([{'fichier':'t_book12','livre':1,'page':6,'fr':prefix+'ancien'+middle+'retiré'+suffix}],
+                        [{'fichier':'t_book12','livre':1,'page':6,'fr':prefix+'nouveau'+middle+suffix}])
+  rendered=''.join(p['text'] for p in result['segments'])
+  self.assertIn('nouveau',rendered)
+  self.assertIn('…',rendered)
+  self.assertLess(len(rendered),600)
+  self.assertIn('ancien',''.join(result['removed']))
+  self.assertIn('retiré',''.join(result['removed']))
+  self.assertEqual(result['key'],'livre 2, page 6')
+
+ def test_report_contains_every_changed_entry(self):
+  old=[{'n':1,'fr':'ancien un'},{'n':2,'fr':'ancien deux'}]
+  new=[{'n':1,'fr':'nouveau un'},{'n':2,'fr':'nouveau deux'}]
+  self.assertEqual([c['key'] for c in module.examples(old,new)],[1,2])
+
  def test_release_tag_comparison_and_image_asset(self):
   with tempfile.TemporaryDirectory() as tmp:
    root=Path(tmp)
@@ -26,5 +45,5 @@ class ExamplesTest(unittest.TestCase):
    self.assertEqual(len(result['changes']),2)
    picture=next(c for c in result['changes'] if c['kind']=='image')
    self.assertEqual((root/'out'/picture['image_asset']).read_bytes(),image.read_bytes())
-   self.assertEqual(next(c for c in result['changes'] if c['kind']=='text')['before'],'Avant')
+   self.assertEqual(next(c for c in result['changes'] if c['kind']=='text')['removed'],['Avant'])
 if __name__=='__main__':unittest.main()
