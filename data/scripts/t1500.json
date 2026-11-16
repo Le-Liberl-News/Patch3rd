@@ -1,7 +1,7 @@
 [
  {
   "n": 1,
-  "fr": "{color 0}Il était une fois une fille appelée Estelle Bright \nqui adorait vraiment pêcher.\nPendant ce temps, à Grancel, il existait un groupe \nd'hommes et de femmes dévoués et pratiquant ce sport \navec fierté. Ils étaient appelés la guilde des pêcheurs. \nQuoi d'autre cela aurait-il pu être que le destin, si ces deux \nroutes étaient amenées à se croiser ?\nCeci est leur étrange histoire."
+  "fr": "{color 0}Il était une fois une fille appelée Estelle Bright \nqui adorait vraiment pêcher.{wait}\nPendant ce temps, à Grancel, il existait un groupe \nd'hommes et de femmes dévoués et pratiquant ce sport \navec fierté. Ils étaient appelés la guilde des pêcheurs. {wait}\nQuoi d'autre cela aurait-il pu être que le destin, si ces deux \nroutes étaient amenées à se croiser ?{wait}\nCeci est leur étrange histoire."
  },
  {
   "n": 2,
@@ -9,19 +9,19 @@
  },
  {
   "n": 3,
-  "fr": "{color 0}Au bord du lac Valleria se trouve un calme petit \nendroit appelé l'auberge du Martin-pêcheur.\nCherchant à faire une pause de son travail, Estelle \ndécida de s'y rendre pour une détente bien méritée.\nAu début, ce fut exactement ce qu'elle y trouva.\nAdorant la pêche, elle décida d'emprunter du matériel à \nl'auberge et de se diriger vers la jetée pour profiter d'un \nbon moment là-bas.\nSes prises furent une réussite les unes après les autres, \net rapidement, son seau se mit à déborder de poissons."
+  "fr": "{color 0}Au bord du lac Valleria se trouve un calme petit \nendroit appelé l'auberge du Martin-pêcheur.{wait}\nCherchant à faire une pause de son travail, Estelle \ndécida de s'y rendre pour une détente bien méritée.{wait}\nAu début, ce fut exactement ce qu'elle y trouva.{wait}\nAdorant la pêche, elle décida d'emprunter du matériel à \nl'auberge et de se diriger vers la jetée pour profiter d'un \nbon moment là-bas.{wait}\nSes prises furent une réussite les unes après les autres, \net rapidement, son seau se mit à déborder de poissons."
  },
  {
   "n": 4,
-  "fr": "{color 0}Mais alors se trouvait Lloyd, un membre de la \nseule et unique guilde des pêcheurs, qui s'avérait être à \nla même auberge et le même jour. Il lui arrivait l'inverse \nde la chance de la jeune Estelle. \nAu moment où il était arrivé, il avait embarqué dans un \nbateau pour commencer à pêcher...\nMais bien qu'il essayât, il n'avait pas réussi à attraper ne \nfut-ce qu'un seul poisson."
+  "fr": "{color 0}Mais alors se trouvait Lloyd, un membre de la \nseule et unique guilde des pêcheurs, qui s'avérait être à \nla même auberge et le même jour. Il lui arrivait l'inverse \nde la chance de la jeune Estelle. {wait}\nAu moment où il était arrivé, il avait embarqué dans un \nbateau pour commencer à pêcher...{wait}\nMais bien qu'il essayât, il n'avait pas réussi à attraper ne \nfut-ce qu'un seul poisson."
  },
  {
   "n": 5,
-  "fr": "{color 0}Se sentant à présent complètement vaincu, Lloyd \nretourna en direction de l'auberge.\nSon bateau approchant la jetée, cependant, il aperçut une \ntrès satisfaite Estelle, se réjouissant de la taille de sa \nplus récente prise.\nCette vue fut tout ce qu'il fallut pour attiser la nature \ncompétitrice de Lloyd.\nMaintenant profondément motivé, il s'approcha d'elle et \nla défia en un duel spécial..."
+  "fr": "{color 0}Se sentant à présent complètement vaincu, Lloyd \nretourna en direction de l'auberge.{wait}\nSon bateau approchant la jetée, cependant, il aperçut une \ntrès satisfaite Estelle, se réjouissant de la taille de sa \nplus récente prise.{wait}\nCette vue fut tout ce qu'il fallut pour attiser la nature \ncompétitrice de Lloyd.{wait}\nMaintenant profondément motivé, il s'approcha d'elle et \nla défia en un duel spécial..."
  },
  {
   "n": 6,
-  "fr": "... Et c'est pourquoi je veux vous défier en un duel de \npêcheurs en cinq manches."
+  "fr": "... Et c'est pourquoi je veux vous défier en\nun duel de pêcheurs en cinq manches."
  },
  {
   "n": 7,
@@ -41,11 +41,11 @@
  },
  {
   "n": 11,
-  "fr": "Alors affrontons-nous, avec notre meilleur matériel \nde pêche en jeu !"
+  "fr": "Alors affrontons-nous, avec notre meilleur\nmatériel de pêche en jeu !"
  },
  {
   "n": 12,
-  "fr": "J'ai l'impression que je suis en train de me faire \nenguirlander dans un truc complètement dingue..."
+  "fr": "J'ai l'impression que je suis en train de\nme faire enguirlander dans un truc\ncomplètement dingue..."
  },
  {
   "n": 13,
@@ -61,7 +61,7 @@
  },
  {
   "n": 16,
-  "fr": "Ah ha ha... On dirait que j'ai pas vraiment d'autre \nchoix que de participer, hein ?"
+  "fr": "Ah ha ha... On dirait que j'ai pas vraiment\nd'autre choix que de participer, hein ?"
  },
  {
   "n": 17,
@@ -97,7 +97,7 @@
  },
  {
   "n": 25,
-  "fr": "J'ai peut-être rien perdu, mais je me sens quand \nmême naze d'avoir échoué..."
+  "fr": "J'ai peut-être rien perdu, mais je me sens\nquand même naze d'avoir échoué..."
  },
  {
   "n": 26,
@@ -137,15 +137,15 @@
  },
  {
   "n": 35,
-  "fr": "Je peux pas prendre ça... Ça a l'air tellement cher !"
+  "fr": "Je peux pas prendre ça...\nÇa a l'air tellement cher !"
  },
  {
   "n": 36,
-  "fr": "Pas question. Ce sont les règles. Je vous ai défiée en \nduel en misant ça, et j'ai été vaincu."
+  "fr": "Pas question. Ce sont les règles.\nJe vous ai défiée en duel en misant ça,\net j'ai été vaincu."
  },
  {
   "n": 37,
-  "fr": "Si vous refusez de l'accepter, ça me donnera encore \nplus honte !"
+  "fr": "Si vous refusez de l'accepter, ça me\ndonnera encore plus honte !"
  },
  {
   "n": 38,

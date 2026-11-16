@@ -9,11 +9,11 @@
  },
  {
   "n": 3,
-  "fr": "{color 0}#50W#20A... mais Maman est fatiguée...\n... vraiment... vraiment fatiguée..."
+  "fr": "{color 0}#50W#20A... mais maman est fatiguée...\n... vraiment... vraiment fatiguée..."
  },
  {
   "n": 4,
-  "fr": "{color 0}#50W#20A...... au moins... comme ça..."
+  "fr": "{color 0}#50W#20A...... Au moins... comme ça..."
  },
  {
   "n": 5,
@@ -37,19 +37,19 @@
  },
  {
   "n": 10,
-  "fr": "Câlisse, ça fait combien d'années qui se sont écoulées\ndepuis... ?"
+  "fr": "Câlisse, combien d'années se sont\nécoulées déjà... ?"
  },
  {
   "n": 11,
-  "fr": "... Et il a fallu que ça revienne pendant son grand jour..."
+  "fr": "... Et il a fallu que ça revienne\npendant son grand jour..."
  },
  {
   "n": 12,
-  "fr": "Si ça continue comme ça, tout ce que je vais réussir à\nfaire, c'est de lui faire faire du souci..."
+  "fr": "Si ça continue comme ça, tout ce que\nje vais réussir à faire, c'est qu'elle\nse fasse du souci..."
  },
  {
   "n": 13,
-  "fr": "{color 12}#30W... Je pense qu'il est un peu trop tard\npour cela."
+  "fr": "{color 12}#30W... Je pense qu'il est un peu trop\ntard pour cela."
  },
  {
   "n": 14,
@@ -69,11 +69,11 @@
  },
  {
   "n": 18,
-  "fr": "C'est à nous de nettoyer la chapelle aujourd'hui,\nsauf que tu n'étais pas présent."
+  "fr": "C'est à nous de nettoyer la chapelle\naujourd'hui, sauf que tu n'étais pas\nprésent."
  },
  {
   "n": 19,
-  "fr": "Je suis donc venue te voir et, comme tu semblais faire un\ncauchemar, je me suis dit qu'il fallait te réveiller."
+  "fr": "Je suis donc venue te voir et, comme\ntu semblais faire un cauchemar, je me\nsuis dit qu'il fallait te réveiller."
  },
  {
   "n": 20,
@@ -81,15 +81,15 @@
  },
  {
   "n": 21,
-  "fr": "... Ha ha, je t'ai causé bien du souci, on peut le dire."
+  "fr": "... Ha ha, je t'ai causé bien du souci,\non peut le dire."
  },
  {
   "n": 22,
-  "fr": "{color 12}#30WNe t'en fais pas... Cela n'a plus d'importance maintenant."
+  "fr": "{color 12}#30WNe t'en fais pas...\nCela n'a plus d'importance maintenant."
  },
  {
   "n": 23,
-  "fr": "D'aussi loin que je me souvienne, Kevin, tu as toujours été\nune mauviette par nature."
+  "fr": "D'aussi loin que je me souvienne,\nKevin, tu as toujours été une\nmauviette par nature."
  },
  {
   "n": 24,
@@ -97,15 +97,15 @@
  },
  {
   "n": 25,
-  "fr": "Bref, aujourd'hui c'est le grand jour pour Rufina."
+  "fr": "Bref, aujourd'hui c'est le grand jour\npour Rufina."
  },
  {
   "n": 26,
-  "fr": "Dépêchons-nous de prendre le petit-déjeuner et allons-y."
+  "fr": "Dépêchons-nous de prendre\nle petit-déjeuner et allons-y."
  },
  {
   "n": 27,
-  "fr": "{color 12}#30W... Allons-y."
+  "fr": "{color 12}#30W... Très bien."
  },
  {
   "n": 28,
@@ -125,7 +125,7 @@
  },
  {
   "n": 32,
-  "fr": "Hi hi, vous êtes bien matinaux.\nÊtes-vous de corvée de nettoyage aujourd'hui ?"
+  "fr": "Hi hi, vous êtes bien matinaux.\nÊtes-vous de corvée de nettoyage\naujourd'hui ?"
  },
  {
   "n": 33,
@@ -137,11 +137,11 @@
  },
  {
   "n": 35,
-  "fr": "Tu vas te retrouver épuisée en cours de route\nsi tu prends pas le temps de dormir !"
+  "fr": "Tu vas te retrouver épuisée en cours\nde route si tu prends pas le temps de\ndormir !"
  },
  {
   "n": 36,
-  "fr": "Je veux dire, Arteria c'est pas la porte à côté,\nn'est-ce pas ?"
+  "fr": "Je veux dire, Arteria c'est pas\nla porte à côté, n'est-ce pas ?"
  },
  {
   "n": 37,
@@ -149,11 +149,11 @@
  },
  {
   "n": 38,
-  "fr": "Mais je n'aurai pas l'occasion de venir prier ici pendant un\nmoment..."
+  "fr": "Mais je n'aurai pas l'occasion\nde venir prier ici pendant un\nmoment..."
  },
  {
   "n": 39,
-  "fr": "Je me suis donc levée tôt pour pouvoir faire toutes mes\nprières d'un coup."
+  "fr": "Je me suis donc levée tôt pour\npouvoir faire toutes mes prières\nd'un coup."
  },
  {
   "n": 40,
@@ -165,11 +165,11 @@
  },
  {
   "n": 42,
-  "fr": "... Cela dit... Est-ce vrai que tu vas être très occupée ?"
+  "fr": "... Cela dit...\nEst-ce vrai que tu vas être très occupée ?"
  },
  {
   "n": 43,
-  "fr": "Tellement que tu n'auras pas l'occasion de revenir ?"
+  "fr": "Tellement que tu n'auras pas\nl'occasion de revenir ?"
  },
  {
   "n": 44,
@@ -177,11 +177,11 @@
  },
  {
   "n": 45,
-  "fr": "Puisque je viens tout juste de devenir Écuyer, je vais\nprobablement être submergée de travail au point où je\nne pourrai pas profiter d'une seconde de sommeil."
+  "fr": "Maintenant que je suis Écuyer, je vais\nêtre submergée de travail et je n'aurais\nprobablement plus une seconde de répit."
  },
  {
   "n": 46,
-  "fr": "Mais je pense pouvoir dégager du temps libre lorsque je\nme serai adaptée à mes responsabilités."
+  "fr": "Mais je pense pouvoir dégager du\ntemps libre lorsque je me serai adaptée\nà mes responsabilités."
  },
  {
   "n": 47,
@@ -189,11 +189,11 @@
  },
  {
   "n": 48,
-  "fr": "{color 12}#30W... Sérieux, dans ce cas, tu ferais mieux de\nprendre le temps de te reposer."
+  "fr": "{color 12}#30W... Sérieux, dans ce cas, tu ferais\nmieux de prendre le temps de te reposer."
  },
  {
   "n": 49,
-  "fr": "Maintenant, il est temps pour toi de rester au lit jusqu'à\nl'heure du petit-déjeuner."
+  "fr": "Maintenant, il est temps pour toi\nde rester au lit jusqu'à l'heure du\npetit-déjeuner."
  },
  {
   "n": 50,
@@ -205,19 +205,19 @@
  },
  {
   "n": 52,
-  "fr": "{color 12}#30WJe veux simplement passer le temps qu'il\nme reste en votre compagnie, jamais je n'aurais imaginé\nque je puisse te déranger..."
+  "fr": "{color 12}#30WJe veux simplement passer le temps qu'il\nme reste en votre compagnie, jamais je\nn'aurais imaginé que je puisse te déranger..."
  },
  {
   "n": 53,
-  "fr": "*sanglote* Qu'est-ce j'ai bien pu rater dans ton\néducation ?"
+  "fr": "*sanglote* Qu'est-ce que j'ai bien pu\nrater dans ton éducation ?"
  },
  {
   "n": 54,
-  "fr": "{color 12}#30WJ-J'ai jamais dit que je voulais pas de toi\nici !"
+  "fr": "{color 12}#30WJ-J'ai jamais dit que je voulais pas\nde toi ici !"
  },
  {
   "n": 55,
-  "fr": "D'ailleurs, je reconnais que tu t'es bien occupée de moi,\nmais j'irais pas jusqu'à dire que tu m'as éduquée !"
+  "fr": "D'ailleurs, je reconnais que t'as\nbien veillé sur moi, mais j'irais pas\njusqu'à dire que tu m'as élevé !"
  },
  {
   "n": 56,
@@ -225,7 +225,7 @@
  },
  {
   "n": 57,
-  "fr": "Au fond, tu adores passer du temps à discuter avec Rufina."
+  "fr": "Au fond, tu adores passer du temps\nà discuter avec Rufina."
  },
  {
   "n": 58,
@@ -241,27 +241,27 @@
  },
  {
   "n": 61,
-  "fr": "En fin de compte, tu joues les durs juste pour cacher ton embarras."
+  "fr": "En fin de compte, tu joues les durs\njuste pour cacher ton embarras."
  },
  {
   "n": 62,
-  "fr": "{color 12}#30WIl est tout à fait dans sa phase rebelle."
+  "fr": "{color 12}#30WEt n'oublie pas, il est en plein\ndans sa phase rebelle."
  },
  {
   "n": 63,
-  "fr": "{color 12}#30WGh...\nVous êtes vraiment déconcertantes, toutes les deux..."
+  "fr": "{color 12}#30WGh...\nVous êtes vraiment casse-pieds,\ntoutes les deux..."
  },
  {
   "n": 64,
-  "fr": "On dirait que ça vous amuse de jouer avec le cœur d'un\ninnocent garçon..."
+  "fr": "On dirait que ça vous amuse de jouer\navec le cœur d'un garçon innocent..."
  },
  {
   "n": 65,
-  "fr": "{color 12}#30WHi hi...\nCela fait quand même cinq ans depuis."
+  "fr": "{color 12}#30WHi hi...\nCela fait déjà cinq ans."
  },
  {
   "n": 66,
-  "fr": "Ah oui, peut-être devrais-je acheter un peu de chocolat\navant de monter dans le train."
+  "fr": "Ah oui, peut-être devrais-je acheter\nun peu de chocolat avant de monter\ndans le train."
  },
  {
   "n": 67,
@@ -277,11 +277,11 @@
  },
  {
   "n": 70,
-  "fr": "Il a un arrière-goût de fraîcheur qui se combine bien avec la saveur intense du chocolat."
+  "fr": "Il a un arrière-goût de fraîcheur qui\nse combine bien avec la saveur intense\ndu chocolat."
  },
  {
   "n": 71,
-  "fr": "{color 12}#30WAussi tentant que cela puisse être, je pense\ncependant que je vais rester sur le classique chocolat au lait."
+  "fr": "{color 12}#30WAussi tentant que cela puisse être,\nje pense cependant que je vais rester\nsur le classique chocolat au lait."
  },
  {
   "n": 72,
@@ -305,11 +305,11 @@
  },
  {
   "n": 77,
-  "fr": "{color 12}#30WHi hi... Je crois que cette saveur est un souvenir impérissable pour nous."
+  "fr": "{color 12}#30WHi hi...\nJe crois que cette saveur est\nun souvenir impérissable pour nous."
  },
  {
   "n": 78,
-  "fr": "Depuis ce jour-là, il s'est passé tellement de choses. Kevin\nfait désormais partie de la famille, et il n'y a pas un jour que nous n'avons pas passé ensemble."
+  "fr": "Depuis ce jour-là, il s'est passé tant de\nchoses. Kevin est rentré dans notre famille,\net nous ne nous sommes plus jamais quittés."
  },
  {
   "n": 79,
@@ -329,15 +329,15 @@
  },
  {
   "n": 83,
-  "fr": "{color 12}#30W... Dans ce cas, à quoi bon être devenue Écuyer ?"
+  "fr": "{color 12}#30W... Dans ce cas, pourquoi t'as voulu\ndevenir Écuyer ?"
  },
  {
   "n": 84,
-  "fr": "Tu as vraiment pas l'air faite pour ce métier, si tu veux mon avis..."
+  "fr": "Tu as vraiment pas l'air faite pour\nce métier, si tu veux mon avis..."
  },
  {
   "n": 85,
-  "fr": "Si tu tiens tant à servir l'Église, tu pouvais aussi devenir\nune sœur de la chapelle en ville..."
+  "fr": "Si tu tiens tant à servir l'Église,\nt'aurais pu aussi rester une simple\nsœur à la chapelle de la ville..."
  },
  {
   "n": 86,
@@ -349,15 +349,15 @@
  },
  {
   "n": 88,
-  "fr": "En fait...\nApparemment, j'aurais un don pour cela."
+  "fr": "En fait...\nApparemment, j'aurais les compétences \npour cela."
  },
  {
   "n": 89,
-  "fr": "Puisque c'est ainsi, j'aimerais en faire bon usage et aider\nles gens dans le besoin lorsque je le peux."
+  "fr": "Puisque c'est ainsi, j'aimerais en faire\nbon usage et aider les gens dans le\nbesoin lorsque je le peux."
  },
  {
   "n": 90,
-  "fr": "Cela dit, il est tout à fait possible que je ne sois pas à la\nhauteur et que je finisse par rentrer à la maison."
+  "fr": "Cela dit, il est tout à fait possible\nque je ne sois pas à la hauteur et\nque je finisse par rentrer à la maison."
  },
  {
   "n": 91,
@@ -365,11 +365,11 @@
  },
  {
   "n": 92,
-  "fr": "Je vois vraiment pas comment quelqu'un d'aussi innocent\nque toi pourrait endosser un tel fardeau..."
+  "fr": "Je vois vraiment pas comment\nquelqu'un d'aussi innocent que\ntoi pourrait endosser un tel fardeau..."
  },
  {
   "n": 93,
-  "fr": "Tu sais que tu peux revenir ici à tout moment."
+  "fr": "Tu sais que tu peux revenir\nici à tout moment."
  },
  {
   "n": 94,
@@ -377,15 +377,15 @@
  },
  {
   "n": 95,
-  "fr": "{color 12}#30WHi hi, si cela devait arriver, je compte sur\nvous pour m'accueillir chaleureusement."
+  "fr": "{color 12}#30WHi hi, si cela devait arriver,\nje compte sur vous pour m'accueillir\nchaleureusement."
  },
  {
   "n": 96,
-  "fr": "Bien, je pense qu'il est temps de penser au nettoyage.\nEst-ce que je peux vous aider ?"
+  "fr": "Bien, je pense qu'il est temps de\ns'occuper du nettoyage.\nEst-ce que je peux vous aider ?"
  },
  {
   "n": 97,
-  "fr": "Tant que nous y sommes, donnons-nous à fond et rendons\ntoute la chapelle étincelante !"
+  "fr": "Tant que nous y sommes, allons-y\nà fond et rendons toute la chapelle\nétincelante !"
  },
  {
   "n": 98,
@@ -409,15 +409,15 @@
  },
  {
   "n": 103,
-  "fr": "Je te croyais partie à bord de l'Arseille\npour un exercice..."
+  "fr": "Je te croyais partie à bord de\nl'Arseille pour un exercice..."
  },
  {
   "n": 104,
-  "fr": "... Votre Altesse...\nJe suis vraiment soulagée de vous savoir\nsaine et sauve..."
+  "fr": "... Votre Altesse...\nJe suis vraiment soulagée de vous\nsavoir saine et sauve..."
  },
  {
   "n": 105,
-  "fr": "... Ha ha, je vois que Sieg est avec vous."
+  "fr": "... Ha ha, je vois que Sieg est\navec vous."
  },
  {
   "n": 106,
@@ -449,7 +449,7 @@
  },
  {
   "n": 113,
-  "fr": "Père Kevin...\nTita... Major Mueller... Josette..."
+  "fr": "Père Kevin...\nTita... Commandant Mueller...\nJosette..."
  },
  {
   "n": 114,
@@ -461,7 +461,7 @@
  },
  {
   "n": 116,
-  "fr": "Toi aussi, Sieg.\nOn dirait que vous allez bien tous les deux."
+  "fr": "Toi aussi, Sieg.\nOn dirait que vous allez bien\ntous les deux."
  },
  {
   "n": 117,
@@ -469,7 +469,7 @@
  },
  {
   "n": 118,
-  "fr": "Ah ha... Je ne sais toujours pas ce qu'il se\npasse ici..."
+  "fr": "Ah ha... Je ne sais toujours pas\nce qu'il se passe ici..."
  },
  {
   "n": 119,
@@ -485,15 +485,15 @@
  },
  {
   "n": 122,
-  "fr": "Il semblerait que nous soyons en face d'un\nproblème qui sort de l'ordinaire."
+  "fr": "Il semblerait que nous soyons en\nface d'un problème qui sort de\nl'ordinaire."
  },
  {
   "n": 123,
-  "fr": "Je suis heureuse de constater que la capitale\nque vous avez explorée n'est pas la vraie..."
+  "fr": "Je suis soulagée d'entendre que\nla capitale que vous avez explorée\nn'est pas la vraie..."
  },
  {
   "n": 124,
-  "fr": "... Cependant, nous ne pouvons pas exclure\nla possibilité que la vraie capitale soit\nen danger."
+  "fr": "... Cependant, nous ne pouvons pas\nexclure la possibilité que la vraie\ncapitale soit en danger."
  },
  {
   "n": 125,
@@ -501,15 +501,15 @@
  },
  {
   "n": 126,
-  "fr": "Il est actuellement impossible de définir\nles limites de ses capacités."
+  "fr": "Il est actuellement impossible de\ndéfinir les limites de ses capacités."
  },
  {
   "n": 127,
-  "fr": "Sœur Ries...\nVous n'avez pas besoin de la troubler davantage."
+  "fr": "Sœur Ries...\nVous n'avez pas besoin de l'inquiéter\ndavantage."
  },
  {
   "n": 128,
-  "fr": "Si. Sachant cela, je ne peux pas ignorer\nla gravité de la situation."
+  "fr": "Si. Sachant cela, je ne peux pas\nignorer la gravité de la situation."
  },
  {
   "n": 129,
@@ -517,7 +517,7 @@
  },
  {
   "n": 130,
-  "fr": "J'espère pouvoir vous être utile, quand bien\nmême ma contribution serait maigre."
+  "fr": "J'espère pouvoir vous être utile,\nquand bien même ma contribution\nserait maigre."
  },
  {
   "n": 131,
@@ -533,11 +533,11 @@
  },
  {
   "n": 134,
-  "fr": "Nous sommes dans une situation où le Royaume\ntout entier pourrait se retrouver menacé."
+  "fr": "Nous sommes dans une situation où\nle Royaume tout entier pourrait se\nretrouver menacé."
  },
  {
   "n": 135,
-  "fr": "Mon titre de Princesse héritière n'aurait\naucun sens si je restais à ne rien faire dans\nde telles circonstances."
+  "fr": "Mon titre de Princesse héritière\nn'aurait aucun sens si je restais à ne\nrien faire dans de telles circonstances."
  },
  {
   "n": 136,
@@ -549,23 +549,23 @@
  },
  {
   "n": 138,
-  "fr": "D'accord, Votre Altesse.\nC'est un plaisir de pouvoir compter de nouveau\nsur votre aide."
+  "fr": "D'accord, Votre Altesse.\nC'est un plaisir de pouvoir compter\nde nouveau sur votre aide."
  },
  {
   "n": 139,
-  "fr": "Hi hi, moi de même. Je ferai de mon mieux\npour ne pas vous ralentir."
+  "fr": "Hi hi, moi de même. Je ferai de\nmon mieux pour ne pas vous ralentir."
  },
  {
   "n": 140,
-  "fr": "Bien... Nous devons donc nous rendre au\ncercle de téléportation qui se trouve au fond\nde la Zone scellée, n'est-ce pas ?"
+  "fr": "Bien... Nous devons donc nous rendre au\ncercle de téléportation qui se trouve au\nfond de la Zone scellée, n'est-ce pas ?"
  },
  {
   "n": 141,
-  "fr": "Ouais, ça devrait nous emmener dans la\nzone suivante."
+  "fr": "Ouais, ça devrait nous emmener dans\nla zone suivante."
  },
  {
   "n": 142,
-  "fr": "Ou plutôt...\ndans le « plan » suivant, je dirais."
+  "fr": "Ou plutôt... dans le « plan »\nsuivant, je dirais."
  },
  {
   "n": 143,
@@ -573,11 +573,11 @@
  },
  {
   "n": 144,
-  "fr": "Ça semble être le nom des différents lieux\nqui constituent le monde de Phantasma."
+  "fr": "Ça semble être le nom des différents\nlieux qui constituent le monde de\nPhantasma."
  },
  {
   "n": 145,
-  "fr": "C'est un concept du monde qui ressemble\nà celui que reconnaît l'Église septienne."
+  "fr": "C'est un concept du monde qui\nressemble à celui que reconnaît\nl'Église septienne."
  },
  {
   "n": 146,
@@ -585,7 +585,7 @@
  },
  {
   "n": 147,
-  "fr": "Ces trois-là sont les plus importants, mais\nil existe d'innombrables autres mondes qui\nse situent entre eux."
+  "fr": "Ces trois-là sont les plus importants,\nmais il existe d'innombrables autres\nmondes qui se situent entre eux."
  },
  {
   "n": 148,
@@ -593,15 +593,15 @@
  },
  {
   "n": 149,
-  "fr": "Cela veut-il dire que nous nous éloignons de\nla protection de la Déesse à mesure que\nnous avançons ?"
+  "fr": "Cela veut-il dire que nous nous\néloignons de la protection de la\nDéesse à mesure que nous avançons ?"
  },
  {
   "n": 150,
-  "fr": "H-Hé oh...\nOn a pas besoin que vous nous portiez malheur !"
+  "fr": "H-Hé oh...\nOn a pas besoin que vous nous\nportiez malheur !"
  },
  {
   "n": 151,
-  "fr": "Les monstres qu'on a rencontré sont déjà\nbien assez flippants comme ça, j'ai du mal\nà accepter que ça puisse être pire..."
+  "fr": "Les monstres qu'on a rencontrés sont\ndéjà bien assez flippants comme ça, j'ai\ndu mal à accepter que ça puisse être pire..."
  },
  {
   "n": 152,
@@ -609,7 +609,7 @@
  },
  {
   "n": 153,
-  "fr": "... Ah oui. C'est vrai que vous en êtes une."
+  "fr": "... Ah oui.\nC'est vrai que vous en êtes une."
  },
  {
   "n": 154,
@@ -621,11 +621,11 @@
  },
  {
   "n": 156,
-  "fr": "Si la fausse Grancel est le « deuxième plan »..."
+  "fr": "Si la fausse Grancel est le\n« deuxième plan »..."
  },
  {
   "n": 157,
-  "fr": "... est-ce que ça veut dire qu'on ira dans le\n« troisième plan » ensuite ?"
+  "fr": "... est-ce que ça veut dire qu'on\nira dans le « troisième plan » ensuite ?"
  },
  {
   "n": 158,
@@ -633,11 +633,11 @@
  },
  {
   "n": 159,
-  "fr": "Et quoi que puissent être les desseins du\nMaître de Phantasma, c'est sûr qu'il mijote\nquelque chose."
+  "fr": "Et quoi que puissent être les desseins\ndu Maître de Phantasma, c'est sûr\nqu'il mijote quelque chose."
  },
  {
   "n": 160,
-  "fr": "On ferait mieux de bien se préparer avant\nde continuer notre route."
+  "fr": "On ferait mieux de bien se préparer\navant de continuer notre route."
  },
  {
   "n": 161,
@@ -657,23 +657,23 @@
  },
  {
   "n": 165,
-  "fr": "Dès que nous aurons fini nos préparatifs,\nrendons-nous au fond de la Zone scellée."
+  "fr": "Dès que nous aurons fini nos\npréparatifs, rendons-nous au fond\nde la Zone scellée."
  },
  {
   "n": 166,
-  "fr": "Aussi, si nous en avons le temps, il serait\nsage d'investiguer les « Portes » que nous\navons trouvées."
+  "fr": "Aussi, si nous en avons le temps,\nil serait sage d'investiguer les\n« Portes » que nous avons trouvées."
  },
  {
   "n": 167,
-  "fr": "Ah, vous voulez sans doute parler de ces\nmachins placés un peu partout là-bas ?"
+  "fr": "Ah, vous voulez sans doute parler\nde ces machins placés un peu\npartout là-bas ?"
  },
  {
   "n": 168,
-  "fr": "Je n'ai pas non plus l'impression qu'elles\nont été placées par l'ennemi..."
+  "fr": "Je n'ai pas non plus l'impression\nqu'elles ont été placées par l'ennemi..."
  },
  {
   "n": 169,
-  "fr": "Ce serait une bonne idée d'y jeter un œil."
+  "fr": "Ce serait une bonne idée d'y jeter\nun œil."
  },
  {
   "n": 170,
@@ -681,7 +681,7 @@
  },
  {
   "n": 171,
-  "fr": "Au nom de la grande Déesse, je vous nomme\nÉcuyer de l'Église septienne..."
+  "fr": "Au nom de la grande Déesse, je vous\nnomme Écuyer de l'Église septienne..."
  },
  {
   "n": 172,
@@ -689,7 +689,7 @@
  },
  {
   "n": 173,
-  "fr": "Je fais le serment de vouer mon âme à la Déesse,\nma chair et mon sang aux lois de l'Église septienne."
+  "fr": "Je fais le serment de vouer mon âme à\nla Déesse, ma chair et mon sang aux\nlois de l'Église septienne."
  },
  {
   "n": 174,
@@ -697,15 +697,15 @@
  },
  {
   "n": 175,
-  "fr": "Je dois reconnaître que c'est plutôt inhabituel de voir\nquelqu'un d'aussi jeune occuper cette position..."
+  "fr": "Je dois reconnaître que c'est plutôt\ninhabituel de voir quelqu'un d'aussi\njeune occuper cette position..."
  },
  {
   "n": 176,
-  "fr": "Je crois que c'est le fruit de vos aptitudes et de vos\nefforts."
+  "fr": "Je crois que c'est le fruit de vos\naptitudes et de vos efforts."
  },
  {
   "n": 177,
-  "fr": "Puissiez-vous désormais vous consacrer à servir\nla Déesse et protéger Ses sacrements."
+  "fr": "Puissiez-vous désormais vous consacrer\nà servir la Déesse et protéger Ses\nsacrements."
  },
  {
   "n": 178,
@@ -713,7 +713,7 @@
  },
  {
   "n": 179,
-  "fr": "Je vois que tu as réussi à satisfaire les pontes et obtenir\nta promotion."
+  "fr": "Je vois que tu as réussi à satisfaire\nles pontes et obtenir ta promotion."
  },
  {
   "n": 180,
@@ -721,11 +721,11 @@
  },
  {
   "n": 181,
-  "fr": "{color 12}#30WInstructrice Selnate...\nMerci pour tout ce que vous avez fait pour moi."
+  "fr": "{color 12}#30WInstructrice Selnate...\nMerci pour tout ce que vous avez fait\npour moi."
  },
  {
   "n": 182,
-  "fr": "Je n'aurais jamais imaginé qu'un Dominion se\nchargerait en personne de ma formation."
+  "fr": "Je n'aurais jamais imaginé qu'un\nDominion se chargerait en personne\nde ma formation."
  },
  {
   "n": 183,
@@ -733,7 +733,7 @@
  },
  {
   "n": 184,
-  "fr": "Difficile de croire que tu es le même garçon qui a fait\nirruption dans le Dicastère pour la sainte captation sans\nréel bagage en suppliant : « Faites de moi un chevalier ! »"
+  "fr": "Difficile de croire que tu es le même garçon\nqui a fait irruption dans le Dicastère pour\nimplorer : « Faites de moi un chevalier ! »."
  },
  {
   "n": 185,
@@ -741,15 +741,15 @@
  },
  {
   "n": 186,
-  "fr": "{color 12}#30WMa foi, c'est le hasard qui a fait que je fus\nprésente à ce moment-là et que tu suscitas mon intérêt."
+  "fr": "{color 12}#30WMa foi, c'est le hasard qui a fait que\nje fus présente à ce moment-là et que\ntu suscitas mon intérêt."
  },
  {
   "n": 187,
-  "fr": "Cependant, jamais je n'aurais imaginé que tu sois une\nconnaissance de Rufina."
+  "fr": "Cependant, jamais je n'aurais imaginé\nque tu sois une connaissance de Rufina."
  },
  {
   "n": 188,
-  "fr": "Si j'avais su, je t'aurais envoyé frapper à sa porte et\ndemander qu'elle te prenne sous son aile."
+  "fr": "Si j'avais su, je t'aurais envoyé\nfrapper à sa porte et demander\nqu'elle te prenne sous son aile."
  },
  {
   "n": 189,
@@ -761,7 +761,7 @@
  },
  {
   "n": 191,
-  "fr": "À présent, tu es officiellement un chien de l'Église, tout\ncomme nous."
+  "fr": "À présent, tu es officiellement un\nchien de l'Église, tout comme nous."
  },
  {
   "n": 192,
@@ -773,31 +773,31 @@
  },
  {
   "n": 194,
-  "fr": "Mais vous trouvez pas que c'est un peu trop sec de nous\nappeler des « chiens » ?"
+  "fr": "Mais vous trouvez pas que c'est un peu\nfort de nous appeler des « chiens » ?"
  },
  {
   "n": 195,
-  "fr": "Je suis pas sûr que ce soit le genre de choses qu'on dit à\ndes jeunes recrues."
+  "fr": "Je suis pas sûr que ce soit le genre\nde choses qu'on dit à des jeunes\nrecrues."
  },
  {
   "n": 196,
-  "fr": "{color 12}#30WHé hé...\nJe ne te pensais pas du genre ingénu."
+  "fr": "{color 12}#30WHé hé...\nTu penses donc être une petite\nrecrue #4Rinnocente# ?"
  },
  {
   "n": 197,
-  "fr": "Et puis, je trouve que cette description correspond à\nmerveille à notre Ordre."
+  "fr": "Et puis, je trouve que cette description\ncorrespond à merveille à notre Ordre."
  },
  {
   "n": 198,
-  "fr": "On fourre notre nez partout où pourrait se trouver des\nsacrements, et on saute à la gorge des hérétiques qui\nse laisseraient séduire par ceux-ci..."
+  "fr": "On fourre notre nez partout où pourraient\nse trouver des sacrements, et on saute à la\ngorge des hérétiques séduits par ceux-ci..."
  },
  {
   "n": 199,
-  "fr": "Qu'est-ce qu'on pourrait être à part des chiens ?"
+  "fr": "Qu'est-ce qu'on pourrait être à part\ndes chiens ?"
  },
  {
   "n": 200,
-  "fr": "{color 12}#30WBon, j'ai pu m'habituer à être intimidé de la\nsorte, c'est pas ça qui va me faire peur."
+  "fr": "{color 12}#30WBon, j'ai pu m'habituer à être\nintimidé de la sorte, c'est pas ça qui\nva me faire peur."
  },
  {
   "n": 201,
@@ -809,7 +809,7 @@
  },
  {
   "n": 203,
-  "fr": "Ce n'est pas une description très convenable pour celle qui\ncompte autant à tes yeux..."
+  "fr": "Ce n'est pas une description très\nconvenable pour celle qui\ncompte autant à tes yeux..."
  },
  {
   "n": 204,
@@ -821,7 +821,7 @@
  },
  {
   "n": 206,
-  "fr": "À vrai dire, Rufina est...\nElle est comme une grande sœur pour moi."
+  "fr": "À vrai dire, Rufina est...\nElle est comme une grande sœur\npour moi."
  },
  {
   "n": 207,
@@ -841,11 +841,11 @@
  },
  {
   "n": 211,
-  "fr": "Je te croyais partie en Remiferia pour une mission..."
+  "fr": "Je te croyais partie en Remiferia\npour une mission..."
  },
  {
   "n": 212,
-  "fr": "{color 12}#30WHi hi...\nJ'ai travaillé dur pour terminer mon travail à temps et\nassister à ta cérémonie de nomination."
+  "fr": "{color 12}#30WHi hi... J'ai fait tout mon possible\npour finir mon travail à temps et\nassister à ta cérémonie de nomination."
  },
  {
   "n": 213,
@@ -853,7 +853,7 @@
  },
  {
   "n": 214,
-  "fr": "Je ne m'attendais pas à ce que tu voles de tes propres\nailes aussi vite."
+  "fr": "Je ne m'attendais pas à ce que tu\nvoles de tes propres ailes aussi vite."
  },
  {
   "n": 215,
@@ -861,11 +861,11 @@
  },
  {
   "n": 216,
-  "fr": "Hé hé, j'ai encore un long chemin à parcourir."
+  "fr": "Hé hé, j'ai encore un long chemin\nà parcourir."
  },
  {
   "n": 217,
-  "fr": "Il faut que je redouble d'efforts si je veux espérer\nvous arriver à la cheville."
+  "fr": "Il faut que je redouble d'efforts si je\nveux espérer vous arriver à la cheville."
  },
  {
   "n": 218,
@@ -877,19 +877,19 @@
  },
  {
   "n": 220,
-  "fr": "{color 12}#30WPas encore, mais je compte bien lui envoyer\nune lettre, dans la soirée si possible."
+  "fr": "{color 12}#30WPas encore, mais je compte bien\nlui envoyer une lettre, dans la soirée\nsi possible."
  },
  {
   "n": 221,
-  "fr": "Cela dit, elle semble vraiment furieuse depuis que j'ai\ndécidé de partir pour l'Artéria aussi soudainement."
+  "fr": "Cela dit, elle semble vraiment furieuse\ndepuis que j'ai décidé de partir pour\nl'Artéria aussi soudainement."
  },
  {
   "n": 222,
-  "fr": "Il faut bien que je trouve quelque chose pour la consoler."
+  "fr": "Il faut que je trouve quelque\nchose qui lui plaise."
  },
  {
   "n": 223,
-  "fr": "{color 12}#30WHi hi, nous devrions songer à lui rendre\nvisite lorsque nous aurons du temps libre."
+  "fr": "{color 12}#30WHi hi, nous devrions songer\nà lui rendre visite lorsque nous aurons\ndu temps libre."
  },
  {
   "n": 224,
@@ -897,7 +897,7 @@
  },
  {
   "n": 225,
-  "fr": "Merci d'avoir pris le temps de t'occuper de lui, même s'il a\nfallu sacrifier tes précieuses vacances."
+  "fr": "Merci d'avoir pris le temps de\nt'occuper de lui, même s'il a fallu\nsacrifier tes précieuses vacances."
  },
  {
   "n": 226,
@@ -905,15 +905,15 @@
  },
  {
   "n": 227,
-  "fr": "Il est doué aussi bien pour le combat que pour la maîtrise\nde la Thaumaturgie."
+  "fr": "Il est doué aussi bien pour le combat\nque pour la maîtrise de la Thaumaturgie."
  },
  {
   "n": 228,
-  "fr": "Mais aussi brillant soit-il dans la pratique,\non ne peut pas dire qu'il le soit dans la théorie..."
+  "fr": "Mais aussi brillant soit-il dans la\npratique, on ne peut pas dire qu'il\nle soit dans la théorie..."
  },
  {
   "n": 229,
-  "fr": "{color 12}#30W*soupire* ... C'est bien ce que je craignais."
+  "fr": "{color 12}#30W*soupire* ...\nC'est bien ce que je craignais."
  },
  {
   "n": 230,
@@ -921,15 +921,15 @@
  },
  {
   "n": 231,
-  "fr": "Oh, c'est vrai !\nJ'ai été convoqué au Bureau des affaires générales."
+  "fr": "Oh, c'est vrai !\nJ'ai été convoqué au Bureau des\naffaires générales."
  },
  {
   "n": 232,
-  "fr": "Il faut que je passe récupérer la clef de ma chambre et ma\nnouvelle médaille..."
+  "fr": "Il faut que je passe récupérer la clé\nde ma chambre et ma nouvelle médaille..."
  },
  {
   "n": 233,
-  "fr": "Allez ! À plus tard, Rufina !"
+  "fr": "Allez !\nÀ plus tard, Rufina !"
  },
  {
   "n": 234,
@@ -945,11 +945,11 @@
  },
  {
   "n": 237,
-  "fr": "Tu ne voulais pas voir les tiens s'impliquer dans un travail\naussi dangereux, peut-être ?"
+  "fr": "Tu ne voulais pas voir les tiens\ns'impliquer dans un travail\naussi dangereux, peut-être ?"
  },
  {
   "n": 238,
-  "fr": "{color 12}#30WNon...\nC'est à cet enfant qu'il revient de tracer sa propre voie."
+  "fr": "{color 12}#30WNon...\nC'est à cet enfant qu'il revient\nde tracer sa propre voie."
  },
  {
   "n": 239,
@@ -957,11 +957,11 @@
  },
  {
   "n": 240,
-  "fr": "{color 12}#30WIl est exactement comme tu me l'as vendu :\nil a le talent et la volonté."
+  "fr": "{color 12}#30WIl est exactement comme tu me\nl'as vendu. Il a le talent et la volonté."
  },
  {
   "n": 241,
-  "fr": "Il ne fait aucun doute qu'il fera un excellent Chevalier."
+  "fr": "Il ne fait aucun doute qu'il fera\nun excellent Chevalier."
  },
  {
   "n": 242,
@@ -973,27 +973,27 @@
  },
  {
   "n": 244,
-  "fr": "{color 12}#30W... Qu'il soit porteur d'un Stigma attendant\nde se manifester, comme ce fut le cas pour toi ?"
+  "fr": "{color 12}#30W... Qu'il soit porteur d'un Stigma\nattendant de se manifester, comme ce\nfut le cas pour toi ?"
  },
  {
   "n": 245,
-  "fr": "{color 12}#30WHum...\nQuelle perspicacité pour quelqu'un qui n'en a pas."
+  "fr": "{color 12}#30WHum...\nQuelle perspicacité pour quelqu'un\nqui n'en a pas."
  },
  {
   "n": 246,
-  "fr": "... C'est d'autant plus dommage que tu ne fasses pas\npartie des Dominions."
+  "fr": "... C'est d'autant plus dommage que\ntu ne fasses pas partie des Dominions."
  },
  {
   "n": 247,
-  "fr": "{color 12}#30WHa ha...\nNous sommes peut-être amies, mais je ne mérite pas\nautant de compliments."
+  "fr": "{color 12}#30WHa ha...\nNous sommes peut-être amies, mais je\nne mérite pas autant de compliments."
  },
  {
   "n": 248,
-  "fr": "Mes compétences au combat et en Thaumaturgie n'ont\nrien d'extraordinaire..."
+  "fr": "Mes compétences au combat et en\nThaumaturgie n'ont rien d'extraordinaire..."
  },
  {
   "n": 249,
-  "fr": "Le fait que je sois devenue Chevalier est en soi un exploit\nà part entière."
+  "fr": "Le fait que je sois devenue Chevalier\nest en soi un exploit à part entière."
  },
  {
   "n": 250,
@@ -1001,19 +1001,19 @@
  },
  {
   "n": 251,
-  "fr": "La fois où on a eu affaire au « Serpent »...\nJ'ai entendu dire qu'il y avait un combattant exceptionnel\ndans leurs rangs."
+  "fr": "La fois où on a eu affaire au « Serpent »...\nJ'ai entendu dire qu'il y avait un\ncombattant exceptionnel dans leurs rangs."
  },
  {
   "n": 252,
-  "fr": "J'ai aussi entendu dire que tu avais géré et résolu\ncet incident avec brio."
+  "fr": "J'ai aussi entendu dire que tu avais\ngéré et résolu cet incident avec brio."
  },
  {
   "n": 253,
-  "fr": "{color 12}#30WHi hi, j'ai juste eu la chance qu'il ait été du\ngenre raisonnable et que l'on ait pu trouver un compromis."
+  "fr": "{color 12}#30WHi hi, j'ai juste eu la chance qu'il\nait été du genre raisonnable et que\nl'on ait pu trouver un compromis."
  },
  {
   "n": 254,
-  "fr": "Mais les choses seront différentes pour Kevin.\nIl possède un talent exceptionnel qui dépasse très\nlargement le mien."
+  "fr": "Mais les choses seront différentes pour\nKevin. Il possède un talent exceptionnel\nqui dépasse très largement le mien."
  },
  {
   "n": 255,
@@ -1021,11 +1021,11 @@
  },
  {
   "n": 256,
-  "fr": "{color 12}#40W... il n'est qu'un enfant, trop gentil pour son\npropre bien."
+  "fr": "{color 12}#40W... ce n'est qu'un enfant, trop gentil\npour son propre bien."
  },
  {
   "n": 257,
-  "fr": "Cette gentillesse... va finir par le mettre au pied du mur."
+  "fr": "Cette gentillesse... va finir par le\nmettre au pied du mur."
  },
  {
   "n": 258,
@@ -1033,11 +1033,11 @@
  },
  {
   "n": 259,
-  "fr": "...Mmm..."
+  "fr": "... Mmm..."
  },
  {
   "n": 260,
-  "fr": "...Gh..."
+  "fr": "... Gh..."
  },
  {
   "n": 261,
@@ -1049,7 +1049,7 @@
  },
  {
   "n": 263,
-  "fr": "On dirait un rêve...\nMais je n'ai pas l'impression que ce soit le cas."
+  "fr": "On dirait un rêve...\nMais je n'ai pas l'impression que\nce soit le cas."
  },
  {
   "n": 264,
@@ -1065,19 +1065,19 @@
  },
  {
   "n": 267,
-  "fr": "Mais attends, je suis étonné que tu ne considères\npas Scherazard comme compagnon de boisson."
+  "fr": "Mais attends, je suis étonné que\ntu ne considères pas Scherazard\ncomme compagnon de boisson."
  },
  {
   "n": 268,
-  "fr": "Je préfère m'enivrer de la présence de Schera\nplutôt que de m'enivrer d'alcool avec elle."
+  "fr": "On peut se laisser submerger par le\ncharme de Schera, mais il ne faut jamais\nse laisser submerger par son alcool !"
  },
  {
   "n": 269,
-  "fr": "C'est une des leçons que j'ai retenu en Liberl."
+  "fr": "C'est une des leçons que j'ai\nretenues au Liberl."
  },
  {
   "n": 270,
-  "fr": "Ha ha, on dirait bien que ça valait le coup\nde retenir cette leçon."
+  "fr": "Ha ha, on dirait bien que ça valait\nle coup de retenir cette leçon."
  },
  {
   "n": 271,
@@ -1085,7 +1085,7 @@
  },
  {
   "n": 272,
-  "fr": "... Vous pouvez nous expliquer ce qu'il se\npasse ici ?"
+  "fr": "... Vous pouvez nous expliquer ce\nqu'il se passe ici ?"
  },
  {
   "n": 273,
@@ -1101,7 +1101,7 @@
  },
  {
   "n": 276,
-  "fr": "Ça vous perturbe pas le moins du monde de\nvous retrouver dans une situation pareille."
+  "fr": "Ça vous perturbe pas le moins du\nmonde de vous retrouver dans une\nsituation pareille."
  },
  {
   "n": 277,
@@ -1113,11 +1113,11 @@
  },
  {
   "n": 279,
-  "fr": "Aussi difficile à croire que cela puisse être,\nc'est la situation dans laquelle nous nous\ntrouvons."
+  "fr": "Aussi difficile à croire que cela\npuisse être, c'est la situation dans\nlaquelle nous nous trouvons."
  },
  {
   "n": 280,
-  "fr": "Tout ce que nous pouvons faire, c'est l'accepter\net chercher des solutions pour nous en sortir."
+  "fr": "Tout ce que nous pouvons faire,\nc'est l'accepter et chercher des\nsolutions pour nous d'en sortir."
  },
  {
   "n": 281,
@@ -1125,11 +1125,11 @@
  },
  {
   "n": 282,
-  "fr": "Après tout, j'ai déjà accepté le fait que\ncette situation est notre réalité."
+  "fr": "Après tout, j'ai déjà accepté le\nfait que cette situation est notre\nréalité."
  },
  {
   "n": 283,
-  "fr": "... Alors dis-moi, pourquoi fais-tu donc cette\ntête ?"
+  "fr": "... Alors dis-moi, pourquoi fais-tu\ndonc cette tête ?"
  },
  {
   "n": 284,
@@ -1137,7 +1137,7 @@
  },
  {
   "n": 285,
-  "fr": "Il y a ce cher Joshua, Son Altesse Klaudia,\nla petite Tita et cette chère Josette..."
+  "fr": "Il y a ce cher Joshua, Son Altesse\nKlaudia, la petite Tita et cette\nchère Josette..."
  },
  {
   "n": 286,
@@ -1181,15 +1181,15 @@
  },
  {
   "n": 296,
-  "fr": "Bien entendu, je suis moi aussi partant pour\nvous venir en aide..."
+  "fr": "Bien entendu, je suis moi aussi\npartant pour vous venir en aide..."
  },
  {
   "n": 297,
-  "fr": "... Mais avant ça, il y a des choses qu'on\nsouhaite confirmer avec vous."
+  "fr": "... Mais avant ça, tu dois avoir\ndes questions, non ?"
  },
  {
   "n": 298,
-  "fr": "Tu veux bien, Olivert ?"
+  "fr": "Moi j'en ai en tout cas."
  },
  {
   "n": 299,
@@ -1197,7 +1197,7 @@
  },
  {
   "n": 300,
-  "fr": "Il semblerait que tu aies eu les mêmes\nquestions que moi en écoutant ce qu'ils\navaient à dire."
+  "fr": "Il semblerait que tu aies eu les\nmêmes interrogations que moi en\nécoutant ce qu'ils avaient à dire."
  },
  {
   "n": 301,
@@ -1213,7 +1213,7 @@
  },
  {
   "n": 304,
-  "fr": "Tout d'abord, à propos du fantôme de\ncette femme que vous avez vue à plusieurs\nreprises."
+  "fr": "Tout d'abord, à propos du fantôme\nde cette femme que vous avez vue à\nplusieurs reprises."
  },
  {
   "n": 305,
@@ -1221,15 +1221,15 @@
  },
  {
   "n": 306,
-  "fr": "C'est vrai... La première fois que vous l'avez\nrencontrée, c'était dans les quartiers de la\nreine au château de Grancel ?"
+  "fr": "C'est vrai... La première fois que vous\nl'avez rencontrée, c'était dans les quartiers\nde la reine au château de Grancel ?"
  },
  {
   "n": 307,
-  "fr": "Oui...\nElle nous a donné la clef qui nous a permis\nd'arriver jusqu'à vous, Votre Altesse."
+  "fr": "Oui... Elle nous a donné la clé qui\nnous a permis d'arriver jusqu'à vous,\nVotre Altesse."
  },
  {
   "n": 308,
-  "fr": "Cela dit...\nIl semblerait que ce ne soit pas la première\nfois qu'elle s'est manifestée."
+  "fr": "Cela dit... Il semblerait que ce ne\nsoit pas la première fois qu'elle\ns'est manifestée."
  },
  {
   "n": 309,
@@ -1241,7 +1241,7 @@
  },
  {
   "n": 311,
-  "fr": "Tout porte à croire qu'il s'agissait de\ncette femme."
+  "fr": "Tout porte à croire qu'il s'agissait\nde cette femme."
  },
  {
   "n": 312,
@@ -1249,15 +1249,15 @@
  },
  {
   "n": 313,
-  "fr": "Au début, ce n'était qu'une voix, mais\nmaintenant elle commence à prendre forme..."
+  "fr": "Au début, ce n'était qu'une voix,\nmais maintenant elle commence\nà prendre forme..."
  },
  {
   "n": 314,
-  "fr": "Ça semble coïncider avec ce que nous a\ndit l'homme en noir."
+  "fr": "Ça semble coïncider avec ce que\nnous a dit l'homme en noir."
  },
  {
   "n": 315,
-  "fr": "Ouais, il l'a appelée « Ermite » et a affirmé\nque le « Maître » s'est emparé de ses\npouvoirs..."
+  "fr": "Ouais, il l'a appelée « Ermite » et\na affirmé que le « Maître » s'est\nemparé de ses pouvoirs..."
  },
  {
   "n": 316,
@@ -1289,35 +1289,35 @@
  },
  {
   "n": 323,
-  "fr": "Hmm... J'y vois un peu plus clair maintenant."
+  "fr": "Hmm...\nJ'y vois un peu plus clair maintenant."
  },
  {
   "n": 324,
-  "fr": "On dirait que c'était cette femme qui était\nici à l'origine."
+  "fr": "On dirait que c'était cette femme\nqui était ici à l'origine."
  },
  {
   "n": 325,
-  "fr": "Mais le « Maître de Phantasma » est venu\net lui a volé ses pouvoirs, la réduisant à\ncet état."
+  "fr": "Mais le « Maître de Phantasma » est\nvenu et lui a volé ses pouvoirs, la\nréduisant à cet état."
  },
  {
   "n": 326,
-  "fr": "Malgré ça, elle s'efforce de nous venir en\naide comme elle peut."
+  "fr": "Malgré ça, elle s'efforce de nous\nvenir en aide comme elle peut."
  },
  {
   "n": 327,
-  "fr": "... Dans ce cas, on peut supposer que les\nmonuments disséminés un peu partout\nsont aussi liés à elle."
+  "fr": "... Dans ce cas, on peut supposer\nque les monuments disséminés un\npeu partout sont aussi liés à elle."
  },
  {
   "n": 328,
-  "fr": "Comme s'ils étaient placés afin de nous\nguider..."
+  "fr": "Comme s'ils étaient placés afin de\nnous guider..."
  },
  {
   "n": 329,
-  "fr": "Aussi, je dirais qu'il y a un élément supplémentaire\nque nous pouvons lui attribuer."
+  "fr": "Aussi, je dirais qu'il y a un élément\nsupplémentaire que nous pouvons\nlui attribuer."
  },
  {
   "n": 330,
-  "fr": "Père Kevin...\nJe veux parler de ce « Cube » que vous tenez."
+  "fr": "Père Kevin...\nJe veux parler de ce « Cube » que\nvous tenez."
  },
  {
   "n": 331,
@@ -1325,11 +1325,11 @@
  },
  {
   "n": 332,
-  "fr": "J'ignore encore la nature réelle de ce\n« Cube » pour l'instant..."
+  "fr": "J'ignore encore la nature réelle\nde ce « Cube » pour l'instant..."
  },
  {
   "n": 333,
-  "fr": "Pourtant, je ne pense pas me tromper en\naffirmant qu'il pourrait être lié à elle."
+  "fr": "Pourtant, je ne pense pas me tromper\nen affirmant qu'il pourrait être lié à elle."
  },
  {
   "n": 334,
@@ -1337,23 +1337,23 @@
  },
  {
   "n": 335,
-  "fr": "... Ma foi, je suis impressioné."
+  "fr": "... Ma foi, je suis impressionné."
  },
  {
   "n": 336,
-  "fr": "Pour être honnête, je m'attendais pas à\nce que tu puisses analyser la situation\naussi vite."
+  "fr": "Pour être honnête, je m'attendais\npas à ce que tu puisses analyser\nla situation aussi vite."
  },
  {
   "n": 337,
-  "fr": "Mais bon, maintenant qu'on sait ça...\nÇa nous fait un autre objectif en plus\nde continuer à avancer."
+  "fr": "Mais bon, maintenant qu'on sait ça...\nÇa nous donne une autre raison de\ncontinuer à avancer."
  },
  {
   "n": 338,
-  "fr": "J'imagine que nous en saurons plus si\nnous parvenons à restaurer ses pouvoirs..."
+  "fr": "J'imagine que nous en saurons plus\nsi nous parvenons à restaurer ses\npouvoirs..."
  },
  {
   "n": 339,
-  "fr": "C'est ce que vous voulez dire, n'est-ce pas ?"
+  "fr": "C'est ce que vous voulez dire,\nn'est-ce pas ?"
  },
  {
   "n": 340,
@@ -1373,7 +1373,7 @@
  },
  {
   "n": 344,
-  "fr": "... En fait, il y a une dernière chose que je\nsouhaite vérifier."
+  "fr": "... En fait, il y a une dernière\nchose que je souhaite vérifier."
  },
  {
   "n": 345,
@@ -1397,11 +1397,11 @@
  },
  {
   "n": 350,
-  "fr": "Ayant entendu votre histoire, j'ai la nette\nimpression qu'il s'intéresse beaucoup à toi."
+  "fr": "Ayant entendu votre histoire,\nj'ai la nette impression qu'il\ns'intéresse beaucoup à toi."
  },
  {
   "n": 351,
-  "fr": "Le fait qu'il connaisse aussi la défunte\nsœur de Ries est tout aussi intriguant..."
+  "fr": "Le fait qu'il connaisse aussi la\ndéfunte sœur de Ries est tout\naussi intriguant..."
  },
  {
   "n": 352,
@@ -1413,11 +1413,11 @@
  },
  {
   "n": 354,
-  "fr": "... Malheureusement, je crois que j'en ai\npas la moindre idée."
+  "fr": "... Malheureusement, je ne sais\nabsolument rien à son sujet."
  },
  {
   "n": 355,
-  "fr": "Très franchement, j'ai plutôt l'impression\nque son ennemi est l'Ordre des Gralsritter\net pas particulièrement moi."
+  "fr": "Très franchement, j'ai plutôt l'impression\nque son ennemi est l'Ordre des Gralsritter\net moi particulièrement."
  },
  {
   "n": 356,
@@ -1429,31 +1429,31 @@
  },
  {
   "n": 358,
-  "fr": "Ma foi, on ne peut pas dire que je sois en\nreste non plus quand il s'agit de se mettre\ndes gens à dos."
+  "fr": "Ma foi, on ne peut pas dire que je sois\nen reste non plus quand il s'agit de\nse mettre des gens à dos."
  },
  {
   "n": 359,
-  "fr": "Sérieusement... Ne fais pas comme si\nce n'était pas un problème."
+  "fr": "Sérieusement... Ne fais pas comme\nsi ce n'était pas un problème."
  },
  {
   "n": 360,
-  "fr": "... On dirait bien qu'on ne pourra pas\nrévéler l'identité de l'ennemi pour l'instant."
+  "fr": "... On dirait bien qu'on ne pourra\npas révéler l'identité de l'ennemi\npour l'instant."
  },
  {
   "n": 361,
-  "fr": "Ce serait bien qu'on puisse avoir plus\nd'informations à leur sujet..."
+  "fr": "Ce serait bien qu'on puisse avoir\nplus d'informations à leur sujet..."
  },
  {
   "n": 362,
-  "fr": "Ouais, il faudra qu'on saisisse cette chance\nla prochaine fois qu'on les croisera."
+  "fr": "Ouais, il faudra qu'on saisisse\ncette chance la prochaine fois\nqu'on les croisera."
  },
  {
   "n": 363,
-  "fr": "... Sur ce, il est temps encore une fois de\r\nse préparer avant de reprendre là où on\r\ns'était arrêtés."
+  "fr": "... Sur ce, ça serait pas une mauvaise\nidée de se préparer avant de reprendre\nlà où on s'était arrêtés."
  },
  {
   "n": 364,
-  "fr": "Notre objectif est le quatrième plan.\nUtilisons le cercle de téléportation au point\nde rendez-vous et allons-y."
+  "fr": "Notre objectif est le quatrième plan.\nUtilisons le cercle de téléportation\nau point de rendez-vous et allons-y."
  },
  {
   "n": 365,
@@ -1465,7 +1465,7 @@
  },
  {
   "n": 367,
-  "fr": "Y a un truc qu'on a oublié de mentionner,\npeut-être ?"
+  "fr": "Y a un truc qu'on a oublié de\nmentionner, peut-être ?"
  },
  {
   "n": 368,
@@ -1473,7 +1473,7 @@
  },
  {
   "n": 369,
-  "fr": "C'est juste que je ne me sens pas très bien.\nJe ne pourrai pas venir avec vous cette fois."
+  "fr": "C'est juste que je ne me sens pas\ntrès bien. Je ne pourrai pas venir\navec vous cette fois."
  },
  {
   "n": 370,
@@ -1485,7 +1485,7 @@
  },
  {
   "n": 372,
-  "fr": "Je doute qu'il fasse quoi que ce soit d'insensé,\nmais il a parfois tendance à bâcler le travail."
+  "fr": "Je doute qu'il fasse quoi que ce\nsoit d'insensé, mais il a parfois\ntendance à bâcler le travail."
  },
  {
   "n": 373,
@@ -1501,7 +1501,7 @@
  },
  {
   "n": 376,
-  "fr": "... Qu'y a-t-il ?\nTu ne vas pas la retrouver ?"
+  "fr": "... Qu'y a-t-il ?\nTu ne vas pas la rattraper ?"
  },
  {
   "n": 377,
@@ -1509,7 +1509,7 @@
  },
  {
   "n": 378,
-  "fr": "... Désolé.\nJe reviens vite après ça."
+  "fr": "... Désolé.\nJe reviens vite."
  },
  {
   "n": 379,
@@ -1525,15 +1525,15 @@
  },
  {
   "n": 382,
-  "fr": "Justice pour toutes les choses mignonnes..."
+  "fr": "Justice pour toutes les choses\nmignonnes..."
  },
  {
   "n": 383,
-  "fr": "Tout ce qui est mignon amène le bonheur..."
+  "fr": "Tout ce qui est mignon amène\nle bonheur..."
  },
  {
   "n": 384,
-  "fr": "Mon amour pour les choses mignonnes ne\nconnaît aucune limite..."
+  "fr": "Mon amour pour les choses mignonnes\nne connaît aucune limite..."
  },
  {
   "n": 385,
@@ -1549,19 +1549,19 @@
  },
  {
   "n": 388,
-  "fr": "Ha ha, je ne me sens pas l'envie de venir\nla réveiller dans ces circonstances..."
+  "fr": "Ha ha, je ne me sens pas l'envie\nde la réveiller dans ces circonstances..."
  },
  {
   "n": 389,
-  "fr": "Ha, nous n'avons pas d'autre solution."
+  "fr": "Ha, dans ce cas j'imagine que nous\nn'avons pas d'autre solution."
  },
  {
   "n": 390,
-  "fr": "Je vais me poser à ses côtés et m'endormir,\nainsi je l'emmènerai vers un paradis\nencore meilleur..."
+  "fr": "Je vais me glisser à ses côtés pour faire\nun somme, ainsi je pourrai l'entraîner\nvers un paradis encore plus voluptueux..."
  },
  {
   "n": 391,
-  "fr": "... Je peux t'aider à t'endormir, si tu veux.\nUn seul coup suffirait pour ça."
+  "fr": "... Je peux t'aider à t'endormir,\nsi tu veux. Un seul coup suffirait\npour ça."
  },
  {
   "n": 392,
@@ -1605,7 +1605,7 @@
  },
  {
   "n": 402,
-  "fr": "Mmm...\nPour rien au monde je ne passerais à côté\nde Tita, Joshua ou de la princesse..."
+  "fr": "Mmm... Pour rien au monde je ne\npasserais à côté de Tita, Joshua\nou de la princesse..."
  },
  {
   "n": 403,
@@ -1621,23 +1621,23 @@
  },
  {
   "n": 406,
-  "fr": "Oh, mais Zin me fait trop penser à un\nours en peluche, c'est curieux..."
+  "fr": "Oh, mais Zin me fait trop penser à\nun ours en peluche, c'est curieux..."
  },
  {
   "n": 407,
-  "fr": "Et les cheveux de Kevin sont tels un oursin,\nça aussi c'est plutôt mignon..."
+  "fr": "Et les cheveux de Kevin sont tels\nun oursin, ça aussi c'est plutôt\nmignon..."
  },
  {
   "n": 408,
-  "fr": "Hi hi hi... Tant de nouvelles peluches,\nrien que pour moi..."
+  "fr": "Hi hi hi... Tant de nouvelles\npeluches, rien que pour moi..."
  },
  {
   "n": 409,
-  "fr": "J'ai l'impression qu'elle nous prend pour\ndes peluches grandeur nature..."
+  "fr": "J'ai l'impression qu'elle nous\nprend pour des peluches grandeur\nnature..."
  },
  {
   "n": 410,
-  "fr": "C-C'est incroyable de somnoler de cette\nfaçon..."
+  "fr": "C-C'est incroyable de somnoler de\ncette façon..."
  },
  {
   "n": 411,
@@ -1645,7 +1645,7 @@
  },
  {
   "n": 412,
-  "fr": "Je pensais tellement en avoir de nouvelles\ndans ma collection..."
+  "fr": "Je pensais tellement en avoir de\nnouvelles dans ma collection..."
  },
  {
   "n": 413,
@@ -1653,7 +1653,7 @@
  },
  {
   "n": 414,
-  "fr": "J'arrive pas à croire que ce soit ÇA, ta\npremière réaction après qu'on t'ait tout\nexpliqué..."
+  "fr": "J'arrive pas à croire que ce soit\nÇA, ta première réaction après\nqu'on t'a tout expliqué..."
  },
  {
   "n": 415,
@@ -1661,11 +1661,11 @@
  },
  {
   "n": 416,
-  "fr": "C'est pas encore tout à fait intégré...\nmais je vois que vous plaisantez pas."
+  "fr": "J'ai pas encore tout bien intégré...\nmais je vois que vous plaisantez pas."
  },
  {
   "n": 417,
-  "fr": "Et puis, il me suffit de voir à quel point\nTita est mignonne pour me rendre compte\nque c'est réel !"
+  "fr": "Et puis, il me suffit de voir à\nquel point Tita est mignonne pour\nme rendre compte que c'est réel !"
  },
  {
   "n": 418,
@@ -1673,7 +1673,7 @@
  },
  {
   "n": 419,
-  "fr": "Eh ben, content de voir que ça te convienne."
+  "fr": "Eh ben, content de voir que ça\nte convienne."
  },
  {
   "n": 420,
@@ -1685,15 +1685,15 @@
  },
  {
   "n": 422,
-  "fr": "En tant que bracer, il est hors de question\nque je me tourne les pouces dans une\nsituation pareille !"
+  "fr": "En tant que bracer, il est hors de\nquestion que je me tourne les pouces\ndans une situation pareille !"
  },
  {
   "n": 423,
-  "fr": "Et puis...\nS'il se passe des trucs bizarres à Le Locle\ncomme j'ai entendu dire..."
+  "fr": "Et puis...\nS'il se passe des trucs bizarres à\nLe Locle comme j'ai entendu dire..."
  },
  {
   "n": 424,
-  "fr": "On va peut-être tomber sur d'autres bracers\nqui sont dans la même situation que moi."
+  "fr": "On va peut-être tomber sur d'autres\nbracers qui sont dans la même situation\nque moi."
  },
  {
   "n": 425,
@@ -1709,7 +1709,7 @@
  },
  {
   "n": 428,
-  "fr": "Quoi qu'il en soit, c'était juste le premier\n« terrain d'entraînement »."
+  "fr": "Quoi qu'il en soit, c'était juste\nle premier « terrain d'entraînement »."
  },
  {
   "n": 429,
@@ -1757,11 +1757,11 @@
  },
  {
   "n": 440,
-  "fr": "Ouais, elle a décidé de faire cette coupe\nil y a environ un mois."
+  "fr": "Ouais, elle a décidé de faire cette\ncoupe il y a environ un mois."
  },
  {
   "n": 441,
-  "fr": "Elle en a aussi profité pour se trouver\nd'autres vêtements."
+  "fr": "Elle en a aussi profité pour se\ntrouver d'autres vêtements."
  },
  {
   "n": 442,
@@ -1769,7 +1769,7 @@
  },
  {
   "n": 443,
-  "fr": "Je ne devrais pas me sentir dans cet état\navec aussi peu d'alcool..."
+  "fr": "Je ne devrais pas me sentir dans\ncet état avec aussi peu d'alcool..."
  },
  {
   "n": 444,
@@ -1801,7 +1801,7 @@
  },
  {
   "n": 451,
-  "fr": "Attends, j'ai l'impression que tu as pris\nun peu de muscle entre-temps."
+  "fr": "Attends, j'ai l'impression que tu\nas pris un peu de muscle entre-temps."
  },
  {
   "n": 452,
@@ -1813,7 +1813,7 @@
  },
  {
   "n": 454,
-  "fr": "Ma chère Schera, je suis ton fidèle serviteur\net l'homme qui a volé ton cœur !"
+  "fr": "Ma chère Schera, je suis ton fidèle\nserviteur et l'homme qui a volé ton\ncœur !"
  },
  {
   "n": 455,
@@ -1821,15 +1821,15 @@
  },
  {
   "n": 456,
-  "fr": "... Maintenant que j'y pense, je vois beaucoup\nde visages familiers..."
+  "fr": "... Maintenant que j'y pense, je vois\nbeaucoup de visages familiers..."
  },
  {
   "n": 457,
-  "fr": "Et j'ai l'impression qu'il se passe quelque\nchose de louche ici..."
+  "fr": "Et j'ai l'impression qu'il se passe\nquelque chose de louche ici..."
  },
  {
   "n": 458,
-  "fr": "Raah, que se passe-t-il ici ?!"
+  "fr": "Raah, qu'est-ce qui se passe ici ?!"
  },
  {
   "n": 459,
@@ -1837,27 +1837,27 @@
  },
  {
   "n": 460,
-  "fr": "Hi hi...\nCe n'est pas étonnant que tu sois surprise."
+  "fr": "Hi hi...\nCe n'est pas étonnant que tu sois\nsurprise."
  },
  {
   "n": 461,
-  "fr": "Ouais, c'est une réaction plutôt normale\nvu l'endroit."
+  "fr": "Ouais, c'est une réaction plutôt\nnormale vu l'endroit."
  },
  {
   "n": 462,
-  "fr": "Ahem...\nJe pense avoir compris ce qu'il se passe."
+  "fr": "Ahem...\nJe pense avoir compris ce qu'il\nse passe."
  },
  {
   "n": 463,
-  "fr": "Pour être franche, ce n'est pas le genre\nd'histoires que j'aurais tendance à croire\nen temps normal."
+  "fr": "Pour être franche, ce n'est pas le\ngenre d'histoires que j'aurais tendance\nà croire en temps normal."
  },
  {
   "n": 464,
-  "fr": "J'aurais même moins de mal à croire que\nce soit un rêve sous l'effet de l'alcool\nou un mauvais tour de Luci."
+  "fr": "J'aurais même moins de mal à croire\nque ce soit un rêve sous l'effet de\nl'alcool ou un mauvais tour de Luci."
  },
  {
   "n": 465,
-  "fr": "Ha ha... Je comprends tout à fait que tu\npuisses penser ça."
+  "fr": "Ha ha... Je comprends tout à fait\nque tu puisses penser ça."
  },
  {
   "n": 466,
@@ -1865,7 +1865,7 @@
  },
  {
   "n": 467,
-  "fr": "Je n'arrive pas à croire que tu puisses\nconsidérer que je ne suis pas réel même\nen me voyant ainsi !"
+  "fr": "Je n'arrive pas à croire que tu puisses\nconsidérer que je ne suis pas réel\nmême en me voyant ainsi !"
  },
  {
   "n": 468,
@@ -1873,11 +1873,11 @@
  },
  {
   "n": 469,
-  "fr": "En premier lieu, je n'arrive pas à imaginer\nqui pourrait produire une illusion aussi\nridicule."
+  "fr": "En premier lieu, je n'arrive pas à\nimaginer qui pourrait produire une\nillusion aussi ridicule."
  },
  {
   "n": 470,
-  "fr": "De plus, cela me paraît beaucoup trop\ncohérent pour n'être qu'un rêve."
+  "fr": "De plus, cela me paraît beaucoup\ntrop cohérent pour n'être qu'un rêve."
  },
  {
   "n": 471,
@@ -1897,11 +1897,11 @@
  },
  {
   "n": 475,
-  "fr": "De ce que j'ai compris, il y a fort à parier\nque Estelle se retrouve mêlée à tout ceci."
+  "fr": "De ce que j'ai compris, il y a fort\nà parier qu'Estelle se retrouve\nmêlée à tout ceci."
  },
  {
   "n": 476,
-  "fr": "Je serais ravie de lui venir en aide, je suis\nsa grande sœur après tout, en plus d'être\nune bracer."
+  "fr": "Je serais ravie de lui venir en aide,\nje suis sa grande sœur après tout,\nen plus d'être une bracer."
  },
  {
   "n": 477,
@@ -1917,11 +1917,11 @@
  },
  {
   "n": 480,
-  "fr": "... Bon, je pense qu'on t'a bien expliqué\nla situation dans laquelle on se trouve."
+  "fr": "... Bon, je pense qu'on t'a bien\nexpliqué la situation dans laquelle\non se trouve."
  },
  {
   "n": 481,
-  "fr": "Il serait temps qu'on retourne explorer\nle « quatrième plan »."
+  "fr": "Il serait temps qu'on retourne\nexplorer le « quatrième plan »."
  },
  {
   "n": 482,
@@ -1929,11 +1929,11 @@
  },
  {
   "n": 483,
-  "fr": "Je connais l'endroit, je m'y étais rendue\nil y a quelques années, quand j'étais\nencore une apprentie."
+  "fr": "Je connais l'endroit, je m'y étais\nrendue il y a quelques années,\nquand j'étais encore une apprentie."
  },
  {
   "n": 484,
-  "fr": "En y réfléchissant... il ne serait pas\nétonnant d'y retrouver d'autres gens qui\nont suivi leur formation là-bas."
+  "fr": "En y réfléchissant... il ne serait pas\nétonnant d'y retrouver d'autres bracers\nqui ont suivi leur formation là-bas."
  },
  {
   "n": 485,
@@ -1941,11 +1941,11 @@
  },
  {
   "n": 486,
-  "fr": "Ça serait logique qu'on y retrouve Estelle..."
+  "fr": "Il serait logique qu'on y retrouve\nEstelle..."
  },
  {
   "n": 487,
-  "fr": "Mais on pourrait tout aussi bien tomber\nsur Kurt, Grant ou Carna."
+  "fr": "Mais on pourrait tout aussi bien\ntomber sur Kurt, Grant ou Carna."
  },
  {
   "n": 488,
@@ -1953,11 +1953,11 @@
  },
  {
   "n": 489,
-  "fr": "À ma connaissance, ces trois-là ont surtout\nété présents en tant qu'instructeurs."
+  "fr": "À ma connaissance, ces trois-là\nont surtout été présents en tant\nqu'instructeurs."
  },
  {
   "n": 490,
-  "fr": "Je n'ai pas le souvenir qu'il aient un jour\nutilisé le centre d'entraînement pour\naffiner leurs compétences."
+  "fr": "Je n'ai pas le souvenir qu'ils aient\nun jour utilisé le centre d'entraînement\npour affiner leurs compétences."
  },
  {
   "n": 491,
@@ -1973,15 +1973,15 @@
  },
  {
   "n": 494,
-  "fr": "Oui... il me semble qu'il est déjà venu\nune fois."
+  "fr": "Oui... il me semble qu'il est déjà\nvenu une fois."
  },
  {
   "n": 495,
-  "fr": "C'est Maître Cassius qui l'a convaincu de\ns'y rendre. On ne peut pas dire que ce\nfut agréable pour lui, cependant."
+  "fr": "C'est Maître Cassius qui l'a convaincu\nde s'y rendre. On ne peut pas dire que\nce fut agréable pour lui, cependant."
  },
  {
   "n": 496,
-  "fr": "C'était il y a environ quatre ans, je crois."
+  "fr": "C'était il y a environ quatre ans,\nje crois."
  },
  {
   "n": 497,
@@ -1989,7 +1989,7 @@
  },
  {
   "n": 498,
-  "fr": "Ça veut dire que Estelle et Agate pourraient\nêtre emprisonnés là-bas..."
+  "fr": "Ça veut dire qu'Estelle et Agate\npourraient être emprisonnés là-bas..."
  },
  {
   "n": 499,
@@ -1997,7 +1997,7 @@
  },
  {
   "n": 500,
-  "fr": "... Tout ira bien.\n#1168FJe suis sûre qu'ils vont bien."
+  "fr": "... Tout ira bien.{wait}\n#1168FJe suis sûre qu'ils vont bien."
  },
  {
   "n": 501,
@@ -2009,11 +2009,11 @@
  },
  {
   "n": 503,
-  "fr": "Nous devrions découvrir qui est détenu\nà l'intérieur lorsque nous y serons."
+  "fr": "Nous devrions découvrir qui est\ndétenu à l'intérieur lorsque nous\ny serons."
  },
  {
   "n": 504,
-  "fr": "Bien, préparons-nous et allons-y dès\nque nous aurons fini."
+  "fr": "Bien, préparons-nous et allons-y\ndès que nous aurons fini."
  },
  {
   "n": 505,
@@ -2025,7 +2025,7 @@
  },
  {
   "n": 507,
-  "fr": "Ouais. On en connaît pas beaucoup avec\ndes cheveux rouges comme les siens."
+  "fr": "Ouais. On en connaît pas beaucoup\navec des cheveux rouges comme les\nsiens."
  },
  {
   "n": 508,
@@ -2045,7 +2045,7 @@
  },
  {
   "n": 512,
-  "fr": "Tiens, t'es là, Tita.\nJe te croyais partie préparer le repas..."
+  "fr": "Tiens, t'es là, Tita.\nJe te croyais partie préparer\nle repas..."
  },
  {
   "n": 513,
@@ -2053,7 +2053,7 @@
  },
  {
   "n": 514,
-  "fr": "C'est pas normal, je me souviens avoir\ncroisé ton vieux après avoir quitté\nl'aérogare..."
+  "fr": "C'est pas normal, je me souviens\navoir croisé ton vieux après avoir\nquitté l'aérogare..."
  },
  {
   "n": 515,
@@ -2061,7 +2061,7 @@
  },
  {
   "n": 516,
-  "fr": "H-Hé oh...\nQuelle mouche t'a piquée, tout d'un coup..."
+  "fr": "H-Hé oh...\nQuelle mouche t'a piquée, tout\nd'un coup..."
  },
  {
   "n": 517,
@@ -2093,11 +2093,11 @@
  },
  {
   "n": 524,
-  "fr": "Il y a tant de trucs à dire, ça serait plutôt\nlong de tout te raconter."
+  "fr": "Il y a tant de trucs à dire,\nça serait plutôt long de\ntout te raconter."
  },
  {
   "n": 525,
-  "fr": "Tu sais que nous sommes là, nous aussi."
+  "fr": "Tu sais que nous sommes là, nous\naussi."
  },
  {
   "n": 526,
@@ -2109,23 +2109,23 @@
  },
  {
   "n": 528,
-  "fr": "Je t'envie, Agate.\nToi et Tita allez toujours aussi bien\nensemble..."
+  "fr": "Je t'envie, Agate.\nToi et Tita allez toujours aussi\nbien ensemble..."
  },
  {
   "n": 529,
-  "fr": "Ha, tu es certainement l'homme le plus\nchanceux de tout le continent."
+  "fr": "Ha, tu es certainement l'homme le\nplus chanceux de tout le continent."
  },
  {
   "n": 530,
-  "fr": "Bande d'abrutis !\nArrêtez d'insinuer tout et n'importe quoi !"
+  "fr": "Bande d'abrutis !\nArrêtez d'insinuer tout et n'importe\nquoi !"
  },
  {
   "n": 531,
-  "fr": "Hi hi hi...\nDésolée, je ne pouvais pas m'en empêcher."
+  "fr": "Hi hi hi...\nDésolée, je ne pouvais pas m'en\nempêcher."
  },
  {
   "n": 532,
-  "fr": "Bien, maintenant il ne nous reste plus qu'à\nretrouver Estelle !"
+  "fr": "Bien, maintenant il ne nous reste\nplus qu'à retrouver Estelle !"
  },
  {
   "n": 533,
@@ -2137,15 +2137,15 @@
  },
  {
   "n": 535,
-  "fr": "Me dites pas que c'est encore un piège\ntendu par Erika ?!"
+  "fr": "Me dites pas que c'est encore\nun piège tendu par Erika ?!"
  },
  {
   "n": 536,
-  "fr": "Sacrée professeure Erika...\nSon aversion pour Agate doit avoir aucune\nlimite..."
+  "fr": "Sacrée professeure Erika...\nSon aversion pour Agate ne doit\navoir aucune limite..."
  },
  {
   "n": 537,
-  "fr": "... On dirait qu'il s'est passé beaucoup de\nchoses depuis que tes parents sont\nrevenus."
+  "fr": "... On dirait qu'il s'est passé beaucoup\nde choses depuis que tes parents\nsont revenus."
  },
  {
   "n": 538,
@@ -2157,7 +2157,7 @@
  },
  {
   "n": 540,
-  "fr": "Je suis toujours pas convaincu, mais c'est\nmieux que de continuer à me plaindre."
+  "fr": "Je suis toujours pas convaincu,\nmais c'est mieux que de continuer\nà me plaindre."
  },
  {
   "n": 541,
@@ -2169,19 +2169,19 @@
  },
  {
   "n": 543,
-  "fr": "Ha ha, tu es toujours aussi rapide à\ncomprendre, je vois."
+  "fr": "Ha ha, tu es toujours aussi rapide\nà saisir, je vois."
  },
  {
   "n": 544,
-  "fr": "Je veux bien répondre à tes questions si\ntu en as encore."
+  "fr": "Je veux bien répondre à tes\nquestions si tu en as encore."
  },
  {
   "n": 545,
-  "fr": "C'est bon, j'en sais déjà assez avec tout\nce que tu as dit."
+  "fr": "C'est bon, j'en sais déjà assez avec\ntout ce que tu as dit."
  },
  {
   "n": 546,
-  "fr": "Pour le reste, je verrai par moi-même ou\nje demanderai aux autres."
+  "fr": "Pour le reste, je verrai par moi-même\nou je demanderai aux autres."
  },
  {
   "n": 547,
@@ -2189,7 +2189,7 @@
  },
  {
   "n": 548,
-  "fr": "Il faut qu'on la retrouve le plus vite\npossible."
+  "fr": "Il faut qu'on la retrouve le plus\nvite possible."
  },
  {
   "n": 549,
@@ -2213,7 +2213,7 @@
  },
  {
   "n": 554,
-  "fr": "Tu as pu devenir plus fort pendant ton\nvoyage à l'étranger ?"
+  "fr": "Tu as pu devenir plus fort pendant\nton voyage à l'étranger ?"
  },
  {
   "n": 555,
@@ -2221,7 +2221,7 @@
  },
  {
   "n": 556,
-  "fr": "Mais j'ai l'impression que Estelle a fait\nbien plus de progrès que moi."
+  "fr": "Mais j'ai l'impression que Estelle\na fait bien plus de progrès que moi."
  },
  {
   "n": 557,
@@ -2281,7 +2281,7 @@
  },
  {
   "n": 571,
-  "fr": "Ne t'en fais pas, on comprend tout à\r\nfait ㈱"
+  "fr": "Ne t'en fais pas, on comprend\ntout à fait ㈱"
  },
  {
   "n": 572,
@@ -2309,7 +2309,7 @@
  },
  {
   "n": 578,
-  "fr": "(Bonté divine...\r\nIl est difficile de nous croire en péril en les voyant\r\nainsi.)"
+  "fr": "(Bonté divine...\n Il est difficile de nous croire\n en péril en les voyant ainsi.)"
  },
  {
   "n": 579,
@@ -2333,7 +2333,7 @@
  },
  {
   "n": 584,
-  "fr": "... Désolé.\r\nElle est actuellement dans la zone de la bibliothèque,\r\nmais c'est compliqué en ce moment..."
+  "fr": "... Désolé. Elle est actuellement\nà la bibliothèque, mais c'est\ncompliqué en ce moment..."
  },
  {
   "n": 585,
@@ -2345,11 +2345,11 @@
  },
  {
   "n": 587,
-  "fr": "Moi aussi, j'ai pu lui parler...\r\nC'est une fille intéressante, elle a son petit\r\ncaractère."
+  "fr": "Moi aussi, j'ai pu lui parler...\nC'est une fille intéressante, elle\na son petit caractère."
  },
  {
   "n": 588,
-  "fr": "Mais comme elle n'avait pas très enthousiaste,\r\nla conversation n'est pas allée très loin."
+  "fr": "Mais comme elle n'avait pas vraiment\nla forme, la conversation n'est pas\nallée très loin."
  },
  {
   "n": 589,
@@ -2357,7 +2357,7 @@
  },
  {
   "n": 590,
-  "fr": "Tu ne penses pas qu'il serait mieux que tu ailles\r\nvoir Ries et que tu nous laisses continuer\r\nl'investigation pendant ce temps ?"
+  "fr": "Tu ne penses pas qu'il serait mieux que\ntu ailles voir Ries et que tu nous laisses\ncontinuer l'investigation pendant ce temps ?"
  },
  {
   "n": 591,
@@ -2365,11 +2365,11 @@
  },
  {
   "n": 592,
-  "fr": "Non...\r\nDéjà parce que c'est moi qui suis le mieux placé\r\npour utiliser le Cube."
+  "fr": "Non...\nDéjà parce que c'est moi qui suis\nle mieux placé pour utiliser le Cube."
  },
  {
   "n": 593,
-  "fr": "Et il y a les « démons » sur la route...\r\nVous pourrez pas vous passer de moi pour ça."
+  "fr": "Et il y a les « démons » sur la route...\nVous pourrez pas vous passer de moi\npour ça."
  },
  {
   "n": 594,
@@ -2377,7 +2377,7 @@
  },
  {
   "n": 595,
-  "fr": "Ça va, c'est plus une enfant, elle finira par s'en\r\nremettre."
+  "fr": "Ça va, c'est plus une enfant, elle\nfinira par s'en remettre."
  },
  {
   "n": 596,
@@ -2389,11 +2389,11 @@
  },
  {
   "n": 598,
-  "fr": "Ha, dans ce cas, je vais rester ici et essayer\r\nd'ouvrir la porte de son cœur..."
+  "fr": "Ha, dans ce cas, je vais rester ici\net essayer d'ouvrir la porte de son\ncœur..."
  },
  {
   "n": 599,
-  "fr": "Cela fait longtemps que j'attendais ce moment,\r\nje vais enfin lui montrer ma technique au luth !"
+  "fr": "Cela fait longtemps que j'attendais\nce moment, je vais enfin lui montrer\nma technique au luth !"
  },
  {
   "n": 600,

@@ -1,15 +1,371 @@
 [
  {
+  "n": 1,
+  "fr": "Désolé, tu peux aller chercher Don\npour moi ?"
+ },
+ {
+  "n": 2,
+  "fr": "Je veux être sûr qu'on ait bien la\nbonne adresse."
+ },
+ {
+  "n": 3,
+  "fr": "Le chef... Non, le directeur avait\nla pêche ce matin."
+ },
+ {
+  "n": 4,
+  "fr": "Mais il doit être épuisé maintenant.\nNul doute qu'il est en train de roupiller\nquelque part."
+ },
+ {
+  "n": 5,
+  "fr": "Merci encore, les gars !"
+ },
+ {
+  "n": 6,
+  "fr": "Maman était vraiment toute contente\nd'apprendre que je bosse dans une\nboîte de livraison à présent..."
+ },
+ {
+  "n": 7,
+  "fr": "Hé hé, on dirait que je vais pouvoir\nrentrer à la maison cette fois-ci.\nÇa fait tellement longtemps."
+ },
+ {
+  "n": 8,
+  "fr": "Maman était vraiment toute contente\nd'apprendre que je bosse dans une\nboîte de livraison."
+ },
+ {
+  "n": 9,
+  "fr": "Je compte bien faire fortune et\nréparer les problèmes que j'ai pu\nleur causer."
+ },
+ {
+  "n": 10,
+  "fr": "B-Bonjour Josette..."
+ },
+ {
+  "n": 11,
+  "fr": "J'aurais jamais cru que vous viendriez\nm'embaucher après que j'avais\nabandonné la bande..."
+ },
+ {
+  "n": 12,
+  "fr": "Je pourrais jamais vous rendre la\npareille à vous et vos frangins..."
+ },
+ {
+  "n": 13,
+  "fr": "Maintenant qu'on a un travail honnête,\nil faut que je revoie mes habitudes\net que je me donne à fond."
+ },
+ {
+  "n": 14,
+  "fr": "Je vais bosser comme j'ai jamais bossé\navant. Je suis même prêt à ce qu'on me\ntape sur les doigts si je me plante."
+ },
+ {
+  "n": 15,
+  "fr": "On peut voir le lac Valleria à l'autre\nbout des chaînes de montagne..."
+ },
+ {
+  "n": 16,
+  "fr": "Ouais, on dirait qu'on est plus\ntrès loin de la frontière."
+ },
+ {
+  "n": 17,
+  "fr": "OK, tout se déroule sans accroc."
+ },
+ {
+  "n": 18,
+  "fr": "Kyle, réduis notre vitesse à 60 %.\nMaintiens le cap et l'altitude."
+ },
+ {
+  "n": 19,
+  "fr": "D'accord. Réduction de la vitesse\nà 60 %."
+ },
+ {
+  "n": 20,
+  "fr": "Le cap est bon. L'altitude aussi."
+ },
+ {
+  "n": 21,
+  "fr": "Bien...\nOn est sur le bon itinéraire."
+ },
+ {
+  "n": 22,
+  "fr": "On maintient ce cap jusqu'à notre\ndestination."
+ },
+ {
+  "n": 23,
+  "fr": "Pfiou... On peut enfin souffler un peu."
+ },
+ {
+  "n": 24,
+  "fr": "Bon travail, vous deux."
+ },
+ {
+  "n": 25,
+  "fr": "Ha ha, on dirait qu'on sera dans les\ntemps aujourd'hui aussi."
+ },
+ {
+  "n": 26,
+  "fr": "Gah ha ha, tu l'as dit."
+ },
+ {
+  "n": 27,
+  "fr": "Après tout, notre credo à nous, la\ncompagnie de livraison Capua, est simple :\nconfiance, fiabilité, et bonheur des clients."
+ },
+ {
+  "n": 28,
+  "fr": "Hé hé, j'ai encore du mal à croire\nqu'on soit passés de pirates du ciel\nà ça."
+ },
+ {
+  "n": 29,
+  "fr": "Ouais, mais on aurait jamais pu en\narriver là si la reine Alicia nous\navait pas pardonné."
+ },
+ {
+  "n": 30,
+  "fr": "Ça m'a fait tout drôle d'entendre\nqu'on serait blanchis et libérés."
+ },
+ {
+  "n": 31,
+  "fr": "Et cerise sur le gâteau, elle est\nmême allée jusqu'à payer de sa poche\npour éponger nos dettes."
+ },
+ {
+  "n": 32,
+  "fr": "Sans ça, on aurait pu dire adieu\nau Lynx."
+ },
+ {
+  "n": 33,
+  "fr": "On pourra jamais assez remercier\nla reine pour ce qu'elle a fait pour nous."
+ },
+ {
+  "n": 34,
+  "fr": "Ouais, c'est vrai."
+ },
+ {
+  "n": 35,
+  "fr": "Le moins qu'on puisse faire, c'est\nde rembourser ce qu'on lui doit\ndès que possible."
+ },
+ {
+  "n": 36,
+  "fr": "Tout juste. Et à ce rythme, on devrait\ny arriver en un rien de temps."
+ },
+ {
+  "n": 37,
+  "fr": "Hé hé, on aurait pas une nouvelle\ncommande sur les bras, justement ?"
+ },
+ {
+  "n": 38,
+  "fr": "Ah. Ah. Ahem."
+ },
+ {
+  "n": 39,
+  "fr": "Bonjour, compagnie de livraison Capua !"
+ },
+ {
+  "n": 40,
+  "fr": "Oui...\nOui, je vois..."
+ },
+ {
+  "n": 41,
+  "fr": "... Demain matin, donc ?\nOui, comptez sur nous."
+ },
+ {
+  "n": 42,
+  "fr": "Entendu.\nNous viendrons ce jour-là."
+ },
+ {
+  "n": 43,
+  "fr": "D'où vient le client, cette fois ?"
+ },
+ {
+  "n": 44,
+  "fr": "Ah, c'est encore une commande\nqui vient de la République."
+ },
+ {
+  "n": 45,
+  "fr": "Quelqu'un veut qu'on aille livrer\nun petit colis dans Grancel."
+ },
+ {
+  "n": 46,
+  "fr": "Si c'est dans la capitale...\nOn pourra livrer ça après-demain."
+ },
+ {
+  "n": 47,
+  "fr": "Pfiou, c'est pas le travail qui manque\nici."
+ },
+ {
+  "n": 48,
+  "fr": "Ben, il y a pas de service de livraison\nplus flexible que le nôtre."
+ },
+ {
+  "n": 49,
+  "fr": "D'ailleurs, Don.\nPuisqu'on parle de la capitale..."
+ },
+ {
+  "n": 50,
+  "fr": "Tu étais passé à la Guilde là-bas\nce matin, non ?"
+ },
+ {
+  "n": 51,
+  "fr": "Tu leur voulais quoi, au juste ?"
+ },
+ {
+  "n": 52,
+  "fr": "... Ah oui, tiens."
+ },
+ {
+  "n": 53,
+  "fr": "J'avais oublié de te le dire."
+ },
+ {
+  "n": 54,
+  "fr": "Quoi donc, Don ?"
+ },
+ {
+  "n": 55,
+  "fr": "Tu vois, on a reçu une lettre\nen provenance de l'Empire."
+ },
+ {
+  "n": 56,
+  "fr": "Et attention, surprise..."
+ },
+ {
+  "n": 57,
+  "fr": "... cette lettre vient de Joshua."
+ },
+ {
+  "n": 58,
+  "fr": "V-Vraiment ?!"
+ },
+ {
+  "n": 59,
+  "fr": "Ça, pour une surprise, ç'en est une."
+ },
+ {
+  "n": 60,
+  "fr": "Attends, j'aimerais savoir pourquoi\ntu m'en as pas parlé plus tôt ?"
+ },
+ {
+  "n": 61,
+  "fr": "Gah ha ha, pardon.\nOn a eu une matinée tellement chargée\nque ça m'avait échappé."
+ },
+ {
+  "n": 62,
+  "fr": "Bref, Josette.\nTu peux nous la lire à haute voix ?"
+ },
+ {
+  "n": 63,
+  "fr": "Hi hi, et comment."
+ },
+ {
+  "n": 64,
+  "fr": "{color 5}Josette a récupéré l'enveloppe des mains de Don."
+ },
+ {
+  "n": 65,
+  "fr": "Attends une minute..."
+ },
+ {
+  "n": 66,
+  "fr": "C'est vrai qu'il est dans l'Empire\nen ce moment."
+ },
+ {
+  "n": 67,
+  "fr": "Je me demande ce qu'il fabrique en\nce moment."
+ },
+ {
+  "n": 68,
+  "fr": "Ouais, on aimerait bien savoir où il est."
+ },
+ {
+  "n": 69,
+  "fr": "Il y a plein de trucs à voir dans\nl'Empire, après tout."
+ },
+ {
+  "n": 70,
+  "fr": "OK, tant qu'il va bien..."
+ },
+ {
+  "n": 71,
+  "fr": "... Ben alors, Josette ?\nOn t'entend pas lire cette lettre."
+ },
+ {
+  "n": 72,
+  "fr": "... 07:00 - Magasin d'antiquités..."
+ },
+ {
+  "n": 73,
+  "fr": "Hein ? Je suis perdu, là."
+ },
+ {
+  "n": 74,
+  "fr": "... Euh, Josette ?\nElle dit quoi, cette lettre ?"
+ },
+ {
+  "n": 75,
+  "fr": "Ce qu'il y a écrit dans cette « lettre »... ?"
+ },
+ {
+  "n": 76,
+  "fr": "C'est... le bon de réception pour\nle colis de ce matin."
+ },
+ {
   "n": 77,
   "fr": "Quoi ?!"
+ },
+ {
+  "n": 78,
+  "fr": "... Hein ?"
+ },
+ {
+  "n": 79,
+  "fr": "En plus...\nC'est ce bon qu'on devait fournir\nau client pour qu'il en fasse une copie."
+ },
+ {
+  "n": 80,
+  "fr": "S-Sans blague ?!"
+ },
+ {
+  "n": 81,
+  "fr": "Haa, j'ai comme un mauvais pressentiment..."
  },
  {
   "n": 82,
   "fr": "......"
  },
  {
+  "n": 83,
+  "fr": "La lettre de Joshua était dans une\nenveloppe en provenance de l'Empire."
+ },
+ {
+  "n": 84,
+  "fr": "Mais ce bon était lui aussi dans une\nenveloppe venue de l'Empire."
+ },
+ {
+  "n": 85,
+  "fr": "Ça voudrait dire que..."
+ },
+ {
+  "n": 86,
+  "fr": "Désolé..."
+ },
+ {
+  "n": 87,
+  "fr": "On dirait que j'ai attaché la lettre\nau colis par mégarde."
+ },
+ {
   "n": 88,
   "fr": "Ah... !"
+ },
+ {
+  "n": 89,
+  "fr": "Oh purée..."
+ },
+ {
+  "n": 90,
+  "fr": "J-Je vais aller contacter le client\nsans plus tarder !"
+ },
+ {
+  "n": 91,
+  "fr": "On devrait avoir encore le temps de\nla récupérer."
+ },
+ {
+  "n": 92,
+  "fr": "Espèce d'imbécile !!!"
  },
  {
   "n": 93,
@@ -20,16 +376,340 @@
   "fr": "... ?!"
  },
  {
+  "n": 95,
+  "fr": "S'il y avait bien un truc à pas rater,\nc'était ça !"
+ },
+ {
+  "n": 96,
+  "fr": "J'arrive pas à y croire !"
+ },
+ {
+  "n": 97,
+  "fr": "Quand j'ai entendu que Joshua nous\navait envoyé cette lettre, j'étais si\ncontente..."
+ },
+ {
+  "n": 98,
+  "fr": "Josette..."
+ },
+ {
+  "n": 99,
+  "fr": "Je suis vraiment désolé."
+ },
+ {
+  "n": 100,
+  "fr": "Tout ça c'est de ma faute, je suis d'accord."
+ },
+ {
+  "n": 101,
+  "fr": "C'est bon, j'ai l'habitude avec toi."
+ },
+ {
+  "n": 102,
+  "fr": "Tu as toujours eu deux mains gauches..."
+ },
+ {
+  "n": 103,
+  "fr": "Tu t'es jamais rendu compte de tous\nles ennuis que tu nous causes ?"
+ },
+ {
+  "n": 104,
+  "fr": "S-Si..."
+ },
+ {
+  "n": 105,
+  "fr": "M-Minute, Josette.\nOn sait pas encore si la lettre est\npartie pour de bon."
+ },
+ {
+  "n": 106,
+  "fr": "Tu as pas besoin d'être aussi dure..."
+ },
+ {
+  "n": 107,
+  "fr": "Reste en dehors de ça, Kyle !#2S"
+ },
+ {
   "n": 108,
   "fr": "... ?!"
+ },
+ {
+  "n": 109,
+  "fr": "En même temps, ça fait longtemps\nque c'est comme ça."
+ },
+ {
+  "n": 110,
+  "fr": "Même à l'époque, c'était comme ça...\nTu signes des contrats sans faire gaffe\net on se fait tous avoir."
+ },
+ {
+  "n": 111,
+  "fr": "Tu as pas la moindre idée de--"
+ },
+ {
+  "n": 112,
+  "fr": "JOSETTE !!#2S"
+ },
+ {
+  "n": 113,
+  "fr": "Aaah ?!"
+ },
+ {
+  "n": 114,
+  "fr": "... Tu pouvais te garder d'aller\naussi loin."
+ },
+ {
+  "n": 115,
+  "fr": "Don regrette bien assez ce qu'il s'est\npassé."
+ },
+ {
+  "n": 116,
+  "fr": "Et puis..."
+ },
+ {
+  "n": 117,
+  "fr": "... Quoi ?"
+ },
+ {
+  "n": 118,
+  "fr": "... C'est bon, tout est de ma faute."
+ },
+ {
+  "n": 119,
+  "fr": "Si j'avais été un peu plus responsable...\nOn aurait jamais perdu notre domaine."
+ },
+ {
+  "n": 120,
+  "fr": "... Oh..."
+ },
+ {
+  "n": 121,
+  "fr": "Haa, bien joué..."
+ },
+ {
+  "n": 122,
+  "fr": "On avait vraiment pas besoin de\nressortir cette conversation."
+ },
+ {
+  "n": 123,
+  "fr": "{color 12}#40WSi j'avais pas fait ça, on serait encore\nen train de mener la belle vie sur ces terres\nqu'on avait depuis des générations."
+ },
+ {
+  "n": 124,
+  "fr": "{color 12}#40WOn serait en train de jouer des instruments,\nde boire du thé..."
+ },
+ {
+  "n": 125,
+  "fr": "{color 12}#40WEt on aurait été occasionnellement invités\nà des bals au sein de la haute société."
+ },
+ {
+  "n": 126,
+  "fr": "{color 12}Hé oh, frangin..."
+ },
+ {
+  "n": 127,
+  "fr": "{color 12}Ça fait longtemps que plus personne ici\na encore le moindre attachement à notre\nvie d'avant."
+ },
+ {
+  "n": 128,
+  "fr": "{color 12}#40W..."
+ },
+ {
+  "n": 129,
+  "fr": "{color 12}#40WMais il a fallu que je m'abandonne à\nmes désirs et que je me laisse tenter\npar une telle offre..."
+ },
+ {
+  "n": 130,
+  "fr": "{color 12}#40WEt le temps que je m'en rende compte,\ntout ce qu'il nous restait était une\nmontagne de dettes."
+ },
+ {
+  "n": 131,
+  "fr": "{color 12}#40WToute la fortune de notre vieux, partie\nen fumée..."
+ },
+ {
+  "n": 132,
+  "fr": "{color 12}#40WPlus bête que ça, c'est impossible."
+ },
+ {
+  "n": 133,
+  "fr": "{color 12}Ça va, c'est pas seulement de ta faute,\ntu sais."
+ },
+ {
+  "n": 134,
+  "fr": "{color 12}Nous aussi, on était que des gamins\ninsouciants dans cette histoire."
+ },
+ {
+  "n": 135,
+  "fr": "Mais quand même, c'est moi qui..."
+ },
+ {
+  "n": 136,
+  "fr": "Viens me filer un coup de main, Josette..."
  },
  {
   "n": 137,
   "fr": "......"
  },
  {
+  "n": 138,
+  "fr": "*soupir*"
+ },
+ {
+  "n": 139,
+  "fr": "Q-Qu'est-ce que... ?!"
+ },
+ {
+  "n": 140,
+  "fr": "O-On a un problème, chef !\nPardon... monsieur le directeur !"
+ },
+ {
+  "n": 141,
+  "fr": "I-Il se passe quoi, là ?!"
+ },
+ {
+  "n": 142,
+  "fr": "E-Euh...\nUn aéronef rouge est derrière nous."
+ },
+ {
+  "n": 143,
+  "fr": "On dirait qu'il est de la Société."
+ },
+ {
+  "n": 144,
+  "fr": "... Comment ?!"
+ },
+ {
+  "n": 145,
+  "fr": "Tch, ça me dit rien qui vaille."
+ },
+ {
+  "n": 146,
+  "fr": "Frangin... !"
+ },
+ {
+  "n": 147,
+  "fr": "Je sais, on a pas de temps à perdre\navec eux."
+ },
+ {
+  "n": 148,
+  "fr": "On doit absolument protéger notre\ncargaison !\nMettez les gaz, faut qu'on les sème !"
+ },
+ {
+  "n": 149,
+  "fr": "Compris !"
+ },
+ {
+  "n": 150,
+  "fr": "Écoutez-moi, les gars !\nOn a une urgence !"
+ },
+ {
+  "n": 151,
+  "fr": "Préparez-vous au combat !\nFaites ce que vous avez à faire !"
+ },
+ {
+  "n": 152,
+  "fr": "Tu as vu ça, Josette ?"
+ },
+ {
+  "n": 153,
+  "fr": "O-Ouais...\nC'est bien un aéronef de la Société, mais..."
+ },
+ {
+  "n": 154,
+  "fr": "... Mais quoi ?"
+ },
+ {
+  "n": 155,
+  "fr": "Il y a aussi beaucoup d'armes que j'ai\njamais vu avant... Et elles viennent\ntoutes vers nous !"
+ },
+ {
+  "n": 156,
+  "fr": "Ha, ils cherchent vraiment la bagarre,\non dirait."
+ },
+ {
+  "n": 157,
+  "fr": "Sors la mitrailleuse à l'arrière pour\nles abattre, Josette !"
+ },
+ {
+  "n": 158,
+  "fr": "Ok, je m'en charge !"
+ },
+ {
+  "n": 159,
+  "fr": "Bien, le mode mitrailleuse est activé."
+ },
+ {
+  "n": 160,
+  "fr": "Alors, ça marche comme il faut ?"
+ },
+ {
+  "n": 161,
+  "fr": "Ouais, t'inquiète !"
+ },
+ {
+  "n": 162,
+  "fr": "Allez, c'est parti."
+ },
+ {
+  "n": 163,
+  "fr": "Pfiou... C'est bon, ils sont partis ?"
+ },
+ {
+  "n": 164,
+  "fr": "Peut-être...\nMais je sais pas si on est tirés d'affaire."
+ },
+ {
+  "n": 165,
+  "fr": "Josette !\nDerrière nous, à droite !"
+ },
+ {
+  "n": 166,
+  "fr": "Tu vois ce que c'est ?!"
+ },
+ {
   "n": 167,
   "fr": "O-Ouais..."
+ },
+ {
+  "n": 168,
+  "fr": "C'est quoi, ça... ?\nOn dirait qu'il y a quelqu'un dedans..."
+ },
+ {
+  "n": 169,
+  "fr": "I-Il vient vers nous, attention !"
+ },
+ {
+  "n": 170,
+  "fr": "... Rien à faire, je peux pas le semer."
+ },
+ {
+  "n": 171,
+  "fr": "Gh, il est petit mais tenace."
+ },
+ {
+  "n": 172,
+  "fr": "Maintiens cette vitesse, Kyle !"
+ },
+ {
+  "n": 173,
+  "fr": "Ouais, je sais !"
+ },
+ {
+  "n": 174,
+  "fr": "Josette...\nTu peux nous trouver une ouverture ?"
+ },
+ {
+  "n": 175,
+  "fr": "Ouais, je vais essayer..."
+ },
+ {
+  "n": 176,
+  "fr": "Comptez sur moi !"
+ },
+ {
+  "n": 177,
+  "fr": "J-Je l'ai eu ?!"
+ },
+ {
+  "n": 178,
+  "fr": "Ouais, on dirait qu'il est tombé\ndans le lac Valleria."
  },
  {
   "n": 187,

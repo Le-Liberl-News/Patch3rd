@@ -21,11 +21,11 @@
  },
  {
   "n": 6,
-  "fr": "V-Vous êtes le président de la guilde des pêcheurs ? \nJe suis..."
+  "fr": "V-Vous êtes le président de la guilde\ndes pêcheurs ? Je suis..."
  },
  {
   "n": 7,
-  "fr": "Non ! Les mots ne sont pas nécessaires à présent."
+  "fr": "Non ! Les mots ne sont pas nécessaires\nà présent."
  },
  {
   "n": 8,
@@ -33,7 +33,7 @@
  },
  {
   "n": 9,
-  "fr": "Je vous défie en un duel de pêcheurs en quinze \nmanches ! Immédiatement !"
+  "fr": "Je vous défie en un duel de pêcheurs\nen quinze manches ! Immédiatement !"
  },
  {
   "n": 10,
@@ -73,7 +73,7 @@
  },
  {
   "n": 19,
-  "fr": "Bah ha ha ! Je savais que j'étais le plus fort de tous \nles pêcheurs !"
+  "fr": "Bah ha ha ! Je savais que j'étais le plus fort\nde tous les pêcheurs !"
  },
  {
   "n": 20,
@@ -93,11 +93,11 @@
  },
  {
   "n": 24,
-  "fr": "Incroyable... Je n'avais pas idée que vous vous \nmontreriez aussi compétente..."
+  "fr": "Incroyable... Je n'avais pas idée que\nvous vous montreriez aussi compétente..."
  },
  {
   "n": 25,
-  "fr": "L'époque pour les adultes d'ouvrir la marche est \nclairement dépassée."
+  "fr": "L'époque pour les adultes d'ouvrir\nla marche est clairement dépassée."
  },
  {
   "n": 26,
@@ -117,7 +117,7 @@
  },
  {
   "n": 30,
-  "fr": "Vous avez dit que votre nom était Estelle, n'est-ce \npas ?"
+  "fr": "Vous avez dit que votre nom était Estelle,\nn'est-ce pas ?"
  },
  {
   "n": 31,
@@ -133,7 +133,7 @@
  },
  {
   "n": 34,
-  "fr": "À partir d'aujourd'hui, vous serez la nouvelle cheffe \nde la guilde des pêcheurs !"
+  "fr": "À partir d'aujourd'hui, vous serez\nla nouvelle cheffe de la guilde des pêcheurs !"
  },
  {
   "n": 35,
@@ -145,19 +145,19 @@
  },
  {
   "n": 37,
-  "fr": "Quant à moi... je suppose que j'endosserai le titre de \nprésident à titre honorifique à partir de ce jour."
+  "fr": "Quant à moi... je suppose que j'endosserai\nle titre de président à titre honorifique\nà partir de ce jour."
  },
  {
   "n": 38,
-  "fr": "Il est temps que des jeunes gens comme vous soient \nsur le devant de la scène."
+  "fr": "Il est temps que des jeunes gens comme vous\nsoient sur le devant de la scène."
  },
  {
   "n": 39,
-  "fr": "J'espère que vous vous dévouerez autant que possible \nà la diffusion et à l'essort de la culture de la pêche."
+  "fr": "J'espère que vous vous dévouerez\nautant que possible à la diffusion et\nà l'essor de la culture de la pêche."
  },
  {
   "n": 40,
-  "fr": "A-Attendez un peu ! Vous pouvez pas juste refiler \ncette responsabilité à quelqu'un ! Je vais pas être \nla cheffe !"
+  "fr": "A-Attendez un peu ! Vous pouvez pas\njuste refiler cette responsabilité à quelqu'un !\nJe vais pas être la cheffe !"
  },
  {
   "n": 41,
@@ -165,7 +165,7 @@
  },
  {
   "n": 42,
-  "fr": "{color 0}Un surnom approprié pour celle qui avait \ntriomphé de duels de pêche si difficiles...\n... Estelle, la Pêcheuse suprême."
+  "fr": "{color 0}Un surnom approprié pour celle qui avait \ntriomphé de duels de pêche si difficiles...{wait}\n... Estelle, la Pêcheuse suprême."
  },
  {
   "n": 43,

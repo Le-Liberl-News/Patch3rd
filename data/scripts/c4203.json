@@ -13,7 +13,7 @@
  },
  {
   "n": 5,
-  "fr": "{color 0}Égouts de Grancel, secteur Nord...{wait}\r\nEstelle s'était aventurée dans ces égouts pour\r\néliminer un monstre recherché.{wait}\r\n\r\nAlors qu'elle arpentait les lieux à la recherche de sa cible...{wait}\r\nune femme est soudainement apparue sous ses yeux."
+  "fr": "{color 0}Égouts de Grancel, secteur Nord...{wait}\nEstelle s'était aventurée dans ces égouts\npour éliminer un monstre recherché.{wait}\n\nAlors qu'elle arpentait les lieux à la recherche de sa cible...{wait}\nune femme est soudainement apparue sous ses yeux."
  },
  {
   "n": 6,
@@ -29,7 +29,7 @@
  },
  {
   "n": 9,
-  "fr": "Mais où avez-vous bien pu trouver une chose pareille... ?"
+  "fr": "Mais où avez-vous bien pu trouver\nune chose pareille... ?"
  },
  {
   "n": 10,
@@ -37,7 +37,7 @@
  },
  {
   "n": 11,
-  "fr": "Je l'ai gagné lors d'un duel de pêche\ncontre Lloyd..."
+  "fr": "Je l'ai gagné lors d'un duel de\npêche contre Lloyd..."
  },
  {
   "n": 12,
@@ -45,11 +45,11 @@
  },
  {
   "n": 13,
-  "fr": "Vous parlez d'un duel de pêche où il faut ferrer\nune prise exceptionnelle, n'est-ce pas ?"
+  "fr": "Vous parlez d'un duel de pêche où\nil faut ferrer une prise exceptionnelle,\nn'est-ce pas ?"
  },
  {
   "n": 14,
-  "fr": "Je comptais justement le provoquer en duel,\net voilà qu'il s'est fait battre par une autre\navant que j'en ai l'occasion..."
+  "fr": "Je comptais justement le provoquer\nen duel, et voilà qu'il s'est fait\nbattre par une autre avant que j'en\naie l'occasion..."
  },
  {
   "n": 15,
@@ -57,7 +57,7 @@
  },
  {
   "n": 16,
-  "fr": "... Très bien, je vous défie à un grand duel\nde pêche en 10 manches !"
+  "fr": "... Très bien, je vous défie à un\ngrand duel de pêche en 10 manches !"
  },
  {
   "n": 17,
@@ -101,7 +101,7 @@
  },
  {
   "n": 27,
-  "fr": "Le jour où je surpasserai notre maître de\nguilde n'est plus très loin."
+  "fr": "Le jour où je surpasserai notre\nmaître de guilde n'est plus très loin."
  },
  {
   "n": 28,
@@ -125,7 +125,7 @@
  },
  {
   "n": 33,
-  "fr": "*soupir* Vous êtes satisfaite maintenant ?"
+  "fr": "*soupir* Vous êtes satisfaite\nmaintenant ?"
  },
  {
   "n": 34,
@@ -153,7 +153,7 @@
  },
  {
   "n": 40,
-  "fr": "... Vous êtes sûre que je peux la garder ?"
+  "fr": "... Vous êtes sûre que je peux la\ngarder ?"
  },
  {
   "n": 41,
@@ -173,7 +173,7 @@
  },
  {
   "n": 45,
-  "fr": "Oui, le fondateur de la guilde des pêcheurs\net le plus fort d'entre nous, maître Fisher."
+  "fr": "Oui, le fondateur de la guilde des\npêcheurs et le plus fort d'entre nous :\nmaître Fisher."
  },
  {
   "n": 46,
@@ -181,7 +181,7 @@
  },
  {
   "n": 47,
-  "fr": "Un jour ou l'autre, vous devrez l'affronter\nque vous le vouliez ou non."
+  "fr": "Un jour ou l'autre, vous devrez\nl'affronter que vous le vouliez ou non."
  },
  {
   "n": 48,

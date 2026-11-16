@@ -3,5 +3,100 @@
   "cle": 1,
   "type": "personnage",
   "fr": "Estelle"
+ },
+ {
+  "cle": 3,
+  "type": "personnage",
+  "fr": "Joshua"
+ },
+ {
+  "cle": 4,
+  "type": "personnage",
+  "fr": "Scherazard"
+ },
+ {
+  "cle": 5,
+  "type": "personnage",
+  "fr": "Olivier"
+ },
+ {
+  "cle": 6,
+  "type": "personnage",
+  "fr": "Agate"
+ },
+ {
+  "cle": 7,
+  "type": "personnage",
+  "fr": "Kloe"
+ },
+ {
+  "cle": 8,
+  "type": "personnage",
+  "fr": "Tita"
+ },
+ {
+  "cle": 9,
+  "type": "personnage",
+  "fr": "Zin"
+ },
+ {
+  "cle": 10,
+  "type": "personnage",
+  "fr": "Anelace"
+ },
+ {
+  "cle": 11,
+  "type": "personnage",
+  "fr": "Renne"
+ },
+ {
+  "cle": 12,
+  "type": "personnage",
+  "fr": "Kevin"
+ },
+ {
+  "cle": 13,
+  "type": "personnage",
+  "fr": "Ries"
+ },
+ {
+  "cle": 14,
+  "type": "personnage",
+  "fr": "Gilbert"
+ },
+ {
+  "cle": 15,
+  "type": "personnage",
+  "fr": "Rufina"
+ },
+ {
+  "cle": 16,
+  "type": "personnage",
+  "fr": "Josette"
+ },
+ {
+  "cle": 17,
+  "type": "personnage",
+  "fr": "Julia"
+ },
+ {
+  "cle": 18,
+  "type": "personnage",
+  "fr": "Mueller"
+ },
+ {
+  "cle": 19,
+  "type": "personnage",
+  "fr": "Richard"
+ },
+ {
+  "cle": 20,
+  "type": "personnage",
+  "fr": "Walter"
+ },
+ {
+  "cle": 21,
+  "type": "personnage",
+  "fr": "Maître de Phantasma"
  }
 ]

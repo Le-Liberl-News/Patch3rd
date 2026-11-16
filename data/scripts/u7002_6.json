@@ -1,43 +1,1051 @@
 [
  {
+  "n": 1,
+  "fr": "Agate a beaucoup de respect pour M. Bright, aussi..."
+ },
+ {
+  "n": 2,
+  "fr": "Pourquoi ne peut-il pas simplement être plus honnête \navec lui-même ?"
+ },
+ {
+  "n": 3,
+  "fr": "(C'est une bonne question !){wait}\n(... Un truc à dire, Agate ?)"
+ },
+ {
+  "n": 4,
+  "fr": "(En voilà une question intéressante.){wait}\n(Quelque chose à ajouter, Agate ?)"
+ },
+ {
+  "n": 5,
+  "fr": "(Quelque chose à dire, Agate ?)"
+ },
+ {
+  "n": 6,
+  "fr": "(Un truc à dire, Agate ?)"
+ },
+ {
+  "n": 7,
+  "fr": "(Roh, foutez-vous le au cul !)"
+ },
+ {
+  "n": 8,
+  "fr": "Agate a l'air vraiment très heureux d'avoir pu combattre \nM. Bright."
+ },
+ {
+  "n": 9,
+  "fr": "... Mais il ne fait que dire qu'il veut passer à tabac le vrai \nla prochaine fois qu'il le verra..."
+ },
+ {
+  "n": 10,
+  "fr": "*soupir* Pourquoi est-il toujours comme ça ?"
+ },
+ {
+  "n": 11,
+  "fr": "Agate voulait vraiment se battre contre M. Bright, à en \njuger par la manière dont il râle."
+ },
+ {
+  "n": 12,
+  "fr": "Mais je me demande pourquoi ? Je sais qu'au fond, il \nle respecte vraiment..."
+ },
+ {
+  "n": 13,
+  "fr": "Pourquoi est-ce qu'il ne peut pas simplement être plus \nhonnête avec lui-même ?"
+ },
+ {
+  "n": 14,
+  "fr": "Agate a beaucoup de respect pour M. Bright, aussi..."
+ },
+ {
+  "n": 15,
+  "fr": "... Alors pourquoi est-ce qu'il ne peut pas juste être \nplus honnête avec lui-même ?"
+ },
+ {
+  "n": 16,
+  "fr": "(C-Comment je suis censé lui parler quand elle est toute \ndéprimée comme ça ?)"
+ },
+ {
+  "n": 17,
+  "fr": "Agate a beaucoup de respect pour M. Bright, aussi..."
+ },
+ {
+  "n": 18,
+  "fr": "... Et pourtant, il n'arrête pas de dire qu'il veut se battre \navec lui ou régler des comptes..."
+ },
+ {
+  "n": 19,
+  "fr": "J'aimerais bien savoir ce qu'il pense..."
+ },
+ {
+  "n": 20,
+  "fr": "De ce que je sais, Kilika est repartie en Calvard peu de \ntemps avant que papy ne parte de Zeiss pour des \nvacances."
+ },
+ {
+  "n": 21,
+  "fr": "Elle est juste venue à la maison un jour pour nous dire \nqu'elle s'en allait, et puis voilà."
+ },
+ {
+  "n": 22,
+  "fr": "C-C'est tout Kilika, ça..."
+ },
+ {
+  "n": 23,
+  "fr": "Ha ha. Ça m'étonne pas."
+ },
+ {
+  "n": 24,
+  "fr": "Ah, en parlant de Zeiss..."
+ },
+ {
+  "n": 25,
+  "fr": "J'espère que M. Murdock va bien..."
+ },
+ {
+  "n": 26,
+  "fr": "... Et j'espère que maman ne lui cause pas trop de \nproblèmes..."
+ },
+ {
+  "n": 27,
+  "fr": "Surtout maintenant qu'il n'a plus Kilika pour l'aider."
+ },
+ {
+  "n": 28,
+  "fr": "J'espère qu'il ne se surmène pas ou quoi que ce soit..."
+ },
+ {
   "n": 29,
   "fr": "......"
  },
  {
+  "n": 30,
+  "fr": "... Mh...\n... Mhh..."
+ },
+ {
   "n": 31,
-  "fr": "... ?!"
+  "fr": "Ah... ?!"
  },
  {
   "n": 32,
-  "fr": "...Mmm..."
+  "fr": "... Mh..."
+ },
+ {
+  "n": 33,
+  "fr": "(Aww. On dirait qu'elle fait une petite sieste.)"
+ },
+ {
+  "n": 34,
+  "fr": "(Elle était la première personne que nous ayons libérée \nd'une pierre-sceau, d'ailleurs.)"
+ },
+ {
+  "n": 35,
+  "fr": "(Elle doit être exténuée.)"
+ },
+ {
+  "n": 36,
+  "fr": "(Ça se tient. J'imagine qu'on devrait juste la laisser se \nreposer.)"
+ },
+ {
+  "n": 37,
+  "fr": "(Ouais, t'as raison.)"
+ },
+ {
+  "n": 38,
+  "fr": "(... Estelle, je pense que l'on devrait la laisser se reposer, \ndans ce cas.)"
+ },
+ {
+  "n": 39,
+  "fr": "(Ouais, t'as raison.)"
+ },
+ {
+  "n": 40,
+  "fr": "(... Estelle, je pense que nous devrions la laisser se \nreposer, dans ce cas.)"
+ },
+ {
+  "n": 41,
+  "fr": "(Ouais, t'as raison.)"
+ },
+ {
+  "n": 42,
+  "fr": "(Ouais, t'as probablement raison. J'imagine qu'on \ndevrait la laisser se reposer, du coup.)"
+ },
+ {
+  "n": 43,
+  "fr": "(... Oui.)"
+ },
+ {
+  "n": 44,
+  "fr": "... Mh...\n... Mhh..."
+ },
+ {
+  "n": 45,
+  "fr": "... Hi hi..."
+ },
+ {
+  "n": 46,
+  "fr": "(... Elle est si mignonne...)"
+ },
+ {
+  "n": 47,
+  "fr": "Je m'inquiète au sujet de Kevin, mais ce n'est pas la \nseule chose qui me préoccupe..."
+ },
+ {
+  "n": 48,
+  "fr": "On aurait dit que le Maître de Phantasma savait que \nKevin utiliserait le pouvoir de son Stigma et finirait par \ns'écrouler..."
+ },
+ {
+  "n": 49,
+  "fr": "... Et que ça rapprocherait son royaume de son \naccomplissement, ou quelque chose comme ça... Ce \nqui est... inquiétant, aussi."
+ },
+ {
+  "n": 50,
+  "fr": "On va devoir être encore plus prudents qu'avant, \nn'est-ce pas ?"
+ },
+ {
+  "n": 51,
+  "fr": "Je ne veux pas que qui que ce soit d'autre soit blessé..."
+ },
+ {
+  "n": 52,
+  "fr": "Le Maître de Phantasma n'a jamais blessé l'un d'entre \nnous directement, c'est vrai..."
+ },
+ {
+  "n": 53,
+  "fr": "... Mais il est toujours disposé à se servir de diables \npour le faire, ce qui revient à peu près au même."
+ },
+ {
+  "n": 54,
+  "fr": "On va devoir faire vraiment attention."
+ },
+ {
+  "n": 55,
+  "fr": "Ah, Estelle."
+ },
+ {
+  "n": 56,
+  "fr": "Euh... Est-ce que tu sais comment va Kevin... ?"
+ },
+ {
+  "n": 57,
+  "fr": "Il va bien, je crois."
+ },
+ {
+  "n": 58,
+  "fr": "Il a Josette qui s'occupe de lui."
+ },
+ {
+  "n": 59,
+  "fr": "Il va bien, je crois."
+ },
+ {
+  "n": 60,
+  "fr": "Il a Kloe qui s'occupe de lui."
+ },
+ {
+  "n": 61,
+  "fr": "Il va bien, je crois."
+ },
+ {
+  "n": 62,
+  "fr": "Il a Joshua qui s'occupe de lui."
+ },
+ {
+  "n": 63,
+  "fr": "Il va bien, je crois."
+ },
+ {
+  "n": 64,
+  "fr": "Il a Joshua et Kloe qui s'occupent de lui."
+ },
+ {
+  "n": 65,
+  "fr": "O-Oh, c'est vrai..."
+ },
+ {
+  "n": 66,
+  "fr": "Ah, c'est rassurant..."
+ },
+ {
+  "n": 67,
+  "fr": "E-Euh..."
+ },
+ {
+  "n": 68,
+  "fr": "... Je suis désolée de vous avoir inquiétées."
  },
  {
   "n": 69,
-  "fr": "Hein ?"
+  "fr": "Mh... ?"
+ },
+ {
+  "n": 70,
+  "fr": "Euh... Tu t'excuses pour quelle raison, Ries ?"
+ },
+ {
+  "n": 71,
+  "fr": "...{wait}\nPour rien."
+ },
+ {
+  "n": 72,
+  "fr": "Oubliez ce que j'ai dit."
+ },
+ {
+  "n": 73,
+  "fr": "Euh... OK... ?"
+ },
+ {
+  "n": 74,
+  "fr": "... Bon, du coup..."
+ },
+ {
+  "n": 75,
+  "fr": "... Alors que les tours parallèles étaient plates en \nmatière de structure, l'espace dimensionnel dans lequel \non est est fait de plusieurs étages, ou « plans astraux ». "
+ },
+ {
+  "n": 76,
+  "fr": "Tita, reste ici et attends-moi."
+ },
+ {
+  "n": 77,
+  "fr": "Je vais aller voir ce qui se passe là-dedans."
+ },
+ {
+  "n": 78,
+  "fr": "Ah, oui."
+ },
+ {
+  "n": 79,
+  "fr": "Tu fais attention, promis ?"
+ },
+ {
+  "n": 80,
+  "fr": "Mais oui. Tu me prends pour qui ?"
+ },
+ {
+  "n": 81,
+  "fr": "... Alors que les tours parallèles étaient plates en \nmatière de structure, l'espace dimensionnel dans lequel \non est est fait de plusieurs étages, ou « plans astraux ». "
+ },
+ {
+  "n": 82,
+  "fr": "Reste ici et attends-moi, compris, crevette ?"
+ },
+ {
+  "n": 83,
+  "fr": "Je vais aller voir ce qui se passe là-dedans."
+ },
+ {
+  "n": 84,
+  "fr": "Oui !"
+ },
+ {
+  "n": 85,
+  "fr": "Mais, mais, je suis si soulagée que tu ailles bien, Agate !"
+ },
+ {
+  "n": 86,
+  "fr": "Je m'inquiétais déjà de si tu avais été attiré ici, mais ne \npas savoir si tu allais bien, c'était..."
+ },
+ {
+  "n": 87,
+  "fr": "D'accord, j'ai saisi ! Arrête de me cajoler !"
+ },
+ {
+  "n": 88,
+  "fr": "Sinon..."
+ },
+ {
+  "n": 89,
+  "fr": "... t'occupes pas de moi. Tu t'es pas blessée pendant \nque j'étais pas là, hein ?"
  },
  {
   "n": 90,
-  "fr": "Euhhh..."
+  "fr": "Euhh..."
+ },
+ {
+  "n": 91,
+  "fr": "N-Non, ça va."
+ },
+ {
+  "n": 92,
+  "fr": "Kevin et les autres se sont occupés de moi..."
  },
  {
   "n": 93,
-  "fr": "Vraiment ?"
+  "fr": "Je vois..."
+ },
+ {
+  "n": 94,
+  "fr": "Bon, c'est bien."
+ },
+ {
+  "n": 95,
+  "fr": "Maintenant, tout ce qu'il reste à faire, c'est de sauver \nles autres coincés dans des pierres et décarrer de cet \nendroit bizarre."
+ },
+ {
+  "n": 96,
+  "fr": "Hé le prêtre, la prochaine fois que tu sors, amène-moi \navec toi."
+ },
+ {
+  "n": 97,
+  "fr": "Je pense pas que je vais pouvoir comprendre ce qui se \npasse si je le vois pas par moi-même."
+ },
+ {
+  "n": 98,
+  "fr": "Ha ha. Eh baaaaah. Y en a un qui est motivé."
+ },
+ {
+  "n": 99,
+  "fr": "Mais, mais, je suis si soulagée que tu ailles bien, Agate !"
+ },
+ {
+  "n": 100,
+  "fr": "Je m'inquiétais déjà de si tu avais été attiré ici, mais ne \npas savoir si tu allais bien, c'était..."
+ },
+ {
+  "n": 101,
+  "fr": "D'accord, j'ai saisi ! Arrête de me cajoler !"
+ },
+ {
+  "n": 102,
+  "fr": "Sinon..."
+ },
+ {
+  "n": 103,
+  "fr": "... t'occupes pas de moi. Tu t'es pas blessée pendant \nque j'étais pas là, hein ?"
  },
  {
   "n": 104,
-  "fr": "Euhhh..."
+  "fr": "Euhh..."
+ },
+ {
+  "n": 105,
+  "fr": "N-Non, ça va."
+ },
+ {
+  "n": 106,
+  "fr": "Kevin et les autres se sont occupés de moi..."
  },
  {
   "n": 107,
-  "fr": "Vraiment ?"
+  "fr": "Je vois..."
+ },
+ {
+  "n": 108,
+  "fr": "Bon, c'est bien."
+ },
+ {
+  "n": 109,
+  "fr": "Maintenant, tout ce qu'il reste à faire, c'est de sauver \nles autres coincés dans des pierres et décarrer de cet \nendroit bizarre."
+ },
+ {
+  "n": 110,
+  "fr": "Sur ce, et si on y allait ?"
+ },
+ {
+  "n": 111,
+  "fr": "Je pense pas que je vais pouvoir comprendre ce qui se \npasse si je le vois pas par moi-même, alors on a qu'à \ns'y mettre."
+ },
+ {
+  "n": 112,
+  "fr": "Ha ha. Eh baaaaah. Y en a un qui est motivé."
+ },
+ {
+  "n": 113,
+  "fr": "Étant donné qu'on voyage toujours en utilisant des \npoints de téléportation et le Cube, c'est difficile d'en \nêtre sûre..."
+ },
+ {
+  "n": 114,
+  "fr": "... Mais on dirait qu'à chaque fois qu'on arrive dans un \nnouveau plan astral, on va de plus en plus vers le bas."
+ },
+ {
+  "n": 115,
+  "fr": "Ç-Ça me fait me demander ce qui est au fond de \nPhantasma."
+ },
+ {
+  "n": 116,
+  "fr": "On semble de mieux en mieux comprendre les \nprincipes de cet endroit avec le temps."
+ },
+ {
+  "n": 117,
+  "fr": "Pas qu'on ait de véritable indice sur ce que cet endroit \nest vraiment..."
+ },
+ {
+  "n": 118,
+  "fr": "... Ou sur ce que le Maître de Phantasma essaie de \nfaire ici."
+ },
+ {
+  "n": 119,
+  "fr": "Hi hi. Je suis si contente qu'on ait pu libérer Joshua de \nsa pierre."
+ },
+ {
+  "n": 120,
+  "fr": "Il m'a vraiment manqué !"
+ },
+ {
+  "n": 121,
+  "fr": "Je suis inquiète que l'on n'ait pas encore trouvé Estelle, \npar contre... On dirait qu'elle est probablement dans \nl'une d'elles quelque part, aussi, après tout."
+ },
+ {
+  "n": 122,
+  "fr": "J'espère qu'on pourra trouver la sienne bientôt."
+ },
+ {
+  "n": 123,
+  "fr": "A-Ah, et celle d'Olivier aussi, bien sûr !"
+ },
+ {
+  "n": 124,
+  "fr": "Mh... ?"
+ },
+ {
+  "n": 125,
+  "fr": "Ahh, il n'est pas nécessaire de dire cela juste parce que \nje suis ici."
+ },
+ {
+  "n": 126,
+  "fr": "Cet idiot est préparé pour bien pire que d'être scellé \ndans une pierre. Au contraire, cela pourrait même lui \nfaire du bien."
+ },
+ {
+  "n": 127,
+  "fr": "Je suis sûre qu'il y a beaucoup d'autres personnes aux \nalentours coincées dans des pierres-sceaux et qui \nattendent d'être sauvées."
+ },
+ {
+  "n": 128,
+  "fr": "O-On devrait se dépêcher de les trouver pour pouvoir \nles libérer !"
+ },
+ {
+  "n": 129,
+  "fr": "Comparé à d'autres mystères qu'on a à résoudre ici, ce \njardin est l'un des plus simples."
+ },
+ {
+  "n": 130,
+  "fr": "On sait déjà que les Zémuriens antiques avaient la \ncapacité de créer des espaces comme celui-ci à cause \ndes tours parallèles, donc bon."
+ },
+ {
+  "n": 131,
+  "fr": "Mais comment des gens ont fini scellés dans des pierres \net ce qui est arrivé à la capitale est beaucoup moins \nfacile à expliquer..."
+ },
+ {
+  "n": 132,
+  "fr": "Mhh... mhh..."
+ },
+ {
+  "n": 133,
+  "fr": "... Non. Je n'arrive pas à comprendre quoi que ce soit \nà ce sujet."
+ },
+ {
+  "n": 134,
+  "fr": "J'aimerais bien qu'on ait un peu plus d'indices sur \nlesquels se baser."
+ },
+ {
+  "n": 135,
+  "fr": "Artéfacts... espaces dimensionnels... pierres-sceaux..."
+ },
+ {
+  "n": 136,
+  "fr": "Rahhh..."
+ },
+ {
+  "n": 137,
+  "fr": "... La pauvre petite doit avoir faim."
+ },
+ {
+  "n": 138,
+  "fr": "Non, on est pas tous comme toi, tu sais."
+ },
+ {
+  "n": 139,
+  "fr": "Artéfacts... espaces dimensionnels... pierres-sceaux..."
+ },
+ {
+  "n": 140,
+  "fr": "... Mhh..."
+ },
+ {
+  "n": 141,
+  "fr": "Hé... ?!"
+ },
+ {
+  "n": 142,
+  "fr": "Il t'arrive quoi, Tita ?"
+ },
+ {
+  "n": 143,
+  "fr": "... Ça va ?"
+ },
+ {
+  "n": 144,
+  "fr": "Ah... O-Oui."
+ },
+ {
+  "n": 145,
+  "fr": "J'étais juste un peu dans mes pensées... Désolée."
+ },
+ {
+  "n": 146,
+  "fr": "Essayer de comprendre tout ça me donne mal à la \ntête, pour être honnête."
+ },
+ {
+  "n": 147,
+  "fr": "Je peux pas te le reprocher. Je pense qu'on est dans \nle même bateau."
+ },
+ {
+  "n": 148,
+  "fr": "Ah, mais, mais ça ne veut pas dire que je ne suis pas \ncontente d'aider si vous avez besoin de moi, par contre !"
+ },
+ {
+  "n": 149,
+  "fr": "Alors si vous avez besoin de moi, faites-le-moi juste \nsavoir. Je serai prête en un instant !"
+ },
+ {
+  "n": 150,
+  "fr": "Ha ha. Compris."
  },
  {
   "n": 151,
   "fr": "......"
  },
  {
+  "n": 152,
+  "fr": "Aaaaah !"
+ },
+ {
+  "n": 153,
+  "fr": "(Wow... Elle est tellement concentrée.)"
+ },
+ {
+  "n": 154,
+  "fr": "(Je vais devoir me mettre à m'entraîner plus dur si je \nveux pas que ma rivale me dépasse !)"
+ },
+ {
+  "n": 155,
+  "fr": "Encore, encore..."
+ },
+ {
+  "n": 156,
+  "fr": "Je peux faire encore mieux que ça !"
+ },
+ {
+  "n": 157,
+  "fr": "Mhh..."
+ },
+ {
+  "n": 158,
+  "fr": "Mhhhhhhh... !"
+ },
+ {
+  "n": 159,
+  "fr": "Euhh... Anelace ?"
+ },
+ {
+  "n": 160,
+  "fr": "T-Tu fais quoi... ?!"
+ },
+ {
+  "n": 161,
+  "fr": "... Anelace, es-tu encore là-dessus ?"
+ },
+ {
+  "n": 162,
+  "fr": "D-De quoi, « là-dessus » ?"
+ },
+ {
+  "n": 163,
+  "fr": "... Eh bien, tu as entendu ce que Renne a dit plus tôt, \nn'est-ce pas ?"
+ },
+ {
+  "n": 164,
+  "fr": "À propos de la manière dont ce monde change selon \nce que les gens qui se trouvent à l'intérieur veulent."
+ },
+ {
+  "n": 165,
+  "fr": "... Eh bien, tu as entendu ce que Renne a dit plus tôt, \nn'est-ce pas ?"
+ },
+ {
+  "n": 166,
+  "fr": "À propos de la manière dont ce monde change selon \nce que les gens qui se trouvent à l'intérieur veulent."
+ },
+ {
+  "n": 167,
+  "fr": "O-Ouais. Mais ça a quoi à voir avec ça ?"
+ },
+ {
+  "n": 168,
+  "fr": "Elle essaie désespérément de manifester une peluche \navec la force de son esprit."
+ },
+ {
+  "n": 169,
+  "fr": "Elle essaie désespérément de manifester une peluche \navec la force de son esprit."
+ },
+ {
+  "n": 170,
+  "fr": "Hé ! J'ESSAYE de me concentrer, là !"
+ },
+ {
+  "n": 171,
+  "fr": "Vous pourriez pas être un peu plus silencieuses ?!"
+ },
+ {
+  "n": 172,
+  "fr": "Est-ce que je devrais essayer d'avoir un Pom duveteux \naux yeux perçants... ?"
+ },
+ {
+  "n": 173,
+  "fr": "Ohhh ! Ou peut-être un bel ours soyeux ? Ou un panda \nsuper doux ?"
+ },
+ {
+  "n": 174,
+  "fr": "Hi hi ! Il y a tellement de merveilleux choix, j'arrive pas \nà me décider... ㈱"
+ },
+ {
+  "n": 175,
+  "fr": "... Te concentrer ? Tu n'arrives même pas à décider ce \nque tu veux !"
+ },
+ {
+  "n": 176,
+  "fr": "Concentre-toi au moins sur l'un d'entre eux et vois \ncomment cela se passe avant de devenir cupide."
+ },
+ {
+  "n": 177,
+  "fr": "... Te concentrer ? Tu n'arrives même pas à décider ce \nque tu veux !"
+ },
+ {
+  "n": 178,
+  "fr": "Concentre-toi au moins sur l'un d'entre eux et vois \ncomment cela se passe avant de devenir cupide."
+ },
+ {
+  "n": 179,
+  "fr": "Est-ce que je devrais essayer d'avoir un Pom duveteux \naux yeux perçants... ?"
+ },
+ {
+  "n": 180,
+  "fr": "Ohhh ! Ou peut-être un bel ours soyeux ? Ou un panda \nsuper doux ?"
+ },
+ {
+  "n": 181,
+  "fr": "Hi hi ! Il y a tellement de merveilleux choix, j'arrive pas \nà me décider... ㈱"
+ },
+ {
+  "n": 182,
+  "fr": "... Elle a l'air assez contente de juste rêvasser même sans \nun Gospel pour réaliser ses rêves."
+ },
+ {
+  "n": 183,
+  "fr": "Est-ce que je devrais essayer d'avoir un Pom duveteux \naux yeux perçants... ?"
+ },
+ {
+  "n": 184,
+  "fr": "Ohhh ! Ou peut-être un bel ours soyeux ? Ou un panda \nsuper doux ?"
+ },
+ {
+  "n": 185,
+  "fr": "Hi hi ! Il y a tellement de merveilleux choix, j'arrive pas \nà me décider... ㈱"
+ },
+ {
+  "n": 186,
+  "fr": "Ah, salut, Estelle."
+ },
+ {
+  "n": 187,
+  "fr": "Ah, salut, Estelle."
+ },
+ {
+  "n": 188,
+  "fr": "Hé, Anelace..."
+ },
+ {
+  "n": 189,
+  "fr": "Schera m'a dit tout à l'heure que t'as combattu le \ncolonel ici il y a un moment. C'est vrai ?"
+ },
+ {
+  "n": 190,
+  "fr": "Hé, t'as entendu ça à propos d'Anelace ?"
+ },
+ {
+  "n": 191,
+  "fr": "Apparemment, elle s'est battue contre notre pote le \ncolonel Richard y a un moment."
+ },
+ {
+  "n": 192,
+  "fr": "Wow, sérieux... ?"
+ },
+ {
+  "n": 193,
+  "fr": "Hi hi, oui, c'est vrai..."
+ },
+ {
+  "n": 194,
+  "fr": "Je m'attendais pas à ce que ça arrive, par contre. Mais \nc'était juste un petit combat amical, donc faut pas le \nprendre au sérieux."
+ },
+ {
+  "n": 195,
+  "fr": "Le général de brigade Bright est celui qui avait arrangé \ncela, d'ailleurs."
+ },
+ {
+  "n": 196,
+  "fr": "Je n'ai vu aucune raison de m'y opposer, alors j'étais  \nheureux de mettre à l'épreuve mon habileté à l'épée."
+ },
+ {
+  "n": 197,
+  "fr": "O-Oh, d'accord."
+ },
+ {
+  "n": 198,
+  "fr": "Maintenant que j'y pense, je me suis battue contre vous \nune fois aussi, hein ?"
+ },
+ {
+  "n": 199,
+  "fr": "Oui... Cela dit, c'était un combat à quatre contre un, et \nmême là, on a à peine réussi à obtenir une victoire."
+ },
+ {
+  "n": 200,
+  "fr": "O-Oh, d'accord."
+ },
+ {
+  "n": 201,
+  "fr": "Maintenant que j'y pense, je me suis battue contre vous \nune fois aussi, hein ?"
+ },
+ {
+  "n": 202,
+  "fr": "Mais bon, c'était un combat à quatre contre un, et \nmême comme ça, on a à peine réussi à arracher une \nvictoire..."
+ },
+ {
+  "n": 203,
+  "fr": "Ha ha, je ne peux pas dire que cette occasion soit un \nsouvenir particulièrement plaisant pour moi à présent."
+ },
+ {
+  "n": 204,
+  "fr": "Mh, vous avez appris vos compétences à l'épée \ndirectement du vieux, hein ?"
+ },
+ {
+  "n": 205,
+  "fr": "Je serais partant pour un duel contre vous si vous l'êtes."
+ },
+ {
+  "n": 206,
+  "fr": "Mh, vous avez appris vos compétences à l'épée \ndirectement du vieux, hein ?"
+ },
+ {
+  "n": 207,
+  "fr": "Je serais partant pour un duel contre vous si vous l'êtes."
+ },
+ {
+  "n": 208,
+  "fr": "(Non, je pense que vous serez déçu si vous me \ncomparez à lui...)"
+ },
+ {
+  "n": 209,
+  "fr": "Ah, salut, Estelle."
+ },
+ {
+  "n": 210,
+  "fr": "Ah, salut, Estelle."
+ },
+ {
+  "n": 211,
+  "fr": "Hé, Anelace..."
+ },
+ {
+  "n": 212,
+  "fr": "Schera m'a dit tout à l'heure que t'as combattu le \ncolonel ici y a un moment. C'est vrai ?"
+ },
+ {
+  "n": 213,
+  "fr": "Hé, t'as entendu ça à propos d'Anelace ?"
+ },
+ {
+  "n": 214,
+  "fr": "Apparemment, elle s'est battue contre notre pote le \ncolonel Richard y a un moment."
+ },
+ {
+  "n": 215,
+  "fr": "Wow, sérieux... ?"
+ },
+ {
+  "n": 216,
+  "fr": "Je n'en croyais pas mes oreilles quand j'ai appris cela, \nmoi non plus."
+ },
+ {
+  "n": 217,
+  "fr": "Hi hi, oui, c'est vrai..."
+ },
+ {
+  "n": 218,
+  "fr": "Je m'attendais pas à ce que ça arrive, par contre. Mais \nc'était juste un petit combat amical, donc faut pas le \nprendre au sérieux."
+ },
+ {
+  "n": 219,
+  "fr": "O-Oh, d'accord."
+ },
+ {
+  "n": 220,
+  "fr": "Maintenant que j'y pense, on s'est battus contre lui \nune fois aussi, hein ?"
+ },
+ {
+  "n": 221,
+  "fr": "Oui... Cela dit, c'était un combat à quatre contre un, et \nmême là, on a à peine réussi à obtenir une victoire."
+ },
+ {
+  "n": 222,
+  "fr": "O-Oh, d'accord."
+ },
+ {
+  "n": 223,
+  "fr": "Maintenant que j'y pense, je me suis battue contre lui \nune fois aussi, hein ?"
+ },
+ {
+  "n": 224,
+  "fr": "Mais c'était un combat à quatre contre un, et même \ncomme ça, on a à peine réussi à arracher une \nvictoire..."
+ },
+ {
+  "n": 225,
+  "fr": "Bah, tu sais que quelqu'un est coriace quand ton vieux \nest celui qui l'a entraîné avec une épée."
+ },
+ {
+  "n": 226,
+  "fr": "Hé, je serais partant pour un duel contre lui s'il l'est. En \nfait, peut-être que je devrais aller lui demander ça \nmaintenant."
+ },
+ {
+  "n": 227,
+  "fr": "Bah, tu sais que quelqu'un est coriace quand ton vieux \nest celui qui l'a entraîné avec une épée."
+ },
+ {
+  "n": 228,
+  "fr": "Hé, je serais partant pour un duel contre lui s'il l'est. En \nfait, peut-être que je devrais aller lui demander ça \nmaintenant."
+ },
+ {
+  "n": 229,
+  "fr": "J'aime à penser que je suis devenue un peu plus forte \ndepuis la dernière fois que je me suis battue contre le \ncolonel, moi aussi..."
+ },
+ {
+  "n": 230,
+  "fr": "Peut-être que je devrais lui demander un autre duel ?"
+ },
+ {
+  "n": 231,
+  "fr": "(Que va-t-il falloir pour faire comprendre à tout le \nmonde que je ne suis plus un colonel... ?)"
+ },
+ {
+  "n": 232,
+  "fr": "J'aime à penser que je suis devenue un peu plus forte \ndepuis la dernière fois que je me suis battue contre le \ncolonel, moi aussi..."
+ },
+ {
+  "n": 233,
+  "fr": "Peut-être que je devrais lui demander un autre duel ?"
+ },
+ {
+  "n": 234,
+  "fr": "Oh, Ries ! Ça va mieux ?"
+ },
+ {
+  "n": 235,
+  "fr": "Oui, je vais bien. J'ai réussi à éviter de prendre des \ncoups directs durant le combat."
+ },
+ {
+  "n": 236,
+  "fr": "Hi hi, mais je suis vraiment contente que tu sois venue \nnous chercher quand tu l'as fait."
+ },
+ {
+  "n": 237,
+  "fr": "Je veux même pas imaginer ce qui se serait passé si \ntu étais pas venue."
+ },
+ {
+  "n": 238,
+  "fr": "Hi hi. Je savais que tu irais aider Kevin s'il en avait \nvraiment besoin."
+ },
+ {
+  "n": 239,
+  "fr": "... Eh bien, j'ai longuement pensé à ce que tu as dit."
+ },
+ {
+  "n": 240,
+  "fr": "Tout comme Kevin avait ses raisons de vouloir être un \nchevalier, j'avais les miennes de devenir une écuyère."
+ },
+ {
+  "n": 241,
+  "fr": "Alors..."
+ },
+ {
+  "n": 242,
+  "fr": "... Je vois."
+ },
+ {
+  "n": 243,
+  "fr": "Maintenant, tout ce qu'on doit faire, c'est attendre que \nKevin se réveille pour que tu lui dises ce que tu ressens !\nPas vrai ?"
+ },
+ {
+  "n": 244,
+  "fr": "... Oui."
+ },
+ {
+  "n": 245,
+  "fr": "Anelace... merci beaucoup."
+ },
+ {
+  "n": 246,
+  "fr": "Hi hi, de rien !"
+ },
+ {
   "n": 247,
   "fr": "Wow..."
+ },
+ {
+  "n": 248,
+  "fr": "Je savais pas que vous étiez aussi proches, toutes les \ndeux."
+ },
+ {
+  "n": 249,
+  "fr": "Oh, mais je suis sûre que tu sais pourquoi, par contre !"
+ },
+ {
+  "n": 250,
+  "fr": "C'est parce qu'elle est trop trop TROP MIGNONNE ! #2S"
+ },
+ {
+  "n": 251,
+  "fr": "Ça surprend quelqu'un ? Non ? Non."
+ },
+ {
+  "n": 252,
+  "fr": "Bon, on t'a libérée, Estelle..."
+ },
+ {
+  "n": 253,
+  "fr": "Maintenant, il reste qu'à attendre que Kevin se réveille \net tout roulera à nouveau !"
+ },
+ {
+  "n": 254,
+  "fr": "Ah, Schera."
+ },
+ {
+  "n": 255,
+  "fr": "Tu as déjà parlé à Ries ?"
+ },
+ {
+  "n": 256,
+  "fr": "Elle est un peu étrange, mais elle a l'air d'être une \npersonne vraiment intéressante."
+ },
+ {
+  "n": 257,
+  "fr": "Schera ! Allons vers la bibliothèque !"
+ },
+ {
+  "n": 258,
+  "fr": "Y a une sœur bizarre qui traîne là-bas."
+ },
+ {
+  "n": 259,
+  "fr": "Elle est vraiment mignonne, par contre. Je pense que \ntu vas l'apprécier !"
+ },
+ {
+  "n": 260,
+  "fr": "Ries est un peu étrange, je dois dire..."
+ },
+ {
+  "n": 261,
+  "fr": "... Mais elle est aussi TROP MIGNONNE. Et c'est tout \nce qui compte !"
+ },
+ {
+  "n": 262,
+  "fr": "Héééé... tu m'écoutes, Schera ?"
  },
  {
   "n": 263,
@@ -48,16 +1056,28 @@
   "fr": "......"
  },
  {
+  "n": 265,
+  "fr": "... On dirait que la zone finale est là où nous attend ce \nSchwarzritter."
+ },
+ {
+  "n": 266,
+  "fr": "Pourquoi il veut particulièrement que j'y aille, je ne sais \npas, mais..."
+ },
+ {
   "n": 267,
-  "fr": "Tout ce qu'on sait, c'est qu'il le veut."
+  "fr": "Ouais... on dirait que c'est ce qu'il veut, par contre."
  },
  {
   "n": 268,
-  "fr": "C'est quoi le verdict ? Tu es d'attaque ?"
+  "fr": "Du coup, tu vas faire quoi ?"
  },
  {
   "n": 269,
   "fr": "Naturellement, je vais accepter son invitation."
+ },
+ {
+  "n": 270,
+  "fr": "On devrait retourner au monument dès que l'on sera \nvraiment prêts. Dis-moi juste quand tu as l'intention \nde partir."
  },
  {
   "n": 271,
@@ -65,7 +1085,7 @@
  },
  {
   "n": 272,
-  "fr": "Euhhh..."
+  "fr": "E-Euhhh..."
  },
  {
   "n": 273,
@@ -74,5 +1094,17 @@
  {
   "n": 274,
   "fr": "J-Joshua..."
+ },
+ {
+  "n": 275,
+  "fr": "... Joshua."
+ },
+ {
+  "n": 276,
+  "fr": "... Ça va. Peu importe ce qui se passera, j'irai bien."
+ },
+ {
+  "n": 277,
+  "fr": "Tout ce qu'on peut faire maintenant, c'est de continuer \nà avancer, et c'est ce que j'ai l'intention de faire."
  }
 ]
