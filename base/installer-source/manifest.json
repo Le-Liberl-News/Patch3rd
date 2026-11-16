@@ -1,0 +1,106 @@
+{
+  "version": "2022.09.22",
+  "source": "Game reference supplied for the installer",
+  "files": {
+    "ED6_DT20.dat": {
+      "sha256": "bfa246b319e8b4943c416b9dcc3bf32aed48b010dfdbafd158562ffd0a3fa67e",
+      "size": 51541700,
+      "override": true
+    },
+    "ED6_DT20.dir": {
+      "sha256": "ea50c727595e010a27c4b511c41564748f28d12c4fdb1896490652d9bc0f80b5",
+      "size": 18448,
+      "override": true
+    },
+    "ED6_DT21.dat": {
+      "sha256": "650b5704f44446882e32388588e15fd8ec675545226699ea768f781f3e00a9a0",
+      "size": 1803012,
+      "override": false
+    },
+    "ED6_DT21.dir": {
+      "sha256": "483cd49b2c0a8019479d0f22ade6ede9e640704dc9371eedd8cd3ad1a6ed372f",
+      "size": 44080,
+      "override": false
+    },
+    "ED6_DT22.dat": {
+      "sha256": "4e3deed8f5f22a82909e5d0299aa540a7a94dcd8e7cca8f7485c8cdc43854bd2",
+      "size": 546814,
+      "override": false
+    },
+    "ED6_DT22.dir": {
+      "sha256": "d6f4d7ad04abb9ad25bd3e3b02c3a76b7abe015d047c06448434f730a2139d26",
+      "size": 9232,
+      "override": false
+    },
+    "ED6_DT24.dat": {
+      "sha256": "9b79eff8a32e649df4c0d5972ecdfd3f36742f1c123b401d174165b9e6e9fa78",
+      "size": 122497250,
+      "override": false
+    },
+    "ED6_DT24.dir": {
+      "sha256": "4552f05b07ddb17d23de792565985b6fb1666889c75b0b15226189ab0205b7bf",
+      "size": 36880,
+      "override": false
+    },
+    "ED6_DT2F.dat": {
+      "sha256": "5829b4082a2449c067213384b91c13f06ea4330591039eb175fec2c66db81ed5",
+      "size": 2351161,
+      "override": false
+    },
+    "ED6_DT2F.dir": {
+      "sha256": "90dbae5115b12c781c29e85a8ab4819dbc3e211d2844fed4edc3896436686723",
+      "size": 9232,
+      "override": false
+    },
+    "ED6_DT30.dat": {
+      "sha256": "67188eba8906163b352a69c128074661cdb3d23ceeb701619a18f2e943df12a3",
+      "size": 450063,
+      "override": false
+    },
+    "ED6_DT30.dir": {
+      "sha256": "79b7a6a57d2d14cea9584fc7a19c3c0f9440bb77447b3dac6e181d4b7718bb25",
+      "size": 51856,
+      "override": false
+    },
+    "ED6_DT35.dat": {
+      "sha256": "0895f5df16b9a9f7f61c08d171dce68012180e224331a295a13943cfeb8d080f",
+      "size": 642221007,
+      "override": false
+    },
+    "ED6_DT35.dir": {
+      "sha256": "44fce11addb6827d96528f1bb5c978ea7931d0479c6197fcc90fd10ff7f8acdc",
+      "size": 134332,
+      "override": false
+    },
+    "ED6_DT3A.dat": {
+      "sha256": "c418c3a045490f2ca340465535d9ab21b04352f3b03bad9f2ad54ef8c593553f",
+      "size": 26139648,
+      "override": false
+    },
+    "ED6_DT3A.dir": {
+      "sha256": "94c87f945a9f7ff830306adb0e9f515cf4edd47c4865eba9873e41c4c862b944",
+      "size": 18448,
+      "override": false
+    },
+    "ED6_DT3C.dat": {
+      "sha256": "03f80bf879b715a74795d7f585021268753fd5e9f592130916ea1d03fe11294d",
+      "size": 5888301,
+      "override": false
+    },
+    "ED6_DT3C.dir": {
+      "sha256": "8833c85a1378fa6529c2bf7bfe779e0de34dc1f817b9d413d21829fe51e23eca",
+      "size": 18448,
+      "override": false
+    },
+    "ed6_win3.exe": {
+      "sha256": "0731ec105c3548ce50d0549cdbc20d18d31e09d98796011eef0a0c2326b9363c",
+      "size": 6075904,
+      "override": true
+    },
+    "ed6_win3_DX9.exe": {
+      "sha256": "6939b938b71b280ad9115e30ace16f97923a5c232414ce71f75f7f326ab9c75a",
+      "size": 6052352,
+      "override": true
+    }
+  }
+}

@@ -37,11 +37,29 @@ def digest(path: Path) -> str:
 
 def original(toolchain: Path, name: str, work: Path) -> Path | None:
     """The English file the game ships under `name` (archive parts joined)."""
+    if Path(name).name != name or '\\' in name:
+        raise ValueError(f"Nom de fichier invalide : {name}")
+    reference = ROOT / "base" / "installer-source"
+    manifest_path = reference / "manifest.json"
+    expected = None
+    if manifest_path.is_file():
+        records = json.loads(manifest_path.read_text(encoding="utf-8"))["files"]
+        expected = records.get(name)
+        if expected is None:
+            raise ValueError(f"{name} absent de la référence de l’installateur")
+        override = reference / name
+        if expected["override"]:
+            if not override.is_file() or digest(override) != expected["sha256"]:
+                raise ValueError(f"Référence de l’installateur manquante ou modifiée : {name}")
+            return override
     if name.lower().endswith(".exe"):
         path = toolchain / "base_exe" / name
-        return path if path.is_file() else None
+        if not path.is_file(): return None
+        if expected and digest(path) != expected["sha256"]: raise ValueError(f"Référence anglaise différente : {name}")
+        return path
     base = toolchain / "base_archives"
     if (base / name).is_file():
+        if expected and digest(base / name) != expected["sha256"]: raise ValueError(f"Référence anglaise différente : {name}")
         return base / name
     parts = sorted(base.glob(f"{name}.part*"))
     if not parts:
@@ -51,6 +69,7 @@ def original(toolchain: Path, name: str, work: Path) -> Path | None:
         for part in parts:
             with part.open("rb") as source:
                 shutil.copyfileobj(source, target, 1 << 20)
+    if expected and digest(joined) != expected["sha256"]: raise ValueError(f"Référence anglaise différente : {name}")
     return joined
 
 
@@ -97,7 +116,8 @@ def videos(xdelta: str, bundle: Path, work: Path) -> list[dict]:
 def base_version(toolchain: Path) -> dict:
     """The English version the patch is built on: the build date of its
     executable (PE header), which the installer compares with the player's."""
-    path = toolchain / "base_exe" / "ed6_win3.exe"
+    path = ROOT / "base" / "installer-source" / "ed6_win3.exe"
+    if not path.is_file(): path = toolchain / "base_exe" / "ed6_win3.exe"
     if not path.is_file():
         return {}
     data = path.read_bytes()
