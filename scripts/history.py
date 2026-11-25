@@ -68,6 +68,13 @@ def main() -> int:
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_bytes(base64.b64decode(encoded))
 
+    # A font-only edit must trigger publication too, not wait for an unrelated text edit.
+    if export.get("trails_font") is not None:
+        write(target / "police-trails.json", [
+            {"n": f"0x{code:02X}", "type": "chasse", "fr": str(width)}
+            for code, width in enumerate(export["trails_font"]["widths"]) if code >= 32
+        ])
+
     print(f"Historique : {len(scripts)} scripts, {sum(len(rows) for rows in scripts.values())} bulles, "
           f"{len(export.get('game_images') or {})} images")
     return 0

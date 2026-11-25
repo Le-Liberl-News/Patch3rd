@@ -773,6 +773,12 @@ def main() -> int:
                 "--core", str(toolchain / "lexique_dt.py"),
             ], job, 300)
             print(f"Exécutables : {exe_report}")
+            if payload.get("trails_font") is not None:
+                import trails_font
+                for name in ("ed6_win3.exe", "ed6_win3_DX9.exe"):
+                    target = compiled_exe / name
+                    target.write_bytes(trails_font.apply(target.read_bytes(), payload["trails_font"]))
+
 
             # Battle scripts (table "Combats (AS)"): rebuilt in ED6_DT30.
             write_status(job, "as", 41, "Scripts de combat")
